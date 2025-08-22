@@ -183,6 +183,7 @@ const SingleDistribution = ({ dist, isMobile, isStatic }) => {
                   }
                   textAlign={"center"}
                   placement="bottom"
+                  width="280px"
                   ml={-2}
                   hasArrow
                 >
