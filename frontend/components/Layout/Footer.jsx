@@ -1,61 +1,38 @@
 import {
   Avatar,
   Box,
-  Button,
   Divider,
   Heading,
   HStack,
   IconButton,
   Text,
-  Tooltip,
   VStack,
   Wrap,
   WrapItem,
 } from "@chakra-ui/react";
 import NextLink from "next/link";
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { FaGithub, FaHome, FaLinkedinIn } from "react-icons/fa";
 import LinkButton from "../LinkButton";
-import { footerOverrides } from "../../lib/config";
 import trackEvent from "../../lib/track";
 
-const getContributors = async () => {
-  return fetch("/api/contributors").then((r) => r.json());
-};
-
-const GithubAvatar = ({ name, ...props }) => (
-  <WrapItem>
-    <Tooltip label={name} placement={"top"} hasArrow>
-      <Avatar size={"md"} name={name} {...props} />
-    </Tooltip>
-  </WrapItem>
-);
-
 const ContributorGroup = () => {
-  const [contributors, setContributors] = useState([]);
-  const [bigContributors, setBigContributors] = useState([]);
-  useEffect(() => {
-    getContributors().then((c) => {
-      const rowContributors = c.data.filter(
-        (contrib) => !footerOverrides[contrib?.login]?.big
-      );
-      const filteredBigContributors = c.data
-        .filter((contrib) => footerOverrides[contrib?.login]?.big)
-        .map((contrib) => ({
-          ...contrib,
-          ...footerOverrides[contrib?.login],
-        }))
-        .sort((a, b) => (a.index > b.index ? 1 : -1));
-      setBigContributors(filteredBigContributors);
-      setContributors(rowContributors);
-    });
-  }, []);
+  const contributors = [
+    {
+      login: "vincekim14",
+      name: "Vince Kim",
+      role: "Website Lead",
+      avatar_url: "https://avatars.githubusercontent.com/u/youruserid?v=4", // Replace with your actual image URL
+      linkedin: "https://www.linkedin.com/in/vince-kim-profile/",
+      website: "https://google.com",
+      github: "https://github.com/vincekim14/",
+    }
+  ];
 
   return (
-    <VStack spacing={0} mb={4}>
+    <VStack spacing={0} mb={-4} mt={5}>
       <Wrap spacing={10} overflow={"visible"} justify={"center"} mb={4}>
-        {bigContributors &&
-          bigContributors.map((c) => (
+        {contributors.map((c) => (
             <WrapItem>
               <VStack
                 boxShadow={"0px 0px 8px rgba(0, 48, 87, 0.1)"}
@@ -115,6 +92,7 @@ const ContributorGroup = () => {
                       icon={<FaGithub size={20} />}
                     />
                   )}
+                  {/* Put the extra commented out code if you are maintaining the website */}
                 </HStack>
               </VStack>
             </WrapItem>

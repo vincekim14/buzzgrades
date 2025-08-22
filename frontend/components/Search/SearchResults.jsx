@@ -61,13 +61,13 @@ const Classes = ({ searchResults, onClick }) => {
             spinnerTop={"34.5px"}
             rightContent={[
               row.averageGPA > 0 && (
-                <AverageGradeTag key={"avg"} gpa={row.averageGPA} />
+                <AverageGradeTag key={"avg"} gpa={row.averageGPA.toFixed(2)} />
               ),
               row.mostStudents && (
                 <MostCommonGradeTag
                   key={"common"}
                   grade={row.mostStudents}
-                  percentage={row.mostStudentsPercent}
+                  percentage={row.mostStudentsPercent.toFixed(1)}
                 />
               ),
             ].filter(Boolean)}
@@ -102,13 +102,13 @@ const Departments = ({ searchResults, onClick }) => {
           spinnerTop={"34.5px"}
           rightContent={[
             row.averageGPA > 0 && (
-              <AverageGradeTag key={"avg"} gpa={row.averageGPA} />
+              <AverageGradeTag key={"avg"} gpa={row.averageGPA.toFixed(2)} />
             ),
             row.mostStudents && (
               <MostCommonGradeTag
                 key={"common"}
                 grade={row.mostStudents}
-                percentage={row.mostStudentsPercent}
+                percentage={row.mostStudentsPercent.toFixed(1)}
               />
             ),
           ].filter(Boolean)}
@@ -142,13 +142,13 @@ const Professors = ({ searchResults, onClick }) => {
           spinnerTop={"34.5px"}
           rightContent={[
             row.averageGPA > 0 && (
-              <AverageGradeTag key={"avg"} gpa={row.averageGPA} />
+              <AverageGradeTag key={"avg"} gpa={row.averageGPA.toFixed(2)} />
             ),
             row.mostStudents && (
               <MostCommonGradeTag
                 key={"common"}
                 grade={row.mostStudents}
-                percentage={row.mostStudentsPercent}
+                percentage={row.mostStudentsPercent.toFixed(1)}
               />
             ),
           ].filter(Boolean)}
