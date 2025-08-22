@@ -184,25 +184,16 @@ class RMP:
             self._save_cache()
             print(f"[RMP Manual] Removed {professor_name} from negative cache")
 
+
     def _canonicalize_name(self, name: str) -> str:
-        """Clean and normalize name for matching with strict quality control"""
+        """Clean and normalize name for matching purposes only"""
         if not name:
             return ""
         
-        # Strip and normalize whitespace first
+        # Strip and normalize whitespace only
         name = " ".join(name.strip().split())
         
-        # Convert to title case for consistent formatting
-        # This ensures "lukas wessels" becomes "Lukas Wessels" 
-        name = name.title()
-        
-        # Handle special cases that title() doesn't handle well
-        name = name.replace("Mc", "Mc").replace("Mac", "Mac")  # Scottish names
-        name = name.replace("O'", "O'")  # Irish names
-        name = name.replace("De ", "de ").replace("Van ", "van ")  # Dutch/German particles
-        name = name.replace("Del ", "del ").replace("La ", "la ")  # Spanish/Italian particles
-        
-        # Remove common academic titles and suffixes (case insensitive)
+        # Remove common academic titles and suffixes (case insensitive) for matching only
         import re
         name = re.sub(r'\b(dr|prof|professor)\.?\s*', '', name, flags=re.IGNORECASE)
         name = re.sub(r'\s+(jr|sr|ii|iii|iv)\.?$', '', name, flags=re.IGNORECASE)
@@ -594,49 +585,6 @@ class RMP:
         except:
             return False
 
-    def _normalize_professor_names(self) -> None:
-        """Automatically normalize professor names in database to ensure consistent formatting"""
-        print("[RMP Normalize] Checking for professor name formatting issues...")
-        session = Session()
-        
-        try:
-            # Find professors with formatting issues
-            professors = session.query(Professor).all()
-            updates_made = 0
-            
-            for prof in professors:
-                original_name = prof.name
-                
-                # Apply same normalization as canonicalization but preserve proper case
-                normalized_name = " ".join(original_name.strip().split())
-                normalized_name = normalized_name.title()
-                
-                # Handle special cases
-                normalized_name = normalized_name.replace("Mc", "Mc").replace("Mac", "Mac")
-                normalized_name = normalized_name.replace("O'", "O'")
-                
-                # Remove academic titles
-                import re
-                normalized_name = re.sub(r'\b(dr|prof|professor)\.?\s*', '', normalized_name, flags=re.IGNORECASE)
-                normalized_name = re.sub(r'\s+(jr|sr|ii|iii|iv)\.?$', '', normalized_name, flags=re.IGNORECASE)
-                normalized_name = " ".join(normalized_name.split())
-                
-                if normalized_name != original_name and normalized_name:
-                    print(f"[RMP Normalize] '{original_name}' → '{normalized_name}'")
-                    prof.name = normalized_name
-                    updates_made += 1
-            
-            if updates_made > 0:
-                session.commit()
-                print(f"[RMP Normalize] Normalized {updates_made} professor names")
-            else:
-                print("[RMP Normalize] All professor names already properly formatted")
-                
-        except Exception as e:
-            session.rollback()
-            print(f"[RMP Error] Failed to normalize professor names: {e}")
-        finally:
-            session.close()
 
     def _detect_and_merge_duplicates(self) -> None:
         """Automatically detect and merge duplicate professor entries"""
@@ -707,6 +655,42 @@ class RMP:
             print(f"[RMP Error] Failed to merge duplicates: {e}")
         finally:
             session.close()
+
+    def update_professor_name(self, old_name: str, new_name: str) -> bool:
+        """Manually update a specific professor's name in the database"""
+        try:
+            session = Session()
+            
+            # Find the professor with the old name
+            prof = session.query(Professor).filter(Professor.name == old_name).first()
+            if not prof:
+                print(f"[Manual Name] Professor '{old_name}' not found in database")
+                session.close()
+                return False
+            
+            # Check if new name already exists
+            existing_prof = session.query(Professor).filter(Professor.name == new_name).first()
+            if existing_prof and existing_prof.id != prof.id:
+                print(f"[Manual Name] Professor '{new_name}' already exists. Use merge function instead.")
+                session.close()
+                return False
+            
+            # Update the name
+            prof.name = new_name
+            session.commit()
+            
+            print(f"[Manual Name] Successfully updated professor name: '{old_name}' → '{new_name}'")
+            session.close()
+            return True
+            
+        except Exception as e:
+            print(f"[Manual Name] Error updating professor name: {e}")
+            if 'session' in locals():
+                session.rollback()
+                session.close()
+            return False
+
+
 
     def add_manual_rmp_link(self, professor_name: str, rmp_id: str) -> bool:
         """Manually add RMP data for a professor by RMP ID"""
@@ -852,15 +836,12 @@ class RMP:
                 session.close()
             return 0
 
-    def update_profs(self, clean_names: bool = True, fix_duplicates: bool = True, skip_rmp_updates: bool = False, debug: bool = False) -> None:
-        """Update RMP data for all professors using multiprocessing with automatic data cleanup."""
+    def update_profs(self, fix_duplicates: bool = True, skip_rmp_updates: bool = False, debug: bool = False) -> None:
+        """Update RMP data for all professors using multiprocessing."""
         
         self.debug_mode = debug
         
-        # Step 1: Clean up data quality issues
-        if clean_names:
-            self._normalize_professor_names()
-        
+        # Step 1: Clean up duplicates if requested
         if fix_duplicates:
             self._detect_and_merge_duplicates()
         
@@ -881,7 +862,7 @@ class RMP:
                 
             print("[RMP] Completed RMP processing")
         else:
-            print("[RMP] Skipping RMP API updates (cleanup-only mode)")
+            print("[RMP] Skipping RMP API updates (duplicate cleanup only)")
         
         # Step 3: Verify data integrity
         if debug:

@@ -18,22 +18,22 @@ Therefore, processing the most recent 4-8 terms into json files for COURSE_INFO 
 
 ### Full Data Processing (CSV + RMP)
 ```bash
-python main.py --process-all
+python3 main.py --process-all
 ```
 
 ### RMP Processing Only
 ```bash
 # Basic RMP processing with automatic cleanup
-python main.py --rmp-only
+python3 main.py --rmp-only
 
 # RMP processing with explicit name cleanup
-python main.py --rmp-only --clean-professors
+python3 main.py --rmp-only --clean-professors
 
 # Standalone RMP processing with options (cleanup only, fast)
-python -m src.rmp --clean-names --fix-duplicates
+python3 -m src.rmp --clean-names --fix-duplicates
 
 # Get current RMP statistics
-python -m src.rmp --stats-only
+python3 -m src.rmp --stats-only
 ```
 
 ## Enhanced RMP Matching System
@@ -136,13 +136,11 @@ python main.py --overwrite --process-all  # Overwrite existing terms
 ### Standalone RMP Module
 
 ```bash
-# Full processing with all enhancements (cleanup + RMP fetching)
+# Full processing with all enhancements (RMP fetching)
 python -m src.rmp
 
 # Individual cleanup operations (fast, no API calls)
-python -m src.rmp --clean-names        # Fix name formatting only
 python -m src.rmp --fix-duplicates     # Merge duplicates only
-python -m src.rmp --clean-names --fix-duplicates  # Both cleanup operations
 
 # RMP data fetching only (no cleanup)
 python -m src.rmp --rmp-only           # Fetch RMP data without cleanup

@@ -23,7 +23,7 @@ if __name__ == "__main__":
     parser.add_argument('--rmp-only', action='store_true', help='Run only RMP processing (skip CSV data processing).')
     parser.add_argument('--clean-professors', action='store_true', help='Clean professor names and merge duplicates during RMP processing.')
     parser.add_argument('--overwrite', action='store_true', help='Overwrite existing term data in the database instead of appending it.')
-    parser.add_argument('--cleardb', action='store_true', help='Clear the entire database content before importing new data.')
+    parser.add_argument('--cleardb', action='store_true', help='DANGER: Clear ALL database content (all professors, courses, grades). Cannot be undone!')
     parser.add_argument('--process-all', action='store_true', help='Process all CSV files in GRADE_DATA directory.')
 
     args = parser.parse_args()
@@ -48,55 +48,71 @@ if __name__ == "__main__":
     # Create a fresh session for initialization
     session = GTSession()
     
-    # If overwrite is specified, clear the relevant tables for the terms being processed or clear entire database
-    if args.overwrite:
+    # Handle database clearing first (can work independently)
+    if args.cleardb:
+        # Add safety confirmation
+        print("[DANGER] You are about to DELETE ALL DATA from the database!")
+        print("This will remove:")
+        print("  - All professor records and RMP data")
+        print("  - All course information")
+        print("  - All grade distribution data")
+        print("  - All term data")
+        print("This action CANNOT BE UNDONE!")
+        
+        confirmation = input("Type 'DELETE ALL DATA' to confirm: ")
+        if confirmation != "DELETE ALL DATA":
+            print("[MAIN] Database clearing cancelled. No changes made.")
+            session.close()
+            exit(0)
+        
+        # Clear all data from the main tables
+        print("[DANGER] Clearing entire database content...")
+        try:
+            # We need to delete in the correct order due to foreign key constraints
+            from sqlalchemy import text
+            session.execute(text("DELETE FROM termdistribution"))
+            session.execute(text("DELETE FROM distribution"))
+            session.execute(text("DELETE FROM classdistribution"))
+            session.execute(text("DELETE FROM departmentdistribution"))
+            session.execute(text("DELETE FROM professor"))
+            session.commit()
+            print("[MAIN] Successfully cleared all database content.")
+        except Exception as e:
+            print(f"[ERROR] Failed to clear database: {str(e)}")
+            session.rollback()
+    
+    # If overwrite is specified, clear the relevant tables for the terms being processed
+    if args.overwrite and not args.cleardb:
         print("[WARNING] Overwrite mode enabled.")
-        if args.cleardb:
-            # Clear all data from the main tables
-            print("[DANGER] Clearing entire database content...")
-            try:
-                # We need to delete in the correct order due to foreign key constraints
-                from sqlalchemy import text
-                session.execute(text("DELETE FROM termdistribution"))
-                session.execute(text("DELETE FROM distribution"))
-                session.execute(text("DELETE FROM classdistribution"))
-                session.execute(text("DELETE FROM departmentdistribution"))
-                session.execute(text("DELETE FROM professor"))
-                session.commit()
-                print("[MAIN] Successfully cleared all database content.")
-            except Exception as e:
-                print(f"[ERROR] Failed to clear database: {str(e)}")
-                session.rollback()
-        else:
-            # Collect term codes to delete from CSV files
-            print("[WARNING] Deleting existing term data for CSV files being processed.")
-            term_codes_to_delete = []
+        # Collect term codes to delete from CSV files
+        print("[WARNING] Deleting existing term data for CSV files being processed.")
+        term_codes_to_delete = []
+        
+        # Scan all CSV files in GRADE_DATA directory to find term codes
+        class_data_dir = "GRADE_DATA"
+        if args.process_all and os.path.exists(class_data_dir) and os.path.isdir(class_data_dir):
+            csv_files = [os.path.join(class_data_dir, f) for f in os.listdir(class_data_dir) if f.endswith('.csv')]
             
-            # Scan all CSV files in GRADE_DATA directory to find term codes
-            class_data_dir = "GRADE_DATA"
-            if args.process_all and os.path.exists(class_data_dir) and os.path.isdir(class_data_dir):
-                csv_files = [os.path.join(class_data_dir, f) for f in os.listdir(class_data_dir) if f.endswith('.csv')]
-                
-                for csv_file in csv_files:
-                    try:
-                        df_sample = pd.read_csv(csv_file, nrows=1)
-                        term_col = None
-                        
-                        # Check for term column in different formats
-                        if 'Term' in df_sample.columns:
-                            term_col = 'Term'
-                        elif 'term_code' in df_sample.columns:
-                            term_col = 'term_code'
-                        
-                        if term_col and not df_sample[term_col].empty:
-                            term_value = df_sample[term_col].iloc[0]
-                            if isinstance(term_value, str) and term_value.isdigit():
-                                term_codes_to_delete.append(int(term_value))
-                            elif isinstance(term_value, (int, float)):
-                                term_codes_to_delete.append(int(term_value))
-                            print(f"[INFO] Found term code {int(term_value)} in file {os.path.basename(csv_file)}")
-                    except Exception as e:
-                        print(f"[WARNING] Could not determine term code from {csv_file}: {str(e)}")
+            for csv_file in csv_files:
+                try:
+                    df_sample = pd.read_csv(csv_file, nrows=1)
+                    term_col = None
+                    
+                    # Check for term column in different formats
+                    if 'Term' in df_sample.columns:
+                        term_col = 'Term'
+                    elif 'term_code' in df_sample.columns:
+                        term_col = 'term_code'
+                    
+                    if term_col and not df_sample[term_col].empty:
+                        term_value = df_sample[term_col].iloc[0]
+                        if isinstance(term_value, str) and term_value.isdigit():
+                            term_codes_to_delete.append(int(term_value))
+                        elif isinstance(term_value, (int, float)):
+                            term_codes_to_delete.append(int(term_value))
+                        print(f"[INFO] Found term code {int(term_value)} in file {os.path.basename(csv_file)}")
+                except Exception as e:
+                    print(f"[WARNING] Could not determine term code from {csv_file}: {str(e)}")
                         
             # If term codes were found, delete related data from the database
             if term_codes_to_delete:
@@ -246,11 +262,9 @@ if __name__ == "__main__":
         import db.Models
         db.Models.Session = sessionmaker(bind=gt_engine, autoflush=False)
         
-        # Run RMP processing with options
-        clean_names = args.clean_professors if hasattr(args, 'clean_professors') else True
-        
+        # Run RMP processing
         print("[MAIN] Starting RMP processing...")
-        RMP().update_profs(clean_names=clean_names, fix_duplicates=clean_names)
+        RMP().update_profs(fix_duplicates=True)
         print("[MAIN] RMP processing completed")
         
         # Exit after RMP processing

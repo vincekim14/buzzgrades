@@ -15,8 +15,6 @@ from sqlalchemy.orm import sessionmaker
 
 def main():
     parser = argparse.ArgumentParser(description='Standalone RMP Processing')
-    parser.add_argument('--clean-names', action='store_true', 
-                       help='Normalize professor names (fix case, remove titles)')
     parser.add_argument('--fix-duplicates', action='store_true', 
                        help='Detect and merge duplicate professor entries')
     parser.add_argument('--rmp-only', action='store_true',
@@ -84,8 +82,6 @@ def main():
         # Dry run mode
         if args.dry_run:
             print("[RMP DRY RUN] Showing what would be done (no changes will be made)")
-            if args.clean_names:
-                print("[RMP DRY RUN] Would normalize professor names")
             if args.fix_duplicates:
                 print("[RMP DRY RUN] Would detect and merge duplicates")
             if args.rmp_only:
@@ -97,29 +93,26 @@ def main():
                 print(f"[RMP DRY RUN] Would import manual mappings from {csv_file}")
             if args.export_unmatched:
                 print(f"[RMP DRY RUN] Would export unmatched professors to {args.export_unmatched}")
-            elif not any([args.clean_names, args.fix_duplicates, args.add_manual, args.import_manual, args.export_unmatched]):
-                print("[RMP DRY RUN] Would run full processing (cleanup + RMP updates)")
+            elif not any([args.fix_duplicates, args.add_manual, args.import_manual, args.export_unmatched]):
+                print("[RMP DRY RUN] Would run full processing (RMP updates + duplicate detection)")
             return 0
         
         # Determine what operations to run
-        clean_names = args.clean_names
         fix_duplicates = args.fix_duplicates
         skip_rmp_updates = False
         
         if args.rmp_only:
             # Only RMP updates, no cleanup
-            clean_names = False
             fix_duplicates = False
             skip_rmp_updates = False
             print("[RMP] RMP-only mode: fetching RMP data without cleanup")
-        elif any([args.clean_names, args.fix_duplicates]):
+        elif args.fix_duplicates:
             # Cleanup operations only, skip RMP updates
             skip_rmp_updates = True
-            print("[RMP] Cleanup-only mode: running specified cleanup operations")
+            print("[RMP] Cleanup-only mode: running duplicate detection")
         else:
             # No specific options, do full processing (only if no manual operations were done)
             if not any([args.add_manual, args.import_manual, args.export_unmatched]):
-                clean_names = True
                 fix_duplicates = True
                 skip_rmp_updates = False
                 print("[RMP] No specific options provided - running full processing")
@@ -129,7 +122,7 @@ def main():
                 return 0
         
         print("[RMP] Starting enhanced RMP processing...")
-        rmp.update_profs(clean_names=clean_names, fix_duplicates=fix_duplicates, skip_rmp_updates=skip_rmp_updates, debug=args.debug)
+        rmp.update_profs(fix_duplicates=fix_duplicates, skip_rmp_updates=skip_rmp_updates, debug=args.debug)
         print("[RMP] Completed RMP processing")
         
         # Show final statistics
