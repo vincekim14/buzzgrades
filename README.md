@@ -1,6 +1,6 @@
 Image to be addded (TBD)
 
-# Buzz Grades! ([buzzgrades.org](https://buzzgrades.org))
+# Buzz Grades
 
 Buzz Grades is a website displaying all past average grades of courses, professors, and departments at Georgia Tech. By using Python as the backend for handling data on Grade Distribution LITE Reports and building with NextJS and ChakraUI for the frontend, Buzz Grades combines a pleasant UI with the most up-to-date data.
 
