@@ -176,24 +176,6 @@ const SingleDistribution = ({ dist, isMobile, isStatic }) => {
                 Most Common: {dist.mostStudents} ({dist.mostStudentsPercent}
                 %)
               </Tag>
-              {showCOVIDTag && (
-                <Tooltip
-                  label={
-                    "Relaxed grading during COVID-19 might have affected this distribution"
-                  }
-                  hasArrow
-                >
-                  <Tag
-                    size={"sm"}
-                    textAlign={"center"}
-                    py={1.5}
-                    colorScheme={"blackAlpha"}
-                    background={"transparent"}
-                  >
-                    <InfoOutlineIcon />
-                  </Tag>
-                </Tooltip>
-              )}
             </HStack>
             {dist.info && (
               <Text fontSize={"sm"} color={"gray.600"} pt={2}>

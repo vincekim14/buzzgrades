@@ -11,10 +11,17 @@ Buzz Grades is a website displaying all past average grades of courses, professo
 - Python 3.x
 - pipenv
 
+# Set up Python environment when running locally (make sure to .gitignore)
+
+# If depdency error pops up
+```bash
+python3 -m pip install pandas sqlalchemy requests aiohttp gql rapidfuzz
+```
+
 ## Frontend Setup
 ```bash
 cd frontend
-yarn install  # or npm install
+yarn install
 yarn build
 yarn dev
 ```
