@@ -25,9 +25,6 @@ export const BarChart = ({ distribution, averageGPA, isMobile = true }) => {
   const BOTTOM_MARGIN = 5; // Reduced space beneath letters
   const LETTER_SPACING = 5; // Space needed for letter height and descenders
   const TOP_MARGIN = 20; // Reduced space for hover caption above bars
-  const LEFT_PADDING = 20; // Padding to prevent text cutoff
-  const RIGHT_PADDING = 20; // Padding to prevent text cutoff
-  const BAR_GRAPH_HEIGHT = 50 * scale - BOTTOM_MARGIN; // Taller bars
 
   const [hovered, setHovered] = useState(false);
   const [hoveredGrade, setHoveredGrade] = useState(null);
@@ -45,14 +42,22 @@ export const BarChart = ({ distribution, averageGPA, isMobile = true }) => {
     (grade) => (grades?.[grade] ?? 0) > 0
   );
 
-  // If no A-F grades exist, show S, U, W by default (V only if students present)
-  const defaultNonLetterGrades = ["W", "U", "S"];
-  const vGradeWithStudents = (grades?.V ?? 0) > 0 ? ["V"] : [];
-  const fallbackGrades = [...defaultNonLetterGrades, ...vGradeWithStudents];
+  // Calculate dynamic padding based on grade distribution
+  const calculatePadding = (hasLetterGrades, nonLetterCount) => {
+    if (hasLetterGrades) return { LEFT_PADDING: 0, RIGHT_PADDING: 0 };
+    
+    const paddingMap = { 4: 0, 3: 20, 2: 45, 1: 70 };
+    const padding = paddingMap[nonLetterCount] || 0;
+    return { LEFT_PADDING: padding, RIGHT_PADDING: padding };
+  };
+  
+  const { LEFT_PADDING, RIGHT_PADDING } = calculatePadding(hasAnyLetterGrades, nonLetterGrades.length);
+  const BAR_GRAPH_HEIGHT = 50 * scale - BOTTOM_MARGIN; // Taller bars
 
+  // If no A-F grades exist, only show W, V, U, S that have students > 0
   const letterGrades = hasAnyLetterGrades
     ? [...nonLetterGrades, ...baseGrades]
-    : fallbackGrades;
+    : nonLetterGrades;
 
   // Calculate min width per bar
   const MIN_BAR_WIDTH = isSummary ? 60 : 50; // Minimum width per bar in pixels

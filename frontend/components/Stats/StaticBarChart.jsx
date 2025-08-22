@@ -14,13 +14,8 @@ export const StaticBarChart = ({ distribution, averageGPA }) => {
   const [hoveredGradeIndex, setHoveredGradeIndex] = useState(null);
   const [hovered, setHovered] = useState(false);
   const scale = 3.5;
-  const BOTTOM_MARGIN = 15;
-  const TOP_MARGIN = 15; // Reduced space for hover caption above bars
-  const LEFT_PADDING = 20; // Padding to prevent GPA text cutoff
-  const RIGHT_PADDING = 20; // Padding to prevent GPA text cutoff
-  const BAR_GRAPH_HEIGHT = 60 * scale - BOTTOM_MARGIN; // Taller bars
-  // Fixed widths for static images: 450px for big cards, 325px for small cards
-  const BAR_GRAPH_WIDTH = (isSummary ? 450 : 325) * scale;
+  const BOTTOM_MARGIN = 5;
+  const TOP_MARGIN = 20; // Reduced space for hover caption above bars
 
   const { grades } = distribution;
 
@@ -35,10 +30,30 @@ export const StaticBarChart = ({ distribution, averageGPA }) => {
     (grade) => (grades?.[grade] ?? 0) > 0
   );
 
+  // Calculate dynamic padding based on grade distribution
+  const calculatePadding = (hasLetterGrades, nonLetterCount) => {
+    if (hasLetterGrades) return { LEFT_PADDING: 0, RIGHT_PADDING: 0 };
+    
+    const paddingMap = { 4: 0, 3: 20, 2: 45, 1: 70 };
+    const padding = paddingMap[nonLetterCount] || 0;
+    return { LEFT_PADDING: padding, RIGHT_PADDING: padding };
+  };
+  
+  const { LEFT_PADDING, RIGHT_PADDING } = calculatePadding(hasAnyLetterGrades, nonLetterGrades.length);
+  const BAR_GRAPH_HEIGHT = 50 * scale - BOTTOM_MARGIN; // Taller bars
+
   // If no A-F grades exist, only show W, V, U, S that have students
   const letterGrades = hasAnyLetterGrades
     ? [...nonLetterGrades, ...baseGrades]
     : nonLetterGrades;
+
+  // Calculate min width per bar - responsive to bar count for better padding effects
+  const MIN_BAR_WIDTH = isSummary ? 60 : 50; // Minimum width per bar in pixels
+  const MIN_SPACING = 3; // Minimum spacing between bars
+  // Dynamic width based on number of grades, but maintain minimum for static images
+  const calculatedWidth = letterGrades.length * (MIN_BAR_WIDTH + MIN_SPACING);
+  const baseWidth = (isSummary ? 450 : 325) * scale;
+  const BAR_GRAPH_WIDTH = Math.max(calculatedWidth, baseWidth);
 
   const maxGrade = Math.max(...Object.values(grades ?? {}));
   const totalStudents = Object.values(grades).reduce(
