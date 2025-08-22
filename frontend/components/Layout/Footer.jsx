@@ -20,11 +20,11 @@ const ContributorGroup = () => {
   const contributors = [
     {
       login: "vincekim14",
-      name: "Vince Kim",
+      name: "Donghyun (Vince) Kim",
       role: "Website Lead",
-      avatar_url: "https://avatars.githubusercontent.com/u/youruserid?v=4", // Replace with your actual image URL
+      avatar_url: "/images/vincekimpicture.png",
       linkedin: "https://www.linkedin.com/in/vince-kim-profile/",
-      website: "https://google.com",
+      // website: "https://google.com",
       github: "https://github.com/vincekim14/",
     }
   ];
@@ -158,7 +158,7 @@ export const Footer = () => {
             href={"https://www.linkedin.com/in/vince-kim-profile/"}
             fontWeight={500}
           >
-            Vince Kim
+            Donghyun (Vince) Kim
           </LinkButton>{" "}
           with grade data from Summer 2016 to Summer 2025 provided by LITE Grade Distribution
         </Text>
