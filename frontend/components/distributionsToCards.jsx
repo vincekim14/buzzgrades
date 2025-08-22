@@ -179,11 +179,11 @@ const SingleDistribution = ({ dist, isMobile, isStatic }) => {
               {dist.isSummary && (
                 <Tooltip
                   label={
-                    "Chart does not include grades I and IJ (incomplete grades)"
+                    "All charts do not include grades I and IJ (incomplete grades)"
                   }
                   textAlign={"center"}
                   placement="bottom"
-                  width="280px"
+                  width="290px"
                   ml={-2}
                   hasArrow
                 >
