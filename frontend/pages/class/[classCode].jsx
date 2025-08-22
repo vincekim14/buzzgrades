@@ -60,7 +60,7 @@ export default function Class({ classData, query }) {
   const className = `${deptAbbr} ${classNumber}`;
 
   const [isMobile] = useMediaQuery("(max-width: 550px)");
-  const { isOpen: isRequisitesOpen, onToggle: toggleRequisites } =
+  const { isOpen: isRequisitesOpen, onToggle: toggleRequisites, onClose: closeRequisites } =
     useDisclosure();
   const {
     search,
@@ -233,7 +233,7 @@ export default function Class({ classData, query }) {
                       <Text fontSize={"sm"} fontWeight={"bold"} mb={1}>
                         Prerequisites:
                       </Text>
-                      <CourseCodeText fontSize={"sm"}>
+                      <CourseCodeText fontSize={"sm"} onCourseCodeClick={closeRequisites}>
                         {Array.isArray(prerequisites)
                           ? prerequisites.join(", ")
                           : prerequisites}
@@ -246,7 +246,7 @@ export default function Class({ classData, query }) {
                       <Text fontSize={"sm"} fontWeight={"bold"} mb={1}>
                         Corequisites:
                       </Text>
-                      <CourseCodeText fontSize={"sm"}>
+                      <CourseCodeText fontSize={"sm"} onCourseCodeClick={closeRequisites}>
                         {Array.isArray(corequisites)
                           ? corequisites.join(", ")
                           : corequisites}
@@ -261,7 +261,7 @@ export default function Class({ classData, query }) {
                       </Text>
                       <VStack align={"start"} spacing={0}>
                         {restrictions.map((restriction) => (
-                          <CourseCodeText key={restriction} fontSize={"sm"}>
+                          <CourseCodeText key={restriction} fontSize={"sm"} onCourseCodeClick={closeRequisites}>
                             {restriction}
                           </CourseCodeText>
                         ))}

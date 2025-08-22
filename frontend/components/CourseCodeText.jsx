@@ -24,7 +24,7 @@ const parseCourseCodesInText = (text) => {
   return matches;
 };
 
-const CourseChip = ({ match }) => {
+const CourseChip = ({ match, onCourseCodeClick }) => {
   const [courseTitle, setCourseTitle] = useState(null);
   const [courseExists, setCourseExists] = useState(true);
   const [loading, setLoading] = useState(false);
@@ -96,6 +96,7 @@ const CourseChip = ({ match }) => {
           }}
           display="inline-block"
           mx={0.5}
+          onClick={onCourseCodeClick}
         >
           {tagContent}
         </ChakraLink>
@@ -108,7 +109,7 @@ const CourseChip = ({ match }) => {
   );
 };
 
-const CourseCodeText = ({ children, fontSize = "sm", ...textProps }) => {
+const CourseCodeText = ({ children, fontSize = "sm", onCourseCodeClick, ...textProps }) => {
   if (!children || typeof children !== "string") {
     return <Text fontSize={fontSize} {...textProps}>{children}</Text>;
   }
@@ -137,6 +138,7 @@ const CourseCodeText = ({ children, fontSize = "sm", ...textProps }) => {
       <CourseChip
         key={`link-${index}`}
         match={match}
+        onCourseCodeClick={onCourseCodeClick}
       />
     );
 
