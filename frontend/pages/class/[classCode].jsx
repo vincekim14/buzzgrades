@@ -77,7 +77,7 @@ export default function Class({ classData, query }) {
         title: "All Instructors",
         distribution_id: classData.id,
         isSummary: true,
-        info: "This total also includes data from semesters with unknown instructors",
+        info: "This total includes data from semesters with unknown instructors",
       },
     ],
     isMobile,

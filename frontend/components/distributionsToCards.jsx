@@ -115,7 +115,7 @@ const SingleDistribution = ({ dist, isMobile, isStatic }) => {
                   {(!isStatic || !dist.isSummary) && title}
                 </Text>
                 {dist.rating && (
-                  <Tooltip label={"RateMyProfessor Rating"} hasArrow>
+                  <Tooltip label={"RateMyProfessor Rating"} textAlign={"center"} hasArrow>
                     <Tag
                       size={"sm"}
                       textAlign={"center"}
@@ -155,7 +155,7 @@ const SingleDistribution = ({ dist, isMobile, isStatic }) => {
               </Text>
               // color to "#003057" is also an option color={"#003057"}, empty would be black
             )}
-            <HStack pt={2}>
+            <HStack pt={1}>
               {dist.averageGPA > 0 && (
                 <Tag
                   size={"sm"}
@@ -176,6 +176,27 @@ const SingleDistribution = ({ dist, isMobile, isStatic }) => {
                 Most Common: {dist.mostStudents} ({dist.mostStudentsPercent}
                 %)
               </Tag>
+              {dist.isSummary && (
+                <Tooltip
+                  label={
+                    "Chart does not include grades I and IJ (incomplete grades)"
+                  }
+                  textAlign={"center"}
+                  placement="bottom"
+                  ml={-2}
+                  hasArrow
+                >
+                  <Tag
+                    size={"sm"}
+                    textAlign={"center"}
+                    colorScheme={"blackAlpha"}
+                    background={"transparent"}
+                    px={-4}
+                  >
+                    <InfoOutlineIcon />
+                  </Tag>
+                </Tooltip>
+              )}
             </HStack>
             {dist.info && (
               <Text fontSize={"sm"} color={"gray.600"} pt={2}>

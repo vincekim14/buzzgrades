@@ -118,7 +118,7 @@ export default function Prof({ profData }) {
     ),
     title: "All Courses",
     isSummary: true,
-    info: "This total also includes courses that they may not teach anymore",
+    info: "This total includes courses that they may not teach anymore",
     distribution_id: id,
   };
 

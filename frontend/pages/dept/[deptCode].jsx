@@ -54,7 +54,7 @@ export default function Dept({ deptData }) {
     ),
     title: `All Courses`,
     isSummary: true,
-    info: "This total also includes courses that may not currently be offered",
+    info: "This total includes courses that may not currently be offered",
     distribution_id: deptAbbr,
   };
 
