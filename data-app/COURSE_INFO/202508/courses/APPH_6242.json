@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "APPH",
+  "courseNumber": "6242",
+  "courseId": "APPH 6242",
+  "title": "Integrative Physiology",
+  "description": "The course will focus on integrative mechanisms impacting motor system performance. Interactions among the various systems and their plasticity will be emphasized.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:11.284Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "4133",
+  "courseId": "ISYE 4133",
+  "title": "Advanced Optimization",
+  "description": "Theory and implementation of practical methods to find good or optimal solutions to optimization problems too large or complex to solve in a straightforward way.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3133 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:33.974Z"
+}

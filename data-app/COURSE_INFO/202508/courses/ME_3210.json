@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "3210",
+  "courseId": "ME 3210",
+  "title": "Design and Manufacture",
+  "description": "Major manufacturing processes, capabilities, and costs.  Interaction between design, materials and manufacturing process selection.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 2110 Undergraduate Semester Minimum Grade of D and MSE 2001 Undergraduate Semester Minimum Grade of D and COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:17.629Z"
+}

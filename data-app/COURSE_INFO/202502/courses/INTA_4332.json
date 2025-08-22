@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "4332",
+  "courseId": "INTA 4332",
+  "title": "Chinese Institutions",
+  "description": "Supervised field research on the Chinese institutions and policy-making process especially in the areas of economic and social issues.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:07.876Z"
+}

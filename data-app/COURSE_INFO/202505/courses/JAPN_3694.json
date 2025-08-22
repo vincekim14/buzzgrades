@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "JAPN",
+  "courseNumber": "3694",
+  "courseId": "JAPN 3694",
+  "title": "Conversation Practicum",
+  "description": "Students practice conversations with native Japanese speakers to expand the repertoire of active vocabulary and grammar patterns and improve their conversational skills. Taught in Japanese.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:14.051Z"
+}

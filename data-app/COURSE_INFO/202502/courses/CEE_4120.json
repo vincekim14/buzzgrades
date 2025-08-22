@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4120",
+  "courseId": "CEE 4120",
+  "title": "Construction Operations",
+  "description": "An integrated approach to construction methods, including basic and advanced concepts, applications, and tools for planning, analysis, and assessment of construction methods and equipment.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 4100 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:00.870Z"
+}

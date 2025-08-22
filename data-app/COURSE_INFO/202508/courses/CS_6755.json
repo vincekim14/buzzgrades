@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "6755",
+  "courseId": "CS 6755",
+  "title": "HCI Foundations",
+  "description": "Describes the theory and practice of designing effective and efficient interactions between people and technology. Students do not receive credit for both CS 6755 and PSYC 6755.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:45.074Z"
+}

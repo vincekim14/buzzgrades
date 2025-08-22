@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "BCP",
+  "courseNumber": "6500",
+  "courseId": "BCP 6500",
+  "title": "Advanced Safety Prin",
+  "description": "This course covers the process for standardization, the difference between the ANSI and ISO process for standardization, and the consideration and discussion of psychosocial issues.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:38.948Z"
+}

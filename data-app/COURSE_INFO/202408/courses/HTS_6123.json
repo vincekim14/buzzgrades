@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "6123",
+  "courseId": "HTS 6123",
+  "title": "Social &amp; Cultural BIOMED",
+  "description": "Introduces students to the changing social, political, and corporate worlds of the biological sciences, biotechnology, and biomedicine.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:51.462Z"
+}

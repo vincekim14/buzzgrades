@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "AE",
+  "courseNumber": "6530",
+  "courseId": "AE 6530",
+  "title": "Multivar Linear Sys&amp;Ctrl",
+  "description": "Techniques for analysis and description of multivariable linear systems. Tools for advanced feedback control design for these systems, including computational packages. Credit will not be awarded for both AE 6530 and ECE 6550 or AE 6530 and ME 6401.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 3531 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:04.061Z"
+}

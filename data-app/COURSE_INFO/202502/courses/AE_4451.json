@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "4451",
+  "courseId": "AE 4451",
+  "title": "Jet &amp; Rocket Propulsion",
+  "description": "Principles of aerospace propulsion systems. Thermodynamic cycles. Thermodynamics of combustion. Turbine engine and rocket performance characteristics. Cycle/component analysis of engines and turbomachinery.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 3450 Undergraduate Semester Minimum Grade of D or AE 2010 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:35:10.009Z"
+}

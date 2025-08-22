@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4791",
+  "courseId": "CEE 4791",
+  "title": "Mech Behavior-Composites",
+  "description": "Stress-strain behavior of composites, property of matrix and reinforcing materials, mechanics of fiber-reinforced composites, lamina and laminate analysis, and mechanical performance. Crosslisted with AE, CHE, ME, MSE, and PTFE 4791.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:25.839Z"
+}

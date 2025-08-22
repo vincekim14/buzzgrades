@@ -1,0 +1,54 @@
+import PageLayout from "../components/Layout/PageLayout";
+
+# Privacy Policy
+
+## In Short
+Buzz Grades is committed to protecting your privacy. This privacy policy explains how we collect, use, and protect your personal information when using our website.
+
+## Collecting Information
+
+We do not collect any personally identifiable information from users, except for anonymized usage data, including
+information about how you interact with Buzz Grades, such as page visits and navigation actions.
+
+When reporting a bug, we may collect your email address solely for providing feedback or clarifying the issue you have reported.
+Your email address is not used for any other purposes, including sharing your email address with third parties.
+
+## Using Information
+
+We collect anonymized usage data to enhance user experience on Buzz Grades, which helps us understand
+how users interact with this website and identify areas for improvement. It is for solely this purpose of communicating
+the issue that we collect your email address. In addition, we may ask for additional details, clarification, or provide updates
+on the bug you reported, but the email address will not be shared with third parties.
+
+## Third-Party Services
+
+Buzz Grades may contain links to external websites such as Rate My Professor that are not owned by Buzz Grades.
+We are not responsible for the privacy practices of third-party websites, and this privacy policy only applies to Buzz Grades.
+
+## Changes to the Privacy Policy
+
+We reserve the right to update or modify this privacy policy at any time, and any policy changes will be effective
+immediately upon updating the website. It is therefore your responsibility to stay up-to-date with this privacy policy
+on how we collect, use, and protect your information.
+
+## Contact Us
+
+If you have any questions or concerns about this privacy policy, please contact us at (haven't made email yet :()).
+
+Last updated: August 21, 2025
+
+export default function MDXPage({children}) {
+  return <PageLayout
+    // Privacy page social sharing image (Open Graph)
+    // Should be 1200x630px PNG with Buzz Grades branding
+    // Displays when privacy page is shared on social media platforms
+    imageUrl={`${
+      process.env.NEXT_PUBLIC_VERCEL_URL
+        ? `https://${process.env.NEXT_PUBLIC_VERCEL_URL}/images/advert.png`
+        : "/images/advert.png"
+    }`}
+  >
+    {children}
+
+  </PageLayout>
+}

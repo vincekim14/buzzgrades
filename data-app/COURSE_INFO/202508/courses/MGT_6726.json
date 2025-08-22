@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "6726",
+  "courseId": "MGT 6726",
+  "title": "Privacy Tech Policy Law",
+  "description": "This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics, law, and business realms.  Information collection, transmission, and utilization in analog and digital formats raise specific issues about information classification and organization; information storage and processing; and information transmission, transfer, and signaling. In addition, privacy tech policy affects the way one builds a network and related systems planning and design; human interfacing and use analysis; database development; and related aspects of hardware, software, economics, social factors, and capacity. Credit will not be awareded for both MGT 6726 and CS 4726 or CS 6726 or MGT 4726.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:37.186Z"
+}

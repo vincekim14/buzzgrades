@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "NEUR",
+  "courseNumber": "4601",
+  "courseId": "NEUR 4601",
+  "title": "Thesis Research",
+  "description": "A course in which selected students conduct original research under the direction of a faculty member.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:10.475Z"
+}

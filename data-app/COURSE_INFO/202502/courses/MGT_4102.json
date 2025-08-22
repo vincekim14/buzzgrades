@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4102",
+  "courseId": "MGT 4102",
+  "title": "Management Consulting",
+  "description": "This course explores being a Management Consultant, and will introduce students to consulting frameworks and methods; simulate consulting activities and situations using cases.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3150 Undergraduate Semester Minimum Grade of D or MGT 3101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:30.754Z"
+}

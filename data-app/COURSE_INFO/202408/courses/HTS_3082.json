@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "3082",
+  "courseId": "HTS 3082",
+  "title": "Sociology of Science",
+  "description": "The growth of science, its social structure; deviance and norms, the social context of scientific knowledge and practice, and science policy.  Credit not allowed for both HTS 3082 and HTS 6115.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:49.595Z"
+}

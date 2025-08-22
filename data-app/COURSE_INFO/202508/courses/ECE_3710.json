@@ -1,0 +1,20 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "3710",
+  "courseId": "ECE 3710",
+  "title": "Circuits &amp; Electronics",
+  "description": "An introduction to electric circuit elements and electronic devices and a study of circuits containing such devices.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Majors:",
+    "__DETAIL_0__Computer Engineering (CMPE)",
+    "__DETAIL_0__Electrical & Computer Engr (ECE)",
+    "__DETAIL_0__Electrical Engineering (EE)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 2212 Undergraduate Semester Minimum Grade of D or PHYS 2232 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:32.733Z"
+}

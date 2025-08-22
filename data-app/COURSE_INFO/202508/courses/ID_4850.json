@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "4850",
+  "courseId": "ID 4850",
+  "title": "Product Design and Realization",
+  "description": "Special",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:23.522Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "AE",
+  "courseNumber": "3531",
+  "courseId": "AE 3531",
+  "title": "Ctrl Sys Analysis&amp;Design",
+  "description": "Control system performance analysis and specifications, classical methods of control system analysis and design, introduction to modern control methods. Students cannot receive credit for AE 3531 and AE 3515 or AE 3531 and ME 4452.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 3530 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:55.377Z"
+}

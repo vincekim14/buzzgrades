@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "RUSS",
+  "courseNumber": "4901",
+  "courseId": "RUSS 4901",
+  "title": "Special Prob - Russian",
+  "description": "Provides the special instruction required under special programs.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:26.652Z"
+}

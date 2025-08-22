@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "6644",
+  "courseId": "MATH 6644",
+  "title": "Iterative Meth-Sys Eqns",
+  "description": "Iterative methods for linear and nonlinear systems of equations including Jacobi, G-S, SOR, CG, multigrid, Newton quasi-Newton, updating, and gradient-based methods. Crosslisted with CSE 6644.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 6643 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:10.564Z"
+}

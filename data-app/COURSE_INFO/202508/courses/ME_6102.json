@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "6102",
+  "courseId": "ME 6102",
+  "title": "Designing Open Engr Sys",
+  "description": "Decision-based integrated product and process development, meta-design, and decision support problems; mathematical modeling of decisions involving ambiguity and uncertainty; critical thinking and analysis; verification and validation; research issues.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:27.339Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "6001",
+  "courseId": "ECE 6001",
+  "title": "Technology Entrepreneur",
+  "description": "Principles of entrepreneurship and intrapreneurship: teaming, ideation, and leadership. Customer\ndiscovery, cognitive biases, rapid prototyping, business models, negotiation, and capital raises will be also covered.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:15.271Z"
+}

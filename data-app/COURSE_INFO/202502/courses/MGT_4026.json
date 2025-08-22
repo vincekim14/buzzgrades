@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4026",
+  "courseId": "MGT 4026",
+  "title": "Fin Report &amp; Analysis I",
+  "description": "Intermediate-level treatment of revenue recognition, inventories, contracts, interest capitalization, property and equipment, intangibles, long-term liabilities, and shareholder's equity. Significant emphasis on financial analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3000 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:27.493Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "3210",
+  "courseId": "CS 3210",
+  "title": "Design-Operating Systems",
+  "description": "Operating systems concepts, including multi-threading, scheduling, synchronization, communication, and access control.  Projects will cover design and implementation of several operating systems components.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2200 Undergraduate Semester Minimum Grade of C or ECE 3057 Undergraduate Semester Minimum Grade of C or ECE 3058 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:29.282Z"
+}

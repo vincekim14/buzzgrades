@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "7774",
+  "courseId": "ME 7774",
+  "title": "Fatigue-Materials&amp;Struct",
+  "description": "Mechanical and microstructural aspects of nucleation and growth of cracks under cyclic loading conditions, notch effects, cumulative damage, multiaxial loading, and fatigue crack propagation.  Crosslisted with AE, CEE, CHE, and MSE 7774.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 7772 Graduate Semester Minimum Grade of D or CEE 7772 Graduate Semester Minimum Grade of D or CHBE 7772 Graduate Semester Minimum Grade of D or ME 7772 Graduate Semester Minimum Grade of D or MSE 7772 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:44.314Z"
+}

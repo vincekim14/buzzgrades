@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "4161",
+  "courseId": "ECON 4161",
+  "title": "Mach Learning for Econ",
+  "description": "Introduction to the use of Machine Learning in economic analysis. Students will learn popular Machine Learning techniques and the application of these tools in economics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:24.921Z"
+}

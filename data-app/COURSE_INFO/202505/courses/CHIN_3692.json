@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CHIN",
+  "courseNumber": "3692",
+  "courseId": "CHIN 3692",
+  "title": "Business Chinese",
+  "description": "Acquisition of business technology, protocols, decorum strategies and improvement of oral communication skills. Reading and writing of notes, correspondence, and reports. Part of the summer language program (LBAT). Admission by application only.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:53.306Z"
+}

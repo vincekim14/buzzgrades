@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PHIL",
+  "courseNumber": "4176",
+  "courseId": "PHIL 4176",
+  "title": "Environmental Ethics",
+  "description": "Conceptual and normative foundations of environmental attitudes and values.  Impacts of traditional and modern beliefs that shape human attitudes toward nature on creating a more compatible relationship between humans and their environment.  Credit not allowed for both PHIL 4176 and PST 4176.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:37.745Z"
+}

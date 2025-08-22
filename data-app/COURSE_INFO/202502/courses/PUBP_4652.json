@@ -1,0 +1,19 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "4652",
+  "courseId": "PUBP 4652",
+  "title": "OLA Legal Internship",
+  "description": "Supervised professional internship with the Georgia Tech Office of Legal Affairs.",
+  "creditHours": "1 to 3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Must be enrolled in one of the following Classes:",
+    "__DETAIL_1__Junior (JR)",
+    "__DETAIL_1__Senior (SR)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PUBP 3610 Undergraduate Semester Minimum Grade of D or PUBP 4811 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:53.886Z"
+}

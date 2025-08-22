@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "2.2.3"
+openpyxl = "*"
+sqlalchemy = "*"
+requests = "*"
+nameparser = "*"
+scipy = "*"
+aiohttp = "*"
+ratemyprofessorapi = "*"
+gql = "*"
+
+[dev-packages]

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4180",
+  "courseId": "ECE 4180",
+  "title": "Embedded Systems Design",
+  "description": "Processors, chipsets, busses, and I/O devices for high-ended embedded systems. Embedded operating systems; device drivers and applications for embedded systems.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2031 Undergraduate Semester Minimum Grade of D and (ECE 2036 Undergraduate Semester Minimum Grade of D or ECE 2035 Undergraduate Semester Minimum Grade of D) or ((CS 3510 Undergraduate Semester Minimum Grade of D or CS 3511 Undergraduate Semester Minimum Grade of D) or CS 3240 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:39:07.825Z"
+}

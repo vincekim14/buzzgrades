@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "NRE",
+  "courseNumber": "6505",
+  "courseId": "NRE 6505",
+  "title": "Fund of Nucl Nonprolif",
+  "description": "This course explores the fundamentals of nuclear energy generation, pathways of materials misuse, the implication of nuclear technology for international security and policy.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:15.946Z"
+}

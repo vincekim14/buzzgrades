@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CSE",
+  "courseNumber": "6040",
+  "courseId": "CSE 6040",
+  "title": "Computing for Data Analy",
+  "description": "Computational techniques needed for data analysis; programming, accessing databases, multidimensional arrays, basic numerical computing, and visualization; hands-on applications and case studies. Credit is will not be awarded for both CSE 6040 and CX 4240.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1371 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:40.645Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CHEM",
+  "courseNumber": "4775",
+  "courseId": "CHEM 4775",
+  "title": "Polymer Science &amp; Engr I",
+  "description": "An introduction to the chemistry, structure, and formation of polymers, physical states and transitions, physical and mechanical properties of polymer fluids and solids. Crosslisted with CHE, ME, MSE, and PTFE 4775.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHEM 2312 Undergraduate Semester Minimum Grade of D or CHEM 1315 Undergraduate Semester Minimum Grade of D) and (CHEM 3411 Undergraduate Semester Minimum Grade of D or MSE 3001 Undergraduate Semester Minimum Grade of D or CHBE 2130 Undergraduate Semester Minimum Grade of D or CHBE 2140 Undergraduate Semester Minimum Grade of D or ME 3322 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:38:50.733Z"
+}

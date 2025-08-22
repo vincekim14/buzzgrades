@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "4061",
+  "courseId": "ID 4061",
+  "title": "ID Capstone Des Studio 1",
+  "description": "Comprehensive team-based projects incorporating an iterative approach to design development of products, & systems with emphasis on integration of research, user-centered design, prototyping, usability and testing.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 3032 Undergraduate Semester Minimum Grade of C or ID 3042 Undergraduate Semester Minimum Grade of C or ID 3052 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:41:20.077Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4290",
+  "courseId": "CS 4290",
+  "title": "Advanced Computer Org",
+  "description": "Topics concerning the hardware design of computer systems. Advanced techniques in high-performance pipelined central processing units. Memory and I/O systems. Parallel processors including shared-memory multiprocessors and cluster computers.  Credit is not allowed for both CS 4290 and any of the following courses:  CS 6290, ECE 4100, ECE 6100.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2200 Undergraduate Semester Minimum Grade of C or ECE 3057 Undergraduate Semester Minimum Grade of C or ECE 3058 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:26.922Z"
+}

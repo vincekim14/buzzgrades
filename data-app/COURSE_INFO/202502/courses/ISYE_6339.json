@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "6339",
+  "courseId": "ISYE 6339",
+  "title": "Supply Chain Info Sys",
+  "description": "Planning and executing systems for inventory, warehousing, transportation, import/export, etc.  Services-oriented architecture, cloud computing; systems integration; RFID and other technologies for scanning and monitoring.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6333 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:37.955Z"
+}

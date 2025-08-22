@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CHIN",
+  "courseNumber": "2001",
+  "courseId": "CHIN 2001",
+  "title": "Intermediate Chinese I",
+  "description": "A rapid review of grammar with continued use of listening, speaking, reading, and writing skills in Chinese (Mandarin), all with a cultural emphasis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:37.000Z"
+}

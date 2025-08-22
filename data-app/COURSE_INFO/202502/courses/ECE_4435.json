@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4435",
+  "courseId": "ECE 4435",
+  "title": "Operational Amp Design",
+  "description": "Analysis and design techniques for utilization of integrated circuit operational amplifiers for applications in electronic systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3041 Undergraduate Semester Minimum Grade of C or ECE 3043 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:44.858Z"
+}

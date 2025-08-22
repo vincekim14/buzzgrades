@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "6224",
+  "courseId": "EAS 6224",
+  "title": "Mineral Surface Geochem",
+  "description": "Fundamental principles concerning mineral surface properties, element distribution at the mineral-water interface, and analytical techniques relevant to interfacial reactions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:12.744Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "HTS",
+  "courseNumber": "6124",
+  "courseId": "HTS 6124",
+  "title": "Sci&amp;Tech Beyond Borders",
+  "description": "Discusses the roles of science and technology as instruments of social control and of social change in development and modernization.  Credit not allowed for both HTS 6124 and HTS 6104.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:51.117Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6197",
+  "courseId": "MGT 6197",
+  "title": "Global Strategic Mgt",
+  "description": "This course provides a forum for the analysis of managerial and organizational demands associated with effectively competing in global industries. Students will learn strategic concepts, analytical frameworks, and heuristics for taking strategic decisions in the global context, such where to compete around the globe, which products and services to offer in which locations, where to locate business operations, and how to organize and effectively coordinate global activities",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:41.806Z"
+}

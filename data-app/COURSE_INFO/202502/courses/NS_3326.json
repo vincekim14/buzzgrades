@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "NS",
+  "courseNumber": "3326",
+  "courseId": "NS 3326",
+  "title": "Naval Engineering Sys",
+  "description": "This course develops and broadens the student's understanding of basic engineering concepts and priciples as applied to naval engineering plants.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:07.591Z"
+}

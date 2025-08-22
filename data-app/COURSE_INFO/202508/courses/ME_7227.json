@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "7227",
+  "courseId": "ME 7227",
+  "title": "Addit Mfg &amp; Rapid Prototyping",
+  "description": "Rapid prototyping technologies in engineering design. Physical principles, materials, materials processing. Laboratory demonstrations and project.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 6104 Graduate Semester Minimum Grade of D and ME 6222 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:34.635Z"
+}

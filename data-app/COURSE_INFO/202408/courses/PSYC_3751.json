@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PSYC",
+  "courseNumber": "3751",
+  "courseId": "PSYC 3751",
+  "title": "Intro UI Design",
+  "description": "Describes the characteristics of interaction between humans and computers and demonstrates techniques for the design and evaluation of user interfaces and computational systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:54.790Z"
+}

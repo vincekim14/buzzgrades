@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4189",
+  "courseId": "MGT 4189",
+  "title": "Social Impact-Exp&amp;Design",
+  "description": "This is a project-based course that is focused on system-level exploration of social issues and provides opportunities for leadership development and working in teams.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:31.168Z"
+}

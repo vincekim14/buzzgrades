@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHEM",
+  "courseNumber": "3521",
+  "courseId": "CHEM 3521",
+  "title": "Biochemistry I",
+  "description": "The chemistry and biochemistry of proteins, lipids, carbohydrates, nucleic acids, and other biomolecules. Credit not awarded for both CHEM 3521 and (CHEM 4511 or CHEM 3511).",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 2311 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:27.564Z"
+}

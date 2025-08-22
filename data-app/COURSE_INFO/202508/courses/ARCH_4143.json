@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "4143",
+  "courseId": "ARCH 4143",
+  "title": "Museums Hist Theo Des",
+  "description": "Investigates museums as manifestations of the construction and content of knowledge, the public mission of cultural and scientific institutions and the framing of visitors experience.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 2111 Undergraduate Semester Minimum Grade of D and ARCH 2112 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:17.442Z"
+}

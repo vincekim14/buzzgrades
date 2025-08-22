@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4520",
+  "courseId": "CEE 4520",
+  "title": "Reinforced Concrete Dsgn",
+  "description": "Principles of behavior of reinforced concrete beams, short columns, and slabs, with application to the design of elementary concrete structures, foundation, and earth- retaining structures.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3055 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:23.890Z"
+}

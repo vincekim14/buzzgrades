@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4011",
+  "courseId": "ME 4011",
+  "title": "IC Engines",
+  "description": "Analysis and design of various types of engines used in transportation systems. Topics include advances in energy efficiency and emissions in automotive applicatons.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3345 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:29.016Z"
+}

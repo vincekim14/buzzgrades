@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "6312",
+  "courseId": "EAS 6312",
+  "title": "Geodynamics",
+  "description": "Quantitative discussion of dynamical processes in the solid Earth; viscous flow, glacial rebound, fluid dynamical instabilities, thermal convection; lithospheric dynamics; evolution of the core.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "EAS 6311 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:19.103Z"
+}

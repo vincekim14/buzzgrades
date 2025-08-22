@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "8001",
+  "courseId": "ME 8001",
+  "title": "Master Seminar I",
+  "description": "Seminars for MSME students.  Credit not allowed for both ME 8001 and ECE 8001.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:04.333Z"
+}

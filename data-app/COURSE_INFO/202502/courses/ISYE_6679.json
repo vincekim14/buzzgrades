@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "6679",
+  "courseId": "ISYE 6679",
+  "title": "Computational Methods",
+  "description": "Strategies and techniques for converting optimization theory into effective computational procedures.  Emphasis is on applications in linear, integer, and nonlinear programming; networks and graphs.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6669 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:42.458Z"
+}

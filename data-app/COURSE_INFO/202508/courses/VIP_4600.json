@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "VIP",
+  "courseNumber": "4600",
+  "courseId": "VIP 4600",
+  "title": "VIP Proj Team: SR",
+  "description": "Zero-credit course for students receiving pay/stipends for participation in VIP courses.  Students held to same grading standards as VIP 4601/4602; can participate multiple semesters; no volunteers.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:45:12.465Z"
+}

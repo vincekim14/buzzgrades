@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "4740",
+  "courseId": "MATH 4740",
+  "title": "Comp Meth for Simul &amp; ML",
+  "description": "Introduction to numerical methods which are fundamental in modeling, simulation, and machine learning.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 2411 Undergraduate Semester Minimum Grade of D or MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2561 Undergraduate Semester Minimum Grade of D or MATH 2550 Undergraduate Semester Minimum Grade of D or MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2605 Undergraduate Semester Minimum Grade of D) and MATH 3406 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:05.413Z"
+}

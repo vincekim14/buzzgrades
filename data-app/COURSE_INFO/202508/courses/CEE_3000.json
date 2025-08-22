@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "3000",
+  "courseId": "CEE 3000",
+  "title": "Civil Engr Systems",
+  "description": "Infrastructure viewed from a systems perspective; analytical approaches and modeling of civil-engineered facilities; sustainability; engineering economy applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1501 Undergraduate Semester Minimum Grade of D or MATH 1511 Undergraduate Semester Minimum Grade of D or MATH 15X1 Undergraduate Semester Minimum Grade of T or MATH 1551 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:51.224Z"
+}

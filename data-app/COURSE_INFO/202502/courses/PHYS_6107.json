@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PHYS",
+  "courseNumber": "6107",
+  "courseId": "PHYS 6107",
+  "title": "Statistical Mechanics I",
+  "description": "Equilibrium statistical mechanics for closed and open systems. Probability distribution for classical and quantum systems.  Partition functions and associated thermodynamical potentials.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:28.894Z"
+}

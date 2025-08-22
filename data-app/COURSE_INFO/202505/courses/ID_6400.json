@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ID",
+  "courseNumber": "6400",
+  "courseId": "ID 6400",
+  "title": "Master&#39;s Project",
+  "description": "Under the guidance of a faculty member, students explore a design project that relates to advance theoritical  research through a human prespective with a design and/or technology  focus on a product.  The project may include areas  in instructional design, human-computer interaction, learning, neuroscience, perception, product design, user-centered design, and usability.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 6101 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:53.112Z"
+}

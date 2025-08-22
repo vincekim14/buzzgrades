@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "7121",
+  "courseId": "ECON 7121",
+  "title": "International Econ I",
+  "description": "Topics include Ricardian and Hecksher-Ohlin models, extensions to many goods and factors, trade in intermediate inputs and wages, increasing returns, gains from trade and regional agreements, import tariffs and dumping, import quotas and export subsidies, political economy of trade policy and trade and endogenous growth. It also examines the relationship between international trade, foreign direct investment and technological innovation and diffusion.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 7013 Graduate Semester Minimum Grade of D and ECON 7015 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:30.599Z"
+}

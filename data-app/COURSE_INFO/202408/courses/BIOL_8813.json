@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOL",
+  "courseNumber": "8813",
+  "courseId": "BIOL 8813",
+  "title": " Biodiversity: Changing Planet",
+  "description": "Special Topics in Biology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:10.456Z"
+}

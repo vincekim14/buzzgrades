@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BIOS",
+  "courseNumber": "3754",
+  "courseId": "BIOS 3754",
+  "title": "Anatomy Lab",
+  "description": "A detailed hands-on study of human structure using high resolution models, specialized specimens and dissection of selected mammalian organs and tissues.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "((BIOS 1108 Undergraduate Semester Minimum Grade of D and BIOS 1108L Undergraduate Semester Minimum Grade of D) or (BIOS 1208 Undergraduate Semester Minimum Grade of D and BIOS 1208L Undergraduate Semester Minimum Grade of D) or BIOL 1520 Undergraduate Semester Minimum Grade of D or BIOL 1520 Undergraduate Semester Minimum Grade of D) or (CHEM 1211K Undergraduate Semester Minimum Grade of D or CHEM 1310 Undergraduate Semester Minimum Grade of D) and BIOS 3753 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:33.716Z"
+}

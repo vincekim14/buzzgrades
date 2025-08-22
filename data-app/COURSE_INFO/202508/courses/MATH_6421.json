@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "6421",
+  "courseId": "MATH 6421",
+  "title": "Algebraic Geometry I",
+  "description": "The study of zero sets of polynomials: algebraic varieties, regular and rational mappings, the Zariski topology.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4107 Undergraduate Semester Minimum Grade of D and MATH 6121 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:09.223Z"
+}

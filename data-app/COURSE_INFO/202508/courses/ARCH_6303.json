@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "6303",
+  "courseId": "ARCH 6303",
+  "title": "Urban Design Policy",
+  "description": "Introduction to urban design policy and practice across a range of scales including planning, architecture, landscape architecture, civil engineering, public policy and administration.  Credit not allowed for both ARCH 6303 and CP 6834.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:23.153Z"
+}

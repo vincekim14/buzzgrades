@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "3180",
+  "courseId": "ME 3180",
+  "title": "Machine Design",
+  "description": "The selection, analysis, and synthesis of springs, joining and fastening methods, bearings, shafts, gears, and other elements.  Design of assemblies. Computer-based methods.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(AE 1770 Undergraduate Semester Minimum Grade of D or CEE 1770 Undergraduate Semester Minimum Grade of D or ME 1770 Undergraduate Semester Minimum Grade of D) and ME 2110 Undergraduate Semester Minimum Grade of D and COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:45.333Z"
+}

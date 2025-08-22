@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "3750",
+  "courseId": "CS 3750",
+  "title": "User Interface Design",
+  "description": "Human computer interface is considered in terms of user-system compatibility. Concepts in human factors and interface design are covered in relation to capabilities of both humans and computers. Crosslisted with PSYC 3750.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:12.671Z"
+}

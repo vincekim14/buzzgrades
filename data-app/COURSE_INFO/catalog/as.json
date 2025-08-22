@@ -1,0 +1,81 @@
+{
+  "subject": "AS",
+  "subjectName": "Air Force Aerospace Studies (AS)",
+  "url": "https://catalog.gatech.edu/coursesaz/as/",
+  "courses": [
+    {
+      "subjectCode": "AS",
+      "courseNumber": "1000",
+      "courseId": "AS 1000",
+      "title": "Air Force Leadership-Lab",
+      "description": "Air Force customs and courtesies, drill and ceremonies, and introduction to the military environment. Emphasis on developing the leadership and interpersonal skills needed of Air Force officers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AS",
+      "courseNumber": "1110",
+      "courseId": "AS 1110",
+      "title": "Heritage and Values of the Air Force I",
+      "description": "A survey course designed to introduce students to the Department of the Air Force (DAF) and provides an overview of the basic characteristics, missions, communications and organization of the Air and Space Forces. Topics include: Formation of the Air Force, Military Customs and Courtesies, and Introduction to Leadership. Leadership Laboratory is mandatory for AFROTC cadets and complements this course.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AS",
+      "courseNumber": "1120",
+      "courseId": "AS 1120",
+      "title": "Heritage and Values of the Air Force II",
+      "description": "A survey course designed to introduce students to the Department of the Air Force (DAF) and provides an overview of the basic characteristics, missions, communications and organization of the Air and Space Forces. Topics include: What is War?, Principles of War and Tenets of Airpower, and What the Department of the Air Force Brings to the Fight. Leadership Laboratory is mandatory for AFROTC cadets and complements this course.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AS",
+      "courseNumber": "2210",
+      "courseId": "AS 2210",
+      "title": "U.S. Air and Space Power Fundamentals I",
+      "description": "This course provides a fundamental understanding of both leadership and team building. The lessons and course flow are designed to prepare students for field training and leadership positions in the detachment. Topics include: Listening, Full-Range Leadership, and Standards and Accountability. Leadership Laboratory is mandatory for AFROTC cadets and complements this course.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AS",
+      "courseNumber": "2220",
+      "courseId": "AS 2220",
+      "title": "U.S. Air and Space Power Fundamentals II",
+      "description": "This course provides a fundamental understanding of both leadership and team building. The lessons and course flow are designed to prepare students for field training and leadership positions in the detachment. Topics include: Human Relations, Conflict Management, and Stress Management and Resiliency. Leadership Laboratory is mandatory for AFROTC cadets and complements this course.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AS",
+      "courseNumber": "3310",
+      "courseId": "AS 3310",
+      "title": "Leading People and Effective Communication I",
+      "description": "This course utilizes student’s field training experience to take a more in-depth look at leadership. Special emphasis is placed on enhancing communication skills, and why that is important as a leader. Students have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors. Topics include: Change Management, Leading Diverse Organizations, and Managing Competing Priorities. Leadership Laboratory is mandatory for AFROTC cadets and complements this course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AS",
+      "courseNumber": "3320",
+      "courseId": "AS 3320",
+      "title": "Leading People and Effective Communication II",
+      "description": "This course utilizes student’s field training experience to take a more in-depth look at leadership. Special emphasis is placed on enhancing communication skills, and why that is important as a leader. Students have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors. Topics include: Mentoring, Ethical Decision Making, and Establishing Expectations. Leadership Laboratory is mandatory for AFROTC cadets and complements this course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AS",
+      "courseNumber": "4410",
+      "courseId": "AS 4410",
+      "title": "National Security and Preparation for Active Duty I",
+      "description": "This course is designed for college seniors and provides them the foundation to understand their role as military officers and how they are directly tied to our National Security Strategy. It is an overview of the complex social and political issues facing the military profession and requires a measure of sophistication commensurate with the senior college level. Topics include: National Security Strategy, The Total Force, and Capabilities and Force Packaging. Leadership Laboratory is mandatory for AFROTC cadets and complements this course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AS",
+      "courseNumber": "4420",
+      "courseId": "AS 4420",
+      "title": "National Security and Preparation for Active Duty II",
+      "description": "This course is designed for college seniors and provides them the foundation to understand their role as military officers and how they are directly tied to our National Security Strategy. It is an overview of the complex social and political issues facing the military profession and requires a measure of sophistication commensurate with the senior college level. Topics include: Leadership Authority and Responsibility, Military Justice, and Airmen Comprehensive Assessment. Leadership Laboratory is mandatory for AFROTC cadets and complements this course.",
+      "creditHours": "3"
+    }
+  ],
+  "totalCourses": 9,
+  "scrapedAt": "2025-08-16T02:00:31.144Z"
+}

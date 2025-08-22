@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CP",
+  "courseNumber": "4105",
+  "courseId": "CP 4105",
+  "title": "Land Conservation",
+  "description": "This course considers the distinctive American view of land and history of the conservation movement, then discusses the why and how of modern land conservation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:47.705Z"
+}

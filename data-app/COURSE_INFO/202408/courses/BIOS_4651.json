@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOS",
+  "courseNumber": "4651",
+  "courseId": "BIOS 4651",
+  "title": "Bioethics",
+  "description": "This course examines important bioethical issues in research, policy, medicine, and the environment in light of ethical theory and the process of scientific inquiry.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BIOS 1107 Undergraduate Semester Minimum Grade of D and BIOS 1107L Undergraduate Semester Minimum Grade of D) or (BIOS 1207 Undergraduate Semester Minimum Grade of D and BIOS 1207L Undergraduate Semester Minimum Grade of D) or BIOL 1510 Undergraduate Semester Minimum Grade of D or BIOL 1511 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:04.550Z"
+}

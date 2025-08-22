@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MSE",
+  "courseNumber": "3005",
+  "courseId": "MSE 3005",
+  "title": "Mech Behavior-Materials",
+  "description": "The correlation of mechanical properties with atomic bonding, microstructure, and micromechanics, for applications relevant to materials selection and design, mechanical forming, and failure of materials.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2001 Undergraduate Semester Minimum Grade of D and COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:14.039Z"
+}

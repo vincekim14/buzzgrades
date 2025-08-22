@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHBE",
+  "courseNumber": "4746",
+  "courseId": "CHBE 4746",
+  "title": "Data Driven Proc Sys Eng",
+  "description": "This course covers theory of optimization and data-driven modeling methods, and examples of data-driven decision-making in the chemical process industry.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 3225 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:36:22.783Z"
+}

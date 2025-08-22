@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CP",
+  "courseNumber": "4020",
+  "courseId": "CP 4020",
+  "title": "Intro-Urban&amp;Region Plan",
+  "description": "This course provides an overview of the planning of cities and metropolitan regions.  The legal and historical context as well as substantive areas of urban planning are addressed.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:07.751Z"
+}

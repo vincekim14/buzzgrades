@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "3603",
+  "courseId": "EAS 3603",
+  "title": "Thermodynamics-Earth Sys",
+  "description": "Introduction to the principles of equilinrium thermodynamics and physical chemistry with applications to the atmosphere, ocean, and solid earth.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 2211 Undergraduate Semester Minimum Grade of D and (MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2561 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:39:06.824Z"
+}

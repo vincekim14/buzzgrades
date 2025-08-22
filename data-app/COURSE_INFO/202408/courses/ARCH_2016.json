@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "2016",
+  "courseId": "ARCH 2016",
+  "title": "Architecture Studio 2",
+  "description": "Elementary design exercises exploring fundamental issues of form and space through analysis of architectural elements and compositions and their use in creative problem solving.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 2020",
+  "prerequisites": "ARCH 1017 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:35:43.708Z"
+}

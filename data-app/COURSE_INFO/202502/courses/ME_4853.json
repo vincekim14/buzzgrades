@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4853",
+  "courseId": "ME 4853",
+  "title": "ML fundamentals",
+  "description": "ME Special Topics with lab component",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:36.583Z"
+}

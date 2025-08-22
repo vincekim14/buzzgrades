@@ -1,0 +1,121 @@
+{
+  "subject": "MSL",
+  "subjectName": "Military Science & Leadership (MSL)",
+  "url": "https://catalog.gatech.edu/coursesaz/msl/",
+  "courses": [
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "1001",
+      "courseId": "MSL 1001",
+      "title": "Leadership and Personal Development",
+      "description": "Introduces cadets to the personal challenges and compentencies that are critical for effective leadership. Cadets learn how the personal development of life skills such as critical thinking, goal setting, time management, physical fitness, and stress management relate to leadership, officership, and the Army profession. The focus is on developing basic knowledge and comprehension of Army leadership dimensions while gaining a big picture understanding of the ROTC program, its purpose in the Army, and its advantages for the student.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "1002",
+      "courseId": "MSL 1002",
+      "title": "Introduction to Tactical Leadership",
+      "description": "Overviews leadership fundamentals such as setting direction, problem-solving, listening, presenting briefs, providing feed-back, and using elective writing skills. Cadets explore dimensions of leadership values, attributes, skills and actions in the context of practical, hands-on, and interactive exercises. Continued emphasis is placed on recruitment and retention of cadets. Cadre role models and the building of stronger relationships among the cadets through common exercise and practical interaction are critical aspects of this course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "2001",
+      "courseId": "MSL 2001",
+      "title": "Innovative Team Leadership",
+      "description": "Explores the dimensions of creative and innovative tactical leadership strategies and styles by examining team dynamics and two historical leadership theories that form the basis of the Army leadership framework (trait and behavior theories). Cadets practice aspects of personal motivation and team building in the context of planning, executing, and assessing team exercises and participating in leadership labs. Focus is on continued development of the knowledge of leadership values and attributes through an understanding of Army rank, structure, duties and basic aspects of land navigation and squad tactics. Case studies provide tangible context for learning the Soldier's Creed and Warrior Ethos as they apply in the contemporary operating environment (COE).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "2002",
+      "courseId": "MSL 2002",
+      "title": "Foundations of Tactical Leadership",
+      "description": "Examines the challenges of leading tactical teams in the complex contemporary operating environment (COE). The course highlights dimensions of terrain analysis, patrolling, and operation orders. Further study of the theoretical basis of the Army leadership framework explores the dynamics of adaptive leadership in the context of military operations. Cadets develop greater self awareness as they assess their own leadership styles ad practice communication and team building skills. COE case studies give insight into the importance and practice of teamwork and tactics in real-world scenarios.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "3001",
+      "courseId": "MSL 3001",
+      "title": "Adaptive Tactical Leadership",
+      "description": "Challenges cadets to study, practice, and evaluate adaptive leadership skills as they are presented with challenging scenarios related to squad tactical operations. Cadets receive systematic and specific feedback on their leadership attributes and actions. Based on such feedback, as well as their own self evaluations, cadets continue to develop their leadership and critical thinking abilities. The focus is developing cadets' tatical leadership abilities to enable them to succeed at ROTC's summer Leadership Development and Assessment Course (LDAC).",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "3002",
+      "courseId": "MSL 3002",
+      "title": "Leadership in Changing Environments",
+      "description": "Uses increasingly intense situational leadership challenges to build cadet awareness and skills in leading tactical operations up to platoon level. Cadets review aspects of combat, stability, and support operations. They also conduct military briefings and develop proficiency in garrison operation orders. The focus is on exploring, evaluating, and developing skills in decision-making, persuading, and motivating team members in the contemporary operating environment (COE). Cadets are evaluated on what they know, and do as leaders as they prepare to attend the ROTC summer Leadership Develpment Assessment Course (LDAC).",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "4001",
+      "courseId": "MSL 4001",
+      "title": "Developing Adaptive Leaders",
+      "description": "Develops cadet proficiency in planning, executing, and assessing complex operations, funtioning as a member of a staff, and providing performance feedback to subordinates. Cadets assess risk, make ethical decisions, and lead fellow ROTC cadets. Lessons on military justice and personnel processes prepare cadets to make the transition to Army officers. MSIV cadets analyze, evaluate, and instruct cadets at lower levels. Both their classroom and battalion leadership experiences are designed to prepare cades for their first unit of assignment. They identify responsibilities of key staff, coordinate staff roles, and use situational opportunitites to teach, train, and develop subordinates.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "4002",
+      "courseId": "MSL 4002",
+      "title": "Leadership in a Complex World",
+      "description": "Explores the dynamics of leading in the complex situations of current military operations in the contemporary operating environment (COE). Cadets examine differences in customes and courtesies, military law, principles of war, and rules of engagement in the face of international terrorism. They also explore aspects of interacting with non-government organizations, civilians on the battlefield, and host national support. The course places significant emphasis on preparing cadets for their first unit of assignment. It uses case studies, scenarios, and \"What now Lieutenant?\" exercises to prepare cadets to face the complex ethical and practical demands of leading as commissioned officers in the United States Army.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "4801",
+      "courseId": "MSL 4801",
+      "title": "Special Topics",
+      "description": "Topics and research will pursue areas of military science not extensively treated in other Military Science courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "4802",
+      "courseId": "MSL 4802",
+      "title": "Special Topics",
+      "description": "Topics and research will pursue areas of military science not extensively treated in other Military Science courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "4803",
+      "courseId": "MSL 4803",
+      "title": "Special Topics",
+      "description": "Topics and research will pursue areas of military science not extensively treated in other Military Science courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "4804",
+      "courseId": "MSL 4804",
+      "title": "Special Topics",
+      "description": "Topics and research will pursue areas of military science not extensively treated in other Military Science courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "4805",
+      "courseId": "MSL 4805",
+      "title": "Special Topics",
+      "description": "Topics and research will pursue areas of military science not extensively treated in other Military Science courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MSL",
+      "courseNumber": "4901",
+      "courseId": "MSL 4901",
+      "title": "Special Problems",
+      "description": "Permits independent study with a faculty member. Topics and research will pursue areas of military science not extensively treated in any other Military Science class.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 14,
+  "scrapedAt": "2025-08-16T02:00:46.101Z"
+}

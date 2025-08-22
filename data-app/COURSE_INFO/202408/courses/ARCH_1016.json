@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "1016",
+  "courseId": "ARCH 1016",
+  "title": "Foundation Studio 1",
+  "description": "Introduction to creative problem-solving and the design realization cycle through project-based design exercises that emphasize the role of representation.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 1060",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:43.057Z"
+}

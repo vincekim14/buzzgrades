@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "6014",
+  "courseId": "MATH 6014",
+  "title": "Graph Theory",
+  "description": "Fundamentals, connectivity, matchings, colorings, extremal problems, Ramsey theory, planar graphs, perfect graphs. Applications to operations research and the design of efficient algorithms.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4022 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:06.969Z"
+}

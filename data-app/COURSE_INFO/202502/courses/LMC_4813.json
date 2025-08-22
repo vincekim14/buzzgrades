@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "4813",
+  "courseId": "LMC 4813",
+  "title": "Creative Portfolio",
+  "description": "Topics of interest not covered in the regular course offerings.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:12.902Z"
+}

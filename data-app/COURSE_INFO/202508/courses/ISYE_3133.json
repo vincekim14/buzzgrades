@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ISYE",
+  "courseNumber": "3133",
+  "courseId": "ISYE 3133",
+  "title": "Engineering Optimization",
+  "description": "Topics include modeling with networks and graphs; linear, nonlinear, and integer programming, construction of models employing modern modeling languages; and general solution strategies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ISYE 2027 Undergraduate Semester Minimum Grade of D and (MATH 2602 Undergraduate Semester Minimum Grade of C or MATH 2603 Undergraduate Semester Minimum Grade of C) and CS 2316 Undergraduate Semester Minimum Grade of D) or (MATH 3215 Undergraduate Semester Minimum Grade of C or MATH 3225 Undergraduate Semester Minimum Grade of C or MATH 3235 Undergraduate Semester Minimum Grade of C or MATH 3236 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:40:55.057Z"
+}

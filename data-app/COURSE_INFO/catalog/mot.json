@@ -1,0 +1,209 @@
+{
+  "subject": "MOT",
+  "subjectName": "Management of Technology (MOT)",
+  "url": "https://catalog.gatech.edu/coursesaz/mot/",
+  "courses": [
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6102",
+      "courseId": "MOT 6102",
+      "title": "Economic Analysis for Managers",
+      "description": "Studies the economic concepts that describe and explain the environment within which firms operate.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6103",
+      "courseId": "MOT 6103",
+      "title": "Financial and Managerial Accounting",
+      "description": "Covers the basic concepts that underlie the use of accounting information.  Includes balance sheet, income statement, alternative costing systems.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6104",
+      "courseId": "MOT 6104",
+      "title": "Financial Management in an Environment of Technological",
+      "description": "Change. Course focuses on financial concepts and how they are used to maximize the value of the firm and choose among alternative courses of action.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6105",
+      "courseId": "MOT 6105",
+      "title": "Analytical Tools for Decision Support",
+      "description": "This course focuses on statistics and mathematical modeling of use to decision makers in technology environments with significant uncertainty.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6106",
+      "courseId": "MOT 6106",
+      "title": "Processes of Technological Innovation",
+      "description": "This course addresses the processes involved in technological innovation, focusing on models, sources, flows, and the protection of innovation.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6107",
+      "courseId": "MOT 6107",
+      "title": "Technology Strategies in Information Systems",
+      "description": "This course examines information systems and their impact in manufacturing and service operations.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6109",
+      "courseId": "MOT 6109",
+      "title": "Managing People in a Technical Environment",
+      "description": "This course focuses on the management and leadership of people and human resource systems in modern organizations.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6110",
+      "courseId": "MOT 6110",
+      "title": "Technology and Transformational Work Processes",
+      "description": "This course focuses on how work processes within organizations can be designed and managed to optimize output effectiveness.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6111",
+      "courseId": "MOT 6111",
+      "title": "Strategy Execution",
+      "description": "This course introduces methods to adapt, evolve, or create change in the way organizations structure themselves to increase effectiveness in responding to competitive demands.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6112",
+      "courseId": "MOT 6112",
+      "title": "Marketing in a Technical Environment",
+      "description": "This course focuses on the marketing function, its relationship to other functions within the firm, and its strategic significance to high-tech organizations.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6114",
+      "courseId": "MOT 6114",
+      "title": "Seminar in the Management of Technology",
+      "description": "This seminar features senior executives from organizations that develop or use technology discussing current practices, policies, and issues.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6115",
+      "courseId": "MOT 6115",
+      "title": "AI & Machine Learning for Business",
+      "description": "This course examines key emerging technologies, their development patterns, and the associated impact on industries, industrial competitiveness, and society.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6116",
+      "courseId": "MOT 6116",
+      "title": "Strategy in Management of Technology",
+      "description": "This course examines and discusses how technology-based firms develop and implement business, functional, and technology strategies.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6122",
+      "courseId": "MOT 6122",
+      "title": "Management of Technology Project III",
+      "description": "Participants complete their MOT project research, submit a written report, and present their results to their organization.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6124",
+      "courseId": "MOT 6124",
+      "title": "Business and Leadership Skills",
+      "description": "Participant's technological, business, and leadership skills (communications, teamwork, conflict resolution, diversity) are enhanced.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6125",
+      "courseId": "MOT 6125",
+      "title": "Creating Technology Ventures",
+      "description": "This course covers the issues associated with the earliest stages of new technology venture formation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6126",
+      "courseId": "MOT 6126",
+      "title": "International Issues in the Management of Technology",
+      "description": "Global business issues and strategies are explored through an international study tour.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6127",
+      "courseId": "MOT 6127",
+      "title": "Building Technology Ventures",
+      "description": "The foucs of this course is on learning how to manage rapid growth in a technology venture.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6128",
+      "courseId": "MOT 6128",
+      "title": "Venture Financing",
+      "description": "In this course students learn various methods for raising capital to fund new ventures.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6129",
+      "courseId": "MOT 6129",
+      "title": "International Business and Finance",
+      "description": "The purpose of this course is to develop students' understanding of global business and finance.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6130",
+      "courseId": "MOT 6130",
+      "title": "Management of Technology Project I",
+      "description": "Participant's develop and present a proposal for a technology-based team venture project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6131",
+      "courseId": "MOT 6131",
+      "title": "Management of Technology Project II",
+      "description": "Participant's execute their MOT venture project, including marketing and financial analyses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6132",
+      "courseId": "MOT 6132",
+      "title": "Management of Technology Project I",
+      "description": "First in a sequence of three courses where students execute their new venture project. During this segment, they focus on concept definition and team formation.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6133",
+      "courseId": "MOT 6133",
+      "title": "Ethical Decision Making",
+      "description": "This course focuses on understanding and applying ethical decision making practices in business.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MOT",
+      "courseNumber": "6134",
+      "courseId": "MOT 6134",
+      "title": "Management of Technology Project II",
+      "description": "Second in a sequence of three courses where students execute their new venture project. During this segment, they focus on marketing and financial analyses of their new technology venture.",
+      "creditHours": "2"
+    }
+  ],
+  "totalCourses": 25,
+  "scrapedAt": "2025-08-16T02:00:45.476Z"
+}

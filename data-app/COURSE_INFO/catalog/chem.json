@@ -1,0 +1,1313 @@
+{
+  "subject": "CHEM",
+  "subjectName": "Chemistry (CHEM)",
+  "url": "https://catalog.gatech.edu/coursesaz/chem/",
+  "courses": [
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "1211K",
+      "courseId": "CHEM 1211K",
+      "title": "Principles of Chemistry I",
+      "description": "First course in a two-semester sequence covering the fundamental principles and applications of chemistry designed for science majors. Topics to be covered include composition of matter, stoichiometry, periodic relations, and nomenclature. Laboratory exercises supplement the lecture material. Credit not allowed for both CHEM 1310 and CHEM 1211K.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "1211R",
+      "courseId": "CHEM 1211R",
+      "title": "Chemical Principles I Recitation",
+      "description": "Recitation to support the conceptual and algorithmic foundations of Chemical Principles I with additional focus on study skills and general problem-solving approaches.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "1212K",
+      "courseId": "CHEM 1212K",
+      "title": "Principles of Chemistry II",
+      "description": "Second course in a two-semester sequence covering the fundamental principles and applications of chemistry designed for science majors. Laboratory exercises supplement the lecture material.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "1212R",
+      "courseId": "CHEM 1212R",
+      "title": "Chemical Principles II Recitation",
+      "description": "Recitation to support the conceptual and algorithmic foundations of Chemical Principles II with additional focus on study skills and general problem-solving approaches.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "1310",
+      "courseId": "CHEM 1310",
+      "title": "Principles of General Chemistry for Engineers",
+      "description": "A first course in chemistry, surveying its fundamental laws and theories, for some engineering majors. It can serve as the first course in a two course sequence where CHEM 1315 is the second course. Topics include atomic structure; bonding theory; stoichiometry; properties of solids, liquids and gases; chemical thermodynamics; electrochemistry; and kinetics. Credit not allowed for both CHEM 1310 and CHEM 1211K.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "1315",
+      "courseId": "CHEM 1315",
+      "title": "Survey of Organic Chemistry for Engineers",
+      "description": "Second or third course in chemistry for some engineering majors. The principles of organic chemistry will be surveyed as a basis for understanding materials, biochemical processes and applications. Credit not awarded for both CHEM 1315 and CHEM 2311.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "1801",
+      "courseId": "CHEM 1801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "1802",
+      "courseId": "CHEM 1802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "1803",
+      "courseId": "CHEM 1803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2211",
+      "courseId": "CHEM 2211",
+      "title": "Introduction to Quantitative Analysis",
+      "description": "Laboratory experimentation emphasizing quantitative chemical analysis.  Credit not allowed for both CHEM 2211 and CHEM 1313.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2214",
+      "courseId": "CHEM 2214",
+      "title": "Quantitative Chemical Analysis",
+      "description": "Theory and laboratory of quantitative chemical analysis.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2214R",
+      "courseId": "CHEM 2214R",
+      "title": "CHEM 2214 Recitation",
+      "description": "Recitation for Theory and laboratory of quantitative chemical analysis.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2216",
+      "courseId": "CHEM 2216",
+      "title": "Quantitative Chemical Analysis",
+      "description": "Theory of quantitative chemical analysis.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2216L",
+      "courseId": "CHEM 2216L",
+      "title": "Quantitative Chemical Analysis Laboratory",
+      "description": "Laboratory practice of quantitative chemical analysis.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2216R",
+      "courseId": "CHEM 2216R",
+      "title": "Quantitative Chemical Analysis Recitation",
+      "description": "Recitation to support the theory of quantitative chemical analysis.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2311",
+      "courseId": "CHEM 2311",
+      "title": "Organic Chemistry I",
+      "description": "An introduction to structure and reactivity of organic molecules. Credit not awarded for both CHEM 2311 and CHEM 1315.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2312",
+      "courseId": "CHEM 2312",
+      "title": "Organic Chemistry II",
+      "description": "The second course in the series dealing with the structure and reactivity of organic molecules. Credit not awarded for both CHEM 2312 and CHEM 2313.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2313",
+      "courseId": "CHEM 2313",
+      "title": "Organic and Bioorganic Chemistry",
+      "description": "A second course in organic chemistry that extends the study to topics in biochemistry. Credit not awarded for both CHEM 2313 and CHEM 2312.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2380",
+      "courseId": "CHEM 2380",
+      "title": "Synthesis Laboratory I",
+      "description": "Methods for preparation, isolation, and characterization of complex organic molecules, natural products, and polymers.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2380U",
+      "courseId": "CHEM 2380U",
+      "title": "Synthesis Laboratory I",
+      "description": "Methods for preparation, isolation, and characterization of complex organic molecules, natural products, and polymers. Please note: This is the summer version of CHEM 2380-Synthesis Lab I.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2601",
+      "courseId": "CHEM 2601",
+      "title": "Professional Skills for Chemists and Biochemists",
+      "description": "An introduction to technical and communication skills utilized in upper level chemistry and biochemistry courses with additional focus on resume building and professional development.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2694",
+      "courseId": "CHEM 2694",
+      "title": "Intern Assistantship (Undergraduate Internship for Pay)",
+      "description": "Undergraduate Internship for which the student is paid, Freshmen and Sophomores only.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2695",
+      "courseId": "CHEM 2695",
+      "title": "Undergraduate Internship (Undergraduate Internship for Academic Credit)",
+      "description": "Undergraduate Internship for academic credit, Freshmen and Sophomores only.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2698",
+      "courseId": "CHEM 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2699",
+      "courseId": "CHEM 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2801",
+      "courseId": "CHEM 2801",
+      "title": "Special Topics",
+      "description": "Lecture course in current special topics in chemistry and biochemistry. Topics will vary from year to year.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2802",
+      "courseId": "CHEM 2802",
+      "title": "Special Topics",
+      "description": "Lecture course in current special topics in chemistry and biochemistry. Topics will vary from year to year.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2803",
+      "courseId": "CHEM 2803",
+      "title": "Special Topics",
+      "description": "Lecture course in current special topics in chemistry and biochemistry. Topics will vary from year to year.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2804",
+      "courseId": "CHEM 2804",
+      "title": "Special Topics",
+      "description": "Lecture course in current special topics in chemistry and biochemistry. Topics will vary.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2812",
+      "courseId": "CHEM 2812",
+      "title": "Special Topics",
+      "description": "Lecture course in current special topics in chemistry and biochemistry. Topics will vary from year to year.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2832",
+      "courseId": "CHEM 2832",
+      "title": "Special Topic",
+      "description": "Lecture course in current special topics in chemistry and biochemistry. Topics will vary.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2901",
+      "courseId": "CHEM 2901",
+      "title": "Special Problems in Chemistry",
+      "description": "Course of individual instruction, which will include library conference  and laboratory experience.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2902",
+      "courseId": "CHEM 2902",
+      "title": "Special Problems in Chemistry",
+      "description": "Course of individuated instruction, which will include library, conference and laboratory experience.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "2903",
+      "courseId": "CHEM 2903",
+      "title": "Special Problems in Chemistry",
+      "description": "Course of individuated instruction, which will include library conference and laboratory experience.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3111",
+      "courseId": "CHEM 3111",
+      "title": "Inorganic Chemistry",
+      "description": "A study of the reactions and structures of inorganic compounds and principles, generalizations and theories that assist in understanding their behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3211",
+      "courseId": "CHEM 3211",
+      "title": "Analytical Chemistry",
+      "description": "Introduction to the theory and practice of modern chemical analysis.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3216",
+      "courseId": "CHEM 3216",
+      "title": "Analytical Chemistry Lecture",
+      "description": "Introduction to the theory of modern chemical analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3216L",
+      "courseId": "CHEM 3216L",
+      "title": "Analytical Chemistry Laboratory",
+      "description": "Introduction to the practice of modern chemical analysis.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3281",
+      "courseId": "CHEM 3281",
+      "title": "Instrumental Analysis for Engineers",
+      "description": "Provides a background to modern analytical chemistry and instrumental methods of analysis with applications to engineering and other areas.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3371",
+      "courseId": "CHEM 3371",
+      "title": "Organic Chemistry Laboratory",
+      "description": "Multi-step organic synthesis and inorganic synthesis. Use of chemical literature and advanced spectroscopic techniques.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3380",
+      "courseId": "CHEM 3380",
+      "title": "Synthesis Laboratory II",
+      "description": "Multi-step organic and inorganic synthesis.  Use of the chemical literature and advanced spectroscopic techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3411",
+      "courseId": "CHEM 3411",
+      "title": "Physical Chemistry I",
+      "description": "Chemical thermodynamics, energetics of chemical reactions, changes of state, and electrochemistry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3412",
+      "courseId": "CHEM 3412",
+      "title": "Physical Chemistry II",
+      "description": "Quantum mechanics, atomic and molecular structure, bonding theory, molecular spectroscopy, statistical mechanics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3481",
+      "courseId": "CHEM 3481",
+      "title": "Physical Chemistry Laboratory I",
+      "description": "Laboratory investigations of physical principles applied to chemical systems.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3482",
+      "courseId": "CHEM 3482",
+      "title": "Physical Chemistry Laboratory II",
+      "description": "Laboratory investigations of physical principles applied to chemical systems.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3511",
+      "courseId": "CHEM 3511",
+      "title": "Survey of Biochemistry",
+      "description": "Introductory course in biochemistry dealing with the chemistry and biochemistry of proteins, lipids, carbohydrates, nucleic acids, and other biomolecules. Credit not awarded for both CHEM 3511 and (CHEM 4511 or CHEM 3521).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3521",
+      "courseId": "CHEM 3521",
+      "title": "Biochemistry I",
+      "description": "The chemistry and biochemistry of proteins, lipids, carbohydrates, nucleic acids, and other biomolecules. Credit not awarded for both CHEM 3521 and (CHEM 4511 or CHEM 3511).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3522",
+      "courseId": "CHEM 3522",
+      "title": "Biochemistry II",
+      "description": "The chemistry and biochemistry of proteins, lipids, carbohydrates, nucleic acids, and other biomolecules.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3700",
+      "courseId": "CHEM 3700",
+      "title": "The Science of Alternative Energy",
+      "description": "Scientific principles governing the current and future approaches in solar photo-voltaics, fuel cells, biomass conversion, nuclear energy and wind power.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "3812",
+      "courseId": "CHEM 3812",
+      "title": "Special Topics",
+      "description": "Special Topics in Chemistry.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4113",
+      "courseId": "CHEM 4113",
+      "title": "Applications of Inorganic Chemistry in Current Energy Research",
+      "description": "The principles of coordination chemistry applied to theories and mechanisms of energy conversion and storage in chemistry and biology. Students cannot receive credit for CHEM 4113 and CHEM 6171.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4311",
+      "courseId": "CHEM 4311",
+      "title": "Advanced Organic Chemistry",
+      "description": "Construction reactions and functional group interconversions as applied to multistep organic synthesis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4341",
+      "courseId": "CHEM 4341",
+      "title": "Applied Spectroscopy",
+      "description": "Theory and application of NMR, mass spectrometry, and infrared spectroscopy in the determination of organic structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4401",
+      "courseId": "CHEM 4401",
+      "title": "Molecular Spectroscopy",
+      "description": "Introduction to the theory and applications of molecular spectroscopy, including electronic, vibrational, rotational transitions, and selections rules.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4452",
+      "courseId": "CHEM 4452",
+      "title": "Chemistry of the Solid State",
+      "description": "Application of the concepts of physical and inorganic chemistry to the structure of solids and their chemical and physical properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4485",
+      "courseId": "CHEM 4485",
+      "title": "Computational Chemistry",
+      "description": "Introductory course in computational chemistry discussing electronic structure theory, semi-empirical methods, molecular mechanics, transition-state searching, and computation of thermodynamic quantities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4511",
+      "courseId": "CHEM 4511",
+      "title": "Biochemistry I",
+      "description": "The chemistry and biochemistry of proteins, lipids, carbohydrates, nucleic acids, and other biomolecules. Credit not awarded for both CHEM 4511 and (CHEM 3511 or CHEM 3521).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4512",
+      "courseId": "CHEM 4512",
+      "title": "Biochemistry II",
+      "description": "The chemistry and biochemistry of proteins, lipids, carbohydrates, nucleic acids, and other biomolecules.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4521",
+      "courseId": "CHEM 4521",
+      "title": "Biophysical Chemistry",
+      "description": "The physical chemistry of biological systems, biological macromolecules, and biological aggregates.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4532",
+      "courseId": "CHEM 4532",
+      "title": "Chemistry of the Origins of Life",
+      "description": "Current scientific theories pertaining to the origin of life and early evolution, emphasizing how current knowledge of biology, chemistry and physics limits the possibilities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4581",
+      "courseId": "CHEM 4581",
+      "title": "Biochemistry Laboratory I",
+      "description": "Modern biochemical techniques including methods for protein, nucleic acid, and lipid isolation and characterization; enzyme assays; chromatography; electrophoresis; and use of databases.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4582",
+      "courseId": "CHEM 4582",
+      "title": "Biochemistry Laboratory II",
+      "description": "Laboratory techniques in the isolation and characterization of biological molecules with special emphasis on modern techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4601",
+      "courseId": "CHEM 4601",
+      "title": "Chemistry Seminar",
+      "description": "Student presentations of recent research topics in chemistry or biochemistry based on lab experience and/or literature searches.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4684",
+      "courseId": "CHEM 4684",
+      "title": "Advanced Chemistry Lab",
+      "description": "A modular laboratory involving a series of multipart experiments that build upon chemical principles and experimental techniques introduced in earlier courses and instructional laboratories. Credit not allowed for both CHEM 4684 and CHEM 4681.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4694",
+      "courseId": "CHEM 4694",
+      "title": "Intern Assistantship (Undergraduate Internship for Pay)",
+      "description": "Undergraduate Internship for which the student is paid, Juniors and Seniors only.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4695",
+      "courseId": "CHEM 4695",
+      "title": "Undergraduate Internship (Undergraduate Internship for Academic Credit)",
+      "description": "Undergraduate Internship for academic credit, Juniors and Seniors only.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4696",
+      "courseId": "CHEM 4696",
+      "title": "Teaching Assistantship",
+      "description": "Chemistry and biochemistry teaching carried out under the guidance of a faculty member.  Non-Billable for Pay.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4698",
+      "courseId": "CHEM 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4699",
+      "courseId": "CHEM 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4740",
+      "courseId": "CHEM 4740",
+      "title": "Atmospheric Chemistry",
+      "description": "This course provides a general chemical description of the Earth's atmospheric system with a major focus on the two lowest layers of the atmosphere, i.e., the troposphere and the stratosphere. Crosslisted with EAS 4740.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4759",
+      "courseId": "CHEM 4759",
+      "title": "Electrochemical Energy Storage and Conversion",
+      "description": "An elective class for senior-level students interested in electrochemical storage and conversion, including the fundamentals of electrochemistry and practical battery and fuel cells.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4760",
+      "courseId": "CHEM 4760",
+      "title": "Biocatalysis and Metabolic Engineering",
+      "description": "This course provides an in-depth coverage of various topics in biocatalysis and metabolic engineering. Goals of this course are the development of an understanding of proteins as catalysts, their functioning in metabolic networks, their application in various industries, recognition of their potential for addressing future challenges in science and engineering. Crosslisted with CHBE 4760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4762",
+      "courseId": "CHEM 4762",
+      "title": "Protein Engineering",
+      "description": "This course covers the theory and practice of protein engineering methods, including specific examples of engineered proteins and their applications from the literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4765",
+      "courseId": "CHEM 4765",
+      "title": "Drug Design, Development, and Delivery",
+      "description": "Introduction to the pharmaceutical development process, including design of new drugs, synthesis and manufacturing issues, and methods for delivery into the body. Includes student presentations. Crosslisted with CHBE and BMED 4765.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4775",
+      "courseId": "CHEM 4775",
+      "title": "Polymer Science and Engineering I: Formation and Properties",
+      "description": "An introduction to the chemistry, structure, and formation of polymers, physical states and transitions, physical and mechanical properties of polymer fluids and solids. Crosslisted with CHE, ME, MSE, and PTFE 4775.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4776",
+      "courseId": "CHEM 4776",
+      "title": "Polymer Science and Engineering II: Analysis, Processing, and Laboratory",
+      "description": "Polymer fabrication processes and methods of characterization and identification of polymers are presented. Experiments in polymerization, processing, and property evaluation of polymers. Crosslisted with CHE, ME, MSE, and TFE 4776.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4785",
+      "courseId": "CHEM 4785",
+      "title": "Nanoscale Science and Technology",
+      "description": "Chemistry and physics of materials, structures, and surfaces with characteristic feature sizes below 100 nm, and their applications in catalysis, electronics, photonics, energy, and biomedicine.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4801",
+      "courseId": "CHEM 4801",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4802",
+      "courseId": "CHEM 4802",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4803",
+      "courseId": "CHEM 4803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4804",
+      "courseId": "CHEM 4804",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4805",
+      "courseId": "CHEM 4805",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4901",
+      "courseId": "CHEM 4901",
+      "title": "Special Problems in Chemistry",
+      "description": "Course of individualized instruction, which will include library, conference, and laboratory investigations.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4902",
+      "courseId": "CHEM 4902",
+      "title": "Special Problems in Chemistry",
+      "description": "Course of individualized instruction, which will include library, conference, and laboratory investigations.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "4903",
+      "courseId": "CHEM 4903",
+      "title": "Special Problems in Chemistry",
+      "description": "Course of individualized instruction, which will include library, conference, and laboratory investigations.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6170",
+      "courseId": "CHEM 6170",
+      "title": "Inorganic Chemistry I",
+      "description": "A series of key topics in inorganic chemistry will be reviewed: acids/bases, redox processes, bonding and structure, transition metal chemistry, coordination complexes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6171",
+      "courseId": "CHEM 6171",
+      "title": "Inorganic Chemistry II",
+      "description": "Contemporary topics in inorganic chemistry including bioinorganic chemistry, reaction mechanisms and kinetics, optical and magnetic properties of molecular species, and inorganic materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6172",
+      "courseId": "CHEM 6172",
+      "title": "Physical Methods in Inorganic Chemistry",
+      "description": "An introduction to the use of physical methods in inorganic chemistry including vibrational spectroscopy, multinuclear NMR, EST, Mossbauer, magnetometery, NQR, PES, diffraction, and EXAFS.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6181",
+      "courseId": "CHEM 6181",
+      "title": "Chemical Crystallography",
+      "description": "The collection and interpretation of diffraction data. Single crystal structure analysis, powder diffraction for phase identification and quantitative analysis, and Rietveld refinement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6182",
+      "courseId": "CHEM 6182",
+      "title": "Chemistry of the Solid State",
+      "description": "An introduction to the chemistry of the solid state. Synthetic methods, measurement of properties, structure of solids, theory of electrical, optical, and magnetic properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6183",
+      "courseId": "CHEM 6183",
+      "title": "Organometallic Chemistry",
+      "description": "The chemistry of main group and transition metal organometallics.  Including synthetic methods, homogeneous catalysis and catalytic cycles, and synthetically useful organometallic reagents.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6271",
+      "courseId": "CHEM 6271",
+      "title": "Analytical Chemistry I",
+      "description": "Discussion of chemical equilibrium, separations, and bioanalytical methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6272",
+      "courseId": "CHEM 6272",
+      "title": "Analytical Chemistry II",
+      "description": "Topics include experimental design, electronics, and spectroscopy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6273",
+      "courseId": "CHEM 6273",
+      "title": "Analytical techniques for chemistry and biology",
+      "description": "An introduction to analytical techniques used to answer biological questions with a focus on the roles of small molecules from the human and environmental microbiome.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6274",
+      "courseId": "CHEM 6274",
+      "title": "Metabolomics",
+      "description": "Experimental and data science workflows in modern metabolomics studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6281",
+      "courseId": "CHEM 6281",
+      "title": "Mass Spectrometry",
+      "description": "Topics include sample handling, ionization methods, MS/MS, and quantitative analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6282",
+      "courseId": "CHEM 6282",
+      "title": "Chemical Sensors",
+      "description": "Origins of selectivity, principles of transduction mechanisms, construction and applications of modern chemical sensors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6283",
+      "courseId": "CHEM 6283",
+      "title": "Electroanalytical Chemistry",
+      "description": "Coulometry, electrolytic separations, polargraphy chronopotentimetry, coulometric titrations, voltammetry, and hydrodynamic electrochemical methods of analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6284",
+      "courseId": "CHEM 6284",
+      "title": "Environmental Analytical Chemistry",
+      "description": "Application of techniques from analytical chemistry in monitoring the environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6285",
+      "courseId": "CHEM 6285",
+      "title": "Analytical Spectroscopy",
+      "description": "Modern analytical spectroscopy and use of analytical techniques in chemistry and chemical engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6287",
+      "courseId": "CHEM 6287",
+      "title": "Scanned Probe Techniques",
+      "description": "An in-depth analysis of the theory, practice and application of scanning probe microscopy techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6288",
+      "courseId": "CHEM 6288",
+      "title": "Analytical Separations",
+      "description": "In-depth understanding of separation processes and the mechanisms underlying the design and development of modern separation techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6370",
+      "courseId": "CHEM 6370",
+      "title": "Organic Reaction Mechanisms",
+      "description": "Reaction mechanisms in organic chemistry, including the concepts of physical organic chemistry, reactive intermediates, and complex functional group transformations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6371",
+      "courseId": "CHEM 6371",
+      "title": "Identification of Organic Compounds",
+      "description": "Description of molecular structure and identification of organic compounds using spectroscopic techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6372",
+      "courseId": "CHEM 6372",
+      "title": "Physical Organic Chemistry",
+      "description": "Physical methods in organic chemistry; determination of reaction pathways.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6373",
+      "courseId": "CHEM 6373",
+      "title": "Organic Synthesis",
+      "description": "Methods and strategy for the preparation of complex organic compounds.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6381",
+      "courseId": "CHEM 6381",
+      "title": "Advanced Organic Synthesis",
+      "description": "Advanced topics in the synthesis of complex organic molecules.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6382",
+      "courseId": "CHEM 6382",
+      "title": "Computational Methods in Organic Chemistry and Biochemistry",
+      "description": "The development of approximate methods in molecular orbital theory and molecular mechanics and their application to problems in organic and biochemistry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6414",
+      "courseId": "CHEM 6414",
+      "title": "Introduction to Data Science using Python",
+      "description": "Basic principles of data science and the application of Python to data science.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6471",
+      "courseId": "CHEM 6471",
+      "title": "Chemical Thermodynamics and Kinetics",
+      "description": "Laws of classical thermodynamics and their chemical applications.  Introduction to statistical mechanics and chemical kinetics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6472",
+      "courseId": "CHEM 6472",
+      "title": "Quantum Chemistry and Molecular Spectroscopy",
+      "description": "Introduction to quantum mechanics and its application to molecular systems, atomic and molecular spectroscopy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6481",
+      "courseId": "CHEM 6481",
+      "title": "Statistical Mechanics",
+      "description": "Statistical thermodynamics, lattice statistics, molecular distribution and correlation functions, the theories of liquids and solutions, phase transitions, cluster theory, and measurement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6482",
+      "courseId": "CHEM 6482",
+      "title": "Chemical Kinetics and Reaction Dynamics",
+      "description": "Modern theoretical and experimental methods for studying macroscopic and microscopic bimolecular and unimolecular processes are discussed, as are methods for describing complex kinetic systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6483",
+      "courseId": "CHEM 6483",
+      "title": "Chemistry of Electronic Organic Materials",
+      "description": "This course provides a broad description of the basic chemical and physical concepts that determine the properties of electrically active materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6484",
+      "courseId": "CHEM 6484",
+      "title": "Chemistry of Optical Organic Materials",
+      "description": "Course description includes synthesis, electronic structure, physico-chemical characterization, and device applications of optically active organic materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6485",
+      "courseId": "CHEM 6485",
+      "title": "Computational Chemistry",
+      "description": "Introductory course in computational chemistry, discussing electronic structure theory, semiemphirical methods, molecular mechanics, transistion-state searching, and computation of thermodynamic quantities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6491",
+      "courseId": "CHEM 6491",
+      "title": "Quantum Mechanics",
+      "description": "Important concepts and applications of quantum mechanics at the intermediate level, including operators, perturbation and variational methods applied to atoms and molecules.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6492",
+      "courseId": "CHEM 6492",
+      "title": "Molecular Spectroscopy",
+      "description": "Study of energy of electronic transitions in molecules, selection rules, excitation processes, and laser spectroscopy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6501",
+      "courseId": "CHEM 6501",
+      "title": "Biochemistry I",
+      "description": "The chemistry and biochemistry of proteins, lipids, carbohydrates, nucleic acids, and other biomolecules.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6502",
+      "courseId": "CHEM 6502",
+      "title": "Biochemistry II",
+      "description": "The chemistry and biochemistry of proteins, lipids, carbohydrates, nucleic acids, and other biomolecules.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6532",
+      "courseId": "CHEM 6532",
+      "title": "Chemistry of the Origins of Life",
+      "description": "Current scientific theories pertaining to the origin of life and early evolution, emphasizing how current knowledge of biology, chemistry and physics limits the possibilities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6571",
+      "courseId": "CHEM 6571",
+      "title": "Enzymology and Metabolism",
+      "description": "Structure and chemistry of enzymes, enzyme mechanism, enzyme kinetics, enzyme inhibitors, and medicinal chemistry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6572",
+      "courseId": "CHEM 6572",
+      "title": "Macromolecular Structure",
+      "description": "Principles of protein, nucleic acid, and membrane structure. Major emphasis on protein folding, detailed description of three-dimensional structure of proteins and nucleic acids.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6573",
+      "courseId": "CHEM 6573",
+      "title": "Molecular Biochemistry",
+      "description": "Current topics in molecular biology including eukaryotic transcriptions, RNA processing, repair and recombination, immunity, viruses, DNA fingerprinting, and genome sequencing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6581",
+      "courseId": "CHEM 6581",
+      "title": "Protein Crystallography",
+      "description": "Application of crystallographic principles to the structure determination of macromolecules by molecular replacement, multiple isomorphous replacements. High-speed data collection methods and cryocrystallography.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6582",
+      "courseId": "CHEM 6582",
+      "title": "Biophysical Chemistry",
+      "description": "Applications of the principles and techniques of physical chemistry in biochemistry, with emphasis in the equilibrium and dynamic behavior of macromolecules in solution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6583",
+      "courseId": "CHEM 6583",
+      "title": "Drug Design and Discovery",
+      "description": "Application of principles of chemistry and biology to the creation of knowledge leading to the introduction of new therapeutic agents.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6584",
+      "courseId": "CHEM 6584",
+      "title": "Contemporary Biochemistry",
+      "description": "Topics vary from year to year, but will include subjects from the biochemical literature, such as in Journal of Biological Chemistry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6750",
+      "courseId": "CHEM 6750",
+      "title": "Preparation and Reaction of Polymers",
+      "description": "A detailed treatment of the reactions involved in the synthesis of both human-made and natural polymers, including preparation and degradative reactions of polymer systems. Crosslisted with CHE and PTFE 6750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6751",
+      "courseId": "CHEM 6751",
+      "title": "Physical Chemistry of Polymer Solutions",
+      "description": "Study of polymer solutions, polymer miscibility, absorptions, sorptions, plasticization, molecular weights, molecular weight distributions, and interfacial phenomena using thermodynamics and statistical mechanics. Crosslisted with CHE, MSE, and PTFE 6751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6752",
+      "courseId": "CHEM 6752",
+      "title": "Polymer Characterization",
+      "description": "This course introduces the student to surface, near-surface, and structural methods of polymer characterization. Specialized techniques critical to physical structure are emphasized. Crosslisted with CHE, MSE, and PTFE 6752.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6755",
+      "courseId": "CHEM 6755",
+      "title": "Theoretical Chemistry of Polymers",
+      "description": "Thermodynamics and microscopic dynamics of polymers. Fundamental concepts, including scaling concepts, governing anisotropy of polarizability, phase transitions, morphology, time-dependent correlations, etc. are discussed. Crosslisted with MSE and PTFE 6755.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6756",
+      "courseId": "CHEM 6756",
+      "title": "Discovery of Signaling Molecules",
+      "description": "The diversity of chemical signals between organisms and their structural specificities will be presented along with chemical and biological methods for isolating signaling molecules. Crosslisted with BIOL 6756 and CEE 6756.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6757",
+      "courseId": "CHEM 6757",
+      "title": "Advanced Polymer Chemistry",
+      "description": "Advanced topics in synthetic polymerization methodology, polymer structure, and polymer properties in solution and the solid state.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6760",
+      "courseId": "CHEM 6760",
+      "title": "Biocatalysis and Metabolic Engineering",
+      "description": "This course provides in-depth coverage of various topics in biocatalysis and metabolic engineering. Goals of this course are the development of an understanding of proteins as catalysts, their functioning in metabolic networks, their application in various industries, and recognition of their potential for addressing future challenges in science and engineering. Crosslisted with CHBE 6760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6762",
+      "courseId": "CHEM 6762",
+      "title": "Protein Engineering",
+      "description": "This course covers the theory and practice of protein engineering methods, including specific examples of engineered proteins and their applications from the literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6765",
+      "courseId": "CHEM 6765",
+      "title": "Drug Design, Development and Delivery",
+      "description": "Introduction to the pharmaceutical development process, including design of new drugs, synthesis and manufacturing issues, and methods of delivery into the body. Includes student presentations.  Crosslisted with BMED 6765 and CHBE 6765.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6770",
+      "courseId": "CHEM 6770",
+      "title": "Instrument Design for Astrobiology Missions",
+      "description": "Students survey the literature, develop an instrument concept, and present it to a review panel in a mock NASA proposal style.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "6785",
+      "courseId": "CHEM 6785",
+      "title": "Nanoscale Science and Technology",
+      "description": "Chemistry and physics of materials, structures, and surfaces with characteristic feature sizes below 100 nm, and their applications in catalysis, electronics, photonics, energy, and biomedicine.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "7000",
+      "courseId": "CHEM 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "7001",
+      "courseId": "CHEM 7001",
+      "title": "Introduction to Research",
+      "description": "Introduction to laboratory techniques, experimental design, library and database searching, presentations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8000",
+      "courseId": "CHEM 8000",
+      "title": "Seminar in Chemistry",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8001",
+      "courseId": "CHEM 8001",
+      "title": "Faculty Seminar",
+      "description": "",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8002",
+      "courseId": "CHEM 8002",
+      "title": "Information Resources for Chemists and Biochemists",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8003",
+      "courseId": "CHEM 8003",
+      "title": "Student Seminar",
+      "description": "",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8801",
+      "courseId": "CHEM 8801",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8802",
+      "courseId": "CHEM 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8803",
+      "courseId": "CHEM 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8812",
+      "courseId": "CHEM 8812",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8813",
+      "courseId": "CHEM 8813",
+      "title": "Special Topics in Inorganic Chemistry",
+      "description": "Topics from the inorganic chemistry research literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8823",
+      "courseId": "CHEM 8823",
+      "title": "Special Topics in Analytical Chemistry",
+      "description": "Topics from the analytical chemistry research literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8831",
+      "courseId": "CHEM 8831",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8833",
+      "courseId": "CHEM 8833",
+      "title": "Special Topics in Organic Chemistry",
+      "description": "Topics from the organic chemistry research literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8843",
+      "courseId": "CHEM 8843",
+      "title": "Special Topics in Physical Chemistry",
+      "description": "Topics from the physical chemistry research literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8853",
+      "courseId": "CHEM 8853",
+      "title": "Special Topics in Biochemistry",
+      "description": "Topics from the biochemistry research literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8863",
+      "courseId": "CHEM 8863",
+      "title": "Special Topics",
+      "description": "Topics from the polymer chemistry research literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8873",
+      "courseId": "CHEM 8873",
+      "title": "Special Topics in Polymer Chemistry",
+      "description": "Topics from the polymer chemistry research literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8901",
+      "courseId": "CHEM 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8902",
+      "courseId": "CHEM 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8903",
+      "courseId": "CHEM 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8997",
+      "courseId": "CHEM 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "8998",
+      "courseId": "CHEM 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CHEM",
+      "courseNumber": "9000",
+      "courseId": "CHEM 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 163,
+  "scrapedAt": "2025-08-16T02:00:33.922Z"
+}

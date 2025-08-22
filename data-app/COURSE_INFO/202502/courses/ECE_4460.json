@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4460",
+  "courseId": "ECE 4460",
+  "title": "Electronic Packaging",
+  "description": "Introduction to packaging technologies, technology drivers, electrical performance, thermal management, materials, optoelectronics, RF integration, reliability, system issues, assembly, testing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3030 Undergraduate Semester Minimum Grade of C or ECE 3040 Undergraduate Semester Minimum Grade of C or ECE 3710 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:45.513Z"
+}

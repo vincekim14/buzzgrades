@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "BMED",
+  "courseNumber": "7785",
+  "courseId": "BMED 7785",
+  "title": "Intro Robotics Research",
+  "description": "Familiarizes students with the core of robotics: mechanics, control, perception, AI, and autonomy.  Provides an introduction to the mathematical tools required in robotics research. Cross-listed with AE 7785, ECE 7785, and CS 7785.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:25.032Z"
+}

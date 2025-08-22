@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "6121",
+  "courseId": "MATH 6121",
+  "title": "Algebra I",
+  "description": "Graduate-level linear and abstract algebra including groups, finite fields, classical matrix groups and bilinear forms, multilinear algebra, and matroids. First of two courses.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4107 Undergraduate Semester Minimum Grade of D and (MATH 2406 Undergraduate Semester Minimum Grade of D or MATH 4305 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:42:35.165Z"
+}

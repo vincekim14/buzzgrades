@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "6390",
+  "courseId": "ECE 6390",
+  "title": "Satellite Comm&amp;Navig Sys",
+  "description": "To introduce satellite communications and navigation system design including microwave transmission, satellite transponders, earth station hardware, and satellite networks. A design project is required.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:47.182Z"
+}

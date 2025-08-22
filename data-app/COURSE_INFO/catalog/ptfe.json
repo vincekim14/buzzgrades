@@ -1,0 +1,17 @@
+{
+  "subject": "PTFE",
+  "subjectName": "Polymer, Textile and Fiber Eng (PTFE)",
+  "url": "https://catalog.gatech.edu/coursesaz/ptfe/",
+  "courses": [
+    {
+      "subjectCode": "PTFE",
+      "courseNumber": "9000",
+      "courseId": "PTFE 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 1,
+  "scrapedAt": "2025-08-16T02:00:48.529Z"
+}

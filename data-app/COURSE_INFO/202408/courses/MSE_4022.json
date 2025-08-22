@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MSE",
+  "courseNumber": "4022",
+  "courseId": "MSE 4022",
+  "title": "Materials Laboratory II",
+  "description": "Processing, structure, properties relationships are explored through a series of hands-on experiments. Instruction on basic laboratory skills, safety, statistical analysis of data, use of laboratory notebooks and technical report writing.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2021 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:15.595Z"
+}

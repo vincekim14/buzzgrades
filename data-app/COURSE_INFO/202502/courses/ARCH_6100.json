@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "6100",
+  "courseId": "ARCH 6100",
+  "title": "Retrofitting Suburbia",
+  "description": "Study of suburban redevelopment trends, projects, and policies that improve environmental, social, and economic sustainability, with an emphasis on urban design strategies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:30.749Z"
+}

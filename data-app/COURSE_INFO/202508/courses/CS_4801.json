@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4801",
+  "courseId": "CS 4801",
+  "title": "Human-Centered AI and Global Health",
+  "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:33.156Z"
+}

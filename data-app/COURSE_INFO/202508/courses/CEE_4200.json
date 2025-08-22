@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "4200",
+  "courseId": "CEE 4200",
+  "title": "Hydraulic Engineering",
+  "description": "Applications of fluid mechanics to engineering and natural systems including fluid drag, open channel flow, turbomachinery, and environmental hydraulics; laboratory experiments; computational hydraulics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3040 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:54.067Z"
+}

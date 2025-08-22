@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ID",
+  "courseNumber": "3041",
+  "courseId": "ID 3041",
+  "title": "Product Dev Studio 1",
+  "description": "The application of systematic user-centered design methods and research to projects focused on the use of parametric design and CNC capabilities in the design development of products, services & systems.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 2024 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:14.813Z"
+}

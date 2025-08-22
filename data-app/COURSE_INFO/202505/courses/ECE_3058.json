@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECE",
+  "courseNumber": "3058",
+  "courseId": "ECE 3058",
+  "title": "ARCH, SYS, CONC &amp; ENGY COMP",
+  "description": "Basic organizational principles of the major components of a processor – the core, memory hierarchy, I/O subsystem and basic operating system constructs that utilize them.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2035 Undergraduate Semester Minimum Grade of D and ECE 2031 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:51.164Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "4801",
+  "courseId": "ISYE 4801",
+  "title": "Prod Dev Design-to-Value",
+  "description": "Courses in special topics of timely interest to the profession, conducted by resident or visiting faculty.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:59.526Z"
+}

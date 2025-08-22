@@ -1,0 +1,577 @@
+{
+  "subject": "GRMN",
+  "subjectName": "German (GRMN)",
+  "url": "https://catalog.gatech.edu/coursesaz/grmn/",
+  "courses": [
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "1001",
+      "courseId": "GRMN 1001",
+      "title": "Elementary German I",
+      "description": "An introduction to the German language and the culture of the German-speaking world. Beginning of a survey of basic German grammar and the grammar and the development of the four language skills of listening, speaking, reading, and writing German. Some aspects of everyday life in the German-speaking world will also be introduced.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "1002",
+      "courseId": "GRMN 1002",
+      "title": "Elementary German II",
+      "description": "The second part of an introduction to the German language and the culture of the German-speaking world. Completion of the survey of basic German grammar and further development of the four language skills of listening, speaking, reading, and writing German. Aspects of everyday life in the German-speaking world will also be introduced.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "1813",
+      "courseId": "GRMN 1813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "2001",
+      "courseId": "GRMN 2001",
+      "title": "Intermediate German I",
+      "description": "A rapid review of grammar with continued use of listening, speaking, reading, and writing skills in German, all with a cultural emphasis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "2002",
+      "courseId": "GRMN 2002",
+      "title": "Intermediate German II",
+      "description": "This course focuses on listening, speaking, reading, and writing skills in German in an introduction to literature and within a cultural context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "2694",
+      "courseId": "GRMN 2694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Language.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "2695",
+      "courseId": "GRMN 2695",
+      "title": "Undergraduate Internship",
+      "description": "Modern Language Undergraduate Internship for credit for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "2698",
+      "courseId": "GRMN 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "2699",
+      "courseId": "GRMN 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "2813",
+      "courseId": "GRMN 2813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3010",
+      "courseId": "GRMN 3010",
+      "title": "Introduction to German Literature",
+      "description": "Introduction to the periods and genres of German literature from the Middle Ages to modern times. Conducted in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3011",
+      "courseId": "GRMN 3011",
+      "title": "Germany Today",
+      "description": "Introduction to current issues in contemporary Germany. Lectures, papers, and class discussions. Conducted in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3024",
+      "courseId": "GRMN 3024",
+      "title": "Conversation and Composition",
+      "description": "A combination of conversation, composition, and stylistics, this course is designed to promote listening, speaking, and writing proficiency; expansion of vocabulary; stylistic skills.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3026",
+      "courseId": "GRMN 3026",
+      "title": "German Stylistics",
+      "description": "This course introduces students to stylistic difference and idiomatic usages of German, expands vocabulary, and enlarges upon grammatical and syntactic structures.  Taught in German.  Credit not allowed for both GRMN 3026 and GRMN 3026.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3030",
+      "courseId": "GRMN 3030",
+      "title": "Crossing Borders in Literature & Culture",
+      "description": "The class examines politics of immigration and integration such as national, geographic, ethnic, race, gender, and sexuality boundaries in literature and film.  Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3055",
+      "courseId": "GRMN 3055",
+      "title": "German Fairy Tales: From the Grimm Brothers to Disney",
+      "description": "Discussion of socio-historical, cultural, and literary themes in German fairy tales, their place in Western tradition, and their echo in contemporary society. Conducted in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3071",
+      "courseId": "GRMN 3071",
+      "title": "Introductory Business German I",
+      "description": "Analysis and discussion of texts and videos pertaining to issues in the current business world. Conducted in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3110",
+      "courseId": "GRMN 3110",
+      "title": "Television & Electronic Culture",
+      "description": "This course examines the significance of television, computer games, film and online sites (among other sources) in contemporary German culture.  Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3695",
+      "courseId": "GRMN 3695",
+      "title": "German Business and Technology: Structure, Communication and Correspondence",
+      "description": "Overview of Germany's business structure, such as industries, service sector, banking system, relation to the European Union, the United States, and the global economy. Site visits. Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3696",
+      "courseId": "GRMN 3696",
+      "title": "German Business and Technology: Current Issues",
+      "description": "Themes oriented toward business German, with emphasis on historical, social, cultural, and political questions pertaining to the development of modern Germany. Admissions by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3697",
+      "courseId": "GRMN 3697",
+      "title": "German Business and Technology: Communication",
+      "description": "Development of language skills through discussions, compositions, journals, oral reports, and presentations. Individual and group projects use interviews, explore German surroundings, and focus on cross-cultural issues. Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3813",
+      "courseId": "GRMN 3813",
+      "title": "Special Topics",
+      "description": "Permits a group of students and a professor to pursue areas of the German language not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3821",
+      "courseId": "GRMN 3821",
+      "title": "Special Topics",
+      "description": "Topics of current interest in German.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3822",
+      "courseId": "GRMN 3822",
+      "title": "Special Topics",
+      "description": "Topics of current interest in German.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3823",
+      "courseId": "GRMN 3823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3833",
+      "courseId": "GRMN 3833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "3901",
+      "courseId": "GRMN 3901",
+      "title": "Special Problems",
+      "description": "Small group or individual instruction.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4001",
+      "courseId": "GRMN 4001",
+      "title": "Advanced German Grammar",
+      "description": "Study and practice of advanced grammatical structures for complex communicative settings. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4010",
+      "courseId": "GRMN 4010",
+      "title": "Perspectives of German Media",
+      "description": "A comparison of differences in representation between various German media sources applied towards the development of a critical understanding of media language to influence, persuade, inform and entertain.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4023",
+      "courseId": "GRMN 4023",
+      "title": "Selected Readings in German Literature",
+      "description": "Study of selected authors, movements, genres, in German literature. Selection varies. Conducted in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4024",
+      "courseId": "GRMN 4024",
+      "title": "German Film and Literature",
+      "description": "A survey of German culture and recent past as presented through films and related literary works illuminating Germany's quest for identity since 1945.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4025",
+      "courseId": "GRMN 4025",
+      "title": "German Culture & Film",
+      "description": "This course offers a survey of German Cinema from the 1930s to the 2000s. These films will be analyzed as reflections of the historical, social, and cultural context in which they originated.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4026",
+      "courseId": "GRMN 4026",
+      "title": "German Post-Wall Cinema",
+      "description": "This course offers a cross-section of the most important German films since 1989. Students will analyze the narratives in the context of contemporary German history, society, and culture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4027",
+      "courseId": "GRMN 4027",
+      "title": "Political Songwriting in Germany, 1945 to Present",
+      "description": "This class offers an overview of political songwriting in Germany  (GDR and FRG) between 1945 and the present. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4028",
+      "courseId": "GRMN 4028",
+      "title": "Americanization and Anti-Americanism in the Federal Republic of Germany",
+      "description": "This class surveys the reception of U.S. culture in West Germany from the end of WWII to today. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4061",
+      "courseId": "GRMN 4061",
+      "title": "Advanced Business German I",
+      "description": "Advanced principles of German business organization and language. Taught through the use of reading, audio, and video materials. Conducted in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4126",
+      "courseId": "GRMN 4126",
+      "title": "Advanced Stylistics: Grammar and Discourse",
+      "description": "This course incorporates study of stylistic difference and idiomatic usages of German, expands vocabulary, and solidifies and enlarges upon grammatical and syntactic structures.  Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4310",
+      "courseId": "GRMN 4310",
+      "title": "Science and Technology in German History and Culture",
+      "description": "Course surveys the history of science, technology, and industrialization in German-speaking countries, as well as current STEM research in German. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4500",
+      "courseId": "GRMN 4500",
+      "title": "Advanced Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues Germany.  Intended for students who have had some study-abroad experience in Germany.  Conducted in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4691",
+      "courseId": "GRMN 4691",
+      "title": "Berlin: The Capital in the 20th Century",
+      "description": "By engaging contemporaneous topics in film, literature, photography, etc., students will investigate topics that dominated the different periods of Berlin's turbulent history.  Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4693",
+      "courseId": "GRMN 4693",
+      "title": "Industrial Transformation and German Society/Economy",
+      "description": "Examination of technological and societal changes resulting from transformation of an industrial area to one dominated by high tech and media industries.  Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4695",
+      "courseId": "GRMN 4695",
+      "title": "German Internship",
+      "description": "Professional experience with a business/organization in which students enhance their language skills and cultural knowledge in German in relation to the practical goals/objectives of the entity.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4696",
+      "courseId": "GRMN 4696",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for junior and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4698",
+      "courseId": "GRMN 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4699",
+      "courseId": "GRMN 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4801",
+      "courseId": "GRMN 4801",
+      "title": "Special Topics",
+      "description": "Special Topics in German.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4813",
+      "courseId": "GRMN 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4823",
+      "courseId": "GRMN 4823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4833",
+      "courseId": "GRMN 4833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4901",
+      "courseId": "GRMN 4901",
+      "title": "Special Problems in German",
+      "description": "Special problems course for advanced students. Topics to be arranged with instructor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "4902",
+      "courseId": "GRMN 4902",
+      "title": "Special Problems in German",
+      "description": "Special problems course for advanced students. Topics to be arranged with instructor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6001",
+      "courseId": "GRMN 6001",
+      "title": "Advanced German Grammar",
+      "description": "Study and practice of advanced grammatical structures for complex communicative settings. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6010",
+      "courseId": "GRMN 6010",
+      "title": "Perspectives of German Media",
+      "description": "Studies of various German media sources applied towards the development of a critical understanding of media languages to influence, persuade, inform and entertain. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6023",
+      "courseId": "GRMN 6023",
+      "title": "German Literature After 1945",
+      "description": "This class offers an overview of German literature (GDR and FRG) between 1945 and the present.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6026",
+      "courseId": "GRMN 6026",
+      "title": "German Post-Wall Cinema",
+      "description": "This course focuses on German films since 1989. Students will analyze the narratives in the context of contemporary German history, society, and culture. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6027",
+      "courseId": "GRMN 6027",
+      "title": "German Political Songwriting",
+      "description": "This class offers an overview of political songwriting in Germany (GDR and FRG) between 1945 and the present.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6028",
+      "courseId": "GRMN 6028",
+      "title": "Americanization and Anti-Americanism in the Federal Republic of Germany",
+      "description": "This class surveys the reception of US culture in West Germany from the end of WWII to today. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6252",
+      "courseId": "GRMN 6252",
+      "title": "German Domestic Internship",
+      "description": "Students complete domestic internships.  Conducted in German.  Online course.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6310",
+      "courseId": "GRMN 6310",
+      "title": "S&T in German History and Culture",
+      "description": "Course surveys the history of science, technology, and industrialization in German-speaking countries, as well as current STEM research in German. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6500",
+      "courseId": "GRMN 6500",
+      "title": "Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues in Germany. Taught in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6503",
+      "courseId": "GRMN 6503",
+      "title": "Professional Portfolio Development",
+      "description": "Preparation of a professional portfolio connecting experiences and coursework in the MS program towards career preparation. Conducted in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6510",
+      "courseId": "GRMN 6510",
+      "title": "Applied Language Practicum",
+      "description": "Students will serve as researchers, student aides and apprentice instructors for any 3/4000-level undergraduate course approved by their adviser and the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6511",
+      "courseId": "GRMN 6511",
+      "title": "Applied Language Practicum Abroad",
+      "description": "Students serve as researchers and apprentice instructors in the LBAT or other faculty-led overseas language immersion program of the School of Modern Languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6695",
+      "courseId": "GRMN 6695",
+      "title": "German Internship Abroad",
+      "description": "German Internship Abroad.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6696",
+      "courseId": "GRMN 6696",
+      "title": "German Internship Abroad",
+      "description": "Students complete internships abroad in a German-speaking country. Conducted in German. Online course.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "6998",
+      "courseId": "GRMN 6998",
+      "title": "Master's Project",
+      "description": "Optional project course taught in German.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "7000",
+      "courseId": "GRMN 7000",
+      "title": "Master's Thesis",
+      "description": "Optional thesis course.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "8803",
+      "courseId": "GRMN 8803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "8901",
+      "courseId": "GRMN 8901",
+      "title": "Special Problems in German",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "8902",
+      "courseId": "GRMN 8902",
+      "title": "Special Problems in German",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GRMN",
+      "courseNumber": "8903",
+      "courseId": "GRMN 8903",
+      "title": "Special Problems in German",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 71,
+  "scrapedAt": "2025-08-16T02:00:38.135Z"
+}

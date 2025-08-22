@@ -1,0 +1,21 @@
+{
+  "term": "202508",
+  "subjectCode": "AE",
+  "courseNumber": "2699",
+  "courseId": "AE 2699",
+  "title": "Undergraduate Research",
+  "description": "Independent research conducted under the guidance of a faculty member.",
+  "creditHours": "1 to 12",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)",
+    "__HEADER_2__Must be enrolled in one of the following Classes:",
+    "__DETAIL_2__Freshman (FR)",
+    "__DETAIL_2__Sophomore (SO)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:53.647Z"
+}

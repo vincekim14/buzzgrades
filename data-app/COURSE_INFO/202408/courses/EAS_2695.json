@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "EAS",
+  "courseNumber": "2695",
+  "courseId": "EAS 2695",
+  "title": "Undergrad Internship",
+  "description": "Earth & Atmospheric Sciences Undergraduate Internship for credit for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Earth & Atmospheric Sciences.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:35.475Z"
+}

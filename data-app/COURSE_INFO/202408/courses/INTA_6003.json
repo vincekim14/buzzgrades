@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "INTA",
+  "courseNumber": "6003",
+  "courseId": "INTA 6003",
+  "title": "Empirical Research Meth",
+  "description": "This course introduces research methods in international affairs.  It emphasizes writing research proposals, empirical techniques, gathering and assembling data, and methods for analyzing and reporting results.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:04.152Z"
+}

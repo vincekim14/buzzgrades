@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PHYS",
+  "courseNumber": "4833",
+  "courseId": "PHYS 4833",
+  "title": "Cell&amp;Tissue Biological Physics",
+  "description": "Courses in special topics of current interest in physics are presented from time to time.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:28.220Z"
+}

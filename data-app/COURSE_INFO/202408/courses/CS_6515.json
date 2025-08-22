@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "6515",
+  "courseId": "CS 6515",
+  "title": "Intro to Grad Algorithms",
+  "description": "Design and analysis of algorithms on a graduate level, including dynamic programming, divide and conquer, FFT, graph and flow algorithms, RSA, linear programming, and NP-completedness.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:11.440Z"
+}

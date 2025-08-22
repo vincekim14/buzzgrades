@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PHIL",
+  "courseNumber": "3135",
+  "courseId": "PHIL 3135",
+  "title": "Philosophy of Technology",
+  "description": "The course considers philosophical accounts of how technologies can and should shape our understandings of politics, ethics, and daily life.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:37.316Z"
+}

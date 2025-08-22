@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ISYE",
+  "courseNumber": "6669",
+  "courseId": "ISYE 6669",
+  "title": "Deterministic Optimiz",
+  "description": "An introduction to deterministic optimization methodologies including approaches from linear, discrete, and nonlinear optimization including algorithms and computations. Applications will be introduced as appropriate.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 4231 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:07.341Z"
+}

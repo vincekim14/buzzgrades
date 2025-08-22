@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "NRE",
+  "courseNumber": "3301",
+  "courseId": "NRE 3301",
+  "title": "Radiation Physics",
+  "description": "Characteristics of atomic and nuclear radiations, transition probabilities, radioactivity, classical and quantum-mechanical derivations of cross sections, interactions of photon, neutron, and charged particles with matter.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or MATH 15X2 Undergraduate Semester Minimum Grade of T or MATH 1552 Undergraduate Semester Minimum Grade of D or MATH 1X52 Undergraduate Semester Minimum Grade of T) and (PHYS 2211 Undergraduate Semester Minimum Grade of D or PHYS 2231 Undergraduate Semester Minimum Grade of D) and NRE 2120 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:44:07.783Z"
+}

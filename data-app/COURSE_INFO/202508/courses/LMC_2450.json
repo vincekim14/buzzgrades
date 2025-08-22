@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "LMC",
+  "courseNumber": "2450",
+  "courseId": "LMC 2450",
+  "title": "Intr Black Media Studies",
+  "description": "Introduces scholarship in Black Media Studies (BMS), which studies the relationships among media, culture, and racial politics by and about people of African descent.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1101 Undergraduate Semester Minimum Grade of D and ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:55.420Z"
+}

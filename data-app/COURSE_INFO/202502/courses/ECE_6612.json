@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6612",
+  "courseId": "ECE 6612",
+  "title": "Comp Network Security",
+  "description": "Fundamental concepts of network information security, including encryption, secure access methods, and vulnerabilities in network protocols, operating systems, and network applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3076 Undergraduate Semester Minimum Grade of D or ECE 4110 Undergraduate Semester Minimum Grade of D or ECE 6607 Graduate Semester Minimum Grade of D or CS 3251 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:57.112Z"
+}

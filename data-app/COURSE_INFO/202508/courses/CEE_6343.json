@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "6343",
+  "courseId": "CEE 6343",
+  "title": "Membrane Processes",
+  "description": "An introduction of the theories of membrane separation processes with special emphasis on desalination, softening, THM precursors reduction using reverse osmosis and nanofiltration.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 6310 Graduate Semester Minimum Grade of D and CEE 6312 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:00.652Z"
+}

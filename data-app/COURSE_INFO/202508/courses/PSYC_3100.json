@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "3100",
+  "courseId": "PSYC 3100",
+  "title": "Neuro of Mental Health",
+  "description": "This course will introduce the science of well-being and provide an in-depth examination of the neural mechanisms underlying well-being and various character strengths.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:44:33.403Z"
+}

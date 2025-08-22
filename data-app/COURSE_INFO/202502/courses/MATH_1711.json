@@ -1,0 +1,20 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "1711",
+  "courseId": "MATH 1711",
+  "title": "Finite Mathematics",
+  "description": "Linear equations, matrices, linear programming, sets and counting, probability and statistics.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Cannot be enrolled in one of the following Majors:",
+    "__DETAIL_1__Applied Mathematics (MATH)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "SAT Mathematics 550 or MATH SECTION SCORE 570 or Converted ACT Math 550 or (MATH 1113 Undergraduate Semester Minimum Grade of D or MATH 11X3 Undergraduate Semester Minimum Grade of T) or ACT Math 24",
+  "lastUpdated": "2025-08-20T02:42:07.241Z"
+}

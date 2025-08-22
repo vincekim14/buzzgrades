@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4530",
+  "courseId": "CEE 4530",
+  "title": "Timber &amp; Masonry Design",
+  "description": "Stress-based design of tension, compression, and flexural members; design of building systems, unreinforced and reinforced walls using timber and masonry construction materials and techniques.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:03.319Z"
+}

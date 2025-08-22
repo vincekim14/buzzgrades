@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "3700",
+  "courseId": "CHEM 3700",
+  "title": "Alternative Energy",
+  "description": "Scientific principles governing the current and future approaches in solar photo-voltaics, fuel cells, biomass conversion, nuclear energy and wind power.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 1310 Undergraduate Semester Minimum Grade of D or (CHEM 1211K Undergraduate Semester Minimum Grade of D and CHEM 1212K Undergraduate Semester Minimum Grade of D) and PHYS 2211 Undergraduate Semester Minimum Grade of D and PHYS 2212 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:34.991Z"
+}

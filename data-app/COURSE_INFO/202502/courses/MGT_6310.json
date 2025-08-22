@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6310",
+  "courseId": "MGT 6310",
+  "title": "Marketing Resrch: Analytics",
+  "description": "This course covers the fundamentals of the analytical aspects of marketing research. The course has an applied orientation with application to contemporary issues in marketing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:43.162Z"
+}

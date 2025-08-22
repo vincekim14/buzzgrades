@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6043",
+  "courseId": "MGT 6043",
+  "title": "Advanced Fin Reporting",
+  "description": "Financial reporting  techniques and concepts  for mergers and acquisitions; consolidated financial statements; international transactions; partnerships; and governmental and not-for-profit financial reporting.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 4026 Undergraduate Semester Minimum Grade of D or MGT 6020 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:38.667Z"
+}

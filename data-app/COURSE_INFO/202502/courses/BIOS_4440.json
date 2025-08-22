@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4440",
+  "courseId": "BIOS 4440",
+  "title": "Human Pathology",
+  "description": "The course provides a comprehensive overview of clinical human anatomic pathology. The course will focus on select diseases and their etiologies, pathogenesis, morphological changes, and clinical manifestations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOS 3753 Undergraduate Semester Minimum Grade of D or APPH 3753 Undergraduate Semester Minimum Grade of D or BIOL 3753 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:44.775Z"
+}

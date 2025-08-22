@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "7022",
+  "courseId": "ECON 7022",
+  "title": "Econometrics I",
+  "description": "This course is a comprehensive introduction to mathematical statistics principles underlying statistical analyses in economics.  It covers probability theory, expectation, sampling, asymptotic results, the main families of probability distributions studied in economics, estimation and hypothesis testing.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 7004 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:23.857Z"
+}

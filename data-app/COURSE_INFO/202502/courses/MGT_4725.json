@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4725",
+  "courseId": "MGT 4725",
+  "title": "Info Security Policy",
+  "description": "Information security vulnerabilities and risks; legal, cost, privacy, and technology constraints; derivation of strategies; technical and procedural means of achieving desired ends. Credit will not be awarded for both MGT 4725 and MGT 6725 or CS 6725 or CS 4725 or PUBP 4725 or PUBP 6725.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:35.081Z"
+}

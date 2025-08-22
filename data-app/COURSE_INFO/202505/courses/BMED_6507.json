@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "BMED",
+  "courseNumber": "6507",
+  "courseId": "BMED 6507",
+  "title": "Medical Device Reg Req",
+  "description": "FDA Regulations for medical devices including clearance-approval pathways to commercialization, Quality Systems Regulations and ISO Standards for medical devices in the European Economic Community.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "BMED 6506",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:36.565Z"
+}

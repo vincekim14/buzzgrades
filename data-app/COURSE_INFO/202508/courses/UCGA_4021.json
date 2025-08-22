@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "UCGA",
+  "courseNumber": "4021",
+  "courseId": "UCGA 4021",
+  "title": "Cross Enroll-GaGwinnett",
+  "description": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:03.039Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "6662",
+  "courseId": "ISYE 6662",
+  "title": "Discrete Optimization",
+  "description": "Fundamentals of integer and combinatorial optimization. Topics include polyhedra, cuts, Lagrangean duality, complexity, and others.  This course is intended for Ph.D. students.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6661 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:41.787Z"
+}

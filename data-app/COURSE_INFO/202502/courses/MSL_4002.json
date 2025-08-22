@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSL",
+  "courseNumber": "4002",
+  "courseId": "MSL 4002",
+  "title": "Leadership-Complex World",
+  "description": "Explores the dynamics of leading in the complex situations of current military operations in the contemporary operating environment (COE). Cadets examine differences in customes and courtesies, military law, principles of war, and rules of engagement in the face of international terrorism. They also explore aspects of interacting with non-government organizations, civilians on the battlefield, and host national support. The course places significant emphasis on preparing cadets for their first unit of assignment. It uses case studies, scenarios, and \"What now Lieutenant?\" exercises to prepare cadets to face the complex ethical and practical demands of leading as commissioned officers in the United States Army.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSL 4001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:57.011Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "6400",
+  "courseId": "CS 6400",
+  "title": "DB Sys Concepts&amp; Design",
+  "description": "Study of fundamental concepts with regard to relational databases. Topics covered include database design, query processing, concurrency control, and recovery. Credit not given for both CS 6400 and CS 6754.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 4400 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:47.408Z"
+}

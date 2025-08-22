@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "IMBA",
+  "courseNumber": "6010",
+  "courseId": "IMBA 6010",
+  "title": "Cross Cultural Commun",
+  "description": "Participants learn tools and information to improve communications skills with new approaches and increased understanding while taking into account the effects of cross-cultural differences on communications.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:45.996Z"
+}

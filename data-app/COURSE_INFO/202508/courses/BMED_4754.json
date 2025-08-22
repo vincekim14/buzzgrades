@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BMED",
+  "courseNumber": "4754",
+  "courseId": "BMED 4754",
+  "title": "Comp Biotissue Mechanics",
+  "description": "Computational tissue and biomaterial mechanics modeling utilizing finite element software with elastic and inelastic material models.  Patient image data models creation using image modeling software.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 3410 Undergraduate Semester Minimum Grade of D and (CS 1371 Undergraduate Semester Minimum Grade of D or CS 1301 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:36:50.268Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "GT",
+  "courseNumber": "4801",
+  "courseId": "GT 4801",
+  "title": "Special Topics",
+  "description": "No course description is available.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:06.329Z"
+}

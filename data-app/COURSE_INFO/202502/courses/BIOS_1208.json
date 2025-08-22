@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "1208",
+  "courseId": "BIOS 1208",
+  "title": "Majors Organismal Biol",
+  "description": "An introduction to biology at the organ and organismal level, with emphasis on physiological processes, integration of growth and development, and biodiversity from an evolutionary perspective.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "BIOS 1208L",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:39.366Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "4903",
+  "courseId": "PSYC 4903",
+  "title": "Special Problems",
+  "description": "Students engage in individual and group projects under the direction of a faculty member.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:41.401Z"
+}

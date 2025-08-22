@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "2020",
+  "courseId": "ECE 2020",
+  "title": "Digital System Design",
+  "description": "Computer system and digital design principles.  Switch and gate design, Boolean algebra, number systems, arithmetic, storage elements.  Datapath, memory organization, instruction set architecture, assembly language.  Credit not allowed for both ECE 2020 and ECE 2030.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1371 Undergraduate Semester Minimum Grade of C or CS 1171 Undergraduate Semester Minimum Grade of D or CS 1301 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:32.573Z"
+}

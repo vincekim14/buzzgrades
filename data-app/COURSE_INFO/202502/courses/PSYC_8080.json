@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "8080",
+  "courseId": "PSYC 8080",
+  "title": "Seminar Cog &amp; Brain",
+  "description": "Critical examination of current problems in selected areas of cognition and brain sciences.  Areas to be discussed may vary each time.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:45.261Z"
+}

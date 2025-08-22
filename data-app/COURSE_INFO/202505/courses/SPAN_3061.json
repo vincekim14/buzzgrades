@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "SPAN",
+  "courseNumber": "3061",
+  "courseId": "SPAN 3061",
+  "title": "Business Spanish I",
+  "description": "Introduction to business language in the Hispanic world. Development of linguistic abilities to this end, with emphasis on those cultural factors that lead to commercial success. Conducted in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:34.623Z"
+}

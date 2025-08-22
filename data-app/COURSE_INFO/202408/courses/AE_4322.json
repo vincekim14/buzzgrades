@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "4322",
+  "courseId": "AE 4322",
+  "title": "Space System Design II",
+  "description": "Advanced design applications of space systems. Students apply mission and spacecraft design principles.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 4311 Undergraduate Semester Minimum Grade of D or AE 4321 Undergraduate Semester Minimum Grade of D or AE 4331 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:25.530Z"
+}

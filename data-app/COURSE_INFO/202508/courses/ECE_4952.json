@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "4952",
+  "courseId": "ECE 4952",
+  "title": "Undergrad Research II",
+  "description": "Participation in an individual or group research project under the direction of a faculty member.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 4951 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:44.049Z"
+}

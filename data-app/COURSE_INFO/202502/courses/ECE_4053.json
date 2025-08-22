@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4053",
+  "courseId": "ECE 4053",
+  "title": "Research Methods",
+  "description": "Course provides methods and practices for literature searching, reference management, and summary preparation. Coverage  includes journals, conferences, theses, patents, grants, roadmaps, and companies.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:41.625Z"
+}

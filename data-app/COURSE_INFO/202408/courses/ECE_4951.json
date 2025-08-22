@@ -1,0 +1,21 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4951",
+  "courseId": "ECE 4951",
+  "title": "Undergrad Research I",
+  "description": "Participation in an individual or group research project under the direction of a faculty member.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Cannot be enrolled in one of the following Classes:",
+    "__DETAIL_1__Freshman (FR)",
+    "__DETAIL_1__JEPHS (JH)",
+    "__DETAIL_1__Junior (JR)",
+    "__DETAIL_1__Sophomore (SO)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:14.837Z"
+}

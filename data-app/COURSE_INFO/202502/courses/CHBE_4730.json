@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHBE",
+  "courseNumber": "4730",
+  "courseId": "CHBE 4730",
+  "title": "Emg Tech Forest Bioprods",
+  "description": "The course provides comprehensive knowledge of the manufacture of nontraditional products from forest biomaterials. It analyzes and assesses emerging manufacturing technologies, materials and products.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 3130 Undergraduate Semester Minimum Grade of D or ME 3322 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:22.210Z"
+}

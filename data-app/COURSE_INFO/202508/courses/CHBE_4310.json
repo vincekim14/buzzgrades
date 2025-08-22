@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "4310",
+  "courseId": "CHBE 4310",
+  "title": "Bioprocess Engineering",
+  "description": "Integrating several ChBE core concepts, bioprocess engineering applies the material to biological systems. Items covered are enzyme kinetics, fermentation, downstream processing, and integrated bioprocesses important to the biotech industries.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHEM 3511 Undergraduate Semester Minimum Grade of D or CHEM 4511 Undergraduate Semester Minimum Grade of D or CHEM 3521 Undergraduate Semester Minimum Grade of D) and (CHBE 3210 Undergraduate Semester Minimum Grade of C or CHBE 3215 Undergraduate Semester Minimum Grade of C) and CHBE 3225 Undergraduate Semester Minimum Grade of C and (CHBE 4300 Undergraduate Semester Minimum Grade of C or CHBE 4320 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:37:13.681Z"
+}

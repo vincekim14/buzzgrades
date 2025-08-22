@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CP",
+  "courseNumber": "4010",
+  "courseId": "CP 4010",
+  "title": "Found-Urban&amp;Region Devel",
+  "description": "The course describes the economic function of cities and the significant factors that shape their growth and development.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:07.536Z"
+}

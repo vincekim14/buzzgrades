@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "BC",
+  "courseNumber": "6100",
+  "courseId": "BC 6100",
+  "title": "Prof Trends-Facility Mgt",
+  "description": "An introductory course covering the organizational, managerial, ethical, and legal principles for the delivery of facility management services.  Includes contracts and risk management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:04.589Z"
+}

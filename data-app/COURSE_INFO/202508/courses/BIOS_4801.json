@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BIOS",
+  "courseNumber": "4801",
+  "courseId": "BIOS 4801",
+  "title": "Biological Data Science",
+  "description": "Special Topics",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:39.570Z"
+}

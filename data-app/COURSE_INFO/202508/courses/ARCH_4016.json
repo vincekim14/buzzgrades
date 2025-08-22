@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "4016",
+  "courseId": "ARCH 4016",
+  "title": "Architecture Studio 6",
+  "description": "Advanced studies in architectural design emphasizing application of analytical, conceptual, and representational skills within projects that engage and problematize urban context culturally, ecologically and technologically.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 3017 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:36:17.008Z"
+}

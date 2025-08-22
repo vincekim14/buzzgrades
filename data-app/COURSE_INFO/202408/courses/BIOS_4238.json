@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOS",
+  "courseNumber": "4238",
+  "courseId": "BIOS 4238",
+  "title": "Ion Channels",
+  "description": "We will examine the basic biophysical properties, structure-function relationships, physiological regulation, pathology and pharmacological manipulation of ion channels with heavy reliance on recent literature.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOL 3450 Undergraduate Semester Minimum Grade of D or BIOS 3450 Undergraduate Semester Minimum Grade of D or APPH 3755 Undergraduate Semester Minimum Grade of D or BIOL 3755 Undergraduate Semester Minimum Grade of D or BIOS 3755 Undergraduate Semester Minimum Grade of D or BMED 3100 Undergraduate Semester Minimum Grade of D or NEUR 3100 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:02.319Z"
+}

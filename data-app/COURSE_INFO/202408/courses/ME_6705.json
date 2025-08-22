@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "6705",
+  "courseId": "ME 6705",
+  "title": "Intro to Mechatronics",
+  "description": "Modeling and control of actuators and electro-mechanical systems. Performance and application of microprocessors and analog electronics to modern mechatronic systems.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:58.724Z"
+}

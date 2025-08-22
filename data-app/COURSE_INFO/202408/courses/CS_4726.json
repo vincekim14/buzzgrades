@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "4726",
+  "courseId": "CS 4726",
+  "title": "Privacy Tech Policy Law",
+  "description": "This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics, law, and business realms. Credit will not be awarded for both CS 4726 and MGT 4726 or MGT 6726 or CS 6726.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:02.262Z"
+}

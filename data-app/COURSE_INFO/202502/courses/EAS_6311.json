@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "6311",
+  "courseId": "EAS 6311",
+  "title": "Physics of the Earth",
+  "description": "Physics of the Earth's interior. Composition and structure of core, mantle, crust. Introduction to seismic wave propagation, gravitational, geomagnetic, and temperature fields.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:18.734Z"
+}

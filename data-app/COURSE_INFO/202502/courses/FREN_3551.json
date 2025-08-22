@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "FREN",
+  "courseNumber": "3551",
+  "courseId": "FREN 3551",
+  "title": "Fren for Professions I",
+  "description": "Study aspects of literature, philosophy, culture, geography, history, business, and industry in France and other Francophone countries in these applied-language courses. Taught in French.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:07.683Z"
+}

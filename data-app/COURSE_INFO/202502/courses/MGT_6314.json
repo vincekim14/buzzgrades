@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6314",
+  "courseId": "MGT 6314",
+  "title": "Understndg Mkts  Data Sci",
+  "description": "This course applies a data science approach using network and text analytics to model and analyze how individuals and various kinds of markets behave.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Quarter (UG)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:43.613Z"
+}

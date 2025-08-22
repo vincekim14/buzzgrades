@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ME",
+  "courseNumber": "3057",
+  "courseId": "ME 3057",
+  "title": "Experimental Methodology",
+  "description": "Introduction to basic instrumentation and experimental methodology used in mechanical engineering, including calibration, use, precision and accuracy. Consideration errors, precision and accuracy in experimental measurements and technical reports.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ME 3340 Undergraduate Semester Minimum Grade of D or CEE 3040 Undergraduate Semester Minimum Grade of D) and COE 3001 Undergraduate Semester Minimum Grade of D and (ME 3015 Undergraduate Semester Minimum Grade of D or ME 3017 Undergraduate Semester Minimum Grade of D or AE 3515 Undergraduate Semester Minimum Grade of D) and ME 3345 Undergraduate Semester Minimum Grade of D and (MATH 3770 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or CEE 3770 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:41:53.771Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "4400",
+  "courseId": "CS 4400",
+  "title": "Intr to Database Systems",
+  "description": "Comprehensive coverage of mainstream database concepts such as the entity-relationship model, relational databases, query languages, and database design methodology. Includes a project.  Credit not allowed for both CS 4400 and CS 6402.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1301 Undergraduate Semester Minimum Grade of D or CS 1315 Undergraduate Semester Minimum Grade of D or CS 1371 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:13.526Z"
+}

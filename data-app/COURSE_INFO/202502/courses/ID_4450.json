@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "4450",
+  "courseId": "ID 4450",
+  "title": "Portfolio Development",
+  "description": "The portfolio development course provides students with a structured approach to preparing a professional visual record of their work in print and digital formats.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 2012 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:54.315Z"
+}

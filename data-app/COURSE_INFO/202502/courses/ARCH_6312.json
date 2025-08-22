@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "6312",
+  "courseId": "ARCH 6312",
+  "title": "Ecological Practice",
+  "description": "An historically and culturally grounded examination of the ecological perspective. Critical and productive engagement with green guidelines, laws, products, design briefs, and procedures.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:32.288Z"
+}

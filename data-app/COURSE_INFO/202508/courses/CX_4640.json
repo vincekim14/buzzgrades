@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CX",
+  "courseNumber": "4640",
+  "courseId": "CX 4640",
+  "title": "Numerical Analysis I",
+  "description": "Introduction to numerical algorithms for some basic problems in computational mathematics. Discussion of both implementation issues and error analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2403 Undergraduate Semester Minimum Grade of C or MATH 2413 Undergraduate Semester Minimum Grade of C or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2602 Undergraduate Semester Minimum Grade of C or MATH 2603 Undergraduate Semester Minimum Grade of C or MATH 2552 Undergraduate Semester Minimum Grade of C or MATH 2562 Undergraduate Semester Minimum Grade of C or MATH 2X52 Undergraduate Semester Minimum Grade of T",
+  "lastUpdated": "2025-08-20T02:38:10.002Z"
+}

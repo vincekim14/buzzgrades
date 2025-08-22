@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "6102",
+  "courseId": "ID 6102",
+  "title": "Graduate Studio A",
+  "description": "Studio introduces the MID certificate in Design. The ID studio class stands at the heart of design education and professional practice. Industrial Design is considered from a strategic perspective. Assignments explore the business, technology and use experience components.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ID 6104 and ID 6105",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:24.177Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4510",
+  "courseId": "BIOS 4510",
+  "title": "Epigenetics",
+  "description": "This course will introduce the basic concepts and mechanisms in epigenetics, covering topics ranging from stem cell reprogramming, organismal development, social behaviors, to human diseases.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOL 2344 Undergraduate Semester Minimum Grade of D or BIOL 2354 Undergraduate Semester Minimum Grade of D or BIOL 3450 Undergraduate Semester Minimum Grade of D or BIOL 2800 Undergraduate Semester Minimum Grade of D or BIOL 3450 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:45.474Z"
+}

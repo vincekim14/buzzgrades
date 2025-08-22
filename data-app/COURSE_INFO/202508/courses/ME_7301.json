@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "7301",
+  "courseId": "ME 7301",
+  "title": "Trans Ph Multiphase Flow",
+  "description": "Gas-liquid, two-phase flow patterns, basic and empirical models; conservation equations and closure relations; pool and convective boiling; aerosol transport; condensation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 6301 Graduate Semester Minimum Grade of D and ME 6302 Graduate Semester Minimum Grade of D and ME 6602 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:34.859Z"
+}

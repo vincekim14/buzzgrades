@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PSYC",
+  "courseNumber": "4270",
+  "courseId": "PSYC 4270",
+  "title": "Psychological Testing",
+  "description": "Fundamentals of psychological test construction (reliability and validity) and applications of intelligence, personality, and interest assessment.  Topics will include theoretical, practical, ethical, and legal issues.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D and BIOS 4401 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D or (ISYE 3770 Undergraduate Semester Minimum Grade of D ECE 3077 Undergraduate Semester Minimum Grade of D) or PSYC 2020 Undergraduate Semester Minimum Grade of D or (MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3225 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:43:56.343Z"
+}

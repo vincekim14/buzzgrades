@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "4410",
+  "courseId": "EAS 4410",
+  "title": "Climate &amp; Global Change",
+  "description": "The physics behind the climate and its potential changes, as well as an introduction to the policy issues in global change.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:09.402Z"
+}

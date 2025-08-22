@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "6109",
+  "courseId": "ARCH 6109",
+  "title": "Arch and Minimalism",
+  "description": "This course examines the influence of \"minimalism,\" the 1960s art phenomenon, upon architecture culture and production from 1968-present.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:31.398Z"
+}

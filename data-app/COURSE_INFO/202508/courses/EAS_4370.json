@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "4370",
+  "courseId": "EAS 4370",
+  "title": "Physics of Planets",
+  "description": "In this course we will study the forces and influences that determine the composition, structure and evolution of the planets in our solar system.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 2212 Undergraduate Semester Minimum Grade of D and (MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T)",
+  "lastUpdated": "2025-08-20T02:39:09.187Z"
+}

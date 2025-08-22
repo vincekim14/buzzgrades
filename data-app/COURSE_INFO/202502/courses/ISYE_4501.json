@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "4501",
+  "courseId": "ISYE 4501",
+  "title": "Energy, Effic &amp; Sustain",
+  "description": "Analysis and modeling of energy production and use, material and energy efficiency, sustainability, and cost for systems, products, and services.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3025 Undergraduate Semester Minimum Grade of D and ISYE 3133 Undergraduate Semester Minimum Grade of D and PHYS 2211 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:35.054Z"
+}

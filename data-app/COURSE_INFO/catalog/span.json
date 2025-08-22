@@ -1,0 +1,841 @@
+{
+  "subject": "SPAN",
+  "subjectName": "Spanish (SPAN)",
+  "url": "https://catalog.gatech.edu/coursesaz/span/",
+  "courses": [
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "1001",
+      "courseId": "SPAN 1001",
+      "title": "Elementary Spanish I",
+      "description": "Introduction to listening, speaking, reading, and writing in Spanish and to the culture of Spanish-speaking regions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "1002",
+      "courseId": "SPAN 1002",
+      "title": "Elementary Spanish II",
+      "description": "Continued listening, speaking, reading, and writing in Spanish with further study of the culture of Spanish-speaking regions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "1813",
+      "courseId": "SPAN 1813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "2001",
+      "courseId": "SPAN 2001",
+      "title": "Intermediate Spanish I",
+      "description": "A rapid review of grammar with continued use of listening, speaking, reading, and writing skills in Spanish, all with a cultural emphasis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "2002",
+      "courseId": "SPAN 2002",
+      "title": "Intermediate Spanish II",
+      "description": "This course focuses on listening, speaking, reading, and writing skills in Spanish in an introduction to literature and within a cultural context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "2694",
+      "courseId": "SPAN 2694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Language.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "2695",
+      "courseId": "SPAN 2695",
+      "title": "Undergraduate Internship",
+      "description": "Modern Language Undergraduate Internship for credit for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "2698",
+      "courseId": "SPAN 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "2699",
+      "courseId": "SPAN 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "2813",
+      "courseId": "SPAN 2813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3040",
+      "courseId": "SPAN 3040",
+      "title": "A Practical Application of Spanish Grammar",
+      "description": "A review of important structures of Spanish, presented in communicative contexts vital to the academic careers of students.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3050",
+      "courseId": "SPAN 3050",
+      "title": "Introduction to Reading Hispanic Literature",
+      "description": "This course bridges language study and the study of literature by helping students read, understand , and interpret literature as a system of communication in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3061",
+      "courseId": "SPAN 3061",
+      "title": "Spanish for Business I: Fundamentals",
+      "description": "Introduction to business language in the Hispanic world. Development of linguistic abilities to this end, with emphasis on those cultural factors that lead to commercial success. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3064",
+      "courseId": "SPAN 3064",
+      "title": "Medical Spanish",
+      "description": "This course facilitates acquisition of a broad vocabulary and awareness of cultural customs and trends pertaining to the healthcare field.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3070",
+      "courseId": "SPAN 3070",
+      "title": "Latin American Music",
+      "description": "Students study the musical traditions of the Andes, Mexico and the Caribbean, focusing on the rhythms, instruments, artists, style and tendencies present. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3101",
+      "courseId": "SPAN 3101",
+      "title": "Spanish Conversation: Issues and Strategies I",
+      "description": "Development of communicative ability and cross-cultural awareness through discussion of contemporary issues in the Hispanic world. Conducted in Spanish. No native speakers allowed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3111",
+      "courseId": "SPAN 3111",
+      "title": "Composition: Analysis and Development I",
+      "description": "Writings from the Hispanic world used as a springboard for analysis and enrichment of self-expression and development of precision in written communication. Incorporates grammar review. Conducted in Spanish. No native speakers allowed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3122",
+      "courseId": "SPAN 3122",
+      "title": "Cultural History of Spain II: Nineteenth and Twentieth Century Spain",
+      "description": "History of Spanish culture from 1800 to the present. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3130",
+      "courseId": "SPAN 3130",
+      "title": "Spanish for Heritage Speakers",
+      "description": "Course designed for heritage speakers with little or no formal instruction in Spanish who want to expand their linguistic skills in a content-based framework.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3151",
+      "courseId": "SPAN 3151",
+      "title": "Conversation Practicum",
+      "description": "This course combines current event discussion with ongoing conversation practice.  Students participate in in-class discussions plus weekly language exchanges with native Spaniards.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3200",
+      "courseId": "SPAN 3200",
+      "title": "Globalization in Latin America",
+      "description": "Case-studies examination of globalization in Latin America regarding politics and industry, migration, culture and communication, and health and the environment. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3211",
+      "courseId": "SPAN 3211",
+      "title": "Spain Today",
+      "description": "This course introduces students to current issues in the culture and history of contemporary Spain. Articles, videos, and news clips are used as springboard for discussion. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3235",
+      "courseId": "SPAN 3235",
+      "title": "Latin America Today",
+      "description": "Selected journalistic and literary writings used as a springboard for discussion of social, economic, and political issues of contemporary Latin America. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3242",
+      "courseId": "SPAN 3242",
+      "title": "Society in Hispanic Literature",
+      "description": "Study of Hispanic society and political thought in selected literary works.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3260",
+      "courseId": "SPAN 3260",
+      "title": "Identity in Hispanic American Literature",
+      "description": "This course examines the construction of personal, cultural, national, political, and regional identity in Hispanic American literature over the past two centuries.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3300",
+      "courseId": "SPAN 3300",
+      "title": "Satire & Media in the Americas",
+      "description": "This course explores how new types pf satire challenge traditional media and impacts political communication in today's democratic societies in the Americas. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3500",
+      "courseId": "SPAN 3500",
+      "title": "Science Fiction in Latin America",
+      "description": "This course is a survey of Latin America science-fiction. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3590",
+      "courseId": "SPAN 3590",
+      "title": "Issues of Sustainable Development in the Andean Region",
+      "description": "Historical and social context of contemporary issues of cultural, economic and environmental sustainability in the Andean region.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3591",
+      "courseId": "SPAN 3591",
+      "title": "Cultural Patrimony in Peru",
+      "description": "Using literature, film and art, this course examines cultural patrimony in Peru and its impact on society, economy, environment and threats to its preservation.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3592",
+      "courseId": "SPAN 3592",
+      "title": "Culture and Commerce in the Andes",
+      "description": "Examines the 'business of nature' in the extractive economies of the Andes and culture clashes of Western and indigenous perspectives of development. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3690",
+      "courseId": "SPAN 3690",
+      "title": "Commerce and Sustainable Communities",
+      "description": "Study of the connectedness and community impact of contemporary issues of economic, sociocultural, and environmental sustainability in Mexico.  Conducted in Spanish.  Part of the Spanish intensive summer LBAT program.  Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3691",
+      "courseId": "SPAN 3691",
+      "title": "Business Communication and Correspondence in the Hispanic",
+      "description": "Refinement of accuracy/flexibility in oral/written expression. Focus on appropriate use of strategies, business negotiation protocols, lexical precision in business transactions. Incorporates grammar review.  Part of the Spanish intensive summer language program. Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3692",
+      "courseId": "SPAN 3692",
+      "title": "Business and Culture in the Hispanic World",
+      "description": "Study of cultural issues, tendencies, and traditional patterns of behavior in Spanish-speaking people as they relate to business practices.  Value systems and formal manifestations. Regional variations, including the U.S. Hispanic culture. Part of the Spanish intensive summer language program. Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3693",
+      "courseId": "SPAN 3693",
+      "title": "Science and Technology in the Hispanic World",
+      "description": "Study of business organizations and use of technology in the Spanish-speaking world. Specialized vocabularies of business, economics, statistics, and computer science. Geographical and anthropological background. Part of the Spanish intensive summer language program.  Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3694",
+      "courseId": "SPAN 3694",
+      "title": "Business and Culture in the Hispanic World: Seminar Abroad",
+      "description": "Field study of technology, economic trends, business firms, financial institutions, and cultural protocols in the Spanish-speaking area. Part of the Spanish intensive summer language program. Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3697",
+      "courseId": "SPAN 3697",
+      "title": "Spanish for Health Care Professionals",
+      "description": "Culture-specific conceptions of health, medical vocabulary, professional-patient protocols, professional-professional protocols, symptoms, treatments.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3698",
+      "courseId": "SPAN 3698",
+      "title": "Health Care Industry in Spain",
+      "description": "Study of culture-specific values in health systems in Spain/ Europe.  Visits to local sites. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3813",
+      "courseId": "SPAN 3813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3821",
+      "courseId": "SPAN 3821",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Spanish.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3822",
+      "courseId": "SPAN 3822",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Spanish.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3823",
+      "courseId": "SPAN 3823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "3833",
+      "courseId": "SPAN 3833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4061",
+      "courseId": "SPAN 4061",
+      "title": "Spanish for Science and Technology I: Fundamentals",
+      "description": "Introduction to scientific vocabulary and discourse in Spanish, by fields of interest. Study of expository texts, numerical expressions, and graphic aids. Development of some reading and translation strategies. Writing feature descriptions and article/report summaries in Spanish. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4062",
+      "courseId": "SPAN 4062",
+      "title": "Spanish for Science and Technology II: Applications",
+      "description": "Advanced analysis of scientific and technological discourse in Spanish.  Focus on reading strategies and oral discussion of topics such as use and transfer of technology and the acculturation issues that follow. Further development of comprehension, production, and translation strategies, with emphasis on professional communications and on writing feature descriptions, summaries, and abstracts. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4102",
+      "courseId": "SPAN 4102",
+      "title": "Spanish for the Professions",
+      "description": "This course develops communication skills for professional purposes with an emphasis on specialized vocabulary building and cultural nuances of the Spanish-speaking world. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4150",
+      "courseId": "SPAN 4150",
+      "title": "Learning in the Hispanic Community",
+      "description": "This class combines classroom discussion with Hispanic community service projects to allow students to study Hispanic cultures and practice Spanish with native speakers.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4156",
+      "courseId": "SPAN 4156",
+      "title": "Spanish Service-Learning Abroad I",
+      "description": "Students complete service projects in a Spanish-speaking country abroad and attend weekly class meetings that combine student presentations and documentaries with a guest-speaker series. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4157",
+      "courseId": "SPAN 4157",
+      "title": "Spanish Service-Learning Abroad II",
+      "description": "Students complete service projects in a Spanish-speaking country abroad and gain an in-country immersion opportunity that hones oral and aural skills and increases cultural competence through real-life interactions with the host community abroad. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4158",
+      "courseId": "SPAN 4158",
+      "title": "Social, Cultural, and Linguistic Diversity in Spain",
+      "description": "This course examines the social, cultural, and linguistic dimensions of sustainability and the concepts of diversity and equity in the Spanish context.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4160",
+      "courseId": "SPAN 4160",
+      "title": "U.S. Spanish: Language and Cultures",
+      "description": "Linguistic groups, changes, bilingualism, customs, traditions of US Hispanics. Course project on current migration, legal, financial, educational, health, media or political issues/advances. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4165",
+      "courseId": "SPAN 4165",
+      "title": "Bilingualism in the Spanish Speaking World",
+      "description": "This course introduces students to bilingualism at both individual and societal levels within the Hispanic communities in the US, Spain, and Latin America. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4170",
+      "courseId": "SPAN 4170",
+      "title": "Spanish Applied Linguistics",
+      "description": "Advanced linguistic analysis of the Spanish language, particularly as it contrasts with English. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4220",
+      "courseId": "SPAN 4220",
+      "title": "Nation and Narration in Latin America",
+      "description": "This course examines the connection between nation and narration in Latin American literature and film and explores the narrative construction of national identities. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4237",
+      "courseId": "SPAN 4237",
+      "title": "Food, Power, and Sustainability in Latin America",
+      "description": "Food as gateway to region-by-region study of issues of sustainable development in Latin America.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4244",
+      "courseId": "SPAN 4244",
+      "title": "Visual Culture and Social Agenda in Latin America",
+      "description": "Historical and cultural analysis of the role of art, visual image and iconography as social commentator and public platform in Latin America.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4251",
+      "courseId": "SPAN 4251",
+      "title": "Hispanic Community Internship",
+      "description": "Students complete inernships with agencies, organizations, and businesses serving Atlanta Hispanics, using their Spanish language skills in a professional work environment. Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4270",
+      "courseId": "SPAN 4270",
+      "title": "Span Sociolinguistics",
+      "description": "This course explores the relationships between the Spanish language and the Hispanic cultures and societies of the world. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4350",
+      "courseId": "SPAN 4350",
+      "title": "Ibero-American Cities",
+      "description": "This course examines the representation and development of cities in the Hispanic World.  Students develop three urban projects based on their study.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4360",
+      "courseId": "SPAN 4360",
+      "title": "Covering Arts & Latin(o) American Culture in the U.S.",
+      "description": "This course explores contemporary media reporting on the LatinX culture in the US and Latin America.  Taught in Spanish and English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4401",
+      "courseId": "SPAN 4401",
+      "title": "Globalization and Migration",
+      "description": "Print and filmic texts serve as gateway to context-specific issues of migration in the Spanish-speaking world from both sender- and receiver-country perspectives.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4405",
+      "courseId": "SPAN 4405",
+      "title": "Latin American Documentaries",
+      "description": "This course explores the documentary traditions of Chile, Argentina and Cuba to learn about the history of Latin American societies.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4410",
+      "courseId": "SPAN 4410",
+      "title": "Media and Power in Latin America",
+      "description": "This course explores the tensions between media and power in relation to the struggle for freedom of expression in Latin American countries.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4454",
+      "courseId": "SPAN 4454",
+      "title": "Latin America through Film",
+      "description": "Contemporary Latin American film serves as gateway to in-depth discussion of social, political, economic and cross-cultural perspectives.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4460",
+      "courseId": "SPAN 4460",
+      "title": "Hispanic Digital Cultures",
+      "description": "Students explore recent developments in New Media and Digital Culture within the context of Latin American and Spanish cultures and societies.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4500",
+      "courseId": "SPAN 4500",
+      "title": "Advanced Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues in the Hispanic world. Intended for students who have had some study abroad experience in a Spanish-speaking country.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4690",
+      "courseId": "SPAN 4690",
+      "title": "Intercultural Dialogue",
+      "description": "Explores cultural identity in Latin America through live interviews, print, and film.  Topics will vary.  Taught in Spanish as part of the LBAT study abroad program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4693",
+      "courseId": "SPAN 4693",
+      "title": "Sustainability in Spain",
+      "description": "This course examines issues of economic and environmental sustainability as well as the relationship between the economy and the environment in Spain.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4694",
+      "courseId": "SPAN 4694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for junior and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4695",
+      "courseId": "SPAN 4695",
+      "title": "Spanish Internship",
+      "description": "Professional experience with a business/organization in which students enhance their language skills and cultural knowledge in Spanish in relation to the practical goals/objectives of the entity.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4698",
+      "courseId": "SPAN 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4699",
+      "courseId": "SPAN 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4813",
+      "courseId": "SPAN 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4823",
+      "courseId": "SPAN 4823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4833",
+      "courseId": "SPAN 4833",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4901",
+      "courseId": "SPAN 4901",
+      "title": "Special Problems in Spanish",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "4902",
+      "courseId": "SPAN 4902",
+      "title": "Special Problems in Spanish",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6101",
+      "courseId": "SPAN 6101",
+      "title": "Advanced Communication Workshop",
+      "description": "Advancement of oral and written proficiency using workshop and project-development formats to focus on communicative precision, style, register and grammar.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6170",
+      "courseId": "SPAN 6170",
+      "title": "Applied Linguistics",
+      "description": "This course introduces students to theoretical and practical aspects of Spanish as a foreign language and fundamental concepts in second language acquisition and teaching.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6236",
+      "courseId": "SPAN 6236",
+      "title": "Media, Markets and Advertising in the Hispanic World",
+      "description": "This course uses print, broadcast and web-based media to explore the social structures and cultural values reflected in product consumption, marketing and advertising in Latin America.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6237",
+      "courseId": "SPAN 6237",
+      "title": "Food, Power and Sustainability",
+      "description": "Food as gateway to region-by-region study of issues of sustainable development in Latin America.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6244",
+      "courseId": "SPAN 6244",
+      "title": "Visual Culture and Social Agenda in Latin America",
+      "description": "Historical and cultural analysis of the role of art, visual image and iconography as social commentator and public platform in Latin America.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6251",
+      "courseId": "SPAN 6251",
+      "title": "Hispanic Community Internship",
+      "description": "Students complete internships with agencies, organizations, and businesses serving Atlanta Hispanics, using their Spanish language skills in a professional work environment.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6270",
+      "courseId": "SPAN 6270",
+      "title": "Span Sociolinguistics",
+      "description": "This course explores the relationships between the Spanish language and the Hispanic cultures and societies of the world. Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6360",
+      "courseId": "SPAN 6360",
+      "title": "Covering Arts and Latin(o) American Culture in the U.S.",
+      "description": "This course explores contemporary media reporting on the LatinX culture in the US and Latin America.  Taught in Spanish and English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6401",
+      "courseId": "SPAN 6401",
+      "title": "Globalization and Migration",
+      "description": "Print and filmic texts serve as gateway to context-specific issues of migration in the Spanish-speaking world from both sender- and receiver-country perspectives.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6405",
+      "courseId": "SPAN 6405",
+      "title": "Latin American Documentaries",
+      "description": "This course explores the documentary traditions of Chile, Argentina and Cuba to learn about the history of Latin American societies.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6410",
+      "courseId": "SPAN 6410",
+      "title": "Media and Power in Latin America",
+      "description": "This course explores the tension between media and power in relation to the struggle for freedom of expression in Latin American countries.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6454",
+      "courseId": "SPAN 6454",
+      "title": "Latin America through Film",
+      "description": "Contemporary Latin American film serves as gateway to in-depth discussion of social, political, economic and cross-cultural perspectives.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6460",
+      "courseId": "SPAN 6460",
+      "title": "Hispanic Digital Cultures",
+      "description": "Students explore recent developments in new Media and Digital Culture within the context of Latin American and Spanish cultures and societies.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6500",
+      "courseId": "SPAN 6500",
+      "title": "Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues in the Spanish-speaking world.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6501",
+      "courseId": "SPAN 6501",
+      "title": "Theory and Foundations Seminar",
+      "description": "This course seeks to increase theoretical knowledge and practical applications in key areas of culture, literature/media, and linguistics studies.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6503",
+      "courseId": "SPAN 6503",
+      "title": "Professional Portfolio Development",
+      "description": "Preparation of a professional portfolio connecting experiences and coursework in the MS program towards career preparation.  Conducted in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6510",
+      "courseId": "SPAN 6510",
+      "title": "Applied Language Practicum Abroad",
+      "description": "Students will serve as researchers, student aides and apprentice instructors for any 3/4000-level undergraduate course approved by their adviser.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6511",
+      "courseId": "SPAN 6511",
+      "title": "Applied Language Practicum Abroad",
+      "description": "Students serve as researchers and apprentice instructors in LBAT or other faculty-led overseas language immersion program of the School of Modern Languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6690",
+      "courseId": "SPAN 6690",
+      "title": "Intercultural Dialogue",
+      "description": "Explores cultural identity in Latin America through live interviews, print, and film. Topics vary.  Taught in Spanish overseas as part of LBAT study abroad program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6693",
+      "courseId": "SPAN 6693",
+      "title": "Studies in Sustainable Development",
+      "description": "This course examines issues of economic and environmental sustainability as well as the relationship between the economy and the environment.  Taught in Spanish.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6695",
+      "courseId": "SPAN 6695",
+      "title": "Spanish Internship Abroad",
+      "description": "Students complete internships abroad in a Spanish-speaking country.  Conducted in Spanish.  Online course.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6696",
+      "courseId": "SPAN 6696",
+      "title": "Internship Abroad Spanish B",
+      "description": "Students complete internships abroad in a Spanish-speaking country.  Conducted in Spanish.  Online course.  6 credits.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "6998",
+      "courseId": "SPAN 6998",
+      "title": "Master's Project",
+      "description": "Optional project course taught in Spanish.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "7000",
+      "courseId": "SPAN 7000",
+      "title": "Master's Thesis",
+      "description": "Master's Thesis.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "8803",
+      "courseId": "SPAN 8803",
+      "title": "Special Topics",
+      "description": "Special topics in Spanish Language and Literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "8901",
+      "courseId": "SPAN 8901",
+      "title": "Special Problems in Spanish",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "8902",
+      "courseId": "SPAN 8902",
+      "title": "Special Programs in Spanish",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "SPAN",
+      "courseNumber": "8903",
+      "courseId": "SPAN 8903",
+      "title": "Special Problems in Spanish",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 104,
+  "scrapedAt": "2025-08-16T02:00:50.113Z"
+}

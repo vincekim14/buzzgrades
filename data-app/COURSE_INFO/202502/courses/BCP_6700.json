@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BCP",
+  "courseNumber": "6700",
+  "courseId": "BCP 6700",
+  "title": "Issues Occup Sfty &amp; Hlth",
+  "description": "This course covers the environmental issues related to the performance of buildings and the current issues in workplace safety and health.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:07.441Z"
+}

@@ -1,0 +1,105 @@
+{
+  "subject": "NS",
+  "subjectName": "Naval Science (NS)",
+  "url": "https://catalog.gatech.edu/coursesaz/ns/",
+  "courses": [
+    {
+      "subjectCode": "NS",
+      "courseNumber": "1000",
+      "courseId": "NS 1000",
+      "title": "Naval Science Leadership Lab",
+      "description": "Leadership Laboratory is an engaging and interactive professional development course required every semester for Navy and Marine option Midshipmen in the NROTC program.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "1321",
+      "courseId": "NS 1321",
+      "title": "Introduction to Naval Sciences",
+      "description": "This course is an introduction and orientation class designed to give students a broad overview of the roles of the United States Navy and Marine Corps. This course also provides an introduction to the structure, terminology, customs, and uniforms of the Navy and Marine Corps.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "1323",
+      "courseId": "NS 1323",
+      "title": "Naval Maritime History",
+      "description": "This course surveys U.S. Naval history from its European origin to the present with emphasis on major developments and the geopolitical forces shaping these developments. The course also covers present day concerns in seapower and maritime affairs, including the economic and political issues of maritime commerce, the law of the sea, and the rise and decline of the Soviet Navy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "2321",
+      "courseId": "NS 2321",
+      "title": "Naval Leadership and Management",
+      "description": "Survey of managerial functions, communication, and major theories of leadership and motivation applied to the Navy organization.  Culminates with focus on Naval core values.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "2323",
+      "courseId": "NS 2323",
+      "title": "Navigation",
+      "description": "This course develops and broadens the student's understanding of basic piloting and the laws of vessel operations by applying the fundamentals of navigation at sea.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "3323",
+      "courseId": "NS 3323",
+      "title": "Evolution of Warfare",
+      "description": "A historical exploration of warfare practiced by great nations.  Selected campaigns are studied with emphasis on leadership, evolution of tactics, weaponry, and principles of war.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "3324",
+      "courseId": "NS 3324",
+      "title": "Marine Weapons and Tactics",
+      "description": "This course is a prepatory course required by all Marines and Marine Options their junior year prior to Officer Candidates School. General military subjects, land navigation, history, tactics drill, leadership, and physical fitness will be taught and tested.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "3325",
+      "courseId": "NS 3325",
+      "title": "Naval Weapons Systems",
+      "description": "This course develops and broadens the student's understanding of basic engineering concepts and principles as applied to naval weapon systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "3326",
+      "courseId": "NS 3326",
+      "title": "Naval Engineering Systems",
+      "description": "This course develops and broadens the student's understanding of basic engineering concepts and priciples as applied to naval engineering plants.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "4320",
+      "courseId": "NS 4320",
+      "title": "Naval Operations and Seamanship",
+      "description": "This course builds on the fundamentals presented in its prerequisites and further prepares soon-to-be-commissioned officers to step aboard their new ship/submarine and stand watch.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "4322",
+      "courseId": "NS 4322",
+      "title": "Naval Leadership and Ethics",
+      "description": "Prepares future leaders by exploring and applying a wide range of leadership and ethics tools to enhance objective, sound, and timely decision-making in the most challenging environments.  The course integrates an intellectual exploration of Western moral traditions and ethical philosophy with military leadership, core values, professional ethics, and the Uniform Code of Military Justice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NS",
+      "courseNumber": "4333",
+      "courseId": "NS 4333",
+      "title": "Fundamentals of Maneuver Warfare",
+      "description": "Broad aspects of warfare and their interactions with manuever warfare doctrine. Focus on the United States Marine Corps as the premier maneuver warfare fighting institution.",
+      "creditHours": "3"
+    }
+  ],
+  "totalCourses": 12,
+  "scrapedAt": "2025-08-16T02:00:46.911Z"
+}

@@ -1,0 +1,21 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4912",
+  "courseId": "MGT 4912",
+  "title": "Forensic Accounting",
+  "description": "Independent study conducted for one student under the guidance of a faculty member.",
+  "creditHours": "1 to 3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)",
+    "__HEADER_2__Must be enrolled in one of the following Classes:",
+    "__DETAIL_2__Junior (JR)",
+    "__DETAIL_2__Senior (SR)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:36.844Z"
+}

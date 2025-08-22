@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "INTA",
+  "courseNumber": "6704",
+  "courseId": "INTA 6704",
+  "title": "Intro Global Development",
+  "description": "This course introduces students to the goals, theories and key institutional actors involved in the field of Global Development.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:37.798Z"
+}

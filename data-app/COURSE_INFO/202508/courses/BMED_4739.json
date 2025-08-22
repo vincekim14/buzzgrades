@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BMED",
+  "courseNumber": "4739",
+  "courseId": "BMED 4739",
+  "title": "Medical Robotics",
+  "description": "An interdisciplinary course focusing on fundamental understanding of robot kinematics and dynamics as well as the design, development, and evaluation of a medical robotic system.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 3110 Undergraduate Semester Minimum Grade of D and BMED 3400 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:49.358Z"
+}

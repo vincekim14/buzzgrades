@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "4300",
+  "courseId": "EAS 4300",
+  "title": "Oceanography",
+  "description": "Chemistry and physics of the ocean. Distributions of temperature, salinity, and density. Equations of state and motion. Surface and deep-water circulation.  Waves and tides. Composition of seawater: dissolved sales, gases, and nutrients. Biological processes. Marine sediments.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:14.516Z"
+}

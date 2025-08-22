@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "PHYS",
+  "courseNumber": "7127",
+  "courseId": "PHYS 7127",
+  "title": "Cosmology &amp; Galaxies",
+  "description": "Overview of the relevant physics that govern cosmological processes, and galaxy formation and evolution. Topics include inflation, gravitational collapse, large-scale clustering, and galaxy mergers.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:26.668Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "4315",
+  "courseId": "ME 4315",
+  "title": "Energy Systems Analy&amp;Dgn",
+  "description": "Integrated concepts, laws, and methodologies from thermal sciences are used to analyze, model, and design energy systems and to predict system performance for fixed designs.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(AE 1770 Undergraduate Semester Minimum Grade of D or CEE 1770 Undergraduate Semester Minimum Grade of D or ME 1770 Undergraduate Semester Minimum Grade of D) and ME 2110 Undergraduate Semester Minimum Grade of D and ME 3345 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:48.703Z"
+}

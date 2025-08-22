@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "3027",
+  "courseId": "HTS 3027",
+  "title": "Civil Rights Movement",
+  "description": "Examines why the civil rights movement emerged, how it was successful, and the impact it had on the U.S.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:48.114Z"
+}

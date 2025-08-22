@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "3141",
+  "courseId": "ME 3141",
+  "title": "Cutting-Edge Eng Seminar",
+  "description": "Seminar course on advanced engineering technologies directed to a non-technical audience.  Distinguished guest speakers.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:26.605Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4417",
+  "courseId": "BIOS 4417",
+  "title": "Marine Ecology",
+  "description": "An overview of the physical forces and biotic interactions structuring marine communities and of the major threats to these communities",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOS 2300 Undergraduate Semester Minimum Grade of D or BIOS 2310 Undergraduate Semester Minimum Grade of D or BIOL 2335 Undergraduate Semester Minimum Grade of D or BIOL 2337 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:44.136Z"
+}

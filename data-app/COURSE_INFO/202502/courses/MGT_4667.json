@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4667",
+  "courseId": "MGT 4667",
+  "title": "Strat Entrepreneurship",
+  "description": "Provides strategic frameworks and in-depth discussions that help students navigate the entrepreneurial process and make decisions about customers, competition, and technology while dealing with uncertainty.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3659 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:34.438Z"
+}

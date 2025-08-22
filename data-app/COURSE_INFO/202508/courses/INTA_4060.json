@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "INTA",
+  "courseNumber": "4060",
+  "courseId": "INTA 4060",
+  "title": "International Law",
+  "description": "Explores major issues, concepts and cases in public international law and their policy ramifications. Specific topics include human rights, armed conflict, crimes against humanity, and the environment.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:34.633Z"
+}

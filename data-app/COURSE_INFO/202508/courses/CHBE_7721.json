@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "7721",
+  "courseId": "CHBE 7721",
+  "title": "Future Faculty",
+  "description": "How to run a successful research program, advise students, apply and get a job in academia, navigate promotion and tenure, and other aspects of academia.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 6260 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:20.559Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CHIN",
+  "courseNumber": "2001",
+  "courseId": "CHIN 2001",
+  "title": "Intermediate Chinese I",
+  "description": "Reinforcing basic language skills and knowledge to enhance students' communication ability including oral dialogue and written correspondence in current Chinese society.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:05.582Z"
+}

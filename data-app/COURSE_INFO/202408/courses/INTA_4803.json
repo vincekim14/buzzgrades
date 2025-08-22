@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "INTA",
+  "courseNumber": "4803",
+  "courseId": "INTA 4803",
+  "title": "Data Analytics and Security",
+  "description": "Selected topics will vary from term to term.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:03.477Z"
+}

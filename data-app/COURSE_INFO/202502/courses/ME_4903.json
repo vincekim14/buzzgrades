@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4903",
+  "courseId": "ME 4903",
+  "title": "Special Problems",
+  "description": "Individual studies in certain specialized areas, and mathematical analyses and/or experimental investigations of problems of current interest in mechanical engineering.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:37.004Z"
+}

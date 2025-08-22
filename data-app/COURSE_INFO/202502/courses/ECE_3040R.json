@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "3040R",
+  "courseId": "ECE 3040R",
+  "title": "ECE 3040 Recitation",
+  "description": "ECE 3040 Recitation",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ECE 3040",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:36.462Z"
+}

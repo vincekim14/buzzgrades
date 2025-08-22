@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "3016",
+  "courseId": "ARCH 3016",
+  "title": "Architecture Studio 4",
+  "description": "Intermediate architectural design projects emphasizing the functional priorities and expressive potential of building technologies through studio problems of varying programmatic and contextual complexity.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 2017 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:35:44.990Z"
+}

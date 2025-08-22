@@ -1,0 +1,20 @@
+{
+  "term": "202502",
+  "subjectCode": "BMEJ",
+  "courseNumber": "9999",
+  "courseId": "BMEJ 9999",
+  "title": "GT-PKU",
+  "description": "For GT, PKU, and Emory students during terms when they are not taking other GT courses.  Placeholder course.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__GT",
+    "__DETAIL_1__Peking University",
+    "__DETAIL_1__& Emory (PKU)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:53.371Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "4510",
+  "courseId": "CS 4510",
+  "title": "Automata and Complexity",
+  "description": "Computational machine models and their language classes. Undecidability. Resource-bounded computations. Central complexity-theoretic concepts such as complexity classes, reducibility and completeness.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 3510 Undergraduate Semester Minimum Grade of C or CS 3511 Undergraduate Semester Minimum Grade of C) and (MATH 3012 Undergraduate Semester Minimum Grade of D or MATH 3022 Undergraduate Semester Minimum Grade of D) and (MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3235 Undergraduate Semester Minimum Grade of D or MATH 3225 Undergraduate Semester Minimum Grade of D or MATH 3770 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or CEE 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or (ISYE 2027 Undergraduate Semester Minimum Grade of D and (ISYE 2028 Undergraduate Semester Minimum Grade of D or ISYE 3030 Undergraduate Semester Minimum Grade of D)))",
+  "lastUpdated": "2025-08-20T02:39:14.232Z"
+}

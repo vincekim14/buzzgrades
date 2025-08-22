@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "6492",
+  "courseId": "CHEM 6492",
+  "title": "Molecular Spectroscopy",
+  "description": "Study of energy of electronic transitions in molecules, selection rules, excitation processes, and laser spectroscopy.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:40.381Z"
+}

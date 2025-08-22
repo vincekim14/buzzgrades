@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BC",
+  "courseNumber": "4630",
+  "courseId": "BC 4630",
+  "title": "Senior Capstone Project",
+  "description": "A senior construction project that  includes redevelopment analysis and feasibility study, project development, and construction.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 4130 Undergraduate Semester Minimum Grade of D and BC 4710 Undergraduate Semester Minimum Grade of D and BC 4680 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:10.000Z"
+}

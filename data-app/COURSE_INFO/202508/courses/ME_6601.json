@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "6601",
+  "courseId": "ME 6601",
+  "title": "Intro to Fluid Mechanics",
+  "description": "The fundamentals of fluid mechanics. Derivation of the governing equations of motion. An introduction to viscous, inviscid, turbulent, and boundary-layer flows.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:30.481Z"
+}

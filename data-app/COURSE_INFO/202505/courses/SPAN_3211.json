@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "SPAN",
+  "courseNumber": "3211",
+  "courseId": "SPAN 3211",
+  "title": "Spain Today",
+  "description": "This course introduces students to current issues in the culture and history of contemporary Spain. Articles, videos, and news clips are used as springboard for discussion. Conducted in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:35.273Z"
+}

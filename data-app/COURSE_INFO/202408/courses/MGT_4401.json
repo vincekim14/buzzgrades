@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "4401",
+  "courseId": "MGT 4401",
+  "title": "Supply Chain Modeling",
+  "description": "The objective of this course is to provide students with tools and models for matching supply and demand in the most cost effective way.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3501 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:53.958Z"
+}

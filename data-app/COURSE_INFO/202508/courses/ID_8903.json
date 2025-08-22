@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "8903",
+  "courseId": "ID 8903",
+  "title": "Special Problems in HCI",
+  "description": "Small-group of individual investigation of advanced topics in human-computer interaction. Guided study and research.",
+  "creditHours": "1 to 3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:28.205Z"
+}

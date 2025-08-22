@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "6002",
+  "courseId": "MUSI 6002",
+  "title": "Interactive Music",
+  "description": "Theoretical and practical issues in computer supported interactive music. The course involves readings, class discussions, student presentations, and the design of a final project.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:04.116Z"
+}

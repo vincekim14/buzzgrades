@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BMED",
+  "courseNumber": "3500",
+  "courseId": "BMED 3500",
+  "title": "Sensors&amp; Instrumentation",
+  "description": "A study of basic concepts and design of electronic sensors and instrumentation used in biomedical measurements. Standard clinical measurement techniques will also be examined.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BMED 2300 Undergraduate Semester Minimum Grade of D or BMED 2310 Undergraduate Semester Minimum Grade of D) and ECE 2025 Undergraduate Semester Minimum Grade of D and ECE 3741 Undergraduate Semester Minimum Grade of D and (CEE 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or MATH 3770 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:36:15.048Z"
+}

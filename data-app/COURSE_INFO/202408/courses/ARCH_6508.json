@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "6508",
+  "courseId": "ARCH 6508",
+  "title": "Shape Grammars",
+  "description": "Shape grammars are a powerful formal system for the generative description, interpretation and evaluation of designs.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:51.627Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECE",
+  "courseNumber": "3005",
+  "courseId": "ECE 3005",
+  "title": "ECE Prof/Tech Comm",
+  "description": "Written, oral, and visual communication skills required by electrical and computer engineers.  Prepares students for advanced communication tasks required in academic and professional settings.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2031 Undergraduate Semester Minimum Grade of C and (ECE 3025 Undergraduate Semester Minimum Grade of C or ECE 3040 Undergraduate Semester Minimum Grade of C or ECE 3072 Undergraduate Semester Minimum Grade of C or ECE 3084 Undergraduate Semester Minimum Grade of C or ECE 3020 Undergraduate Semester Minimum Grade of C or ECE 3030 Undergraduate Semester Minimum Grade of C or ECE 3056 Undergraduate Semester Minimum Grade of C or ECE 3057 Undergraduate Semester Minimum Grade of C or ECE 3058 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:39:50.436Z"
+}

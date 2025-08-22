@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "4204",
+  "courseId": "LMC 4204",
+  "title": "Poetry and Poetics II",
+  "description": "Advanced study of the traditions of poetic theory and practice with a special emphasis on processes of poetic conception and revision.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:35.945Z"
+}

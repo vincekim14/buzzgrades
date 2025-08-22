@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PHYS",
+  "courseNumber": "3143",
+  "courseId": "PHYS 3143",
+  "title": "Quantum Mechanics I",
+  "description": "First of two courses that develop the principles of quantum mechanics.  Topics include the state vector concept. Heisenberg and Schrodinger pictures, uncertainty relations, and exact solvable models in one dimension.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 2213 Undergraduate Semester Minimum Grade of D and (MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T)",
+  "lastUpdated": "2025-08-20T02:44:19.243Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4056",
+  "courseId": "MGT 4056",
+  "title": "Electronic Commerce",
+  "description": "This course examines the business and technical issues related to electronic commerce applications, such as the Internet, WWW, EDI, and electronic linkages between trading partners.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:28.802Z"
+}

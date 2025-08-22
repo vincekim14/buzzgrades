@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "BC",
+  "courseNumber": "7200",
+  "courseId": "BC 7200",
+  "title": "Adv Readings In BC",
+  "description": "This course is designed around advanced readings in research and practice for PhD students working in the building construction area.",
+  "creditHours": "1 to 12",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:07.057Z"
+}

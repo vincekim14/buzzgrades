@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6452",
+  "courseId": "MGT 6452",
+  "title": "Machine Learning for Bus",
+  "description": "This course introduces machine learning techniques and their applications in solving business problems. It covers core concepts, algorithm designs, and programming implementation with business",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Quarter (UG)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:45.622Z"
+}

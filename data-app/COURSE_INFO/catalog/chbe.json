@@ -1,0 +1,1297 @@
+{
+  "subject": "CHBE",
+  "subjectName": "Chemical & Biomolecular Engr (CHBE)",
+  "url": "https://catalog.gatech.edu/coursesaz/chbe/",
+  "courses": [
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "1750",
+      "courseId": "CHBE 1750",
+      "title": "Introduction to Bioengineering",
+      "description": "An introduction to the field of bioengineering, including the application of engineering principles and methods to problems in biology and medicine, the integration of engineering with biology, and the emerging industrial opportunities. Crosslisted with AE, BMED, ECE, ME, and MSE 1750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "1801",
+      "courseId": "CHBE 1801",
+      "title": "Special Topics",
+      "description": "Special Topics in CHBE.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2100",
+      "courseId": "CHBE 2100",
+      "title": "Chemical Process Principles",
+      "description": "Material and energy balances for single-phase and multi-phase processes common to chemical engineering. Phase equilibrium and analysis of reacting systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2110",
+      "courseId": "CHBE 2110",
+      "title": "Chemical Engineering Thermodynamics I",
+      "description": "Elements of engineering thermodynamics. First and second laws. Analysis of engineering machinery: compressors, turbines, engines, refrigeration.  Credit not allowed for both CHBE 2110 and  CHBE 2130.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2120",
+      "courseId": "CHBE 2120",
+      "title": "Numerical Methods in Chemical Engineering",
+      "description": "Numerical methods are introduced and applied to the solution of chemical engineering problems. An introduction to chemical process simulation, and the appropriate software is provided.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2130",
+      "courseId": "CHBE 2130",
+      "title": "Chemical Engineering  Thermodynamics I",
+      "description": "Basic principles of chemical engineering thermodynamics including first and second laws, equations of state, PVT properties, power cycles and refrigeration.  Credit not allowed for both CHBE 2130 and CHBE 2110.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2140",
+      "courseId": "CHBE 2140",
+      "title": "Chemical Engineering Thermodynamics",
+      "description": "Principles of thermodynamics, including: first and second laws; equations of state; PVT properties; power cycles and refrigeration; phase equilibria; fugacity and activity coefficients; multi-reaction equilibrium.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2698",
+      "courseId": "CHBE 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2699",
+      "courseId": "CHBE 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2801",
+      "courseId": "CHBE 2801",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2801R",
+      "courseId": "CHBE 2801R",
+      "title": "CHBE 2801 Recitation",
+      "description": "Designed to provide time for application of conceptual knowledge and extension of instruction. Optional and non-billable.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "2803",
+      "courseId": "CHBE 2803",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "3110",
+      "courseId": "CHBE 3110",
+      "title": "Chemical Engineering Thermodynamics II",
+      "description": "Phase and chemical reaction equilibria. Vapor-liquid, liquid-liquid, and solid-vapor phase equilibrium Fugacity and activity coefficients. Multi-reaction equilibrium.  Credit not allowed for both CHBE 3110 and CHBE 3130.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "3130",
+      "courseId": "CHBE 3130",
+      "title": "Chemical Engineering Thermodynamics II",
+      "description": "Basic principles of chemical engineering solution and phase equilibrium thermodynamics, including ideal and non-ideal solution models and phase equilibira calculations (VLE, SLE, LLE).  Credit not allowed for both CHBE 3130 and CHBE 3110.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "3200",
+      "courseId": "CHBE 3200",
+      "title": "Transport Process I",
+      "description": "Fundamentals of fluid mechanics and heat transfer. The design and analysis of equipment using the principles of fluid mechanics and heat transfer.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "3205",
+      "courseId": "CHBE 3205",
+      "title": "Fluid Mechanics",
+      "description": "The basic principles of fluid mechanics are introduced and the analysis and design of equipment using these principles is practiced.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "3210",
+      "courseId": "CHBE 3210",
+      "title": "Transport Processes II",
+      "description": "Fundamental principles and applications of mass transfer. The analysis of chemical engineering processes and operations involving mass transfer.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "3215",
+      "courseId": "CHBE 3215",
+      "title": "Heat & Mass Transfer",
+      "description": "Fundamental principles and applications of heat and mass transfer. The analysis of chemical engineering processes and operations involving heat and mass transfer.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "3225",
+      "courseId": "CHBE 3225",
+      "title": "Separations Processes",
+      "description": "Fundamentals of equilibrium-stage and continuous contacting operations.  Applications of principles to distillation, absorption/stripping, extraction, absorption, and other separation technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "3300",
+      "courseId": "CHBE 3300",
+      "title": "Chemical Kinetics and Catalysis",
+      "description": "The basic principles of chemical reaction kinetics, including rate laws, mechanisms, and heterogeneous catalysis are introduced.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "3600",
+      "courseId": "CHBE 3600",
+      "title": "Engineering Ethics and Leadership",
+      "description": "Development of quantitative and qualitative assessment tools to resolve moral and ethical dilemmas that arise in the performance of engineering duties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4020",
+      "courseId": "CHBE 4020",
+      "title": "Chemical Engineering in Nanoscale Systems",
+      "description": "Application of chemical processing fundamentals, fabrication, and characterization to design and analyze technologically important nanoscale systems. The course emphasizes an integrated engineering and science approach.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4030",
+      "courseId": "CHBE 4030",
+      "title": "Chemical Engineering of Energy Systems",
+      "description": "Students will acquire the knowledge and tools to analyze CHP systems, traditional power generation, refinery and biorefinery configurations and advanced power generation and storage options.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4050",
+      "courseId": "CHBE 4050",
+      "title": "The Science and Engineering of Microelectronic Fabrication",
+      "description": "An elective class for students interested in fabrication of semiconductor devices focusing on the fundamentals of materials synthesis, chemical and mechanical properties, and chemical reactions. Credit will not be awarded for both CHBE 4050 and CHBE 6050.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4200",
+      "courseId": "CHBE 4200",
+      "title": "Unit Operations Laboratory",
+      "description": "This course illustrates engineering/scientific principles and physical models important to the data collection/ interpretation of processes important to the practice of chemical engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4210",
+      "courseId": "CHBE 4210",
+      "title": "Transport Phenomena / Bioprocess Unit Operations",
+      "description": "This course illustrates engineering/scientific principles and physical models important to the data collection/interpretation of processes important in biotechnology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4300",
+      "courseId": "CHBE 4300",
+      "title": "Kinetics and Reactor Design",
+      "description": "Reacting systems are analyzed in terms of reaction mechanisms, kinetics, and reactor design.  Both homogeneous and heterogeneous reactions are considered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4310",
+      "courseId": "CHBE 4310",
+      "title": "Bioprocess Engineering",
+      "description": "Integrating several ChBE core concepts, bioprocess engineering applies the material to biological systems. Items covered are enzyme kinetics, fermentation, downstream processing, and integrated bioprocesses important to the biotech industries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4320",
+      "courseId": "CHBE 4320",
+      "title": "Reactor Design",
+      "description": "The basic principles of reactor design are introduced, including material and energy balances for homogeneous and heterogeneous\nsystems.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4400",
+      "courseId": "CHBE 4400",
+      "title": "Chemical Process Control",
+      "description": "Dynamics of chemical processes and their control. Techniques of conventional process control as well as digital control. Laboratory experiments to illustrate these concepts.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4411",
+      "courseId": "CHBE 4411",
+      "title": "Process Dynamics and Control",
+      "description": "Dynamics of chemical processes and their control. Techniques of conventional process control as well as digital control.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4412",
+      "courseId": "CHBE 4412",
+      "title": "Process Dynamics and Control Laboratory",
+      "description": "Dynamics of chemical processes and their control. Techniques of conventional process control as well as digital control. Laboratory experiments would illustrate these concepts.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4505",
+      "courseId": "CHBE 4505",
+      "title": "Process Design and Economics",
+      "description": "Principles of flowsheet synthesis and economic analysis and optimization.  A complete design on a chemical process will be undertaken, including concepts of unit operations, design, economics, and safety.  Credit not allowed for both CHBE 4505 and CHBE 4530 (or CHBE 4520).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4510",
+      "courseId": "CHBE 4510",
+      "title": "Process and Product Design And Economics",
+      "description": "Basic principles of chemical process and product design including heuristic design approaches, heat exchanger network design, optimization, and economic evaluation.  Credit not allowed for both CHBE 4510 and CHBE 4505 (or CHBE 4525).",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4515",
+      "courseId": "CHBE 4515",
+      "title": "Chemical Process Safety",
+      "description": "Fundamental sources of chemical hazards and degree of risk.  Process design and hazard avoidance are used to reduce risk.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4520",
+      "courseId": "CHBE 4520",
+      "title": "Chemical Engineering Capstone Design Project",
+      "description": "Basic principles of chemical process and product design including heuristic design approaches heat exchanger network design, optimization, and economic evaluation.  Credit not allowed for both CHBE 4520 and CHBE 4505 (or CHBE 4525).",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4525",
+      "courseId": "CHBE 4525",
+      "title": "Bioprocess Design and Economics",
+      "description": "Principles of flowsheet synthesis and economic analysis and optimization. A complete design of a biochemical process will be undertaken, including concepts of unit operations, design, economics, and safety.  Credit not allowed for both CHBE 4525 and CHBE 4530 (or CHBE 4520).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4530",
+      "courseId": "CHBE 4530",
+      "title": "Capstone ChBE Bio-Design",
+      "description": "Basic principles of chemical process and product design including heuristic design approaches, heat exchanger network design, optimization, and economic evaluation.  Credit not allowed for both CHBE 4530 and CHBE 4505 (or 4525).",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4535",
+      "courseId": "CHBE 4535",
+      "title": "Chemical Product Design, Engineering and Optimization",
+      "description": "Chemical engineering principles applied to the design of products.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4573",
+      "courseId": "CHBE 4573",
+      "title": "Pulping and Bleaching Laboratory",
+      "description": "Experiments of pulping, bleaching, fiber, and chemical testing are performed.  Hands-on experience from chip preparation, cooking, pulp processing, and bleaching are provided.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4574",
+      "courseId": "CHBE 4574",
+      "title": "Papermaking and Recycled Pulp Laboratory",
+      "description": "Experiments of pulp preparation, refining, paperforming, handsheet testing, deinking, and recycled pulp processing are performed. Small paper machine operation will be taught.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4600",
+      "courseId": "CHBE 4600",
+      "title": "Effective Communication for Professional Engineering",
+      "description": "How engineers communicate with engineering and non-engineering professionals.  Industry speakers from different fields.  Engineering case study. Weekly written and/or oral presentations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4610",
+      "courseId": "CHBE 4610",
+      "title": "Complex Fluids - Microstructure and Mechanical Properties",
+      "description": "Complex fluids have interesting, practically relevant mechanical properties that arise from complex microstructures. This course covers fundamental physical principles, experimental characterization techniques and current topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4698",
+      "courseId": "CHBE 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4699",
+      "courseId": "CHBE 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4710",
+      "courseId": "CHBE 4710",
+      "title": "Microfluidics and Bio Applications",
+      "description": "The course focuses on the fluid and flow aspects of micro and nano devices. It will cover basic micro/nanofabrication techniques, introduce transport of momentum and materials (including charged and magnetic materials) in small scale, and the applications in biology and medicine.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4720",
+      "courseId": "CHBE 4720",
+      "title": "Pulp and Paper Manufacturing",
+      "description": "The course provides comprehensive foundational knowledge of the industry enabling the student to understand the role of diverse manufacturing operations and to strategically plan improvements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4730",
+      "courseId": "CHBE 4730",
+      "title": "Emerging Technologies for Forest Bioproducts",
+      "description": "The course provides comprehensive knowledge of the manufacture of nontraditional products from forest biomaterials. It analyzes and assesses emerging manufacturing technologies, materials and products.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4743",
+      "courseId": "CHBE 4743",
+      "title": "Fundamentals and Challenges for a Sustainable Chemical Enterprise",
+      "description": "Life Cycle Inventory methodology will be explored as a means to develop new, sustainable products, materials and manufacturing processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4745",
+      "courseId": "CHBE 4745",
+      "title": "Data Analytics for Chemical Engineers",
+      "description": "Introduction to data analytics and machine learning techniques for chemical engineers. Application of basic regression, classification, dimensional reduction, and clustering techniques to chemical data sets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4746",
+      "courseId": "CHBE 4746",
+      "title": "Data-Driven Process Systems Engineering",
+      "description": "This course covers theory of optimization and data-driven modeling methods, and examples of data-driven decision-making in the chemical process industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4752",
+      "courseId": "CHBE 4752",
+      "title": "Integrated Circuit Fabrication",
+      "description": "The objective of this course is to give students exposure to the various steps involved in the fabrication of integrated circuits and devices.  This course will include a laboratory segment in which students fabricate MOS transistors, diffused resistors, and MOS capacitors from a bare silicon substrate.  Crosslisted with ECE 4752.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4755",
+      "courseId": "CHBE 4755",
+      "title": "Electronic Packaging Substrate Fabrication",
+      "description": "This course provides hands-on instruction in basic packaging substrate fabrication techniques, including interconnect design and testing, dielectric deposition, via formation, and metallization. Crosslisted with ECE 4755.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4757",
+      "courseId": "CHBE 4757",
+      "title": "Biofluid Mechanics",
+      "description": "Introduction to the study of blood flow in the cardiovascular system. Emphasis on modeling and the potential of flow studies for clinical research application. Crosslisted with AE and ME 4757.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4758",
+      "courseId": "CHBE 4758",
+      "title": "Biosolid Mechanics",
+      "description": "The mechanics of living tissue, e.g., arteries, skin, heart muscle, ligament, tendon, cartilage, and bone. Constitutive equations and some simple mechanical models. Mechanics of cells. Applications. Crosslisted with AE and ME 4758.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4759",
+      "courseId": "CHBE 4759",
+      "title": "Electrochemical Energy Storage and Conversion",
+      "description": "An elective class for senior-level students interested in electrochemical storage and covnersion, including the fundamentals of electrochemistry and practical battery and fuel cells.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4760",
+      "courseId": "CHBE 4760",
+      "title": "Biocatalysis and Metabolic Engineering",
+      "description": "This course provides an in-depth coverage of various topics in biocatalysis and metabolic engineering. Goals of this course are the development of an understanding of proteins as catalysts, their functioning in metabolic networks, their application in various industries, recognition of their potential for addressing future challenges in science and engineering. Crosslisted with CHEM 4760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4762",
+      "courseId": "CHBE 4762",
+      "title": "Protein Engineering",
+      "description": "This course covers the theory and practice of protein engineering methods, including specific examples of engineered proteins and their applications from the literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4763",
+      "courseId": "CHBE 4763",
+      "title": "Pulping and Chemical Recovery",
+      "description": "Pulping and chemical recovery processes are studied on the reaction, delignification, energy, and liquor reuse.  The process optimization, air and water pollution minimization are taught. Crosslisted with ME 4763.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4764",
+      "courseId": "CHBE 4764",
+      "title": "Bleaching and Papermaking",
+      "description": "Pulp bleaching and formation of paper/board products are studied along with testing, end uses, chemical and mechanical treatment of pulp, non-wood and recycled fiber utilization. Crosslisted with ME 4764.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4765",
+      "courseId": "CHBE 4765",
+      "title": "Drug Design, Development and Delivery",
+      "description": "Introduction to the pharmaceutical development process, including design of new drugs, synthesis and manufacturing issues, and methods for delivery into the body. Includes student presentations. Crosslisted with CHEM and BMED 4765.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4767",
+      "courseId": "CHBE 4767",
+      "title": "Pulp And Paper Lab",
+      "description": "Fundamentals of pulp and paper testing procedures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4770",
+      "courseId": "CHBE 4770",
+      "title": "Nuclear Chemical Engineering",
+      "description": "This course surveys the chemical engineering aspects of nuclear power.  Topics include nuclear reactions, fuel cycles, solvent extraction of metals, the properties of actinides and other irradiated fuel materials, fuel reprocessing, and radioactive waste management.  Crosslisted with NRE 4770.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4775",
+      "courseId": "CHBE 4775",
+      "title": "Polymer Science and Engineering I: Formation and Properties",
+      "description": "An introduction to the chemistry, structure, and formation of polymers, physical states and transitions, physical and mechanical properties to polymer fluids and solids. Crosslisted with CHEM, ME, MSE, and PTFE 4775.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4776",
+      "courseId": "CHBE 4776",
+      "title": "Polymer Science and Engineering II: Analysis, Processing and Laboratory",
+      "description": "Polymer fabrication processes and methods of characterization and identification of polymers are presented. Experiments in polymerization, processing and property evaluation of polymers.  Crosslisted with CHEM, ME, MSE, and TFE 4776.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4781",
+      "courseId": "CHBE 4781",
+      "title": "Biomedical Instrumentation",
+      "description": "A study of medical instrumentation from a systems viewpoint. Pertinent physiological and electro-physiological concepts will be covered. Credit not allowed for both CHBE 4781 and (CHE 4781 or ECE 4781 or BMED 4781 or ME 4781).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4782",
+      "courseId": "CHBE 4782",
+      "title": "Biosystems Analysis",
+      "description": "Analytical methods for modeling biological systems, including white-noise protocols for characterizing nonlinear systems. Crosslisted with BMED, ECE and ME 4782.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4791",
+      "courseId": "CHBE 4791",
+      "title": "Mechanical Behavior of Composites",
+      "description": "Stress-strain behavior of composites, property of matrix and reinforcing materials, mechanics of fiber-reinforced composites, lamina and laminate analysis, and mechanical performance. Crosslisted with AE, CEE, ME, MSE, and PTFE 4791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4793",
+      "courseId": "CHBE 4793",
+      "title": "Composite Materials and Processes",
+      "description": "Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with AE, CEE, ME, MSE, and PTFE 4793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4794",
+      "courseId": "CHBE 4794",
+      "title": "Composite Materials and Manufacturing",
+      "description": "Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with AE, CEE, ME, MSE, and PTFE 4794.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4801",
+      "courseId": "CHBE 4801",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4802",
+      "courseId": "CHBE 4802",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as as demand or interest warrants.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4803",
+      "courseId": "CHBE 4803",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4804",
+      "courseId": "CHBE 4804",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4805",
+      "courseId": "CHBE 4805",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4806",
+      "courseId": "CHBE 4806",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4853",
+      "courseId": "CHBE 4853",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4873",
+      "courseId": "CHBE 4873",
+      "title": "Special Topics",
+      "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4901",
+      "courseId": "CHBE 4901",
+      "title": "Special Problems",
+      "description": "The student is given an opportunity to develop initiative and to apply fundamental principles by doing semioriginal laboratory or theoretical investigation of a chemical engineering problem.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4902",
+      "courseId": "CHBE 4902",
+      "title": "Special Problems",
+      "description": "The student is given an opportunity to develop initiative and to apply fundamental principles by doing semioriginal laboratory or theoretical investigation of a chemical engineering problem.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "4903",
+      "courseId": "CHBE 4903",
+      "title": "Special Problems",
+      "description": "The student is given an opportunity to develop initiative and to apply fundamental principles by doing semioriginal laboratory or theoretical investigation of a chemical engineering problem.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6001",
+      "courseId": "CHBE 6001",
+      "title": "Introdcution to Research and Resposible Conduct of Research for ChBE Graduate Students",
+      "description": "This course introduces ChBE graduate students to topics that will be encountered in research and fulfills RCR (responsible conduct of reseach) in-person training requirements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6003",
+      "courseId": "CHBE 6003",
+      "title": "Chemical Process Safety",
+      "description": "The course focuses on risk reduction through design and hazard avoidance.  Sources of chemical hazards and risks are discussed.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6004",
+      "courseId": "CHBE 6004",
+      "title": "Communication Skills for Technical Problem Solving",
+      "description": "Applications of both written and oral communication skills to the solution of technical problems.  Includes focus, audience analysis, visual aids, and organization.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6020",
+      "courseId": "CHBE 6020",
+      "title": "Chemical Engineering in Nanoscale Systems",
+      "description": "Application of chemical processing fundamentals, fabrication, and characterization to design and analyze technologically important nanoscale systems.  The course emphasizes an integrated engineering and science approach.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6030",
+      "courseId": "CHBE 6030",
+      "title": "Chemical Engineering of Energy Systems",
+      "description": "Students will acquire the knowledge and tools to analyze CHP systems, traditional power generation, refinery and biorefinery configurations and advanced power generation and storage options.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6050",
+      "courseId": "CHBE 6050",
+      "title": "The Science and Engineering of Microelectronic Fabrication",
+      "description": "An elective class for students interested in fabrication of semiconductor devices focusing on the fundamentals of materials synthesis, chemical and mechanical properties, and chemical reactions. Credit will not be awarded for both CHBE 6050 and CHBE 4050.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6100",
+      "courseId": "CHBE 6100",
+      "title": "Advanced Chemical Engineering Thermodynamics",
+      "description": "Equations of state, corresponding states, and activity coefficient models and their relationship to intermolecular forces.  Phase and chemical equilibria in chemical engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6110",
+      "courseId": "CHBE 6110",
+      "title": "Thermodynamics of Systems of Large Molecules",
+      "description": "Classical and statistical thermodynamics of systems that are important in chemical, biochemical, and polymer processing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6120",
+      "courseId": "CHBE 6120",
+      "title": "Molecular Modeling",
+      "description": "Introduction to computational chemistry techniques for modeling substances at the molecular level, including: ab initio and semiempirical quantum methods, molecular dynamics, and Monte Carlo methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6130",
+      "courseId": "CHBE 6130",
+      "title": "Electrochemical Engineering",
+      "description": "Electrochemical thermodynamics and kinetics. Corrosion. Applications to semiconductor devices, fuel cells, and batteries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6200",
+      "courseId": "CHBE 6200",
+      "title": "Advanced Transport Phenomena, Fluid Mechanics, and Heat",
+      "description": "Transfer Viscous fluid mechanics and convective heat transfer. Scaling analysis and lubrication. Stokes, and boundary layer flows.  Transport about solid bodies. Linear stability theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6210",
+      "courseId": "CHBE 6210",
+      "title": "Fluid Mechanics of Two-Phase Flow",
+      "description": "Two-phase flow of nondeformable particles in Newtonian fluids.  Rigorous results in the limit of small Reynolds number motions and applications to suspensions and colloids.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6220",
+      "courseId": "CHBE 6220",
+      "title": "Computational Fluid Dynamics: Applications in Environmental",
+      "description": "Applications in Environmental and Chemical Processes. Introduction to numerical methods for solving transport problems.  Applications to problems of interest in environmental and chemical processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6229",
+      "courseId": "CHBE 6229",
+      "title": "Introduction to MEMS",
+      "description": "Introduction to Micro-Electro-Mechanical Systems:  Microfabrication techniques including: photolithography, etching, physical and chemical vapor deposition, electroplating, bonding and polymer processing.  Application to sensors and actuators.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6230",
+      "courseId": "CHBE 6230",
+      "title": "Industrial Emissions Control",
+      "description": "Analysis of air quality criteria, ambient and emission standards, and industrial pollution sources.  Recovery and utilization of waste gases and particulate matter.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6231",
+      "courseId": "CHBE 6231",
+      "title": "Environmental Modeling in the Forest Products Industry",
+      "description": "The science and engineering of waste treatment processes in the pulp and paper industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6232",
+      "courseId": "CHBE 6232",
+      "title": "Chemical Engineering Processes in Pulp & Paper Manufacturing",
+      "description": "To study the details of some of the major unit operations in pulp and paper manufacturing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6240",
+      "courseId": "CHBE 6240",
+      "title": "Advanced Separation Processes",
+      "description": "This course provides an advanced analysis of separation process technology, with special emphasis on new separation techniques and their applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6250",
+      "courseId": "CHBE 6250",
+      "title": "Mass Transport through Solids",
+      "description": "An in-depth introduction to transport of penetrants in and through solids.  Convective flow through porous media, and conductive flow through homogenous solids.  Membrane separations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6260",
+      "courseId": "CHBE 6260",
+      "title": "Transport Phenomena-Mass Transfer",
+      "description": "Mass transport processes and material properties that affect them.  Principles of both steady- and unsteady-state molecular diffusion are developed and transfer mechanisms examined.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6300",
+      "courseId": "CHBE 6300",
+      "title": "Kinetics and Reactor Design",
+      "description": "A study of chemical kinetics and mechanisms in complex homogeneous and heterogeneous reaction systems. Design and analysis of chemical reactors for such systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6310",
+      "courseId": "CHBE 6310",
+      "title": "Applied Chemical Kinetics",
+      "description": "Applications of chemical kinetics to homogeneous and heterogeneous gas and liquid reactions, including techniques and analyses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6320",
+      "courseId": "CHBE 6320",
+      "title": "Heterogeneous Catalysis",
+      "description": "Physics and chemistry of surfaces; thermodynamics, kinetics, and mechanism of adsorption and surface reactions; modern instrumental analyses; and industrial catalysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6400",
+      "courseId": "CHBE 6400",
+      "title": "Advanced Process Control",
+      "description": "Fundamentals of multivariate control theory as applied to chemical processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6410",
+      "courseId": "CHBE 6410",
+      "title": "Dynamic Behavior of Process Systems",
+      "description": "Introduction to process dynamics.  Modeling of lumped systems with and without chemical reactions.  Lumped processes involving phase equilibrium. Distributed parameter systems.  Optimization of transient processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6460",
+      "courseId": "CHBE 6460",
+      "title": "Microelectromechanical Devices",
+      "description": "Introduces fundamental concepts and tools needed for the design, simulation and analysis of MEMS devices.  These include electrical, mechanical, radiant, thermal, magnetic and chemical domains.  Credit not allowed for both CHBE 6460 and ME 6460 or ECE 6460.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6500",
+      "courseId": "CHBE 6500",
+      "title": "Mathematical Modeling and Analysis of Chemical Processes",
+      "description": "Formulation and solution of mathematical models of a range of chemical processes with an emphasis on differential balances and incorporation of uncertainty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6600",
+      "courseId": "CHBE 6600",
+      "title": "Polymerization Reaction Engineering",
+      "description": "Polymerization processes are analyzed with regard to reaction mechanism, kinetics, and reactor design.  Control of polymer structure during polymerization is emphasized.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6608",
+      "courseId": "CHBE 6608",
+      "title": "Semiconductor Microlithography and Patterning",
+      "description": "The study of fundamental issues from physics, chemistry, chemical engineering, and electrical engineering inherent in semiconductor microlithography, encompassing both materials and processes used for pattern definition.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6609",
+      "courseId": "CHBE 6609",
+      "title": "Polymers in Microelectronics",
+      "description": "Use of polymers in microelectronics applications such as photolithography, interlevel dielectrics, encapsulation, packaging, magnetic media, and optical storage.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6610",
+      "courseId": "CHBE 6610",
+      "title": "Complex Fluids - Microstructure and Mechanical Properties",
+      "description": "Complex fluids have interesting, practically relevant mechanical properties that arise from complex microstructures. This course covers fundamental physical principles, experimental characterization techniques and current topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6634",
+      "courseId": "CHBE 6634",
+      "title": "Wet End Processing of Paper",
+      "description": "Wet end colloidal and polymer science of papermaking processes.  Processing with fiber, mineral fillers, brighteners, and polymer additives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6701",
+      "courseId": "CHBE 6701",
+      "title": "Foundational Topics in the Manufacturing of Forest Bioproducts",
+      "description": "The course provides comprehensive foundational knowledge of the industry enabling the student to understand the role of diverse manufacturing operations and to strategically plan improvements.  Course is cross-listed with MLDR 6701, CHBE 6741, ME 6741, CHEM 6741, MSE 6741, CHBE 6742, ME 6742, CHEM 6742, MSE 6742.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6710",
+      "courseId": "CHBE 6710",
+      "title": "Microfluidics & Appl",
+      "description": "This course explores the fundamentals of microfluidics and nanofluidics, and their applications, primarily in biological and medical sciences (e.g. biomolecular separations).  Credit not allowed for both CHBE 6710 and CHBE 4710.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6741",
+      "courseId": "CHBE 6741",
+      "title": "Pulp and Paper Manufacture I",
+      "description": "The fundamentals of pulp and paper technology are presented. Applications to the several unit operations used are explored and augmented by field trips and recent case studies. Crosslisted with ME 6741, CHBE 6701 and MLDR 6701.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6742",
+      "courseId": "CHBE 6742",
+      "title": "Pulp and Paper Manufacture II",
+      "description": "Papermaking technology is covered from a multidisciplinary engineering perspective with fundamental and practical considerations being addressed. Students participate in groups to run a pilot papermaking trial at the Henry Foundation in Savannah. Crosslisted with ME 6741, CHBE 6701 and MLDR 6701.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6743",
+      "courseId": "CHBE 6743",
+      "title": "Fundamentals and Challenges for a Sustainable Chemical Enterprise",
+      "description": "Life Cycle Inventory methodology will be explored as a means to develop new, sustainable products, materials and manufacturing processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6745",
+      "courseId": "CHBE 6745",
+      "title": "Data Analytics for Chemical Engineers",
+      "description": "Introduction to data analytics and machine learning techniques for chemical engineers. Application of basic regression, classification, dimensional reduction, and clustering techniques to chemical data sets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6746",
+      "courseId": "CHBE 6746",
+      "title": "Data-Driven Process Systems Engineering",
+      "description": "This course covers theory of optimization and data-driven modeling methods, and examples of data-driven decision-making in the chemical process industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6750",
+      "courseId": "CHBE 6750",
+      "title": "Preparation and Reactions of Polymers",
+      "description": "A detailed treatment of the reactions involved in the synthesis of both human-made and natural polymers, including preparation and degradative reactions of polymer systems. Crosslisted with CHEM and PTFE 6750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6751",
+      "courseId": "CHBE 6751",
+      "title": "Physical Chemistry of Polymer Solutions",
+      "description": "Study of polymer solutions, polymer miscibility, adsorption, sorption, plasticization, molecular weights, molecular weight distributions, and interfacial phenomena using thermodynamics and statistical mechanics. Crosslisted with CHEM, MSE, and PTFE 6751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6752",
+      "courseId": "CHBE 6752",
+      "title": "Polymer Characterization",
+      "description": "This course introduces the student to surface, near-surface and structural methods of polymer characterization. Specialized techniques critical to physical structure are emphasized. Crosslisted with CHEM, MSE, and PTFE 6752.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6757",
+      "courseId": "CHBE 6757",
+      "title": "Advanced Polymer Chemistry",
+      "description": "Advanced topics in synthetic polymerization methodology, polymer structure, and polymer properties in solution and the solid state.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6759",
+      "courseId": "CHBE 6759",
+      "title": "Plasma Processing of Electronic Materials and Devices",
+      "description": "Fundamental physics, chemistry, chemical engineering, and electrical engineering principles inherent in plasma processes. Includes etching, deposition, diagnostic methods, and control schemes. Crosslisted with ECE 6759.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6760",
+      "courseId": "CHBE 6760",
+      "title": "Biocatalysis and Metabolic Engineering",
+      "description": "This course provides in-depth coverage of various topics in biocatalysis and metabolic engineering. Goals of this course are the development of an understanding of proteins as catalysts, their functioning in metabolic networks, their application in various industries, and recognition of their potential for addressing future challenges in science and engineering. Crosslisted with CHEM 6760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6762",
+      "courseId": "CHBE 6762",
+      "title": "Protein Engineering",
+      "description": "This course covers the theory and practice of protein engineering methods, including specific examples of engineered proteins and their applications from the literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6765",
+      "courseId": "CHBE 6765",
+      "title": "Drug Design, Development and Delivery",
+      "description": "Introduction to the pharmaceutical development process, including design of new drugs, synthesis and manufacturing issues, and methods of delivery into the body. Includes student presentations.  Crosslisted with BMED 6765 and CHBE 6765.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6768",
+      "courseId": "CHBE 6768",
+      "title": "Polymer Structure, Physical Properties and Characterization",
+      "description": "Formulations and analysis of molecular and phenomenological models of elastic and viscoelastic behavior, development and description of structure, and fundamental aspects of structure-property relations.  Crosslisted with ME, PTFE, and MSE 6768.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6774",
+      "courseId": "CHBE 6774",
+      "title": "Biomaterials: Structure and Function",
+      "description": "Structure-function relationships of biomaterials and biomaterial characterization will be covered. Materials for medical implants, tissue engineering, biosensing, imaging, and drug delivery will be covered. Crosslisted with BMED, ME, and MSE 6774.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6777",
+      "courseId": "CHBE 6777",
+      "title": "Advanced Biomaterials",
+      "description": "Advanced topics of biomaterials performance and engineering, including biointerfaces, host reactions of materials, and bio-inspired/smart-materials strategies. Crosslisted with BMED, ME, and MSE 6777.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6778",
+      "courseId": "CHBE 6778",
+      "title": "Introduction to Biomaterials",
+      "description": "Introduction to a variety of biomaterials and their biomedical applications. Crosslisted with BMED and PTFE 6778.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6779",
+      "courseId": "CHBE 6779",
+      "title": "Bioprocess Engineering",
+      "description": "Study of enzymes and microbial and mammalian cells for production of biochemicals and protein therapeutics in bioreactors; downstream separation and purification; integrated view of bioprocesses. Crosslisted with BMED 6779.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6782",
+      "courseId": "CHBE 6782",
+      "title": "Cellular Engineering",
+      "description": "Engineering analysis of cellular systems. Crosslisted with BMED and ME 6782.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6784",
+      "courseId": "CHBE 6784",
+      "title": "Cardiovascular Biomechanics",
+      "description": "Mechanical analysis of the cardiovascular system emphasizing the normal and pathologic function in relation to clinical cardiovascular medicine. Crosslisted with BMED and ME 6784.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6793",
+      "courseId": "CHBE 6793",
+      "title": "Systems Pathophysiology",
+      "description": "Overview of human pathophysiology from a quantitative perspective.  A brief introduction to the application of quantitative models to the understanding of biological systems. Crosslisted with BMED, ECE, and ME 6793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6794",
+      "courseId": "CHBE 6794",
+      "title": "Tissue Engineering",
+      "description": "Biological, engineering, and medical issues in developing tissue-engineered constructs.  Emphasis on the integration of these disciplines at a basic molecular and cell biology level.  Crosslisted with CHE and ME 6794.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "6800",
+      "courseId": "CHBE 6800",
+      "title": "Pharmaceutical development: from drug lead to drug product",
+      "description": "We address the multifaceted process of bringing a drug from concept to market through open-ended, student-driven, collaborative projects addressing real-world problems in pharmaceutical development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7000",
+      "courseId": "CHBE 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7650",
+      "courseId": "CHBE 7650",
+      "title": "Advanced Physical Chemistry of Polymers",
+      "description": "Thermodynamics and microscopic dynamics of polymers. Fundamental concepts, including scaling concepts, governing anisotropy of polarizability, phase transitions, morphology, time-dependent correlations, etc.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7721",
+      "courseId": "CHBE 7721",
+      "title": "Are You Thinking of Becoming An Academic?",
+      "description": "How to run a successful research program, advise students, apply and get a job in academia, navigate promotion and tenure, and other aspects of academia.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7757",
+      "courseId": "CHBE 7757",
+      "title": "Teaching Practicum",
+      "description": "Supervised teaching for doctoral students.  Teaching techniques, course and curriculum design, student evaluation methods and criteria.  Students may, in some instances, prepare and present lectures.  Crosslisted with NRE, ME, HP 7757.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7771",
+      "courseId": "CHBE 7771",
+      "title": "Mechanics of Polymer Solids and Fluids",
+      "description": "Continuum mechanics of solids and fluids; mechanics of deformation of anisotropic polymers; yield, breaking, and fatigue; non-Newtonian viscous and viscoelastic behavior of polymer fluids. Crosslisted with ME, MSE, and PTFE 7771.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7772",
+      "courseId": "CHBE 7772",
+      "title": "Fundamentals of Fracture Mechanics",
+      "description": "Advanced study of failure of structural materials under load, mechanics of fracture, and microscopic and macroscopic aspects of the fracture of engineering materials. Crosslisted with AE, CEE, ME, and MSE 7772.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7773",
+      "courseId": "CHBE 7773",
+      "title": "Advanced Fracture Mechanics",
+      "description": "Nonlinear fracture mechanics including elastic-plastic and time-dependent fracture, advanced test methods, J-integral theory, and extensions.  Crosslisted with AE, CEE, ME, and MSE 7773.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7774",
+      "courseId": "CHBE 7774",
+      "title": "Fatigue of Materials and Structures",
+      "description": "Mechanical and microstructural aspects of nucleation and growth of cracks under cyclic loading conditions, notch effects, cumulative damage, multiaxial loading, and fatigue crack propagation.  Crosslisted with AE, CEE, ME, and MSE 7774.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7775",
+      "courseId": "CHBE 7775",
+      "title": "Topics in Fracture and Fatigue of Metallic and Composite",
+      "description": "Structures Brittle and ductile failure criteria. Failure prediction in composite structures. Free-edge and internal delamination. Anisotropic cracks. Fatigue behavior of composites and comparison with metal fatigue. Crosslisted with AE, ME, and MSE 7775.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7791",
+      "courseId": "CHBE 7791",
+      "title": "Damage, Failure, and Durability of Composite Materials",
+      "description": "Provides knowledge of the fundamental concepts and methods related to analysis and assessment of damage, failure, and durability of composite materials. Crosslisted with AE, CEE, ME, MSE, and PTFE 7791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7792",
+      "courseId": "CHBE 7792",
+      "title": "Advanced Mechanics of Composites",
+      "description": "Anisotropic elasticity, failure theories, hydrothermal behavior, 3-D analysis of laminates, thick laminates, free- edge effects, stress concentrations, joints, creep, and fracture of composites, and advanced topics. Crosslisted with AE, CEE, ME, MSE, and PTFE 7792.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "7793",
+      "courseId": "CHBE 7793",
+      "title": "Manufacturing of Composites",
+      "description": "Major manufacturing techniques for metal, ceramic, and polymer matrix composites.  Modeling of processes with emphasis on fundamental mechanisms and effects. Crosslisted with AE, CEE, ME, MSE, and PTFE 7793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8001",
+      "courseId": "CHBE 8001",
+      "title": "Seminar in Chemical Engineering",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8002",
+      "courseId": "CHBE 8002",
+      "title": "Seminar in Chemical Engineering",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8801",
+      "courseId": "CHBE 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8802",
+      "courseId": "CHBE 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8803",
+      "courseId": "CHBE 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8804",
+      "courseId": "CHBE 8804",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8901",
+      "courseId": "CHBE 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8902",
+      "courseId": "CHBE 8902",
+      "title": "Special Problems",
+      "description": "Special Problems for Chemical and Biomolecular Engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8997",
+      "courseId": "CHBE 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "8998",
+      "courseId": "CHBE 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CHBE",
+      "courseNumber": "9000",
+      "courseId": "CHBE 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 161,
+  "scrapedAt": "2025-08-16T02:00:33.714Z"
+}

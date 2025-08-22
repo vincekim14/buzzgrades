@@ -1,0 +1,305 @@
+{
+  "subject": "GT",
+  "subjectName": "Georgia Tech (GT)",
+  "url": "https://catalog.gatech.edu/coursesaz/gt/",
+  "courses": [
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4900",
+      "courseId": "GT 4900",
+      "title": "Special Problems",
+      "description": "Course of individualized instruction, which will include library, conference, and laboratory investigations.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "0900",
+      "courseId": "GT 0900",
+      "title": "Challenge Summer Intensive Residential Program: Interpersonal Development Course",
+      "description": "Challenge is a summer residential program for incoming freshman. This course provides critical skills and competencies for the interpersonal and communication development components of Challenge.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "1000",
+      "courseId": "GT 1000",
+      "title": "First-Year Seminar",
+      "description": "Discussion of topics related to academic, social and professional success including learning styles, time management, major and career exploration, leadership and teamwork.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "1201",
+      "courseId": "GT 1201",
+      "title": "Exploring Grand Challenges",
+      "description": "A problem-based learning approach to developing problem solving skills for multidisciplinary teams of freshmen to tackle Grand Challenges facing humanity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "1801",
+      "courseId": "GT 1801",
+      "title": "Special Topics",
+      "description": "Discussion of topics related to scholarship, leadership, progress, and service\nfocusing on helping students to make impacts those arenas on and beyond campus.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "1900",
+      "courseId": "GT 1900",
+      "title": "Re-entry Planning",
+      "description": "Placeholder for returning student.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2000",
+      "courseId": "GT 2000",
+      "title": "Transfer Student Seminar",
+      "description": "Discussion of topics related to academic, social and professional success including learning styles, time management, major and career exploration, leadership and teamwork.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2100",
+      "courseId": "GT 2100",
+      "title": "Student Success Seminar",
+      "description": "This academic skills seminar is designed to help students develop personalized strategies for success within the rigorous academic environment at Georgia Tech. This course cannot be used toward degree requirements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2201",
+      "courseId": "GT 2201",
+      "title": "Grand Challenges Research Project",
+      "description": "This course is for participants in year 2 of the Grand Challenges program. Students will organize into small teams of 4-8 student to pursue research and development projects that were approved and funded in year 1. Participating students can also propose new projects.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2202",
+      "courseId": "GT 2202",
+      "title": "Grand Challenges Research Project",
+      "description": "This course is for participants in year 2 of the Grand Challenges program. Students will organize into small teams of 4-8 student to pursue research and development projects that were approved and funded in year 1. Participating students can also propose new projects.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2500",
+      "courseId": "GT 2500",
+      "title": "ThinkBig@Tech",
+      "description": "ThinkBig@Tech are faculty led Living Learning Communities. Students participating in these programs will be engaging closely with faculty.  The topic of each Living Learning Community is based on the faculty interests, and students sign up for the one they are interested in.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2694",
+      "courseId": "GT 2694",
+      "title": "Undergraduate Internship",
+      "description": "Undergraduate Internship for which the student is paid, Freshmen and Sophomores only.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2801",
+      "courseId": "GT 2801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2802",
+      "courseId": "GT 2802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2803",
+      "courseId": "GT 2803",
+      "title": "Special Topics",
+      "description": "Special Topics - content varies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2811",
+      "courseId": "GT 2811",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2812",
+      "courseId": "GT 2812",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "2901",
+      "courseId": "GT 2901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "21"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "3801",
+      "courseId": "GT 3801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "3803",
+      "courseId": "GT 3803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "3811",
+      "courseId": "GT 3811",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "3821",
+      "courseId": "GT 3821",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4100",
+      "courseId": "GT 4100",
+      "title": "Fundamentals of Personal Finance",
+      "description": "This course introduces students to the fundamentals of personal finance and covers a core set of knowledge needed to be financially literate.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4694",
+      "courseId": "GT 4694",
+      "title": "Undergraduate Internship",
+      "description": "Undergraduate Internship for which the student is paid, Juniors and Seniors only.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4701",
+      "courseId": "GT 4701",
+      "title": "Inventions and Startups",
+      "description": "The theory and practice of innovation and startup creation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4801",
+      "courseId": "GT 4801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4802",
+      "courseId": "GT 4802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4803",
+      "courseId": "GT 4803",
+      "title": "Special Topics",
+      "description": "Special Topics - content varies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4813",
+      "courseId": "GT 4813",
+      "title": "Project in Energy Systems",
+      "description": "Multidisciplinary project in the area of energy systems.  Open to students completing the minor in Energy Systems.  Students must have completed or be on track to complete all requriements for the energy systems minor except this course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4822",
+      "courseId": "GT 4822",
+      "title": "Special Topics",
+      "description": "Special Topics (lab and lecture)",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4823",
+      "courseId": "GT 4823",
+      "title": "Special Topics - Design",
+      "description": "Seniors will work in teams to apply a systematic design process to real multidisciplinary problems. Problems selected from a broad spectrum of interest areas, including biomedical, environmental, mechanical, industrial design, electrical and thermal/fluids.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4824",
+      "courseId": "GT 4824",
+      "title": "Special Topics",
+      "description": "Special Topics (lecture and lab)",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4833",
+      "courseId": "GT 4833",
+      "title": "Special Topics",
+      "description": "Special Topics course - content varies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "4903",
+      "courseId": "GT 4903",
+      "title": "Special Problems",
+      "description": "Multi-disciplined research topic selected in consultation with advisor.  A brief description, endorsed by the faculty advisor(s).",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "6000",
+      "courseId": "GT 6000",
+      "title": "Grad Groups Extended Orientation",
+      "description": "Georgia Tech’s extended-orientation program for first-semester graduate students promoting a positive student experience through social interaction, familiarization with campus resources, and peer mentorship.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "8801",
+      "courseId": "GT 8801",
+      "title": "Special Topics",
+      "description": "Special Topics for Graduate Level.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "GT",
+      "courseNumber": "8802",
+      "courseId": "GT 8802",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "2"
+    }
+  ],
+  "totalCourses": 37,
+  "scrapedAt": "2025-08-16T02:00:38.317Z"
+}

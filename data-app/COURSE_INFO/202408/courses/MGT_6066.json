@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "6066",
+  "courseId": "MGT 6066",
+  "title": "Corporate Restructuring",
+  "description": "This course seeks to give students an understanding of issues in corporate restructuring. Topics include valuation, mergers, acquisitions, spin-offs, financial distress, corporate governance, and high leveraged transactions.  The valuation techniques recquire students  to develop forecasting skills and evaluate transactions using analytical and statistical tools.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6504 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:58.369Z"
+}

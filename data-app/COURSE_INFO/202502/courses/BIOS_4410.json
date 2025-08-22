@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4410",
+  "courseId": "BIOS 4410",
+  "title": "Microbial Ecology",
+  "description": "Advanced studies of microbial ecosystems, the specific roles of bacteria in maintaining ecological balance, and the evolution of the ecosystem in response to changing environments.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOS 3380 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:43.918Z"
+}

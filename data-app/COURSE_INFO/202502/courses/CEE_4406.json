@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4406",
+  "courseId": "CEE 4406",
+  "title": "Applied Geotechnics",
+  "description": "Geotechnical principles applied to civil engineering construction, including evaluation of soil and rock properties, shallow foundations, drive and bored pilings, liquefaction, and ground modification.  Credit not allowed for both CEE 4406 and CEE 4410.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 4405 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:02.673Z"
+}

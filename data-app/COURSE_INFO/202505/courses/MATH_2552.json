@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MATH",
+  "courseNumber": "2552",
+  "courseId": "MATH 2552",
+  "title": "Differential Equations",
+  "description": "Methods for obtaining numerical and analytic solutions of elementary differential equations. Applications are also discussed with an emphasis on modeling. Credit not awarded for both MATH 2552 and MATH 2403 or MATH 2413 or MATH 2562.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or MATH 1504 Undergraduate Semester Minimum Grade of D or MATH 1555 Undergraduate Semester Minimum Grade of D or ((MATH 1552 Undergraduate Semester Minimum Grade of D or MATH 15X2 Undergraduate Semester Minimum Grade of T or MATH 1X52 Undergraduate Semester Minimum Grade of T) and (MATH 1553 Undergraduate Semester Minimum Grade of D or MATH 1X54 Undergraduate Semester Minimum Grade of T or MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1564 Undergraduate Semester Minimum Grade of D or MATH 1522 Undergraduate Semester Minimum Grade of D or MATH 1X53 Undergraduate Semester Minimum Grade of T))",
+  "lastUpdated": "2025-08-20T02:41:48.107Z"
+}

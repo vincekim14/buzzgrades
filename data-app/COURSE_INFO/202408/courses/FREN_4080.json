@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "FREN",
+  "courseNumber": "4080",
+  "courseId": "FREN 4080",
+  "title": "Politics &amp; PubPol France",
+  "description": "This course will analyze current issues in French society and the public policies initiated to address them. Taught in French.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:35.900Z"
+}

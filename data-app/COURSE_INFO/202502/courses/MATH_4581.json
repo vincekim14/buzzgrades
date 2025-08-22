@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "4581",
+  "courseId": "MATH 4581",
+  "title": "Math Methods in Engr",
+  "description": "The Laplace transform and applications, Fourier series, boundary value problems for partial differential equations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2605 Undergraduate Semester Minimum Grade of D or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T",
+  "lastUpdated": "2025-08-20T02:42:14.494Z"
+}

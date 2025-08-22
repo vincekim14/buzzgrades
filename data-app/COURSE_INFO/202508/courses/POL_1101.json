@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "POL",
+  "courseNumber": "1101",
+  "courseId": "POL 1101",
+  "title": "Government of the U.S.",
+  "description": "The purposes, structure, and functions of national and state governments, focusing on participation, institutions, and the policy process.  Foundations of law, civil rights and civil liberties, role of the media, parties and elections, and policy process. Includes study of the Constitution of Georgia. Credit not allowed for both POL 1101 and INTA 1200.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:28.723Z"
+}

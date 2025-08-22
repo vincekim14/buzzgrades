@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "APPH",
+  "courseNumber": "8000",
+  "courseId": "APPH 8000",
+  "title": "Seminar",
+  "description": "The purpose of this course is for students to learn the research process from the early stage of identifying a question through publication of work.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:39.975Z"
+}

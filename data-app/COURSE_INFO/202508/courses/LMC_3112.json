@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "LMC",
+  "courseNumber": "3112",
+  "courseId": "LMC 3112",
+  "title": "Evolution&amp;Industrial Age",
+  "description": "Connects later nineteenth century scientific and technological concepts and discoveries, particularly theories of evolution, to the literature and culture of the industrial age.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:57.502Z"
+}

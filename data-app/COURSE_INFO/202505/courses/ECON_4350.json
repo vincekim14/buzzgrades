@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECON",
+  "courseNumber": "4350",
+  "courseId": "ECON 4350",
+  "title": "International Economics",
+  "description": "Covers important topics in trade theory, trade policy, and international finance. The course emphasizes the use of economic tools to analyze a variety of current events in the world economy.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or (ECON 2105 Undergraduate Semester Minimum Grade of D and ECON 2106 Undergraduate Semester Minimum Grade of D) or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:45.308Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "6028",
+  "courseId": "ARCH 6028",
+  "title": "Core 1 Studio",
+  "description": "Foundation studies in architectural design emphasizing analytical and analogical generative strategies applied to studio problems that engage architectural representation, composition, and fabrication.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 6010",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:20.715Z"
+}

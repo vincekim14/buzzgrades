@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "SPAN",
+  "courseNumber": "3064",
+  "courseId": "SPAN 3064",
+  "title": "Medical Spanish",
+  "description": "This course facilitates acquisition of a broad vocabulary and awareness of cultural customs and trends pertaining to the healthcare field.  Taught in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:45:06.829Z"
+}

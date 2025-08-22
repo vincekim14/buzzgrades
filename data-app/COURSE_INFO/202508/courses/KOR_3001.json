@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "KOR",
+  "courseNumber": "3001",
+  "courseId": "KOR 3001",
+  "title": "Advanced Korean I",
+  "description": "Development of richer perspectives about Korean culture and enhanced skills in reading, writing, and vocabulary. Conducted in Korean.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:51.882Z"
+}

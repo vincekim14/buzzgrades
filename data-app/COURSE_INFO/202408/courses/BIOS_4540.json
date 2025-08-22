@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOS",
+  "courseNumber": "4540",
+  "courseId": "BIOS 4540",
+  "title": "Human Motor Control",
+  "description": "Course provides in-depth review of biomechanics and neurophysiology of human motion and discusses how human movements are planned, executed and corrected by the nervous system.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BIOL 1520 Undergraduate Semester Minimum Grade of D or BIOL 1521 Undergraduate Semester Minimum Grade of D or (BIOS 1108 Undergraduate Semester Minimum Grade of D and BIOS 1108L Undergraduate Semester Minimum Grade of D) or (BIOS 1208 Undergraduate Semester Minimum Grade of D and BIOS 1208L Undergraduate Semester Minimum Grade of D)) or NEUR 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:03.497Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "RUSS",
+  "courseNumber": "3692",
+  "courseId": "RUSS 3692",
+  "title": "Read&amp;Comp:Bus,Sci &amp; Tech",
+  "description": "Advanced reading and writing skills. Study of syntax enables more sophisticated paragraph structure. Readings include newspaper texts on current affairs, business, science and technology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:32.600Z"
+}

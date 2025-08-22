@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BMED",
+  "courseNumber": "3211",
+  "courseId": "BMED 3211",
+  "title": "Intro to Bioinformatics",
+  "description": "Students will be introduced to the field of bioinformatics, an interdisciplinary field that combines computer science, statistics, machine learning and mathematics to analyze biological data.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3770 Undergraduate Semester Minimum Grade of D or ISYE 3030 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:46.441Z"
+}

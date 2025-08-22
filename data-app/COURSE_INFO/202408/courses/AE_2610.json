@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "2610",
+  "courseId": "AE 2610",
+  "title": "Intro Exper Methods AE",
+  "description": "Introduction to laboratory instrumentation and measurement techniques used in aerospace. Basic application of sensor principles, uncertainty analysis, interpretation and analysis of experimental data, and documentation.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "AE 2611",
+  "prerequisites": "AE 1601 Undergraduate Semester Minimum Grade of D and (PHYS 2212 Undergraduate Semester Minimum Grade of C or PHYS 2232 Undergraduate Semester Minimum Grade of C) and (MATH 2401 Undergraduate Semester Minimum Grade of C or MATH 2411 Undergraduate Semester Minimum Grade of C or MATH 24X1 Undergraduate Semester Minimum Grade of T or MATH 2551 Undergraduate Semester Minimum Grade of C or MATH 2561 Undergraduate Semester Minimum Grade of C or MATH 2X51 Undergraduate Semester Minimum Grade of T) and COE 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:21.499Z"
+}

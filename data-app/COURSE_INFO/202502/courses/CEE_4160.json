@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4160",
+  "courseId": "CEE 4160",
+  "title": "Smart Sustainable Cities",
+  "description": "This course examines city infrastructure systems’ impact on urban sustainability. It further explores the role of “smart” technological solutions to address mounting urban sustainability challenges.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3000 Undergraduate Semester Minimum Grade of D or ISYE 3025 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:01.098Z"
+}

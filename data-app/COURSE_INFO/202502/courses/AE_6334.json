@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "6334",
+  "courseId": "AE 6334",
+  "title": "Rotorcraft Design II",
+  "description": "Students work together on this application to complete the preliminary design stage of a specific rotorcraft. Participants are exposed to disciplinary and interdisciplinary issues.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 6333 Undergraduate Semester Minimum Grade of D and AE 6383 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:13.619Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4390",
+  "courseId": "ECE 4390",
+  "title": "Radar and EM Sensing",
+  "description": "Introduces students to radar systems, including pulsed, CW, CWFM, and MTI radars. Other techniques for electromagnetic sensing such as radiometry and EM tagging are discussed.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3025 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:09.336Z"
+}

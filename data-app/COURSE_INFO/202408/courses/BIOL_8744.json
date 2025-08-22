@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOL",
+  "courseNumber": "8744",
+  "courseId": "BIOL 8744",
+  "title": "Microbial Symbiosis",
+  "description": "This course explores how symbiotic interactions with microbes affect the biology of other organisms, focusing extensively on the beneficial microbes native to the human body.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:09.999Z"
+}

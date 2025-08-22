@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "INTA",
+  "courseNumber": "3110",
+  "courseId": "INTA 3110",
+  "title": "U.S. Foreign Policy",
+  "description": "Analyzes the formulation and implementation of America's foreign policy from 1914 to the present, stressing economic, political, and strategic factors.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:59.885Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "8002",
+  "courseId": "MUSI 8002",
+  "title": "Teaching Practicum",
+  "description": "Pedagogical approaches to music technology, focusing on hands-on teaching experience.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:05.968Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "3406",
+  "courseId": "MATH 3406",
+  "title": "Second Course Linear Alg",
+  "description": "This course will cover important topics in linear algebra not usually discussed in a first-semester course, featuring a mixture of theory and applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or MATH 1522 Undergraduate Semester Minimum Grade of D or MATH 1553 Undergraduate Semester Minimum Grade of D or MATH 1X54 Undergraduate Semester Minimum Grade of T or MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1564 Undergraduate Semester Minimum Grade of D or MATH 1X53 Undergraduate Semester Minimum Grade of T",
+  "lastUpdated": "2025-08-20T02:42:10.739Z"
+}

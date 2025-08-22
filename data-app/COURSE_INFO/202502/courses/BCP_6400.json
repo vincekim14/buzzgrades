@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BCP",
+  "courseNumber": "6400",
+  "courseId": "BCP 6400",
+  "title": "Hazard Materials Mgmt",
+  "description": "This course introduces core elements of an effective hazardous materials management system through the study and application of regulatory standards, and consensus and proprietary standards.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:07.218Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "IMBA",
+  "courseNumber": "6430",
+  "courseId": "IMBA 6430",
+  "title": "Bus Str Sustainability",
+  "description": "Cross-functional strategies to address competitive and regulatory demands placed on firms for achieving sustainable business practices.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:18.319Z"
+}

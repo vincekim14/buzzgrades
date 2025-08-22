@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHIN",
+  "courseNumber": "1501",
+  "courseId": "CHIN 1501",
+  "title": "Heritage Chinese I",
+  "description": "For heritage students in the U.S. who have never studied Chinese formally, but who speak some Chinese without being able to read or write it. Taught in Chinese.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:44.569Z"
+}

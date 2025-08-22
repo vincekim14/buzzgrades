@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHBE",
+  "courseNumber": "4530",
+  "courseId": "CHBE 4530",
+  "title": "Capstone ChBE Bio-Design",
+  "description": "Basic principles of chemical process and product design including heuristic design approaches, heat exchanger network design, optimization, and economic evaluation.  Credit not allowed for both CHBE 4530 and CHBE 4505 (or 4525).",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 4510 Undergraduate Semester Minimum Grade of C and CHBE 4515 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:36:21.558Z"
+}

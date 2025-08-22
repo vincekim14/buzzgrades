@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "3431",
+  "courseId": "LMC 3431",
+  "title": "Tech Comm Approaches",
+  "description": "Part of a multi-semester sequence that students take in tandem with major-specific classes to develop professional written, visual, oral, and analytic strategies.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "CS 3312",
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:08.310Z"
+}

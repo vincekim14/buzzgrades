@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "INTA",
+  "courseNumber": "3043",
+  "courseId": "INTA 3043",
+  "title": "Space Policy",
+  "description": "Examination of the origins, evolution and range of current challenges and debates in international space policy issues, including civil, military, and commercial activities.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:31.984Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4690",
+  "courseId": "CS 4690",
+  "title": "Empirical Methods in HCI",
+  "description": "Introduction to empirical methods for gathering requirements and evaluating the end-user and usability of software systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3750 Undergraduate Semester Minimum Grade of C or PSYC 3750 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:39.893Z"
+}

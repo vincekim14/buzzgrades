@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "4072",
+  "courseId": "MGT 4072",
+  "title": "Entrepreneurial Finance",
+  "description": "This course has been developed to expand the student's understanding and knowledge of the financial aspects of starting, funding, operating, and/or exiting an entrepreneurial venture.  Credit not allowed for both MGT 4072 and MGT 6086.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3062 Undergraduate Semester Minimum Grade of D or MGT 3078 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:51.093Z"
+}

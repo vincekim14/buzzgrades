@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "6536",
+  "courseId": "CEE 6536",
+  "title": "Rehab-Existing Structure",
+  "description": "Deterioration science; corrosion of steel, alkali-silica reaction, freezing and thawing. Assessment and evaluation of existing structures, nondestructive testing, and nondestructive evaluation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:09.886Z"
+}

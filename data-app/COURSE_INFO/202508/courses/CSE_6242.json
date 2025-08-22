@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CSE",
+  "courseNumber": "6242",
+  "courseId": "CSE 6242",
+  "title": "Data &amp; Visual Analytics",
+  "description": "The course introduces students to analysis and visualization of complex high dimensional data.  Both theory and applications will be covered including several practical case studies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2605 Undergraduate Semester Minimum Grade of D and MATH 3215 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:11.565Z"
+}

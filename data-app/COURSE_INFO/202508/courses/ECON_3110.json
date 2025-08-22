@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "3110",
+  "courseId": "ECON 3110",
+  "title": "Adv Microeconomic Analys",
+  "description": "Review of important mathematical tools and techniques used in advanced microeconomics.  Advanced topics include the estimation of demand and cost functions; the role of government in the economy (externalities, property rights, and public goods); public choice theory; factor markets (especially labor and capital markets); models of monopoly; pricing techniques used by firms with market power (monopolies and oligopolies); and game theory.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:18.003Z"
+}

@@ -1,0 +1,465 @@
+{
+  "subject": "APPH",
+  "subjectName": "Applied Physiology (APPH)",
+  "url": "https://catalog.gatech.edu/coursesaz/apph/",
+  "courses": [
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "1040",
+      "courseId": "APPH 1040",
+      "title": "Scientific Foundations of Health",
+      "description": "Students will learn how genetics, the environment and human behavior influence well-being.  Topics include health fitness, immunity, nutrition, stress management and chronic disease prevention. Credit not allowed for both APPH 1040 and APPH 1050 or HPS 1040 or APPH 1060.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "1050",
+      "courseId": "APPH 1050",
+      "title": "The Science of Physical Activity and Health",
+      "description": "Students will learn the importance of health fitness, good nutrition, stress management and chronic disease prevention.  Activity portion of course will focus on training to improve fitness.  Credit not allowed for both APPH 1050 and HPS 1040 or APPH 1040 or APPH 1060.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "1060",
+      "courseId": "APPH 1060",
+      "title": "Flourishing: Strategies for Well-being and Resilience",
+      "description": "This course is designed to help students improve their health/well-being and flourish by using conceptual pillars such as coping, resiliency, optimism, mindfulness, and emotional intelligence. Credit not awarded for both APPH 1060 and APPH 1040 or APPH 1050.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "3802",
+      "courseId": "APPH 3802",
+      "title": "Special Topics",
+      "description": "Topics of current interest in applied physiology.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "3904",
+      "courseId": "APPH 3904",
+      "title": "Special Problems",
+      "description": "Individual studies in applied physiology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "4804",
+      "courseId": "APPH 4804",
+      "title": "Special Topics",
+      "description": "Topics of current interest in applied physiology.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "4831",
+      "courseId": "APPH 4831",
+      "title": "Special Topics",
+      "description": "Topics of current interest in applied physiology.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6202",
+      "courseId": "APPH 6202",
+      "title": "Clinical Gait Analysis",
+      "description": "Analysis of normal and pathological human locomotion. Study of theory and instrumentation for measurement of temporal and spatial kinematics and kinetics, electromyography, and plantar pressure.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6203",
+      "courseId": "APPH 6203",
+      "title": "Biomechanics and Kinesiology in Prosthetics and Orthotics",
+      "description": "Mechanics of human movement applied to the study of artifical limbs and braces. Emphasis on neuromuscular control, Newtonian mechanics, kinematics and kinetics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6209",
+      "courseId": "APPH 6209",
+      "title": "Clinical Pathology",
+      "description": "Systems level overview of human pathology with emphasis on the effect of disease on human movement and neuromechanical function.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6211",
+      "courseId": "APPH 6211",
+      "title": "Systems Physiology I: Cellular Mechanisms of Plasticity",
+      "description": "The course will focus on adaptations of skeletal, muscular, and neural systems at the cellular level.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6212",
+      "courseId": "APPH 6212",
+      "title": "Systems Physiology II: Physiology of Neuromotor Tissues",
+      "description": "The course will focus on function and adaptations of skeletal, muscular, and neural systems. Interactions among the various systems and their plasticity will be emphasized.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6213",
+      "courseId": "APPH 6213",
+      "title": "Systems Physiology III: Integrated Systems and Adaptation",
+      "description": "The course will focus on integrative mechanism impacting motor system performance. Interactions among the various systems and their plasticity will be emphasized.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6214",
+      "courseId": "APPH 6214",
+      "title": "Laboratory Rotations in Prosthetics and Orthotics",
+      "description": "This course will provide the opportunity for students in individual laboratories to support their graduate training in prosthetics and orthotics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6215",
+      "courseId": "APPH 6215",
+      "title": "Studies in Responsible Conduct of Research in Prosthetics and Orthotics",
+      "description": "This course will cover areas related to research ethics, the responsible use of animial and human models and collaborative research issues in prosthetics and orthotics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6216",
+      "courseId": "APPH 6216",
+      "title": "Studies in Rehabilitation Research: Prosthetics and Orthotics",
+      "description": "This course will provide students in the PhD Training Program in Prosthetics and Orthotics to study issues in Rehabilitation Medicine.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6225",
+      "courseId": "APPH 6225",
+      "title": "Biostatistics",
+      "description": "Introductory statistical principles and methods of experimental design, sampling, power estimation, and hypothesis testing using ANOVA and regression.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6230",
+      "courseId": "APPH 6230",
+      "title": "Exercise Metabolism",
+      "description": "The course will focus on the biochemical pathways that provide fuel for the human body during rest and various levels of physical activity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6231",
+      "courseId": "APPH 6231",
+      "title": "Biomechanical Aspects of Human Motor Control",
+      "description": "The course will examine selected motor control problems that the nervous system faces in the process of managing this mechanical complexity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6232",
+      "courseId": "APPH 6232",
+      "title": "Locomotion Neuromechanics",
+      "description": "This is a course that will introduce topics  on the biomechanical and neural aspects of the control of limbed locomotion and movement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6233",
+      "courseId": "APPH 6233",
+      "title": "The Aging Movement Control System",
+      "description": "The aim of this course is to review research literature dealing with the effects of advances in age on the CNS and motor performance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6235",
+      "courseId": "APPH 6235",
+      "title": "Mechanics and Pathomechanics of Movement Control",
+      "description": "This course is designed to understand the potential effects of selected disorders of the neuromuscular system on movement control.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6236",
+      "courseId": "APPH 6236",
+      "title": "Neuromuscular Physiology",
+      "description": "This course discusses the application of current experimental techniques in human studies in vivo.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6237",
+      "courseId": "APPH 6237",
+      "title": "Methods of Human Neuroimaging",
+      "description": "The purpose of the course is to introduce various methods of functional neuroimaging in humans.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6238",
+      "courseId": "APPH 6238",
+      "title": "Ion Channels in Health and Disease",
+      "description": "This course will examine the structure, function and regulation of ion channels from both excitable and non-excitable cells.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6239",
+      "courseId": "APPH 6239",
+      "title": "Movement Disorders",
+      "description": "This course serves as an introduction to the clinical and research aspects of movement disorders.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6240",
+      "courseId": "APPH 6240",
+      "title": "Cellular Physiology and Adaptation",
+      "description": "This course will focus on adaptations of skeletal, muscular and neural systems at the cellular level.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6241",
+      "courseId": "APPH 6241",
+      "title": "Neuromotor Physiology",
+      "description": "The course will focus on function and adaptations of the skeletal, muscular and neural systems. Interactions among various systems and their plasticity will be emphasized.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6242",
+      "courseId": "APPH 6242",
+      "title": "Integrative Physiology",
+      "description": "The course will focus on integrative mechanisms impacting motor system performance. Interactions among the various systems and their plasticity will be emphasized.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6400",
+      "courseId": "APPH 6400",
+      "title": "Human Neuroanatomy",
+      "description": "The purpose of this course is to learn the anatomical makeup of the human nervous system.  In this course we will closely examine details of central and peripheral neuroanatomy with links to function.  As well, comparisons with non-human vertebrate neuroanatomy will be made.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6500",
+      "courseId": "APPH 6500",
+      "title": "Classics in Neuroscience",
+      "description": "The purpose of this seminar is to learn and explore the history of neuroscience from a perspective of reading classic papers that have evolved.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6600",
+      "courseId": "APPH 6600",
+      "title": "Muscle Structure and Plasticity",
+      "description": "Covers the biological processes underlying skeletal muscle structure and function, as well as rigorous mathematical models of those processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6710",
+      "courseId": "APPH 6710",
+      "title": "Ethics of Biotechnology and Bioengineering Research",
+      "description": "This course examines the ethics of biotechnological research, including issues in the realm of research ethics, bioethics, and healthcare robotics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6895",
+      "courseId": "APPH 6895",
+      "title": "Lower Limb Orthotics I",
+      "description": "This course is the first part of a two course series and sets the essential elements of theory, technical design and patient management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6981",
+      "courseId": "APPH 6981",
+      "title": "Upper Limb Prosthetics",
+      "description": "Clinical training for the practice of prosthetics emphasizing adult and pediatric upper limb prostheses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6982",
+      "courseId": "APPH 6982",
+      "title": "Spinal Orthotics",
+      "description": "Clinical training for the practice of orthotics emphasizing adult and pediatric spinal orthoses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6983",
+      "courseId": "APPH 6983",
+      "title": "Upper Limb Orthotics",
+      "description": "Clinical training for the practice of orthotics emphasizing adult and pediatric upper limb orthoses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6985",
+      "courseId": "APPH 6985",
+      "title": "Transfemoral Prosthetics",
+      "description": "Clinical training for the practice of prosthetics emphasizing adult and pediatric transfemoral (above knee) prostheses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6997",
+      "courseId": "APPH 6997",
+      "title": "Assistive Technology",
+      "description": "Theories and devices associated with assistive technology and mobility aids, emphasizing topics important to clinical practice in prosthetics and orthotics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "6999",
+      "courseId": "APPH 6999",
+      "title": "Clinical Practicum in Prosthetics and Orthotics",
+      "description": "Clinical observation of the practice of prosthetics and orthotics and related medical disciplines.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8000",
+      "courseId": "APPH 8000",
+      "title": "Seminar",
+      "description": "The purpose of this course is for students to learn the research process from the early stage of identifying a question through publication of work.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8009",
+      "courseId": "APPH 8009",
+      "title": "Research Seminar I",
+      "description": "A forum for graduate students in prosthetics and orthotics to present topics related to their research interests.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8010",
+      "courseId": "APPH 8010",
+      "title": "Research Seminar II",
+      "description": "A forum for graduate students in prosthetics and orthotics to present and discuss topics related to their research interests.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8012",
+      "courseId": "APPH 8012",
+      "title": "Research Seminar III",
+      "description": "A forum for graduate students in prosthetics and orthotics to present topics related to their research interests.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8801",
+      "courseId": "APPH 8801",
+      "title": "Special Topics",
+      "description": "Topics of special interest not covered in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8802",
+      "courseId": "APPH 8802",
+      "title": "Special Topics",
+      "description": "Topics of special interest not covered in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8803",
+      "courseId": "APPH 8803",
+      "title": "Special Topics",
+      "description": "Topics of special interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8804",
+      "courseId": "APPH 8804",
+      "title": "Special Topics",
+      "description": "Topics of special interest not covered in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8813",
+      "courseId": "APPH 8813",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8823",
+      "courseId": "APPH 8823",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8833",
+      "courseId": "APPH 8833",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8901",
+      "courseId": "APPH 8901",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigations of problems of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8902",
+      "courseId": "APPH 8902",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigations of problems of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8903",
+      "courseId": "APPH 8903",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigations of problems of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8997",
+      "courseId": "APPH 8997",
+      "title": "Teaching Assistantship",
+      "description": "This course if for students holding a graduate teaching assistantship.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "8998",
+      "courseId": "APPH 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "APPH",
+      "courseNumber": "9000",
+      "courseId": "APPH 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 57,
+  "scrapedAt": "2025-08-16T02:00:30.338Z"
+}

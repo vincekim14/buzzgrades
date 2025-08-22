@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "6143",
+  "courseId": "ARCH 6143",
+  "title": "Museums Hist Thry Design",
+  "description": "Investigates museums as manifestations of the construction and content of knowledge, the public mission of cultural and scientific institutions and the framing of visitors experience.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 4105 Graduate Semester Minimum Grade of D and ARCH 4106 Graduate Semester Minimum Grade of D or ARCH 6105 Graduate Semester Minimum Grade of D and ARCH 6106 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:22.009Z"
+}

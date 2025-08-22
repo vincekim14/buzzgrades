@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4182",
+  "courseId": "ME 4182",
+  "title": "Capstone Design",
+  "description": "Teams apply a systematic design process to real multidisciplinary problems. Problems selected from a broad spectrum of interest areas, including biomedical, ecological, environmental, mechanical, and thermal.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 2110 Undergraduate Semester Minimum Grade of D and ME 3210 Undergraduate Semester Minimum Grade of D and (ME 3180 Undergraduate Semester Minimum Grade of D or ME 4315 Undergraduate Semester Minimum Grade of D) and (MATH 3770 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or CEE 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D) and COE 3001 Undergraduate Semester Minimum Grade of D and ME 3345 Undergraduate Semester Minimum Grade of D and ME 3017 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:30.211Z"
+}

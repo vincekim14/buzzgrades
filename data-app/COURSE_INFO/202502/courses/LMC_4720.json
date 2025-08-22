@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "4720",
+  "courseId": "LMC 4720",
+  "title": "Interactive Narrative",
+  "description": "Examines significant examples of this emerging genre, including its roots ini experimental uses of older media, and engages students in creating their own interactive narrative.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 1322 Undergraduate Semester Minimum Grade of C or CS 1331 Undergraduate Semester Minimum Grade of C) and (LMC 2700 Undergraduate Semester Minimum Grade of C or LMC 2000 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:41:12.032Z"
+}

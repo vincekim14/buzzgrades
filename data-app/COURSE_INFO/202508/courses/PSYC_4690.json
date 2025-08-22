@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "4690",
+  "courseId": "PSYC 4690",
+  "title": "NeuroAI Models of Brain &amp; Mind",
+  "description": "Explore advanced models of human brain and behavior, review the field's progress, and assess current approaches' strengths and limitations. Engage in hands-on group projects developing computational models.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D and (CS 1301 Undergraduate Semester Minimum Grade of D or CS 1315 Undergraduate Semester Minimum Grade of D or CS 1371 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:44:35.855Z"
+}

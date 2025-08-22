@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "3201",
+  "courseId": "ID 3201",
+  "title": "Design and Community",
+  "description": "Students explore socially and environmentally responsible industrial design practices at home and abroad, and partner with local organizations to develop community-based design projects.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 2012 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:51.698Z"
+}

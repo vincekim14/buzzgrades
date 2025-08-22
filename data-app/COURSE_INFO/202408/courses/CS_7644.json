@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "7644",
+  "courseId": "CS 7644",
+  "title": "ML For Robotics",
+  "description": "Overview of a portfolio of machine learning techniques useful for robotic application: from regression to deep learning, applied on simulated real-time mobile robotic applications.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:19.586Z"
+}

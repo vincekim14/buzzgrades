@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "LMC",
+  "courseNumber": "3520",
+  "courseId": "LMC 3520",
+  "title": "Contemp Lit &amp; Culture",
+  "description": "This course will cover a range of possible critical areas of global concern in contemporary literature and culture. Focus will vary each semester.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:24.728Z"
+}

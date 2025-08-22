@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BMED",
+  "courseNumber": "3520",
+  "courseId": "BMED 3520",
+  "title": "Biomed Sys &amp; Modeling",
+  "description": "Introduction of computational systems biology, including the modeling process, various types of models, standard analysis and simulation of systems, and applications in real-world biological systems. Credit will not be awarded for both BMED 3520 and BMED 3510.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 3100 Undergraduate Semester Minimum Grade of D and (MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D) and (CS 1371 Undergraduate Semester Minimum Grade of D or CS 1301 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:36:47.417Z"
+}

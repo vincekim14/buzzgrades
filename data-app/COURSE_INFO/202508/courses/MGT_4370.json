@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "4370",
+  "courseId": "MGT 4370",
+  "title": "Managng Process Innovatn",
+  "description": "Course focuses on tools and techniques to improve and innovate a process. Also explored is presenting data and results for maximum impact.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 2255 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:23.541Z"
+}

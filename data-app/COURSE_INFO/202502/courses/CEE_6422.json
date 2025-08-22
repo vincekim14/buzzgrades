@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "6422",
+  "courseId": "CEE 6422",
+  "title": "Experimental Methods Research",
+  "description": "Topics in experimental research include: scale effects, similarity, falsification, errors, transducers, design of experiments.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:08.361Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "4644",
+  "courseId": "CS 4644",
+  "title": "Deep Learning",
+  "description": "This course will cover the fundamental underpinnings and practice of deep learning, including neural network architectures, optimization algorithms, and applications to perception and Artificial Intelligence.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2605 Undergraduate Semester Minimum Grade of D or MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 24X1 Undergraduate Semester Minimum Grade of D or MATH 2411 Undergraduate Semester Minimum Grade of D or MATH 2550 Undergraduate Semester Minimum Grade of D or MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2561 Undergraduate Semester Minimum Grade of D or MATH 2X51 Undergraduate Semester Minimum Grade of D) and (CS 2110 Undergraduate Semester Minimum Grade of D or CS 2261 Undergraduate Semester Minimum Grade of D) and (CS 3510 Undergraduate Semester Minimum Grade of D or CS 3511 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:38:00.886Z"
+}

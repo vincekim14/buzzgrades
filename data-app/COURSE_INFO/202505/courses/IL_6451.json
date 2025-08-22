@@ -1,0 +1,20 @@
+{
+  "term": "202505",
+  "subjectCode": "IL",
+  "courseNumber": "6451",
+  "courseId": "IL 6451",
+  "title": "Demand and Yield Mgt",
+  "description": "This course focuses on demand estimation and modeling and revenue management.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__International Logistics (IL)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:03.164Z"
+}

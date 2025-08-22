@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "4801",
+  "courseId": "CHBE 4801",
+  "title": "Public Speaking",
+  "description": "Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:16.936Z"
+}

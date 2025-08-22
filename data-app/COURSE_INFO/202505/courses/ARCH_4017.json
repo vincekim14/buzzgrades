@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ARCH",
+  "courseNumber": "4017",
+  "courseId": "ARCH 4017",
+  "title": "Architecture Studio 7",
+  "description": "Advanced studies in architectural design emphasizing application of analytical, conceptual, and representational skills within projects that engage and problematize urban context culturally, ecologically and technologically. Capstone Design Studio.",
+  "creditHours": "6",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 4016 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:20.821Z"
+}

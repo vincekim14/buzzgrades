@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3300",
+  "courseId": "MGT 3300",
+  "title": "Marketing Management I",
+  "description": "The course presents and develops the primary marketing variables that are used in designing an overall marketing program.  A systems approach is taken with the variables managed to optimize overall results.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:23.288Z"
+}

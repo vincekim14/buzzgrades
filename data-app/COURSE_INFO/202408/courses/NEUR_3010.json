@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "NEUR",
+  "courseNumber": "3010",
+  "courseId": "NEUR 3010",
+  "title": "Methods in Neuroscience",
+  "description": "The course is focused on understanding how information about brain and nervous system function can be determined from a wide range of experimental and data analysis techniques.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "NEUR 3001 Undergraduate Semester Minimum Grade of D and (CS 1301 Undergraduate Semester Minimum Grade of D or CS 1315 Undergraduate Semester Minimum Grade of D or CS 1371 Undergraduate Semester Minimum Grade of D) and (BIOS 4401 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or ECE 3077 Undergraduate Semester Minimum Grade of D or PSYC 2020 Undergraduate Semester Minimum Grade of D or MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3225 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:43:29.643Z"
+}

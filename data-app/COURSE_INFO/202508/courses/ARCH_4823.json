@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "4823",
+  "courseId": "ARCH 4823",
+  "title": "Spec Top-Hist,Theor,Crit",
+  "description": "Special Topics in History and Theory Prerequisite: consent of the College. Topics in advanced areas of history and theory of architecture.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:19.199Z"
+}

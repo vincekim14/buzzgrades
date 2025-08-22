@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4430",
+  "courseId": "ECE 4430",
+  "title": "Analog Integra Circuits",
+  "description": "Analysis and design of analog ICs using analytic techniques and CAD tools. Topics include amplifiers, current sources, output circuits, and other analog building blocks.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3050 Undergraduate Semester Minimum Grade of D or ECE 3400 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:09.553Z"
+}

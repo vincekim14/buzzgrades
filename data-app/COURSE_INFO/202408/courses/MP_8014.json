@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MP",
+  "courseNumber": "8014",
+  "courseId": "MP 8014",
+  "title": "Seminar in Medical Physics",
+  "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:14.218Z"
+}

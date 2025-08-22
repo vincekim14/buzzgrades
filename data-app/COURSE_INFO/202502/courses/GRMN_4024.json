@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "GRMN",
+  "courseNumber": "4024",
+  "courseId": "GRMN 4024",
+  "title": "Ger Film and Literature",
+  "description": "A survey of German culture and recent past as presented through films and related literary works illuminating Germany's quest for identity since 1945.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:17.663Z"
+}

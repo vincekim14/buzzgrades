@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "6090",
+  "courseId": "PSYC 6090",
+  "title": "Cognitive Neuroscience",
+  "description": "Examines the foundations of Cognitive Neuroscience, including the biological mechanisms underlying cognition, the dominant theories, and the experimental techniques.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:43.184Z"
+}

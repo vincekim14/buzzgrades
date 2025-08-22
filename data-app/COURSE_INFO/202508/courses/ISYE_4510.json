@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ISYE",
+  "courseNumber": "4510",
+  "courseId": "ISYE 4510",
+  "title": "Public Health Systems",
+  "description": "This course provides an overview of health systems and public health to explore their positive impact on well-being of individuals and effectiveness of health systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3770 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D or ISYE 3030 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:59.717Z"
+}

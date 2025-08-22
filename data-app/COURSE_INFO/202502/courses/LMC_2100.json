@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "2100",
+  "courseId": "LMC 2100",
+  "title": "Intro to STAC",
+  "description": "Relation to other courses, programs and curricula: As the introductory course to the LMC Science, Technology and Culture thread, this course explores the way in which disciplines construct and represent the knowledge they generate.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:00.952Z"
+}

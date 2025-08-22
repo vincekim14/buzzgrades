@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MUSI",
+  "courseNumber": "4457",
+  "courseId": "MUSI 4457",
+  "title": "Audio Content Analysis",
+  "description": "The course will survey fundamental techniques in the fast-growing area of Music Information Retrieval (MIR). Credit will not be awarded for both MUSI 4457 and MUSI 6201.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MUSI 2526 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:55.151Z"
+}

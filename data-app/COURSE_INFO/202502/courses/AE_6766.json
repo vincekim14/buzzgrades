@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "6766",
+  "courseId": "AE 6766",
+  "title": "Combustion",
+  "description": "Introductory chemical kinetics, detonations and deflagrations, laminar flame propagation in premixed gases, ignition and quenching, laminar diffusion flames and droplet burning, turbulent reacting flows. Crosslisted with ME 6766.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 6765 Graduate Semester Minimum Grade of D or ME 6765 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:16.127Z"
+}

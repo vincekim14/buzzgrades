@@ -1,0 +1,289 @@
+{
+  "subject": "MP",
+  "subjectName": "Medical Physics (MP)",
+  "url": "https://catalog.gatech.edu/coursesaz/mp/",
+  "courses": [
+    {
+      "subjectCode": "MP",
+      "courseNumber": "4750",
+      "courseId": "MP 4750",
+      "title": "Diagnostic Imaging Physics",
+      "description": "Physics and image formation methods for conventional X-ray CT, nuclear medicine, and magnetic resonance and ultrasound imaging.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6011",
+      "courseId": "MP 6011",
+      "title": "Seminar in Medical Physics I",
+      "description": "Weekly 1-hour seminar on topics related to medical physics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6012",
+      "courseId": "MP 6012",
+      "title": "Seminar in Medical Physics II",
+      "description": "Weekly 1-hour seminar on topics related to medical physics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6101",
+      "courseId": "MP 6101",
+      "title": "Nuclear Medicine Physics",
+      "description": "Radioisotope production, radiopharmacy, planar gamma cameras, SPECT systems, PET systems, medical internal radiation dose (MIRD) method, nuclear medicine facilities and regulations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6201",
+      "courseId": "MP 6201",
+      "title": "Radiation Therapy Physics",
+      "description": "Clinical radiation oncology, phantom systems, radiation machines, photon beams, electron beams, brachythearpy, dose modeling and treatment planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6203",
+      "courseId": "MP 6203",
+      "title": "Radiation Therapy Treatment Planning Laboratory",
+      "description": "Radiation therapy treatment planning course covering conventional radiation therapy treatment planning, monitor unit calculations, and advanced radiation treatment planning techniques.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6204",
+      "courseId": "MP 6204",
+      "title": "Radiation Therapy Physics",
+      "description": "Measurement and calculation of absorbed dose, dose distributions, treatment planning, photon teletherapy, electron teletherapy, brachytherapy, clinical linear accelerators, quality assurance.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6300",
+      "courseId": "MP 6300",
+      "title": "Radiological Anatomy",
+      "description": "A survey of the most clinically relevant anatomy as visualized by modern diagnostic imaging; plan radiographs, CT, MRI, and PET are emphasized.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6401",
+      "courseId": "MP 6401",
+      "title": "Medical Health Physics",
+      "description": "Basics of medical health physics, Title 10, U.S. Code of Federal Regulations, Parts 19, 20 and 35, shielding for hospital radiation facilities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6402",
+      "courseId": "MP 6402",
+      "title": "Radiation Dosimetry",
+      "description": "Dosimetry of ionizing radiation: photons, neutrons, and charged particles; cavity theory; concept of exposure and absorbed dose; ion chambers and other types of integration dosimeters.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6403",
+      "courseId": "MP 6403",
+      "title": "Applications of the Monte Carlo Method in Medical Physics",
+      "description": "Basic principles of the Monte Carlo method, Monte Carlo transport of photon and electron, various applications of the Monte Carlo method in medical physics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6405",
+      "courseId": "MP 6405",
+      "title": "Radiation Protection and Dosimetry",
+      "description": "Radiation dosimetry quantities, calculational and experimental methods for assessing the absorbed dose, effective dose assessment, committed effective dose assessment, radiation shielding methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6406",
+      "courseId": "MP 6406",
+      "title": "Radiation Dosimetry & Protection",
+      "description": "Introduction to the calculation of radiation dose, dosimetry, and health physics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6407",
+      "courseId": "MP 6407",
+      "title": "Radiation Biology and Oncology",
+      "description": "Radiation lesions and repair, mechanisms of cell death, cell cycle effect, radiation sensitizers and protectors, tumor radiobiology, relative sensitivities of human tissues, and radiation carcinogenesis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6756",
+      "courseId": "MP 6756",
+      "title": "Radiation Physics",
+      "description": "Characteristics of atomic and nuclear radiation, transition probabilities, radioactivity abd isotopes, cross sections, electromagnetic radiation, neutrons, and charges particle interaction with matter.  Crosslisted with NRE 6756 and HP 6756.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6757",
+      "courseId": "MP 6757",
+      "title": "Radiation Detection",
+      "description": "Introduction to the theory and application of radiation detectors, measurement methods, signal processing, and data analysis.  Crosslisted with HP 6757 and NRE 6757.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "6759",
+      "courseId": "MP 6759",
+      "title": "Radiation Shielding Principles and Analysis",
+      "description": "Principles of Radiation Shielding; Design of Shields; Computational Methods for Analysis of Shielding; Emphasis on Monte Carlo Simulation as a Shielding Tool.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "7000",
+      "courseId": "MP 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8011",
+      "courseId": "MP 8011",
+      "title": "Seminar in Medical Physics I",
+      "description": "Weekly one hour seminars on topics related to medical physics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8012",
+      "courseId": "MP 8012",
+      "title": "Seminar in Medical Physics II",
+      "description": "Weekly one hour seminar on topics related to medical physics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8014",
+      "courseId": "MP 8014",
+      "title": "Seminars in Medical Physics",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8104",
+      "courseId": "MP 8104",
+      "title": "Clinical Rotations in Medical Physics",
+      "description": "Four hundred supervised contact hours of clinical internship in diagnostic imaging, nuclear medicine, and radiation oncology at the affiliated clinical facilities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8801",
+      "courseId": "MP 8801",
+      "title": "Special Topics",
+      "description": "Special topics offerings of current interest in medical physics not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8802",
+      "courseId": "MP 8802",
+      "title": "Special Topics",
+      "description": "Special topics offerings of current interest in medial physics not included in regular offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8803",
+      "courseId": "MP 8803",
+      "title": "Special Topics",
+      "description": "Special topics of current interest in medical physics not included in regular offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8804",
+      "courseId": "MP 8804",
+      "title": "Special Topics",
+      "description": "Special topics offerings of current interest in medical physics mot included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8805",
+      "courseId": "MP 8805",
+      "title": "Special Topics",
+      "description": "Special topics offerings of current interest in medical physics not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8806",
+      "courseId": "MP 8806",
+      "title": "Special Topics",
+      "description": "Special topics offerings of current interest in medical physics not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8901",
+      "courseId": "MP 8901",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in medical physics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8902",
+      "courseId": "MP 8902",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in medical physics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8903",
+      "courseId": "MP 8903",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in medical physics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8904",
+      "courseId": "MP 8904",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in medical physics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8905",
+      "courseId": "MP 8905",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in medical physics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "8906",
+      "courseId": "MP 8906",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in medical physics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MP",
+      "courseNumber": "9000",
+      "courseId": "MP 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 35,
+  "scrapedAt": "2025-08-16T02:00:45.690Z"
+}

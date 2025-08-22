@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "6355",
+  "courseId": "CEE 6355",
+  "title": "Industrial Ecology-EnvE",
+  "description": "Introduces the principles of environmentally conscious products, processes, and manufacturing systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:00.867Z"
+}

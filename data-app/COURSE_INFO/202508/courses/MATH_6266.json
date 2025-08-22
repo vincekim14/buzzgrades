@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "6266",
+  "courseId": "MATH 6266",
+  "title": "Linear Statistical Model",
+  "description": "Basic unifying theory underlying techniques of regression, analysis of variance and covariance, from a geometric point of view.  Modern computational capabilities are exploited fully.  Students apply the theory to real data through canned and coded programs.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3225 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:08.126Z"
+}

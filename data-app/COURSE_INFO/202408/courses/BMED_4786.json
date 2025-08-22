@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BMED",
+  "courseNumber": "4786",
+  "courseId": "BMED 4786",
+  "title": "Medical Imaging Systems",
+  "description": "Introduce major biomedical and clinical imaging modalities including X-ray radiography, computed tomography (CT), nuclear medicine (SPECT and PET), magnetic resonance imaging (MRI), and ultrasound.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2026 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:18.519Z"
+}

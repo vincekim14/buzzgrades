@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "6263",
+  "courseId": "MATH 6263",
+  "title": "Testing Stat Hypotheses",
+  "description": "Basic theories of testing statistical hypotheses, including a thorough treatment of testing in exponential class families.  A careful mathematical treatment of the primary techniques of hypothesis testing utilized by statisticians.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4262 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:35.605Z"
+}

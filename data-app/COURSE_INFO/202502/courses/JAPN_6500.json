@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "JAPN",
+  "courseNumber": "6500",
+  "courseId": "JAPN 6500",
+  "title": "Intercultural Seminar",
+  "description": "Integrates cross-cultural research and reflection into discussion of current issues in Japan. For students who have had some study/work-abroad experience in Japan. Conducted in Japanese.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:55.207Z"
+}

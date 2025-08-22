@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "6413",
+  "courseId": "ISYE 6413",
+  "title": "Dsgn &amp; Analy-Experiments",
+  "description": "Analysis of variance, full and fractional factoral designs at two and three levels, orthogonal arrays, response surface methodology, robust parameter design for production/process improvement.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6739 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:02.591Z"
+}

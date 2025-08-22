@@ -1,0 +1,2161 @@
+{
+  "subject": "CEE",
+  "subjectName": "Civil and Environmental Engr (CEE)",
+  "url": "https://catalog.gatech.edu/coursesaz/cee/",
+  "courses": [
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "1070",
+      "courseId": "CEE 1070",
+      "title": "Engineering Graphics for Civil and Environmental Engineering",
+      "description": "Introduction to engineering graphics for CEE covering sketching, computer-aided design, and essential concepts for the interpretation of design drawings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "1090",
+      "courseId": "CEE 1090",
+      "title": "Exploring Civil and Environmental Engineering",
+      "description": "A course for introducing new CEE students to the fields of civil and environmental engineering framed within cross-cutting topic areas.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "1770",
+      "courseId": "CEE 1770",
+      "title": "Introduction to Engineering Graphics and Visualization",
+      "description": "Engineering graphics and visualization including sketching, line drawing, and solid modeling.Development and interpretation of drawings and specification for product realization. Crosslisted with AE and ME 1770.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "2040",
+      "courseId": "CEE 2040",
+      "title": "Dynamics",
+      "description": "Kinematics and kinetics of particles and rigid bodies in one and two dimensions; principles of work/energy and impulse/momentum.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "2090",
+      "courseId": "CEE 2090",
+      "title": "Civil and Environmental Engineering Systems",
+      "description": "Infrastructure viewed from a systems perspective; planning, analytical and evaluation approaches for civil- and environmental-engineered facilities; sustainability - engineering economy; environmental and social quality of life considerations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "2300",
+      "courseId": "CEE 2300",
+      "title": "Environmental Engineering Principles",
+      "description": "Introduction to chemical, biological, and physical processes in the environment. Discussion of the basic processes governing air, water, and land quality, and the behavior and impacts of contaminants associated with human and industrial activities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "2698",
+      "courseId": "CEE 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "2699",
+      "courseId": "CEE 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "2803",
+      "courseId": "CEE 2803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "2812",
+      "courseId": "CEE 2812",
+      "title": "Special Topics",
+      "description": "Special Topics in CEE.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "2901",
+      "courseId": "CEE 2901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3000",
+      "courseId": "CEE 3000",
+      "title": "Civil Engineering Systems",
+      "description": "Infrastructure viewed from a systems perspective; analytical approaches and modeling of civil-engineered facilities; sustainability; engineering economy applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3010",
+      "courseId": "CEE 3010",
+      "title": "Geomatics",
+      "description": "Spatial data collection methods including surveying, photogrammetry, remote sensing, and global positioning systems; management, manipulation, and analysis of spatial and associated attribute data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3020",
+      "courseId": "CEE 3020",
+      "title": "Civil Engineering Materials",
+      "description": "Physical, mechanical, and durability properties of concrete, metals, unreinforced and reinforced plastics, timber, asphalt, and asphalt concrete.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3040",
+      "courseId": "CEE 3040",
+      "title": "Fluid Mechanics",
+      "description": "Elementary mechanics of fluids with emphasis on hydrostatics, control volume analysis of flowing fluids using kinematics, continuity, energy, and momentum principles; similitude, pipe flow.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3051",
+      "courseId": "CEE 3051",
+      "title": "Introduction to Structural Engineering",
+      "description": "Concepts in structural engineering related to the analysis and design of various types of structures such that they behave as intended throughout their lifetime.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3052",
+      "courseId": "CEE 3052",
+      "title": "Introduction to Structural Engineering for the Global Engineering Leadership Minor",
+      "description": "Concepts in structural engineering related to the analysis and design of various types of structures such that they behave as intended throughout their lifetime.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3055",
+      "courseId": "CEE 3055",
+      "title": "Structural Analysis",
+      "description": "Determination of internal forces and deflection in statically determinate trusses, beams, and frames. Introduction to analysis of statically indeterminate structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3090",
+      "courseId": "CEE 3090",
+      "title": "Data Analytics in Civil and Environmental Engineering",
+      "description": "Data analytics applications for CEE, accessing and assessing datasets, tools focused on machine learning, advantages and limitations of data driven approaches, communication data-driven assessments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3340",
+      "courseId": "CEE 3340",
+      "title": "Environmental Engineering Laboratory",
+      "description": "Theory and application of environmental laboratory methods for measurement of fundamental properties and characteristics of dissolved and particulate constituents in water, air and soil systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3400",
+      "courseId": "CEE 3400",
+      "title": "Introduction to Geotechnical Engineering",
+      "description": "Introduction to soil as an engineering material, with a focus on the mechanics of soil strength and compressibility, and fluid flow through soils.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "3770",
+      "courseId": "CEE 3770",
+      "title": "Statistics and Applications",
+      "description": "Introduction to probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression, and analysis of variance. Example applied to the field of civil and environmental engineering. Crosslisted with MATH 3770 and ISYE 3770. Also, credit not awarded for both CEE 3770 and MATH 3670.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4000",
+      "courseId": "CEE 4000",
+      "title": "Global Engineering Leadership",
+      "description": "Addresses skills necessary for the global engineer-leader: creating an engineering firm and evaluating its global viability; written, oral, and cross-cultural communication; collaboration; ethics; strategic planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4005",
+      "courseId": "CEE 4005",
+      "title": "Innovation & Entrepreneurship in CEE Systems",
+      "description": "This course highlights opportunities for innovation and entrepreneurship in Civil and Environmental Engineering Systems, and the essential components of forming, pitching, and starting a business.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4050",
+      "courseId": "CEE 4050",
+      "title": "Infrastructure System Management",
+      "description": "Introduction to general concepts and advanced topics in infrastructure systems management applied to manage large-scale infrastructure assets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4090",
+      "courseId": "CEE 4090",
+      "title": "Capstone Design",
+      "description": "An interdisciplinary civil and environmental design experience.  Problem definition, data acquisition, modeling and analysis, evaluation of design alternatives, oral and written presentation of final design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4100",
+      "courseId": "CEE 4100",
+      "title": "Construction Engineering and Management",
+      "description": "Fundamental concepts in planning, design, and construction of civil engineering projects.  Introduction to project scheduling, cost estimating, controls, procurement, value engineering, quality assurance, and safety.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4101",
+      "courseId": "CEE 4101",
+      "title": "Construction Seminar",
+      "description": "The seminar provides a platform for students to engage with construction industry companies and experts, to learn about different construction disciplines, their projects, and experiences.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4110",
+      "courseId": "CEE 4110",
+      "title": "Construction Planning, Estimating, and Scheduling",
+      "description": "An integrated approach to planning, estimating, and scheduling of construction projects, including basic and advanced concepts, applications, and tools for developing plans, estimates, and schedules.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4120",
+      "courseId": "CEE 4120",
+      "title": "Construction Operations",
+      "description": "An integrated approach to construction methods, including basic and advanced concepts, applications, and tools for planning, analysis, and assessment of construction methods and equipment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4130",
+      "courseId": "CEE 4130",
+      "title": "Construction Safety and Health",
+      "description": "Fundamentals to safety and health as they apply to civil infrastructure and building construction.  Topics include planning, design, management, rules and guidelines, best practices, and inspection of safety and health.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4140",
+      "courseId": "CEE 4140",
+      "title": "Building Information Modeling (BIM) in Construction",
+      "description": "Theory and Application of Building Information Modeling ( BIM) in the Architecture/Engineering/Construction (A/E/C) industry with emphasis on Constructability, Scheduling.  Front End Planning (FEP) and Construction monitoring.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4150",
+      "courseId": "CEE 4150",
+      "title": "Construction Management & Megaprojects",
+      "description": "Covers planning and development of megaprojects. Addresses social, environmental, and economic impacts of megaprojects. Discusses cultural differences & ethical issues in managing megaprojects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4160",
+      "courseId": "CEE 4160",
+      "title": "Smart and Sustainable Cities",
+      "description": "This course examines city infrastructure systems’ impact on urban sustainability. It further explores the role of “smart” technological solutions to address mounting urban sustainability challenges.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4161",
+      "courseId": "CEE 4161",
+      "title": "AI For Smart Cities",
+      "description": "Study of a new system approach of problem-solving using AI for Smart Cities. including 3 key elements and 3 core methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4170",
+      "courseId": "CEE 4170",
+      "title": "Construction Law",
+      "description": "Overview includes legal concepts, the mechanics of the judicial system, professional liability and other legal issues as they pertain to construction engineers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4180",
+      "courseId": "CEE 4180",
+      "title": "Infrastructure Finance",
+      "description": "Methods, models, and best practices including revenue, capital flow, funding and financing of infrastructure. Covers decision process, engineering economics, microeconomics, financial statement analysis, and risk.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4200",
+      "courseId": "CEE 4200",
+      "title": "Hydraulic Engineering",
+      "description": "Applications of fluid mechanics to engineering and natural systems including fluid drag, open channel flow, turbomachinery, and environmental hydraulics; laboratory experiments; computational hydraulics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4210",
+      "courseId": "CEE 4210",
+      "title": "Hydrology",
+      "description": "Global circulation and the hydrologic cycle, precipitation mechanisms and analysis, evaporation and other losses, streamflow, hydrographs, river and reservoir routing, and frequency analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4211",
+      "courseId": "CEE 4211",
+      "title": "Water Resources Systems",
+      "description": "Components and services of water resources systems; and planning and management approaches in the face of climatic, environmental, and socio-economic change.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4225",
+      "courseId": "CEE 4225",
+      "title": "Introduction to Coastal Engineering",
+      "description": "Introduction to coastal engineering processes and problems. Topics include: water wave mechanics, nearshore hydrodynamics, astronomical tides, sediment transport, beach nourishment, and coastal structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4300",
+      "courseId": "CEE 4300",
+      "title": "Environmental Engineering Systems",
+      "description": "Environmental engineering issues associated with water, air, and land pollution, including risk assessment, groundwater contamination, global climate change, and sustainable technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4310",
+      "courseId": "CEE 4310",
+      "title": "Water Quality Engineering",
+      "description": "Reclamation of water and wastewater for potable and industrial uses, groundwater remediation. Principles of physical, chemical, and biological treatment processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4320",
+      "courseId": "CEE 4320",
+      "title": "Hazardous Substance Remediation",
+      "description": "Technical aspects of hazardous waste management and treatment including legislation, exposure and risk assessment, contaminant fate and transport, waste treatment methods, and remediation technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4330",
+      "courseId": "CEE 4330",
+      "title": "Air Pollution Engineering",
+      "description": "Introduction to the physical and chemical processes affecting the dynamics and fate of air pollutants at the local, regional, and global scales.  Particular emphasis is on tropospheric pollutant chemistry and transport.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4340",
+      "courseId": "CEE 4340",
+      "title": "Environmental Modeling and Health Risk Analysis",
+      "description": "This course provides an introduction to modeling techniques used in the environmental health field, with emphasis on three different exposure pathways introduced as the air pathway, groundwater pathway, and surface water pathway.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4350",
+      "courseId": "CEE 4350",
+      "title": "Environmental Technology in the Developing World",
+      "description": "Approaches, methods, and practical aspects of employing technologies for improving environmental quality in low and middle income countries. Team project-based course with field component.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4360",
+      "courseId": "CEE 4360",
+      "title": "Energy and Resource Recovery",
+      "description": "This is an upper level course to introduce the technical aspects of achieving a more sustainable world by energy and resource recovery. Specifically, this course will cover both renewable energy and solid waste management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4370",
+      "courseId": "CEE 4370",
+      "title": "Industrial Wastewater Process Engineering and Design",
+      "description": "Upper level course addressing challenging, high strength industrial wastewater treatment plant design, including associated regulatory, treatability, process engineering, materials of construction, and industrial setting considerations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4395",
+      "courseId": "CEE 4395",
+      "title": "Environmental Systems Design Project",
+      "description": "Design and assessment of an environmental system, component or process, including problem definition, data acquisition, modeling and analysis, evaluation of alternatives, and presentations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4405",
+      "courseId": "CEE 4405",
+      "title": "Introduction to Geotechnical Engineering",
+      "description": "Introduction to soil as an engineering material, with a focus on the mechanics of soil strength and compressibility, and fluid flow through soils.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4406",
+      "courseId": "CEE 4406",
+      "title": "Applied Geotechnics",
+      "description": "Geotechnical principles applied to civil engineering construction, including evaluation of soil and rock properties, shallow foundations, drive and bored pilings, liquefaction, and ground modification.  Credit not allowed for both CEE 4406 and CEE 4410.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4420",
+      "courseId": "CEE 4420",
+      "title": "Subsurface Characterization",
+      "description": "Introduction to field and laboratory methods for characterizing subsurface geological, hydrological, geotechnical, and contaminant conditions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4430",
+      "courseId": "CEE 4430",
+      "title": "Environmental Geotechnics",
+      "description": "Chemical equilibria and partitioning in subsurface systems; hazardous waste site assessment technologies and data; including soil gas data, monitoring wells, and direct-push technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4450",
+      "courseId": "CEE 4450",
+      "title": "Introduction to Petroleum Geomechanics",
+      "description": "Introduction to the basic concepts of geomechanics and their engineering applications with a focus on the petroleum - and energy - related applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4460",
+      "courseId": "CEE 4460",
+      "title": "International Disaster Reconnaissance",
+      "description": "Reviews consequence of and response to foreign disasters in light of technical, cultural and political factors; disasters include earthquakes, floods, hurricanes/typhoons, and man-made infrastructure failures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4510",
+      "courseId": "CEE 4510",
+      "title": "Structural Steel Design",
+      "description": "Principles of behavior of tension and compression members, beams, and connections with application to the design of elementary structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4520",
+      "courseId": "CEE 4520",
+      "title": "Reinforced Concrete Design",
+      "description": "Principles of behavior of reinforced concrete beams, short columns, and slabs, with application to the design of elementary concrete structures, foundation, and earth- retaining structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4530",
+      "courseId": "CEE 4530",
+      "title": "Timber and Masonry Design",
+      "description": "Stress-based design of tension, compression, and flexural members; design of building systems, unreinforced and reinforced walls using timber and masonry construction materials and techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4540",
+      "courseId": "CEE 4540",
+      "title": "Infrastructure Rehabilitation",
+      "description": "Rehabilitation of civil infrastructure systems including aspects of deterioration science, nondestructive assessment, renewal engineering, construction planning and management, and public policy and finance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4550",
+      "courseId": "CEE 4550",
+      "title": "Structural Analysis II",
+      "description": "Analysis of two- and three-dimensional statically indeterminate structures by classical and matrix methods of solution. Flexibility and stiffness techniques, influence lines, approximate analysis, and nonlinear analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4551",
+      "courseId": "CEE 4551",
+      "title": "Historic Structures",
+      "description": "Course examines some of the world’s great structures from an engineering and structural art perspective while integrating architecture and history-based concepts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4552",
+      "courseId": "CEE 4552",
+      "title": "Introduction to Finite Element Methods",
+      "description": "Introduction to Finite Element Methods in Civil Engineering. Formulation of FE numerical methods for solving engineering problems applied to trusses, frames and 2D continuum problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4560",
+      "courseId": "CEE 4560",
+      "title": "Origami Engineering",
+      "description": "This class acquaints the student with the state-of-art concepts and algorithms to design and analyze origami structures, assemblages, and tessellations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4600",
+      "courseId": "CEE 4600",
+      "title": "Transportation Planning, Operations, and Design",
+      "description": "Introduction to transportation engineering with specific emphasis on the planning, design, and operation of transportation facilities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4610",
+      "courseId": "CEE 4610",
+      "title": "Multimodal Transportation Planning, Design, and Operations",
+      "description": "Planning, design, and operation of systems of air, rail, water, and highway facilities, including those for bicycles and pedestrians.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4620",
+      "courseId": "CEE 4620",
+      "title": "Environmental Impact Assessment",
+      "description": "Key policy, planning, and methodological issues in the environmental impact assessment of engineering systems including the regulatory framework and analytical techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4640",
+      "courseId": "CEE 4640",
+      "title": "Freeway and Interchange Planning and Design",
+      "description": "An introduction to the planning and design of freeways and interchanges.  Topics include various interchange forms, HOV lanes, ramp metering, tolling, and truck by-pass ramps.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4650",
+      "courseId": "CEE 4650",
+      "title": "Site Development Planning and Design in Transportation",
+      "description": "An introduction to the planning and design of site developments.  Topics include site traffic analysis and driveway, parking lot, drive-thru facility, site circulation, delivery facility and residential neighborhood design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4660",
+      "courseId": "CEE 4660",
+      "title": "Sustainable Transportation Abroad",
+      "description": "Planning, design, and operations of transportation systems in countries with sustainable multimodal infrastructure; applying lessons learned to US; leadership development in context of sustainable technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4670",
+      "courseId": "CEE 4670",
+      "title": "Introduction to Transportation and Public Health",
+      "description": "Examines the linkage between transportation and human health in both a population and occupational sense. Explores how public and private decision making and the engineering design of transportation systems influences public health.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4698",
+      "courseId": "CEE 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4699",
+      "courseId": "CEE 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4791",
+      "courseId": "CEE 4791",
+      "title": "Mechanical Behavior of Composites",
+      "description": "Stress-strain behavior of composites, property of matrix and reinforcing materials, mechanics of fiber-reinforced composites, lamina and laminate analysis, and mechanical performance. Crosslisted with AE, CHE, ME, MSE, and PTFE 4791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4793",
+      "courseId": "CEE 4793",
+      "title": "Composite Materials and Processes",
+      "description": "Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with AE, CHE, ME, MSE, and PTFE 4793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4794",
+      "courseId": "CEE 4794",
+      "title": "Composite Materials and Manufacturing",
+      "description": "Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with AE, CHE, ME, MSE, and PTFE 4794.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4795",
+      "courseId": "CEE 4795",
+      "title": "Groundwater Hydrology",
+      "description": "Dynamics of flow and solute transport in groundwater, including theory, implementation, and case studies. Crosslisted with EAS 4795.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4801",
+      "courseId": "CEE 4801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4802",
+      "courseId": "CEE 4802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4803",
+      "courseId": "CEE 4803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4804",
+      "courseId": "CEE 4804",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4805",
+      "courseId": "CEE 4805",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4806",
+      "courseId": "CEE 4806",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4900",
+      "courseId": "CEE 4900",
+      "title": "Undergraduate Honors Research Project",
+      "description": "Individual research projects conducted in conjunction with and under the direction of a CEE faculty member. Participation by invitation, and agreement with individual faculty members.  Project culminates in a thesis and presentation.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4901",
+      "courseId": "CEE 4901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4902",
+      "courseId": "CEE 4902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "4903",
+      "courseId": "CEE 4903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6055",
+      "courseId": "CEE 6055",
+      "title": "Data Analytics for CEE Systems",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6100",
+      "courseId": "CEE 6100",
+      "title": "Construction Project Planning",
+      "description": "Introduction to project planning concepts including organization development, computer-based scheduling, computer-based estimating, regulatory agencies, and project financing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6110",
+      "courseId": "CEE 6110",
+      "title": "Computer Applications in Construction",
+      "description": "Introduction to computing tools impacting the construction industry and the analysis techniques used to determine company automation requirements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6125",
+      "courseId": "CEE 6125",
+      "title": "Construction Industry Best Practices",
+      "description": "Front End Planning, Risk Assessment and Dispute Prevention, Constructability, Advanced Work Packaging, Planning for Startup, Change and Material managements, Alignment, Modularization, Quality Control, Zero Accident Techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6130",
+      "courseId": "CEE 6130",
+      "title": "Construction Project Controls",
+      "description": "Introduction to project control concepts and advanced implementation techniques.  Project control concerns including project budgeting, project productivity, cash flow, and resource allocation will be introduced.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6140",
+      "courseId": "CEE 6140",
+      "title": "Advanced Planning and Estimating Methods",
+      "description": "Overview of advanced methods for planning and estimating construction projects including resource allocation/management, project control techniques, interpretation of schedules and estimates, and value engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6150",
+      "courseId": "CEE 6150",
+      "title": "Construction Law",
+      "description": "Overview of construction law and legal issues encountered by the construction engineer and manager.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6160",
+      "courseId": "CEE 6160",
+      "title": "Safety Engineering",
+      "description": "Application of pro-active safety engineering approaches including theories of accident causation, human error classification, prevention through design, safety knowledge transfer and safety leading indicators.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6170",
+      "courseId": "CEE 6170",
+      "title": "Project Delivery and Procurement",
+      "description": "Analysis of construction project delivery including traditional, design-build, construction management, multiple prime contractors, and related financing. The course focuses on the owner's role in construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6185",
+      "courseId": "CEE 6185",
+      "title": "Automation in Construction",
+      "description": "Introduction to construction automation, robotics, AI, sensing, and 3D visualization. An integrated approach to design and assess new automated construction technologies using needs assessment, AHP, and economic feasibility analyses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6190",
+      "courseId": "CEE 6190",
+      "title": "Construction Field Engineering",
+      "description": "Introduction to construction engineering techniques and practices including site excavation, shoring structures, heavy equipment, site layout, and temporary facility construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6210",
+      "courseId": "CEE 6210",
+      "title": "Coastal Mechanics",
+      "description": "Introduction to physical and mathematical descriptions of the major coastal processes: including linear wave mechanics, nearshore circulation, and ocean tides.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6215",
+      "courseId": "CEE 6215",
+      "title": "Coastal Structures",
+      "description": "Introduction to coastal structures with a focus on the hydrodynamic loading and the resulting analysis, design and potential failure mechanisms during extreme events.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6221",
+      "courseId": "CEE 6221",
+      "title": "Physical Hydrology",
+      "description": "Occurrence, movement, and distribution of water.  Topics: hydrologic cycle, global circulation, climate, atmospheric water vapor, thermodynamics, precipitation, evaporation, snowmelt, soil moisture, unsaturated flow, infiltration, geomorphology, runoff, and routing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6222",
+      "courseId": "CEE 6222",
+      "title": "Hydrometeorology",
+      "description": "Estimation of hydrologic variables from on-site and remote sensors; operational hydrologic models; parameter estimation; operational forecasting.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6225",
+      "courseId": "CEE 6225",
+      "title": "Coastal Engineering",
+      "description": "Introduction to coastal engineering processes and problems. Topics include: water wave mechanics, nearshore hydrodynamics, astronomical tides, sediment transport, beach nourishment, and coastal structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6231",
+      "courseId": "CEE 6231",
+      "title": "Probability and Statistics for Civil and Environmental",
+      "description": "Engineers Probability distributions applicable to civil engineering Systems; function of random variables; regression and correlation analysis; parameters estimation and statistical hypothesis tests.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6232",
+      "courseId": "CEE 6232",
+      "title": "Stochastic Hydrology",
+      "description": "Stochastic modeling of hydrologic processes.  Problems of model specifications and parameter identification, and validation.  Application to forecasting and synthetic events.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6241",
+      "courseId": "CEE 6241",
+      "title": "Water Resources Management I",
+      "description": "Operations research methodologies, including linear and nonlinear programming, and their applications to water resources systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6242",
+      "courseId": "CEE 6242",
+      "title": "Water Resources Management II",
+      "description": "Design of decision support systems for water resources planning and management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6244",
+      "courseId": "CEE 6244",
+      "title": "Random Fields and Geostatistics",
+      "description": "Probability density function; moments; scales of fluctuations; spectral representation; simulation of random fields; cross-correlated random fields; vector fields; kriging; conditional simulation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6251",
+      "courseId": "CEE 6251",
+      "title": "Intermediate Fluid Mechanics",
+      "description": "Concepts of linear and angular deformation, vorticity, and conservation of mass.  Development of Navier-Stokes with solutions: steady and unsteady uniform laminar, vortex, creeping, and potential flow.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6252",
+      "courseId": "CEE 6252",
+      "title": "Advanced Fluid Mechanics",
+      "description": "Theory of three-dimensional turbulent boundary layers with application to environmental flows in rivers, estuaries, and the atmosphere of interest in water resources engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6261",
+      "courseId": "CEE 6261",
+      "title": "Environmental Fluid Mechanics",
+      "description": "Dynamics, mixing, and contaminant transport in surface water bodies, including lakes, rivers, estuaries, and coastal waters.  Introduction to numerical models.  Prediction of mixing zones.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6262",
+      "courseId": "CEE 6262",
+      "title": "Advanced Environmental Fluid Mechanics",
+      "description": "Buoyancy modifications to the mixing and dynamics of pollutant discharges and surface water bodies.  Gathering and analysis of laboratory and field data for mixing problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6271",
+      "courseId": "CEE 6271",
+      "title": "Flow and Transport through Porous Media I",
+      "description": "Basic principles governing ground water flow.  Topics covered: fundamental principles of saturated and unsaturated ground water flow, contaminant transport, and salt water intrusion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6281",
+      "courseId": "CEE 6281",
+      "title": "Open Channel Hydraulics",
+      "description": "Flow of liquids with free surfaces in artificial and natural channels.  Analysis of flow resistance. Computation of gradually varied flow profiles.  Flow through transitions, spillways, bridges, culverts. Analysis of unsteady flow.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6282",
+      "courseId": "CEE 6282",
+      "title": "Sediment Transport",
+      "description": "Engineering importance of erosion and sedimentation problems.  Topics: properties of non-cohesive/cohesive sediments including specific weight/gravity/shape/size/ size distribution/fall velocity/mineral structure/ rheological properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6284",
+      "courseId": "CEE 6284",
+      "title": "Hydraulic Transients in Fluid Systems",
+      "description": "Transient flow of liquids in piping systems. One-dimensional wave equations and method of characteristics. Effects of valves and pumps on water hammer. Cavitation and liquid-column separation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6293",
+      "courseId": "CEE 6293",
+      "title": "Hydrodynamic Stability and Turbulence",
+      "description": "Flow in stability and turbulence are important in virtually all environmental flows. Fundamental stability, transition, and turbulent concepts along with their engineering relevance will be introduced.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6310",
+      "courseId": "CEE 6310",
+      "title": "Process Principles in Environmental Engineering",
+      "description": "Principles that can be used in the analysis and modeling of environmental engineering processes, including material and energy balances, mass transfer, and reaction engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6311",
+      "courseId": "CEE 6311",
+      "title": "Microbial Principles in Environmental Engineering",
+      "description": "Microbiological principles with emphasis on microbial nutrition and growth, inhibition and control of growth, biochemical thermodynamics, metabolic pathways, enzyme and microbial kinetics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6312",
+      "courseId": "CEE 6312",
+      "title": "Chemical Principles in Environmental Engineering",
+      "description": "Fundamental principles of chemical equilibria and environmental organic chemistry in dilute aqueous systems with emphasis on chemical speciation and environmental engineering applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6313",
+      "courseId": "CEE 6313",
+      "title": "Fate of Contaminants in the Subsurface",
+      "description": "Effects of physical, chemical, and biological processes on the fate and transport of contaminants in unsaturated and saturated porous media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6314",
+      "courseId": "CEE 6314",
+      "title": "Fundamentals of Environmental Modeling and Mathematics",
+      "description": "This course is designed to provide an understanding of fundamental principles and approaches used in modeling environmental systems, as well as the necessary mathematical techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6315",
+      "courseId": "CEE 6315",
+      "title": "Environmental Nanotechnology",
+      "description": "The course is divided into two primary sections: 1) fundamentals of nanomaterials and nanotechnology and 2) the environmental applications of nanotechnology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6319",
+      "courseId": "CEE 6319",
+      "title": "Environmental Sciences and Engineering Laboratory",
+      "description": "Laboratory exercises and discussions for the understanding of fundamental chemical analytical, physicochemical, and applied microbiological principles in environmental engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6320",
+      "courseId": "CEE 6320",
+      "title": "Legal, Institutional, and Policy Frameworks for Water Resources Planning and Management",
+      "description": "Fundamental principles of national and international water policy, legislation and management frameworks for transboundary water resources management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6321",
+      "courseId": "CEE 6321",
+      "title": "Water Quality and Ecology in Lakes and Rivers",
+      "description": "Mixing/transport of pollutants and natural substances in surface waters, lakes, rivers, estuaries, coastal waters. Application of mathematical models of hydrodynamics and water quality to these water bodies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6322",
+      "courseId": "CEE 6322",
+      "title": "Water Resources Systems Analysis",
+      "description": "The policy, legal, and institutional contexts of water resources planning and management, information and modeling systems, modeling tools, and the practical experience with the use of decision support systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6323",
+      "courseId": "CEE 6323",
+      "title": "Natural Resources and Environmental Economics",
+      "description": "Relation between economic and ecological systems, case studies and examples, tools of environmental policy, environmental economic evaluation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6324",
+      "courseId": "CEE 6324",
+      "title": "Water Supply and Sanitation",
+      "description": "Sanitation, wastewater characterization, wastewater treatment process analysis and selection, pre-treatment options, biological treatment, removal of pollutants biosolids treatment and disposal, and safe water systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6325",
+      "courseId": "CEE 6325",
+      "title": "River Hydraulics",
+      "description": "Open channel hydraulics, fluvial geomorphology, flood control structures, culverts, bridge openings, river bed and bank stability control measures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6326",
+      "courseId": "CEE 6326",
+      "title": "Hydrologic Principles aned Practices",
+      "description": "Hydrologic cycle, global circulation, climate, atmospheric water vapor, thermodynamics, precipitation, evaporation, snowmelt, soil moisture, unsaturated flow, infiltration, geomorphology, runoff, and routing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6327",
+      "courseId": "CEE 6327",
+      "title": "Statistical Methods for Environmental Data Analysis and Prediction",
+      "description": "Provide a good understanding of the fundamental principles of probability/statistics, and demonstrate the application of these principles to environmental data analysis and prediction problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6330",
+      "courseId": "CEE 6330",
+      "title": "Physicochemical Processes",
+      "description": "Theory and application of the physical and chemical processes of coagulation, flocculation, sedimentation, softening, filtration, and disinfection in water and wastewater treatment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6331",
+      "courseId": "CEE 6331",
+      "title": "Biological Processes",
+      "description": "Microbial growth kinetics and bioenergetics, theory, modeling, and application of biological processes employed in water, wastewater, and hazardous waste treatment systems as well as subsurface bioremediation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6332",
+      "courseId": "CEE 6332",
+      "title": "Separation Processes",
+      "description": "Theory and applications of the physical and chemical processes of sorption, membrane separation, and absorption in both gas-phase and liquid-phase environmental engineering systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6333",
+      "courseId": "CEE 6333",
+      "title": "Hazardous Waste Site Remediation",
+      "description": "Selection, design and implementation of hazardous waste site remediation technologies including pump-and-treat, soil vapor extraction, thermal processes, bioremediation, surfactant flushing, and barrier-treatment walls.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6341",
+      "courseId": "CEE 6341",
+      "title": "Industrial Waste Treatment and Disposal",
+      "description": "A review of current policies and approaches in industrial waste treatment, and application of engineering principles and processes for waste treatment, recovery, and disposal.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6342",
+      "courseId": "CEE 6342",
+      "title": "Solid Waste Technology",
+      "description": "An introduction of the current regulations and fundamentals of solid waste management, characterization, handling, recycling, transportation, and final disposal systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6343",
+      "courseId": "CEE 6343",
+      "title": "Membrane Processes",
+      "description": "An introduction of the theories of membrane separation processes with special emphasis on desalination, softening, THM precursors reduction using reverse osmosis and nanofiltration.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6345",
+      "courseId": "CEE 6345",
+      "title": "Sustainable Engineering",
+      "description": "The course is intended to introduce students to the interaction between human and natural environment and provide an overview on the emerging science of sustainability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6350",
+      "courseId": "CEE 6350",
+      "title": "Advanced Environmental Chemistry",
+      "description": "Chemical behavior of inorganic and organic compounds in natural waters.  Topics include chemistry of metal ions, partitioning and distribution of organic pollutants, surface reactions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6351",
+      "courseId": "CEE 6351",
+      "title": "Biotransformation of Xenobiotic Compounds",
+      "description": "Biotransformation pathways and kinetics of anthropogenic recalcitrant compounds and biological, biochemical, and environmental factors affecting these transformations in natural and engineered systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6355",
+      "courseId": "CEE 6355",
+      "title": "Industrial Ecology in Environmental Engineering",
+      "description": "Introduces the principles of environmentally conscious products, processes, and manufacturing systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6360",
+      "courseId": "CEE 6360",
+      "title": "Design of Treatment Facilities for Drinking Water",
+      "description": "Theory and design of process tanks and equipment for capture, purification, conditioning, storage, and distribution of safe drinking water.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6361",
+      "courseId": "CEE 6361",
+      "title": "Modeling and Simulation of Biological Treatment Systems",
+      "description": "Theory and design of biological treatment systems for water reclamation, nutrient removal, and integrated process design and optimization using advanced computer models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6390",
+      "courseId": "CEE 6390",
+      "title": "Air Pollutant Formation and Control",
+      "description": "Analysis of air pollutants through the study of radical reaction pathways, combustion processes, and removal of particles and gaseous pollutants from exhaust gas streams.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6402",
+      "courseId": "CEE 6402",
+      "title": "Soil Mechanics",
+      "description": "Fundamental concepts related to the mechanical behavior of soils, including: effective stress, strength, stiffness, permeability, time-dependent behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6421",
+      "courseId": "CEE 6421",
+      "title": "Laboratory Characterization of Geomaterials",
+      "description": "Instruction in the procedures, methods of interpretation and apparatus limitations and influences for geotechnical laboratory index, strength, deformation, and permeability tests.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6422",
+      "courseId": "CEE 6422",
+      "title": "Experimental Methods in Research",
+      "description": "Topics in experimental research include: scale effects, similarity, falsification, errors, transducers, design of experiments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6423",
+      "courseId": "CEE 6423",
+      "title": "In-Situ Testing and Site Characterization of Geomaterials",
+      "description": "Field testing and sampling of geomaterials, primarily soils and rocks.  Introduces methods of drilling, probing, and in-situ measurement of soils for determining stratigraphy and engineering parameters for analysis, including soil borings, cone penetration tests, pressuremeter, dilatometer, and other tests.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6424",
+      "courseId": "CEE 6424",
+      "title": "Engineering Geophysics",
+      "description": "Geophysical techniques used to characterize near-surface soils and rocks including seismic, magnetic, electromagnetic, radar, and resistivity methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6431",
+      "courseId": "CEE 6431",
+      "title": "Plasticity of Geomaterials",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6432",
+      "courseId": "CEE 6432",
+      "title": "Finite Element Method for Coupled Processes In Elastic Porous Media",
+      "description": "Poroelasticity, variational methods, space and time discretization. FEM for solid mechanics, heat/mass transfer and coupled stress/pressure/temperature variations in porous media, e.g. soils, rocks,concrete, bones.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6441",
+      "courseId": "CEE 6441",
+      "title": "Analysis of Earth Structures",
+      "description": "Instruction in techniques for assessing the stability of earth-retaining structures including unreinforced slopes, reinforced slopes, free-standing retaining structures, and reinforced retaining structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6442",
+      "courseId": "CEE 6442",
+      "title": "Dynamic Analysis in Geotechnical Engineering",
+      "description": "Dynamic soil properties; response of foundations to dynamic loads; construction and blast vibration criteria; dynamic analysis of pile driving; introduction to liquefaction potential.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6443",
+      "courseId": "CEE 6443",
+      "title": "Foundation Systems",
+      "description": "Evaluation and design of foundations for civil engineering structures, including the settlement and bearing capacity of shallow spread footings, mats, and deep foundations. Footings, driven piles, bored piles, and drilled shafts analyzed using elastic continuum theory, limit plasticity, and cavity expansion solutions, supplemented with numerous case studies. Ancillary topics include axial load transfer, pile group interaction, lateral and moment loading, and pile dynamics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6444",
+      "courseId": "CEE 6444",
+      "title": "Geosynthetics in Civil Engineering",
+      "description": "Development, fabrication, design, and applications of geotextiles, geogrids, geonets, and geomembranes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6445",
+      "courseId": "CEE 6445",
+      "title": "Geotechnical Earthquake Engineering",
+      "description": "Earthquake magnitude and intensity, seismic hazard evaluation using deterministic and probabilistic approaches, site response analyses and ground motion amplification liquefaction, and response of earth structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6447",
+      "courseId": "CEE 6447",
+      "title": "Ground Modification",
+      "description": "Methods for improving marginal construction sites for geotechnical engineering projects and rehabilitation of geoinfrastructure.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6448",
+      "courseId": "CEE 6448",
+      "title": "Landfill Design and Management",
+      "description": "The course deals with geomaterial selection and characterization, chemical compatibility, placement procedures (including compaction), design strategies, seepage issues, instrumentation, and environmental monitoring.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6449",
+      "courseId": "CEE 6449",
+      "title": "Design of Remediation Systems",
+      "description": "Design of remediation systems and management approaches for the petrochemical, power generation, metals finishing, and mining industries are emphasized. Risk analysis and case histories are presented.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6451",
+      "courseId": "CEE 6451",
+      "title": "Rock Mechanics",
+      "description": "Rock characterization, scale effect, in-situ stresses, mechanisms of rock deformation and fracture, rock engineering; special attention to common principles unifying presented set of topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6460",
+      "courseId": "CEE 6460",
+      "title": "Theoretical Geomechanics",
+      "description": "Field equations of linear elasticity, solutions of boundary value problems, steady/transient flow in porous media. Yielding and failure of soils; plasticity theory and limit analyses.  Constitutive soil models.  Introduction to finite elements with geotechnical engineering applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6461",
+      "courseId": "CEE 6461",
+      "title": "Mathematical Applications for Civil and Environmental",
+      "description": "Mathematical techniques are reviewed in the context of CEE problems.  The simplified yet mathematically rigorous approach highlights the internal mathematical connections between different engineering problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6462",
+      "courseId": "CEE 6462",
+      "title": "Signals and Inverse Problems in Civil Engineering",
+      "description": "Civil engineering signals and systems.  Discrete time and frequency domain operations.  Nonlinear and nonstationary systems.  Inverse problems. Matrix-based and other solutions. Tomography. Civil engineering examples.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6463",
+      "courseId": "CEE 6463",
+      "title": "Constitutive Modeling of Soils",
+      "description": "Fundamental concepts in modeling behavior of soils. Implementation of models into numerical solution codes. Evaluation of models used in practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6481",
+      "courseId": "CEE 6481",
+      "title": "Unsaturated Soil Mechanics",
+      "description": "This course presents many of the fundamental concepts behind the mechanical behavior of unsaturated soils.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6483",
+      "courseId": "CEE 6483",
+      "title": "Geotechnical Image and Spatial Analysis",
+      "description": "Presentation of techniques for spatial and image processing and analysis of subsurface data at micro and macro scales.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6484",
+      "courseId": "CEE 6484",
+      "title": "Industrial Byproduct Reutilization",
+      "description": "Explores more fully the interface between geotechnology, geochemistry, and sustainable engineering to develop new applications using industrial byproducts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6501",
+      "courseId": "CEE 6501",
+      "title": "Matrix Structural Analysis",
+      "description": "Static analysis of framed structures by flexibility and stiffness methods; computer models and solution for applied loads, temperature, support settlement, and member prestrain effects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6504",
+      "courseId": "CEE 6504",
+      "title": "Finite Element Method of Structural Analysis",
+      "description": "Introduction to the element method with emphasis on analysis of solids and structures.  One-, two-, and three-dimensional finite.  Modeling, approximations, and errors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6507",
+      "courseId": "CEE 6507",
+      "title": "Nonlinear Finite Element Analysis",
+      "description": "Lagrangian formulations for nonlinear analysis of solids and structures, including consistent linearization and state determination.  Incremental-iterative solution approaches; computational plasticity. Software implementation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6509",
+      "courseId": "CEE 6509",
+      "title": "Structural Dynamics",
+      "description": "Vibration and dynamic response of structures to periodic and general time-dependent loads, with and without damping effects. Both SDOF and MDOF structural systems are discussed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6510",
+      "courseId": "CEE 6510",
+      "title": "Structural Dynamics",
+      "description": "Vibration and dynamic response of linear and nonlinear structures to periodic and general disturbing forces, with and without damping effects.  Wind and earthquake SDOF and MDOF effects.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6511",
+      "courseId": "CEE 6511",
+      "title": "Random Vibration",
+      "description": "Stochastic processes as tools for modeling time-dependent structural excitations; random dynamic response of structural systems to time-dependent forces; reliability of dynamic structural systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6512",
+      "courseId": "CEE 6512",
+      "title": "Advanced Dynamics and Smart Structures",
+      "description": "Overview of advanced dynamics and smart structures. Topics include vibration modal analysis, signal processing, modern sensors technologies, structural monitoring, and structural control.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6513",
+      "courseId": "CEE 6513",
+      "title": "Computational Methods in Mechanics",
+      "description": "Generalization of finite element concepts; Galerkin-weighted residual and variational approaches; mixed and hybrid finite element formulations, applications, transient dynamic analysis; software implementation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6521",
+      "courseId": "CEE 6521",
+      "title": "Reinforced Concrete Members",
+      "description": "Behavior and design of RC members; ductility and inelastic response; deep beams; corbel and torsion design; column biaxial bending; shearwalls; effects of creep and shrinkage.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6522",
+      "courseId": "CEE 6522",
+      "title": "Reinforced Concrete Slab Systems",
+      "description": "Analysis and design of two-way slab systems, structural walls, and complex building configurations. Equivalent frame and analysis, strip and yield-line technique, application of finite element method to design of slab and wall systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6523",
+      "courseId": "CEE 6523",
+      "title": "Prestressed Concrete",
+      "description": "Principles and practice of prestressed concrete.  Analysis and design of statically determinate and indeterminate beams, and one-way and two-way slabs; precast pretensioned, posttensioned.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6527",
+      "courseId": "CEE 6527",
+      "title": "Advanced Structural Steel Design",
+      "description": "Strength, behavior, and design of steel structures according to WSD and LRFD. Plate girders, composite beams, bolted and welded connections, beam-columns, and torsion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6528",
+      "courseId": "CEE 6528",
+      "title": "Introduction to Bridge Engineering",
+      "description": "Introduction to loads, methods of analysis, design, fabrication and construction of girder bridges.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6530",
+      "courseId": "CEE 6530",
+      "title": "Structural Systems",
+      "description": "Behavior and design of steel and concrete building and bridge systems.  Introduction to structural planning with emphasis on economics, structural behavior, serviceability, and strength considerations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6533",
+      "courseId": "CEE 6533",
+      "title": "Design of Polymer Composite Structures",
+      "description": "Strength, behavior, and design of polymeric composites, structural members, and connections for civil engineering applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6536",
+      "courseId": "CEE 6536",
+      "title": "Rehabilitation of Existing Structures",
+      "description": "Deterioration science; corrosion of steel, alkali-silica reaction, freezing and thawing. Assessment and evaluation of existing structures, nondestructive testing, and nondestructive evaluation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6538",
+      "courseId": "CEE 6538",
+      "title": "Introduction to Non-Destructive Testing and Forensic Evaluation in Structures.",
+      "description": "Introduction to the theoretical basis and practical application of nondestructive testing with complementary analytical and destructive testing for the forensic investigation of engineering materials and structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6540",
+      "courseId": "CEE 6540",
+      "title": "Engineering Risk Analysis",
+      "description": "Fundamental concepts of probability theory, risk analysis, and decision theory with applications to engineering systems; Bayesian\nmethods; uncertainty analysis; risk-informed decision making\n.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6541",
+      "courseId": "CEE 6541",
+      "title": "Earthquake Engineering",
+      "description": "Characteristics of earthquakes; design and rehabilitation of civil engineering structures for earthquake ground motion; code provisions; case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6542",
+      "courseId": "CEE 6542",
+      "title": "Consequence-Based Earthquake Engineering",
+      "description": "This course will provide focused instruction on earthquake engineering within a Consequence Based Engineering (CBE) framework. The course will reflect the cross-disciplinary nature of earthquake engineering practice and research, and will provide an overview on diverse topics in hazard definition, vulnerability assessment, mitigation measures and societal impact.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6544",
+      "courseId": "CEE 6544",
+      "title": "Structural Modeling",
+      "description": "Modeling of structures for static, dynamic, and nonlinear analysis using finite elements.  Effects of parameters on the structural behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6548",
+      "courseId": "CEE 6548",
+      "title": "Inelastic Design",
+      "description": "Application of fundamental theorems of plastic design to beam, frame, and plate structures. Design based on ultimate strength, ductility and capacity design principles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6549",
+      "courseId": "CEE 6549",
+      "title": "Structural Reliability",
+      "description": "Concepts and applications of probability and statistics for analysis of risk and reliability of structures subjected to natural and man-made hazards; stochastic load and strength modeling; probabilistic risk assessment; introduction to stochastic computational mechanics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6551",
+      "courseId": "CEE 6551",
+      "title": "Advanced Strength of Materials",
+      "description": "Study of advanced topics from mechanics of materials with application to structures.  Typical topics: energy methods, failure theories, post-yield behavior, generalized bending and torsion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6554",
+      "courseId": "CEE 6554",
+      "title": "Theory of Elastic Stability",
+      "description": "Concepts of elastic stability, simple mechanical models, buckling of beam-columns and frames, beams on elastic foundation, and plates energy methods, torsional and lateral buckling.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6557",
+      "courseId": "CEE 6557",
+      "title": "Theory of Plates and Shells",
+      "description": "Plate bending, approximate methods, nonlinearity, stiffened and anisotropic plates.  Stress and deformation of shells with and without bending, surfaces of revolutions, and shallow shells.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6560",
+      "courseId": "CEE 6560",
+      "title": "Applied Elasticity",
+      "description": "Introduction to traction, stress, and equilibrium; deformations, strain compatibility; constitutive equations; two-dimensional problems in Cartesian and polar coordinates; application to extension, bending, and torsion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6563",
+      "courseId": "CEE 6563",
+      "title": "Energy Methods in Mechanics",
+      "description": "Virtual work, principles of potential energy and complementary energy, Castigliano's theorems, generalized and stationary variational principles, energy methods, structural applications, nonlinear problems, Hamilton's principle.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6566",
+      "courseId": "CEE 6566",
+      "title": "Plasticity and Viscoelasticity",
+      "description": "Plastic deformation, yield conditions, flow rules and normality, relaxation and creep, viscoelasticity, tubes and spheres, torsion and bending, slip line fields, viscoelastic boundary value problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6569",
+      "courseId": "CEE 6569",
+      "title": "Wave Propagation in Solids",
+      "description": "Plane waves in elastic half-spaces, reflection and refraction; Rayleigh and Stonely waves; waveguides, Love waves, Rayleigh-Lamb modes; Cagniard-de Hoop method; in anisotropic media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6571",
+      "courseId": "CEE 6571",
+      "title": "Experimental Stress Analysis",
+      "description": "Study of surface stress and strain using brittle coatings and strain gauges.  Strain gauge circuits, static and dynamic problems, transducer design and circuits.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6585",
+      "courseId": "CEE 6585",
+      "title": "Materials Science of Concrete",
+      "description": "This course integrates fundamental science-based concepts with engineering-based design of concrete toward the development of a more complete understanding of the relationships between materials design and multi-scale behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6590",
+      "courseId": "CEE 6590",
+      "title": "Durability of Cement-based Materials",
+      "description": "Develop fundamental understanding of the chemical, physical, and mechanical aspects surrounding the durability of cement-based materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6601",
+      "courseId": "CEE 6601",
+      "title": "Linear Statistical Models in Transportation",
+      "description": "Theory of simple and multivariate regression and analysis of variance models. Assessment of modeling assumptions and remedial measures.  Applications in the field of transportation planning.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6602",
+      "courseId": "CEE 6602",
+      "title": "Urban Transportation Planning",
+      "description": "An overview course on the history, finance, operations, modeling, politics, environmental impacts, and planning of urban transportation systems in the United States.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6603",
+      "courseId": "CEE 6603",
+      "title": "Traffic Engineering",
+      "description": "Characteristics of traffic demand, traffic flow, vehicles, drivers, roadways, and pedestrians.  Studies and data analysis. Capacity analysis. Traffic control and intelligent systems.  Operations and management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6605",
+      "courseId": "CEE 6605",
+      "title": "Transportation Administration and Policy Analysis",
+      "description": "Overview of institutions and policy processes in the transportation sector: organizational analysis and implementation; policy analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6621",
+      "courseId": "CEE 6621",
+      "title": "GIS in Transportation",
+      "description": "Theory and application of GIS applied to transportation engineering and planning (GIS-T). Laboratory focuses on GIS-T development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6622",
+      "courseId": "CEE 6622",
+      "title": "Travel Demand Analysis",
+      "description": "Examination of methods for forecasting future site and regional-level travel demand. Model specification, calibration, and validation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6623",
+      "courseId": "CEE 6623",
+      "title": "Survey Design and Analysis",
+      "description": "Design of telephone, mail out, and personal interview survey instruments. Subsequent estimation of choice-based models from cross-sectional and panel survey data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6624",
+      "courseId": "CEE 6624",
+      "title": "Land Use - Transportation Interaction",
+      "description": "Overview of land use and transportation planning principles, how development impacts air transportation, how transportation investments impact development patterns and air quality.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6625",
+      "courseId": "CEE 6625",
+      "title": "Transportation, Energy, and Air Quality",
+      "description": "Students investigate relationships between transportation demand, energy supply and consumption, fuel types, greenhouse gas emissions, and relationships between vehicle technology, pollutant emissions, modeling techniques, and air quality.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6631",
+      "courseId": "CEE 6631",
+      "title": "Signalized Intersections and Networks",
+      "description": "Traffic-responsive signalization. Detector placement and signal timing at individual intersections.  Hands-on practice with equipment.  Timing of coordinated systems. Signal plans and specifications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6632",
+      "courseId": "CEE 6632",
+      "title": "Simulation Models in Transportation",
+      "description": "Simulation models in transportation: development, calibration, applications, and analysis of outputs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6633",
+      "courseId": "CEE 6633",
+      "title": "Advanced Traffic Detection and Control",
+      "description": "Latest developments in traffic control equipment and software, including incident management.  Communications- technology alternatives.  Video, other above-road detector technologies.  Hands-on practice with equipment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6634",
+      "courseId": "CEE 6634",
+      "title": "Transportation Safety Analysis",
+      "description": "Understanding the human factors elements of transportation safety, and how to appropriately model the highly complex and stochastic occurrence of accidents on a transportation network.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6635",
+      "courseId": "CEE 6635",
+      "title": "Technology Innovation in Transportation",
+      "description": "Technology innovations in transportation including Intelligent Transportation Systems.  Planning and design of ITS systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6636",
+      "courseId": "CEE 6636",
+      "title": "Traffic Flow Theory",
+      "description": "Advanced study of underlying principles and analytical procedures used in performing capacity analyses of transportation facilities.  Highway Capacity Manual procedures and other analytical techniques presented.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6641",
+      "courseId": "CEE 6641",
+      "title": "Transportation Infrastructure Management and Traffic Control",
+      "description": "Transportation infrastructure traffic control and safety- related issues are addressed for initial implementation of transportation facilities as well as daily operational aspects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6642",
+      "courseId": "CEE 6642",
+      "title": "Transit Systems Planning and Design",
+      "description": "Introduction to transit system planning and design concepts. Course will discuss the planning, design, and operations of transit systems, and the operations of intermodal terminals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6650",
+      "courseId": "CEE 6650",
+      "title": "Discrete Choice Modeling",
+      "description": "Theory and application of probabilistic models of selection among discrete alternatives, including multinomial and nested logit and probit. Population heterogeneity. Sampling and aggregation issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6651",
+      "courseId": "CEE 6651",
+      "title": "Infrastructure Systems Management",
+      "description": "Analytical approaches and tools for infrastructure and asset management, sustainable systems development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6652",
+      "courseId": "CEE 6652",
+      "title": "Infrastructure Management: IT Applications",
+      "description": "Introduction to information technologies (programming, database, GPS/GIS, etc.) and their applications to the life-cycle activities (e.g. design, construction, etc.) of CEE engineered systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6701",
+      "courseId": "CEE 6701",
+      "title": "Urban Transportation Planning",
+      "description": "An overview course on the history, finance, operations, modeling, politics, environmental impacts, and planning of urban transportation systems in the United States.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6702",
+      "courseId": "CEE 6702",
+      "title": "Urban Transportation Planning Laboratory",
+      "description": "Transportation planning/engineering laboratory and field experience.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6720",
+      "courseId": "CEE 6720",
+      "title": "Environmental Microbial Genomics",
+      "description": "To introduce advanced concepts and principles of contemporary environmental microbiological research and associated bioinformatics techniques through representative examples from recent literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6751",
+      "courseId": "CEE 6751",
+      "title": "Physical Properties and Rheology of Rocks",
+      "description": "Structure, properties, and rheology of minerals and rocks with applications to engineering structures and natural phenomena in the Earth. Fundamentals of rock mechanics and crack propagation. Crosslisted with EAS 6751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6754",
+      "courseId": "CEE 6754",
+      "title": "Engineering Communication",
+      "description": "Writing and editing engineering documents; designing and explaining visuals; creating and delivering electronic presentations.  Crosslisted with MSE 6754.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6756",
+      "courseId": "CEE 6756",
+      "title": "Discovery of Signaling Molecules",
+      "description": "The diversity of chemical signals between organisms and their structural specificities will be presented along with chemical and biological methods for isolating signaling molecules.  Crosslisted with BIOL 6756 and CHEM 6756.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6790",
+      "courseId": "CEE 6790",
+      "title": "Air Pollution Physics and Chemistry",
+      "description": "Introduction to physical and chemical processes affecting dynamics and fate of air pollutants at local, regional, and global scales;  emphasis on tropospheric pollutant chemistry and transport. Crosslisted with EAS 6790.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6792",
+      "courseId": "CEE 6792",
+      "title": "Air Pollution Meteorology and Chemistry",
+      "description": "Vertical temperature and wind structure, topographic effects, natural removal processes, atmospheric dispersion of stack effluents, air pollution climatology, meteorological management of air pollution. Crosslisted with EAS 6792.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6794",
+      "courseId": "CEE 6794",
+      "title": "Atmospheric Chemical Modeling",
+      "description": "Application of modern numerical methods to the prediction of atmospheric chemical and physical compositions; specific applications using computer models developed by the students are included. Crosslisted with EAS 6794.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6795",
+      "courseId": "CEE 6795",
+      "title": "Atmospheric Aerosols",
+      "description": "Chemical and physical properties of natural and anthropogenic aerosols. Sources, transport, transformation, and fate of primary/secondary, organic/inorganic, atmospheric semi-volatiles and aerosols. Crosslisted with EAS 6795.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6810",
+      "courseId": "CEE 6810",
+      "title": "Linear Ocean Surface Wave Mechanics",
+      "description": "Introduction to linear wave mechanics with emphasis on boundary value problems.  Topics include wavemakers, boundary layers, wave/current interactions, long waves, edge waves and wave forces.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6811",
+      "courseId": "CEE 6811",
+      "title": "Nonlinear Ocean Surface Wave Mechanics",
+      "description": "Advanced solutions of nonlinear wave equations including introduction to perturbation methods, shallow and deep water solutions, nonlinear wave interactions and stream function solutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6821",
+      "courseId": "CEE 6821",
+      "title": "Nearshore Hydrodynamics",
+      "description": "Introduction to surfzone hydrodynamics including properties of breaking waves, undertow, longshore currents, wave setup, rip currents, infragravity waves, shear waves, and combined wave/current boundary layers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6840",
+      "courseId": "CEE 6840",
+      "title": "Coastal Sediment Transport",
+      "description": "Transport of cohesive and non-cohesive sediments in tidal and surf zone environments, measurement of sediment transport, numerical modeling of sediment transport and beach evolution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "6842",
+      "courseId": "CEE 6842",
+      "title": "Coastal Engineering Measurements",
+      "description": "Measurement of scalars (temperature, concentration), and vectors (velocity, waves), with emphasis on water and sediments.  Acoustical and optical sensors.  Quantitative use of digital video/photographic data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "7000",
+      "courseId": "CEE 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "7751",
+      "courseId": "CEE 7751",
+      "title": "Computational Fluid Mechanics",
+      "description": "Numerical methods for solving the time-dependent Navier-Stokes equations in complex geometrics, including theory, implementation, and applications. Crosslisted with ME 7751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "7772",
+      "courseId": "CEE 7772",
+      "title": "Fundamentals of Fracture Mechanics",
+      "description": "Advanced study of failure of structural materials under load, mechanics of fracture, and microscopic and macroscopic aspects of the fracture of engineering materials. Crosslisted with AE, CHE, ME, and MSE 7772.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "7774",
+      "courseId": "CEE 7774",
+      "title": "Fatigue of Materials and Structures",
+      "description": "Mechanical and microstructural aspects of nucleation and growth of cracks under cyclic loading conditions, nitch effects, cumulative damage, multiaxial loading, and fatigue crack propagation.  Crosslisted with AE, CHE, ME, and MSE 7774.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "7791",
+      "courseId": "CEE 7791",
+      "title": "Damage, Failure and Durability of Composite Materials",
+      "description": "Provide knowledge of the fundamental concepts and methods related to analysis and assessment of damage, failure and durability of composite materials. Crosslisted with AE, CHE, ME, MSE, and PTFE 7791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "7792",
+      "courseId": "CEE 7792",
+      "title": "Advanced Mechanics of Composites",
+      "description": "Anisotropic elasticity, failure theories, hygrothermal behavior, 3-D analysis of laminates, thick laminates, free edge effects, stress concentrations, joints, creep and fracture of composites. Crosslisted with AE, CHE, ME, MSE and PTFE 7792.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "7793",
+      "courseId": "CEE 7793",
+      "title": "Manufacturing of Composites",
+      "description": "Major manufacturing techniques for metal-, ceramic-, and polymer-matrix composites.  Modeling of processes with emphasis on fundamental mechanisms and effects. Crosslisted with AE, CHE, ME, MSE and PTFE 7793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8090",
+      "courseId": "CEE 8090",
+      "title": "Geosystems Engineering Seminar",
+      "description": "Presentation and discussion of current research and practice developments in geosystems engineering by invited speakers, including practitioners and faculty.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8091",
+      "courseId": "CEE 8091",
+      "title": "Construction Seminar",
+      "description": "Introduction to leading-edge industry practices not part of the regular curriculum using field trips and guest lectures.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8094",
+      "courseId": "CEE 8094",
+      "title": "Environmental Engineering Seminar",
+      "description": "Developments in environmental engineering science and technology, current practice, current research, and special topics related to environmental quality assessment and control.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8095",
+      "courseId": "CEE 8095",
+      "title": "Research Seminar in Environmental Engineering",
+      "description": "Discussion of current research topics in environmental engineering.  Presentations by master's and doctoral students.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8096",
+      "courseId": "CEE 8096",
+      "title": "Environmental Fluid Mechanics & Water Resources Seminar",
+      "description": "Presentation and discussion of current research developments in environmental fluid mechanics and water resources by outside speakers, faculty, and graduate students.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8097",
+      "courseId": "CEE 8097",
+      "title": "Introduction to Transportation Research",
+      "description": "The planning, organization and execution of professional transportation research. Topics include: human factors, safety, ethics, technical communications and the peer review process. Fulfills RCR requirements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8099",
+      "courseId": "CEE 8099",
+      "title": "Seminars in Structural Engineering, Mechanics and Materials for PhD students.",
+      "description": "Seminars for CEE PhD students in Structural Engineering, Mechanics and Materials (SEMM) to improve and practice technical communication skills.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8811",
+      "courseId": "CEE 8811",
+      "title": "Special Topics",
+      "description": "Topics of current interest in civil engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8812",
+      "courseId": "CEE 8812",
+      "title": "Special Topics",
+      "description": "Topics of current interest in civil engineering.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8813",
+      "courseId": "CEE 8813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in civil engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8814",
+      "courseId": "CEE 8814",
+      "title": "Special Topics",
+      "description": "Topics of current interest in civil engineering.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8815",
+      "courseId": "CEE 8815",
+      "title": "Special Topics",
+      "description": "Topics of current interest in civil engineering.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8823",
+      "courseId": "CEE 8823",
+      "title": "Special Topics",
+      "description": "Special Topics for CEE (lecture and supervised lab).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8824",
+      "courseId": "CEE 8824",
+      "title": "Special Topics",
+      "description": "Topics of current interest in civil engineering.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8831",
+      "courseId": "CEE 8831",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8900",
+      "courseId": "CEE 8900",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8901",
+      "courseId": "CEE 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8902",
+      "courseId": "CEE 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8903",
+      "courseId": "CEE 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8950",
+      "courseId": "CEE 8950",
+      "title": "Master's Special Research Project",
+      "description": "Master's research project to be scheduled by M.S. students not writing thesis.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8956",
+      "courseId": "CEE 8956",
+      "title": "Master's Special Research Problem",
+      "description": "For nonthesis students performing research.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8997",
+      "courseId": "CEE 8997",
+      "title": "Teaching Assistantship",
+      "description": "For students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8998",
+      "courseId": "CEE 8998",
+      "title": "Research Assistantship",
+      "description": "For students holding a graduate research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "8999",
+      "courseId": "CEE 8999",
+      "title": "Preparation for Doctoral Dissertation",
+      "description": "For students in the preliminary stages of formulating their doctoral research program who have not obtained formal approval of dissertation topic.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CEE",
+      "courseNumber": "9000",
+      "courseId": "CEE 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 269,
+  "scrapedAt": "2025-08-16T02:00:33.307Z"
+}

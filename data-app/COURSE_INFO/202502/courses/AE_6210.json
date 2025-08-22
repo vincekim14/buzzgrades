@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "6210",
+  "courseId": "AE 6210",
+  "title": "Advanced Dynamics I",
+  "description": "Kinematics of particles and rigid bodies, angular velocity, inertia properties, holonomic and nonholonomic constraints, generalized forces.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 2220 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:13.135Z"
+}

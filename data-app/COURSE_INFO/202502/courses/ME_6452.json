@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6452",
+  "courseId": "ME 6452",
+  "title": "Wave Propagation-Solids",
+  "description": "Wave motion in solids, wave equations, analytical and numerical solutions, ultrasonic NDE.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:39.532Z"
+}

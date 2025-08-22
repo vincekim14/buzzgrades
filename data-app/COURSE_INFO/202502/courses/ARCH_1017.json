@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "1017",
+  "courseId": "ARCH 1017",
+  "title": "Architecture Studio 1",
+  "description": "Introduction to the design of complex problems through an emphasis on integrative and collaborative design strategies, research , critical reflection, and interdisciplinary teamwork.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 1020",
+  "prerequisites": "ARCH 1016 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:35:24.894Z"
+}

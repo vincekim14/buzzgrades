@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "6404",
+  "courseId": "ME 6404",
+  "title": "Adv Ctrl Dsgn Implement",
+  "description": "Analysis, synthesis, and implementation techniques of continuous-time and real-time control systems using classical and state-space methods.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:29.828Z"
+}

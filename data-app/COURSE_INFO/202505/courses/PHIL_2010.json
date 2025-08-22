@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "PHIL",
+  "courseNumber": "2010",
+  "courseId": "PHIL 2010",
+  "title": "Intro Philosophy",
+  "description": "An introduction to the nature of philosophy through the critical analysis of selected works, such as Descartes, Hobbes, and Locke.  The relationship of philosophy to science, religion, and culture will be emphasized.  Credit not allowed for both PST 1101 and PHIL 2010",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:13.032Z"
+}

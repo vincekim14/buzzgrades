@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECON",
+  "courseNumber": "4210",
+  "courseId": "ECON 4210",
+  "title": "Climate Change Economics",
+  "description": "This course will explore the economic causes and consequences of climate change and evaluate the suite of policy options to mitigate greenhouse-gas emissions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D or ECON 2105 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:50.496Z"
+}

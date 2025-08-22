@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6255",
+  "courseId": "ECE 6255",
+  "title": "Digit Proc-Speech Signal",
+  "description": "The application of digital signal processing to problems in speech communication. Part of this goal requires a laboratory project.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 4270 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:52.080Z"
+}

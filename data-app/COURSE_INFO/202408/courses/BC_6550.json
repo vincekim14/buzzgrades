@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "BC",
+  "courseNumber": "6550",
+  "courseId": "BC 6550",
+  "title": "Design&amp;Constr Processes",
+  "description": "Offers a framework for use and application of design, contract, and performance documents for successful execution of various forms of integrated project delivery systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 6025 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:32.792Z"
+}

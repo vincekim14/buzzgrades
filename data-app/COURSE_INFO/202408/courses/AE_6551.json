@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "6551",
+  "courseId": "AE 6551",
+  "title": "Cognitive Engineering",
+  "description": "Cognitive engineering addresses a range of technologies and work environments that will support human cognitive performance, including information systems, decision support, automation, and intelligent systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:32.319Z"
+}

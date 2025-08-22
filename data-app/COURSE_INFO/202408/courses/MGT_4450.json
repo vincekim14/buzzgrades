@@ -1,0 +1,19 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "4450",
+  "courseId": "MGT 4450",
+  "title": "Project Management",
+  "description": "Concepts, techniques, and tools from the project management body of knowledge covering initiating, planning, controlling, executing, and closing projects. Includes agile techniques and certification preparation. Credit will not be awarded for both MGT 4450 and MGT 6450.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Cannot be enrolled in one of the following Classes:",
+    "__DETAIL_1__Freshman (FR)",
+    "__DETAIL_1__Sophomore (SO)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:54.170Z"
+}

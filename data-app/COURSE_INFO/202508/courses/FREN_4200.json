@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "FREN",
+  "courseNumber": "4200",
+  "courseId": "FREN 4200",
+  "title": "Intro French Philosophy",
+  "description": "Introduction to major French philosophical texts with an emphasis on post-WWI thinkers (includes Existentialism, Structuralism, Post-Structuralism, Postmodernism, Deconstructionism).  Conducted in French.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:03.263Z"
+}

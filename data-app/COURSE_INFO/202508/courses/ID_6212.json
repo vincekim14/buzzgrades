@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "6212",
+  "courseId": "ID 6212",
+  "title": "Studio 2 Health&amp;Wellness",
+  "description": "This course explores the application of systematic product design methods to projects that focus on the design of new and/or improved health products, interactions, and delivery of services.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:25.509Z"
+}

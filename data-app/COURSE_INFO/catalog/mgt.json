@@ -1,0 +1,2649 @@
+{
+  "subject": "MGT",
+  "subjectName": "Management (MGT)",
+  "url": "https://catalog.gatech.edu/coursesaz/mgt/",
+  "courses": [
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "1100",
+      "courseId": "MGT 1100",
+      "title": "First Year Business Seminar",
+      "description": "An introduction to the field of business administration, with an emphasis on career preparation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2106",
+      "courseId": "MGT 2106",
+      "title": "Legal, Social, Ethical Aspects of Business",
+      "description": "Development and function of the law, court organization, procedure, and substantive law in contracts, business organizations, and agencies. Also exposes social responsibility and ethics in business.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2210",
+      "courseId": "MGT 2210",
+      "title": "Information Systems and Digital Transformation",
+      "description": "How information and information systems support business operations, decision-making, and differentiation, and transform organizations and industries. Hands-on experience with current tools for working with data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2250",
+      "courseId": "MGT 2250",
+      "title": "Management Statistics",
+      "description": "This is the introduction to basic statistics for management students.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2255",
+      "courseId": "MGT 2255",
+      "title": "Quantitative Analysis for Business",
+      "description": "This course focuses on the problem-solving and decision-making processes that use quantitative management science concepts and techniques. Credit will not be awarded for both MGT 2255 and MGT 2251.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2598",
+      "courseId": "MGT 2598",
+      "title": "Management Internship",
+      "description": "Recognition for a paid, full or part time, employment experience that is relevant to a student's management education.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2599",
+      "courseId": "MGT 2599",
+      "title": "Internship and Independent Study",
+      "description": "Independent study conducted for one student under the guidance of a faculty member in association with an unpaid internship.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2698",
+      "courseId": "MGT 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2699",
+      "courseId": "MGT 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2803",
+      "courseId": "MGT 2803",
+      "title": "Special Topics",
+      "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in any other course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2910",
+      "courseId": "MGT 2910",
+      "title": "Special Problems",
+      "description": "Independent study conducted for one student under the guidance of a faculty member.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2911",
+      "courseId": "MGT 2911",
+      "title": "Special Problems",
+      "description": "Independent study conducted for one student under the guidance of a faculty member.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "2912",
+      "courseId": "MGT 2912",
+      "title": "Special Problems",
+      "description": "Independent study conducted for one student under the guidance of a faculty member.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3000",
+      "courseId": "MGT 3000",
+      "title": "Financial and Managerial Accounting",
+      "description": "A foundation course in measuring and reporting the financial performance and status of the firm as well as basic concepts in cost and managerial accounting. No credit allowed for MGT majors. No credit allowed for MGT 3000 and ACCT 2101.  Credit not allowed for MGT 3000 and ACCT 2102.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3062",
+      "courseId": "MGT 3062",
+      "title": "Financial Management",
+      "description": "An introduction to finance. Topics include: time value of money, capital budgeting, risk and return, capital structure, dividend policy, and working capital management. No credit allowed for MGT 3062 and MGT 3078.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3075",
+      "courseId": "MGT 3075",
+      "title": "Security Valuation",
+      "description": "The valuation of securities using fundamental and technical analysis. Topics include: DCF valuation, price multiples, free cash flow, and the construction of quantitative trading models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3076",
+      "courseId": "MGT 3076",
+      "title": "Investments",
+      "description": "Introduction to the securities markets and a study of the theory and practice of security analysis and portfolio management as applied to stocks and bonds.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3078",
+      "courseId": "MGT 3078",
+      "title": "Finance and Investments",
+      "description": "An introduction to finance and to the securities markets. Topics include: time value of money, risk and return, capital budgeting, security analysis and portfolio management of stocks, bonds, and derivatives. No credit allowed for MGT majors. Credit not allowed for MGT 3078 and MGT 3062.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3079",
+      "courseId": "MGT 3079",
+      "title": "Management of Financial Institutions",
+      "description": "Introduction to the various risks faced by financial institutions and a detailed analysis of the tools used to manage these risks.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3082",
+      "courseId": "MGT 3082",
+      "title": "Fundamentals of Real Estate Development",
+      "description": "An overview of the real estate development process from concept through design, feasibility, financing, construction, marketing, management and ultimate sale or long term financing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3084",
+      "courseId": "MGT 3084",
+      "title": "Derivative Securities",
+      "description": "An introduction to options, futures, and swaps is provided. Concepts of arbitrage, index trading, and portfolio insurance are discussed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3101",
+      "courseId": "MGT 3101",
+      "title": "Organizational Behavior",
+      "description": "Introduction to how the behavior of individuals, groups, and organizations affects organizational effectiveness.  Credit not allowed for both MGT 3101 and 3150.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3102",
+      "courseId": "MGT 3102",
+      "title": "Managing Human Resources within a Regulatory Environment",
+      "description": "Analysis of various frameworks for understanding the social regulatory environments of human resources management and how they influence management decision making.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3103",
+      "courseId": "MGT 3103",
+      "title": "Leadership in a Changing Environment",
+      "description": "The course focuses on the leadership challenges posed by recent changes in the business environment, and on the skills needed to adapt to those changes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3118",
+      "courseId": "MGT 3118",
+      "title": "Cross-cultural Management",
+      "description": "This course develops students' global awareness to better understand and cope with the issues and challenges that managers face when working across international boundaries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3150",
+      "courseId": "MGT 3150",
+      "title": "Principles of Management",
+      "description": "Course explores functions of management; planning, organizing, staffing, leading, and controlling.  Lectures, case studies, and business exercises are used to reinforce principles that are taught.  Credit not allowed for both MGT 3150 and MGT 3101.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3300",
+      "courseId": "MGT 3300",
+      "title": "Marketing Management I",
+      "description": "The course presents and develops the primary marketing variables that are used in designing an overall marketing program.  A systems approach is taken with the variables managed to optimize overall results.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3310",
+      "courseId": "MGT 3310",
+      "title": "Marketing Research: Analytics",
+      "description": "This course covers the fundamentals of the analytical aspects of marketing research. The course has an applied orientation with application to contemporary issues in marketing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3312",
+      "courseId": "MGT 3312",
+      "title": "Pricing Strategy and Analytics",
+      "description": "The course introduces the conceptual underpinnings of the price setting process and discusses ways to leverage modern marketing analytic tools/methods to improve pricing decisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3313",
+      "courseId": "MGT 3313",
+      "title": "Social Media Marketing",
+      "description": "Explores the use of social media marketing as a fundamental marketing channel for driving customer engagement, brand advocacy, and enhanced customer loyalty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3325",
+      "courseId": "MGT 3325",
+      "title": "Product Planning",
+      "description": "Overviews issues inherent in product development and product management. These include product strategy, idea generation, market development, product positioning, test marketing, launch, and brand management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3501",
+      "courseId": "MGT 3501",
+      "title": "Operations Management",
+      "description": "This course focuses on the issues and techniques relevant to the management of the operations function within an organization, emphasizing its strategic significance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3510",
+      "courseId": "MGT 3510",
+      "title": "Management of Technology",
+      "description": "Focus on managing the design, assessment, and implementation-change strategy of a firm's manufacturing and information-based technological capabilities to improve competitive performance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3599",
+      "courseId": "MGT 3599",
+      "title": "Career Development Workshop",
+      "description": "This workshop style class focuses on skills and strategies for identifying a career path and conducting a successful job search in the field of management.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3605",
+      "courseId": "MGT 3605",
+      "title": "Principles of Commercial Law",
+      "description": "Course offers an in-depth examination of contracts, negotiable instruments and creditor/debtor issues, all essential for making informed decisions in commercial and financial business environments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3606",
+      "courseId": "MGT 3606",
+      "title": "International Business Law",
+      "description": "International Business Law focuses on the legal environment of international trade and private commercial transactions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3607",
+      "courseId": "MGT 3607",
+      "title": "Business Ethics",
+      "description": "This courses introduces students to ethical aspects of the business decision-making process, including: theoretical underpinnings of ethics, stakeholders, and decision-making strategies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3608",
+      "courseId": "MGT 3608",
+      "title": "Technology Law and Ethics",
+      "description": "This class will examine some of the ethical, legal, and social issues associated with computers, information systems, and public and private networks including the Internet.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3609",
+      "courseId": "MGT 3609",
+      "title": "Legal Aspects of Real Estate",
+      "description": "Legal Aspects of Real Estate introduces students to legal considerations in real estate, including ownership, sale transactions, leasing, title insurance, financing, zoning and environmental laws.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3614",
+      "courseId": "MGT 3614",
+      "title": "Law for Entrepreneurs",
+      "description": "This course will focus on legal issues which entrepreneurs face while growing a start-up business from infancy to a publicly held company.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3616",
+      "courseId": "MGT 3616",
+      "title": "Corporate Governance",
+      "description": "This course focuses on the U.S. corporate governance model examining the governance and management of business organizations, including board of director and officer responsibility.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3659",
+      "courseId": "MGT 3659",
+      "title": "Foundations of Strategy",
+      "description": "This course covers the basic concepts and frameworks of strategy analysis and strategy formulation. Credit will not be awarded for both MGT 3659 and MGT 4195.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3660",
+      "courseId": "MGT 3660",
+      "title": "International Business",
+      "description": "Examines the position of the U.S. in world markets, various types of international business transactions, and the relationship of business to global economic, political-legal and cultural forces.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3661",
+      "courseId": "MGT 3661",
+      "title": "Advanced Concepts in International Business",
+      "description": "Covers significant aspects of international business with a particular focus on the challenges associated with transnational corporations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3662",
+      "courseId": "MGT 3662",
+      "title": "Management in the Healthcare Sector",
+      "description": "An exploration of the healthcare sector in  its most comprehensive sense, analyzing the healthcare \"system\" and resulting management issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3663",
+      "courseId": "MGT 3663",
+      "title": "Technology Strategy",
+      "description": "Provides an understanding of economic and strategic factors that guide firms' strategic decisions regarding the generation, commercialization, protection, and adoption of the technological innovations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3664",
+      "courseId": "MGT 3664",
+      "title": "Corporate Strategy",
+      "description": "Provides frameworks and case studies to understand how companies create value across different businesses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3742",
+      "courseId": "MGT 3742",
+      "title": "Spreadsheet Modeling for Business Decision Support",
+      "description": "Using advanced spreadsheet capabilities, macros, and add-ons to create decision support systems for business applications. Not an introductory course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3743",
+      "courseId": "MGT 3743",
+      "title": "Analysis of Emerging Technologies",
+      "description": "Analysis of emerging technologies and their impacts for firm practice, market practice, policy, and society.  Credit not allowed for both MGT 3743 and ME 3743 or CS 3743.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3744",
+      "courseId": "MGT 3744",
+      "title": "Managing Product, Service & Technology Development",
+      "description": "Analysis of the managerial challenges of the product development process. Credit not allowed for both MGT 3744 and ME 3744/CS 3744.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3745",
+      "courseId": "MGT 3745",
+      "title": "Business Programming",
+      "description": "An introduction to the basic concepts and skills of software programming and their applications to solving business problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "3770",
+      "courseId": "MGT 3770",
+      "title": "Business Decisions for Sustainability and Shared Value",
+      "description": "The WEF Global Risks Report and UN SDGs are used as frameworks to explore the role of basic human needs in shaping long-term business value.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4010",
+      "courseId": "MGT 4010",
+      "title": "Business Taxation",
+      "description": "Comprehensive survey of federal taxation of business. A focus on tax planning and decision making will extend to the study of the tax code and regulations. Credit not allowed for both MGT 4010 and MGT 6010.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4015",
+      "courseId": "MGT 4015",
+      "title": "Advanced Managerial Accounting",
+      "description": "The course will examine current issues in managerial accounting. Credit not allowed for both MGT 4015 and MGT 6015.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4026",
+      "courseId": "MGT 4026",
+      "title": "Financial Reporting and Analysis I",
+      "description": "Intermediate-level treatment of revenue recognition, inventories, contracts, interest capitalization, property and equipment, intangibles, long-term liabilities, and shareholder's equity. Significant emphasis on financial analysis. Credit not allowed for both MGT 4026 and MGT 6020.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4027",
+      "courseId": "MGT 4027",
+      "title": "Financial Reporting and Analysis II",
+      "description": "Advanced topics including tax reporting, leases, pensions, foreign currency transactions, hedging, statement translation, and business combinations and consolidations. Significant emphasis in financial analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4029",
+      "courseId": "MGT 4029",
+      "title": "Financial Statement Analysis",
+      "description": "Students will learn to use financial statements and related data to forecast profitability, assess credit risk, model earnings quality, and estimating intrinsic value. Credit not allowed for both MGT 4029 and MGT 6029.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4030",
+      "courseId": "MGT 4030",
+      "title": "International Accounting",
+      "description": "An overview of accounting issues arising from the increased internationalization of business.  Topics include comparative financial reporting among countries and accounting treatments of international transactions. Credit not allowed for both MGT 4030 and MGT 6030.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4041",
+      "courseId": "MGT 4041",
+      "title": "Auditing and Financial Control Systems",
+      "description": "This course covers professional issues surrounding auditing and financial control systems. Topics include management fraud, legal liability, audit evidence, etc.  Credit not allowed for both MGT 4041 and MGT 6042.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4043",
+      "courseId": "MGT 4043",
+      "title": "Advanced Financial Reporting",
+      "description": "Financial reporting and accounting for: mergers and acquisitions; consolidated financial statements; international transactions and hedges of exchange-rate fluctuations; partnerships; and governmental and not-for-profit organizations.  Credit not allowed for both MGT 4043 and MGT 6043.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4045",
+      "courseId": "MGT 4045",
+      "title": "Seminar in Advanced Accounting",
+      "description": "An intensive treatment of a selection of contemporary accounting topics.  Topical coverage may span subject matter ranging across the fields of auditing, systems, managerial and tax accounting. Credit not allowed for both MGT 4045 and MGT 6045.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4046",
+      "courseId": "MGT 4046",
+      "title": "Applications of Data Analytics in Accounting",
+      "description": "Students will learn to apply advanced analytical techniques in business settings to facilitate better decision making, with a particular focus on financial and managerial reporting. Credit not allowed for both MGT 4046 and MGT 6046.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4047",
+      "courseId": "MGT 4047",
+      "title": "Ethics & Accounting",
+      "description": "The course is designed to expose students to issues surrounding accountants' professional ethics.  Credit not allowed for both MGT 4047 and MGT 6047.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4050",
+      "courseId": "MGT 4050",
+      "title": "Business Analytics",
+      "description": "This course teaches the process of transforming data into business insights. It covers the methodologies, algorithms, issues, and challenges related to analyzing business data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4051",
+      "courseId": "MGT 4051",
+      "title": "Decision Support and Expert Systems",
+      "description": "This course discusses the basic features of decision support systems and expert systems. It covers the development tools and business applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4052",
+      "courseId": "MGT 4052",
+      "title": "Systems Analysis and Design",
+      "description": "An introductory course on the development life cycle of business information systems. It covers analysis and design tools and methodology.  Credit not allowed for both MGT 4052 and CS 4052.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4053",
+      "courseId": "MGT 4053",
+      "title": "Business Data Communications",
+      "description": "Introductory data communication concepts.  Data communication applications in organizations.  Overview of data communication products and services available from a technology consumer perspective.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4055",
+      "courseId": "MGT 4055",
+      "title": "International Issues in Information Technology Management",
+      "description": "An overview of international issues in the Information Technology Management (ITM) area. Topics include: offshore software development, transborder data flow restrictions, and global connectivity issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4056",
+      "courseId": "MGT 4056",
+      "title": "Electronic Commerce",
+      "description": "This course examines the business and technical issues related to electronic commerce applications, such as the Internet, WWW, EDI, and electronic linkages between trading partners.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4057",
+      "courseId": "MGT 4057",
+      "title": "Business Process Analysis and Design",
+      "description": "Business processes are the mechanisms by which work is organized and performed.  This course covers the analysis of business processes and efficient redesign through technology. Credit will not be awarded for both CS 4057 and MGT 4057.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4058",
+      "courseId": "MGT 4058",
+      "title": "Database Management Systems",
+      "description": "An introductory course on databases providing hands-on experience with a DBMS. Topics include data modeling, relational database design, and SQL.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4066",
+      "courseId": "MGT 4066",
+      "title": "Corporate Restructuring",
+      "description": "This course examines the finance, economics, law, and business strategies that underlie major corporate restructuring transactions. Topics include valuation, acquisitions, divestitures, and high-leveraged transactions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4067",
+      "courseId": "MGT 4067",
+      "title": "Financial Markets: Trading and Structure",
+      "description": "The course focuses on liquidity, market structure and trading.  Attention is given to the efficiency of trading systems and the role of intermediaries on market structure issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4068",
+      "courseId": "MGT 4068",
+      "title": "Fixed Income",
+      "description": "This course covers the important securites that trade in the fixed income market and the valuation models that are used to price them.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4070",
+      "courseId": "MGT 4070",
+      "title": "International Finance",
+      "description": "Financial management in an international setting.  Topics include: foreign exchange markets, exchange risk management, international portfolio investment, and foreign direct investment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4071",
+      "courseId": "MGT 4071",
+      "title": "Multinational Financial Management",
+      "description": "This course emphasizes decision making for the multimedia firm amidst exchange rate fluctuations, differing tax structures across countries, and political risk via lectures, case-discussion and analysis, and project-based learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4072",
+      "courseId": "MGT 4072",
+      "title": "Entrepreneurial Finance",
+      "description": "This course has been developed to expand the student's understanding and knowledge of the financial aspects of starting, funding, operating, and/or exiting an entrepreneurial venture.  Credit not allowed for both MGT 4072 and MGT 6086.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4073",
+      "courseId": "MGT 4073",
+      "title": "Financial Modeling",
+      "description": "This course presents tools necessary to build advanced Excel spreadsheets for financial decision-making. The course will include topics such as firm valuation, financial statements, cost of capital, portfolio construction, option valuation, duration and immunization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4074",
+      "courseId": "MGT 4074",
+      "title": "Fintech and Crypto Tokens",
+      "description": "Digital innovation is disrupting Financial Intermediation like lending, payments, asset management, and insurance. This class gives a comprehensive understanding of the FinTech industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4102",
+      "courseId": "MGT 4102",
+      "title": "Management Consulting",
+      "description": "This course explores being a Management Consultant, and will introduce students to consulting frameworks and methods; simulate consulting activities and situations using cases.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4116",
+      "courseId": "MGT 4116",
+      "title": "The Role of Gender, Race and Ethnicity in Organizational Behavior",
+      "description": "This course will examine how managers and employees become more effective leaders by understanding the role gender, race and ethnicity plays in the life of the organization.  Credit not allowed for both MGT 4116 and MGT 6116.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4117",
+      "courseId": "MGT 4117",
+      "title": "Global Workforce Management",
+      "description": "This course examines how an organization deploys and manages a global workforce while considering cultural and economic differences across the world.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4119",
+      "courseId": "MGT 4119",
+      "title": "Leading Teams in Organizations",
+      "description": "This course prepares students to be an effective leader and manager of teams by giving students frameworks to implement and diagnose effective team processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4181",
+      "courseId": "MGT 4181",
+      "title": "Business Forecasting",
+      "description": "The course covers statistical tools to forecast using the past behavior of data. Topics include moving average and autoregressive models, trends, cycles and volatility.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4182",
+      "courseId": "MGT 4182",
+      "title": "Work, Equity and Wellness",
+      "description": "This course suggests that sustainability is an overarching framework for understanding how to lead and model sustained equity in organizations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4189",
+      "courseId": "MGT 4189",
+      "title": "Social Impact: In-depth Exploration & Design",
+      "description": "This is a project-based course that is focused on system-level exploration of social issues and provides opportunities for leadership development and working in teams.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4190",
+      "courseId": "MGT 4190",
+      "title": "Strategic Quality Management and Competitiveness",
+      "description": "This course examines the philosophy and techniques of strategic quality management (e.g. cycle time mgt., learning organizations, quality control) as means to promote individual productivity and improve organizational competitiveness.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4191",
+      "courseId": "MGT 4191",
+      "title": "The Entrepreneurship Forum",
+      "description": "This course provides an understanding of the entrepreneurial process, explores the role of the entrepreneur, and identifies the critical issues in starting ventures and working in entrepreneurial organizations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4192",
+      "courseId": "MGT 4192",
+      "title": "Impact Speaker Series Forum",
+      "description": "With the a speaker series as an integral component, the class explores the competencies and aspects of making an impact.  Through speakers, articles and case studies it presents examples for review and insights.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4193",
+      "courseId": "MGT 4193",
+      "title": "Servant Leadership, Values & Systems",
+      "description": "An exploration of the nature and integration of inidividual and organizational values, systemic thinking, and the concept of servant leadership.  Learning occurs through case studies, simulations, readings, personal reflection and team activities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4194",
+      "courseId": "MGT 4194",
+      "title": "Social Enterprise and Entrepreneurship",
+      "description": "Social Entrepreneurship applies innovative solutions to the world's pressing social problems by having students utilize leadership and managerial skills to address major challenges.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4196",
+      "courseId": "MGT 4196",
+      "title": "Strategy Consulting Practicum",
+      "description": "Provides experiential learning in strategy processes of analysis, design, and execution. Emphasis on issues currently confronted by major corporations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4220",
+      "courseId": "MGT 4220",
+      "title": "Integrative Management Experience",
+      "description": "Provides understanding of strategy implementation and the integration of different functional areas of the firm using lectures, cases, and a Capstone simulation. Credit will not be awared for both MGT 4220 and MGT 4195.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4303",
+      "courseId": "MGT 4303",
+      "title": "Personal Selling and Sales Management",
+      "description": "Students will obtain an understanding of the management of the sales function.  The importance of the marketing-sales interface will be stressed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4304",
+      "courseId": "MGT 4304",
+      "title": "Strategic Brand Management",
+      "description": "This course teaches undergraduate students about the importance of brands, and makes them knowledgeable about, and able to apply instruments to create, monitor, and manage brands.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4305",
+      "courseId": "MGT 4305",
+      "title": "Business-to-Business Marketing",
+      "description": "This course studies the marketing of products and services for resale, for use in producing other goods and services, and for the operations of an enterprise.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4307",
+      "courseId": "MGT 4307",
+      "title": "Strategic Marketing",
+      "description": "Students will obtain an understanding of strategic marketing development and alternatives. Analysis and implementation through functional marketing strategies will be stressed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4308",
+      "courseId": "MGT 4308",
+      "title": "Advertising & Promotion: Integrated Marketing Communications",
+      "description": "This course is designed to focus on the primary marketing of communication through advertising and promotion implemented with an integrated approach.  Strategic and tactical dimensions are covered for both traditional media such as broadcast, print, out-of-home and direct, as well as new media including the internet, mobile, and other trends in the industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4309",
+      "courseId": "MGT 4309",
+      "title": "Services Marketing",
+      "description": "Explores how many of the traditional marketing models can be adapted to the marketing of services, as well as introducing entirely new concepts and frameworks specifically applicable to services and services marketing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4311",
+      "courseId": "MGT 4311",
+      "title": "Digital Marketing",
+      "description": "This course explores the various components of the digital channel including social, mobile, and search engine marketing to understand how to implement an effective digital marketing strategy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4312",
+      "courseId": "MGT 4312",
+      "title": "Marketing Research: Tools and Design",
+      "description": "Explores the ways that managers design marketing research studies to solve specific marketing problems, including methodology selection, data collection, and reporting of results.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4314",
+      "courseId": "MGT 4314",
+      "title": "Understanding Markets with Data Science",
+      "description": "This course applies a data science approach using network and text analytics to model and analyze how individuals and various kinds of markets behave.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4331",
+      "courseId": "MGT 4331",
+      "title": "Consumer Behavior",
+      "description": "An applied course that provides a basic understanding of the behavioral science concepts to explain the behavior of consumers in the marketplace.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4332",
+      "courseId": "MGT 4332",
+      "title": "Database and CRM Strategy",
+      "description": "Provides an understanding of analytic techniques and computer models in analyzing customer-centric data and developing customer relationship (CRM) strategy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4335",
+      "courseId": "MGT 4335",
+      "title": "International Marketing",
+      "description": "Students will obtain an understanding of marketing across national borders and cultures.  The differences and similarities throughout the marketing functions are explored.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4341",
+      "courseId": "MGT 4341",
+      "title": "Management of Healthcare Operations",
+      "description": "Explore the roles of operations management practices and health information technologies in addressing the challenges in the healthcare enterprise and harnessing opportunities for transforming it.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4345",
+      "courseId": "MGT 4345",
+      "title": "Marketing Consulting Practicum",
+      "description": "This project based course provides practical experience addressing strategic marketing opportunities and helps develop high value skills for critically analyzing problems and providing tractable solutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4352",
+      "courseId": "MGT 4352",
+      "title": "Operations Resource Planning and Execution",
+      "description": "The management of material flows within an enterprise will be covered by tracking the evolution of operational planning and execution systems through the enterprise resource planning (ERP) framework.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4353",
+      "courseId": "MGT 4353",
+      "title": "Operations Strategy",
+      "description": "This course provides knowledge about developing, implementing and evaluating operations strategy.  It stresses the relationships between the operations and other functions of the organization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4360",
+      "courseId": "MGT 4360",
+      "title": "Global Operations and Supply Chain Management",
+      "description": "This course is designed to present issues critical to the globalization of operations, and addresses strategic and tactical issues pertaining to an organization's global operations and supply chain activities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4365",
+      "courseId": "MGT 4365",
+      "title": "Quality Control and Improvement",
+      "description": "This course focuses on statistical process control, acceptance sampling, robust design, and other general methodologies for quality improvement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4366",
+      "courseId": "MGT 4366",
+      "title": "Service Operations Management",
+      "description": "This course analyzes operational performance for the service and for service-support functions of manufacturers. Industries include information services, health care, parking, transportation, distribution, and retail.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4367",
+      "courseId": "MGT 4367",
+      "title": "Revenue Analytics",
+      "description": "This course examines how an organization deploys and manages model and data driven pricing techniques to maximize revenues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4369",
+      "courseId": "MGT 4369",
+      "title": "Sustainable Business Consulting Practicum",
+      "description": "Learn consulting skills and apply these to a sustainability issue for a client organization.  Instructors and coaches offer expertise in corporate sustainability and management consulting.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4370",
+      "courseId": "MGT 4370",
+      "title": "Managing Process Innovation",
+      "description": "Course focuses on tools and techniques to improve and innovate a process. Also explored is presenting data and results for maximum impact.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4401",
+      "courseId": "MGT 4401",
+      "title": "Supply Chain Modeling",
+      "description": "The objective of this course is to provide students with tools and models for matching supply and demand in the most cost effective way.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4450",
+      "courseId": "MGT 4450",
+      "title": "Project Management",
+      "description": "Concepts, techniques, and tools from the project management body of knowledge covering initiating, planning, controlling, executing, and closing projects. Includes agile techniques and certification preparation. Credit will not be awarded for both MGT 4450 and MGT 6450.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4452",
+      "courseId": "MGT 4452",
+      "title": "Machine Learning for Business",
+      "description": "This course introduces machine learning techniques and their applications in solving business problems. It covers core concepts, algorithm designs, and programming implementation with business examples.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4598",
+      "courseId": "MGT 4598",
+      "title": "Management Internship",
+      "description": "Recognition for a paid, full or part time, employment experience that is relevant to a student's management education.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4599",
+      "courseId": "MGT 4599",
+      "title": "Internship and Independent Study",
+      "description": "Independent study conducted for one student under the guidance of a faculty member in association with an unpaid internship.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4610",
+      "courseId": "MGT 4610",
+      "title": "Law, Management, and Economics",
+      "description": "Interrelationships among law, economics, and management.  Focuses on the legal and economic aspects of management decisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4611",
+      "courseId": "MGT 4611",
+      "title": "Integrative Management Analysis",
+      "description": "Integrates the functional areas of management, economics, and the external environment in which businesses operate.  The course is designed to broaden the student's perspective on management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4655",
+      "courseId": "MGT 4655",
+      "title": "Business Data Preparation and Visualization",
+      "description": "Introduction to data preparation and visualization principles and tools for exploration, explanation, and critique of data for research and decision support in a business context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4667",
+      "courseId": "MGT 4667",
+      "title": "Strategic Entrepreneurship",
+      "description": "Provides strategic frameworks and in-depth discussions that help students navigate the entrepreneurial process and make decisions about customers, competition, and technology while dealing with uncertainty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4670",
+      "courseId": "MGT 4670",
+      "title": "Entrepreneurship",
+      "description": "Provides students with an understanding of the process of establishing a technology-based venture. Students learn how to evaluate market opportunities, conduct feasibility studies, create venture teams, and write business plans.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4698",
+      "courseId": "MGT 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4699",
+      "courseId": "MGT 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4725",
+      "courseId": "MGT 4725",
+      "title": "Information Security Strategies and Policy",
+      "description": "Information security vulnerabilities and risks; legal, cost, privacy, and technology constraints; derivation of strategies; technical and procedural means of achieving desired ends. Credit will not be awarded for both MGT 4725 and MGT 6725 or CS 6725 or CS 4725 or PUBP 4725 or PUBP 6725.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4726",
+      "courseId": "MGT 4726",
+      "title": "Privacy, Technology, Policy, and Law",
+      "description": "This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics, law, and business realms. Credit will not be awarded for both MGT 4726 and MGT 6726 or CS 4726 or CS 6726 or PUBP 4726 or PUBP 6726.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4741",
+      "courseId": "MGT 4741",
+      "title": "Integrative Management Development-Project Preparation",
+      "description": "Individual and group-based experiential learning activities to develop integrated human system management skills that prepare students for more successful capstone collaboration and learning.  Credit not allowed for both MGT 4741 and CS 4741 or ME 4741.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4742",
+      "courseId": "MGT 4742",
+      "title": "Integrated Technology and Management Capstone Project",
+      "description": "Project-based course where students in the Technology and Management Program will work in inter-disciplinary teams on projects provided by corporate affiliates.  Credit not allowed for both MGT 4742 and CS 4742 or ME 4742.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4803",
+      "courseId": "MGT 4803",
+      "title": "Special Topics in Management",
+      "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in any other course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4811",
+      "courseId": "MGT 4811",
+      "title": "Special Topics in Management",
+      "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in other courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4812",
+      "courseId": "MGT 4812",
+      "title": "Special Topics in Management",
+      "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in other courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4813",
+      "courseId": "MGT 4813",
+      "title": "Special Topics in Management",
+      "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in other courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4814",
+      "courseId": "MGT 4814",
+      "title": "Special Topics in Management",
+      "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in other courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4815",
+      "courseId": "MGT 4815",
+      "title": "Special Topics in Management",
+      "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in other courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4823",
+      "courseId": "MGT 4823",
+      "title": "Special Topics",
+      "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in any other courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4833",
+      "courseId": "MGT 4833",
+      "title": "Special Topics",
+      "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in any other course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4853",
+      "courseId": "MGT 4853",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4910",
+      "courseId": "MGT 4910",
+      "title": "Special Problems",
+      "description": "Independent study conducted for one student under the guidance of a faculty member.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4911",
+      "courseId": "MGT 4911",
+      "title": "Special Problems",
+      "description": "Independent study conducted for one student under the guidance of a faculty member.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "4912",
+      "courseId": "MGT 4912",
+      "title": "Special Problems",
+      "description": "Independent study conducted for one student under the guidance of a faculty member.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6000",
+      "courseId": "MGT 6000",
+      "title": "Financial and Managerial Accounting I",
+      "description": "A foundation course in measuring and reporting the financial performance and status of the firm through financial reports and their construction, as well as basic concepts in cost and managerial accounting, valuation of assets, and revenue recognition..",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6010",
+      "courseId": "MGT 6010",
+      "title": "Business Taxation",
+      "description": "Comprehensive survey of federal taxation of business. A focus on tax planning and decision making will extend the study of the tax code regulations. Credit not allowed for both MGT 4010 and MGT 6010.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6015",
+      "courseId": "MGT 6015",
+      "title": "Advanced Managerial Accounting",
+      "description": "The course covers cost estimation, relevant costs, transfer pricing, capital budgeting, profitability analysis, performance evaluation, and activity-based management. Credit not allowed for both MGT 4015 and MGT 6015.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6020",
+      "courseId": "MGT 6020",
+      "title": "Financial Reporting and Analysis I",
+      "description": "Study of the techniques and concepts surrounding the construction of financial reports, including Intermediate-level treatment of revenue recognition, inventories, contacts, interest capitalization, property and equipment, intangibles, long-term liabilities, and shareholders' equity. Significant emphasis on financial analysis. Credit not allowed for both MGT 4026 and MGT 6020.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6022",
+      "courseId": "MGT 6022",
+      "title": "Financial Reporting and Analysis II",
+      "description": "Advanced topics on the techniques and concepts surrounding the construction  and investigation of financial reports, including tax reporting, leases, pensions, liabilities, shareholders equity, and off-balance sheet items.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6029",
+      "courseId": "MGT 6029",
+      "title": "Financial Statement Analysis",
+      "description": "Students will learn to use financial statements and related data to forecast profitability, assess credit risk, model earnings quality, and estimating intrinsic value. Credit not allowed for both MGT 4029 and MGT 6029.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6030",
+      "courseId": "MGT 6030",
+      "title": "International Accounting",
+      "description": "An overview of accounting techniques and concepts surrounding the construction of financial reports related to issues arising from the increased internationalization of business. Topics include comparative financial reporting among countries and accounting treatments of international transactions. Credit not allowed for both MGT 4030 and MGT 6030.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6033",
+      "courseId": "MGT 6033",
+      "title": "Analysis of Unstructured Data",
+      "description": "Provides tools extract insights from unstructured data and make business decisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6042",
+      "courseId": "MGT 6042",
+      "title": "Auditing and Financial Control Systems",
+      "description": "This course covers professional issues surrounding auditing and financial control systems with a primary focus on financial statement analysis and auditor decision-making based on this analysis. Topics include management fraud, auditing standards, sampling methods, and collection of audit evidence. Credit not allowed for both MGT 4041 and MGT 6042.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6043",
+      "courseId": "MGT 6043",
+      "title": "Advanced Financial Reporting",
+      "description": "Financial reporting  techniques and concepts  for mergers and acquisitions; consolidated financial statements; international transactions; partnerships; and governmental and not-for-profit financial reporting. Credit not allowed for both MGT 4043 and MGT 6043.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6045",
+      "courseId": "MGT 6045",
+      "title": "Seminar in Advanced Accounting Topics",
+      "description": "An intensive treatment of a selection of contemporary accounting topics.  Topical coverage may span subject matter ranging across the fields of auditing, systems, managerial, and tax accounting. Credit not allowed for both MGT 4045 and MGT 6045.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6046",
+      "courseId": "MGT 6046",
+      "title": "Applications of Data Analytics in Accounting",
+      "description": "Students will learn to apply advanced analytical techniques in business settings to facilitate better decision making, with a particular focus on financial and managerial reporting. Credit not allowed for both MGT 4046 and MGT 6046.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6047",
+      "courseId": "MGT 6047",
+      "title": "Ethics and Accounting",
+      "description": "The course is designed to expose students to issues surrounding accountants' professional ethics.  Credit not allowed for both MGT 6047 and MGT 4047.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6051",
+      "courseId": "MGT 6051",
+      "title": "Database Development and Applications",
+      "description": "The role of databases in the modern enterprise. Design and development of database systems, including data modeling, warehousing, normalization, and SQL.  Applications in accounting marketing, operations, and human resource systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6053",
+      "courseId": "MGT 6053",
+      "title": "Business Data Communications",
+      "description": "Introductory data communication concepts. Data communication applications in organizations.  Overview of data communications products and services available from a technology consumer perspective.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6056",
+      "courseId": "MGT 6056",
+      "title": "Electronic Commerce",
+      "description": "This course examines the business and technical issues related to electronic commerce applications and transactions that involve the use of computer networks. The course offers insight into digital business model analysis and design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6057",
+      "courseId": "MGT 6057",
+      "title": "Business Process Analysis and Design",
+      "description": "This course covers the analysis and redesign of business processes through technology. Special emphasis is given to enterprise information systems, such as ERP, and the application of emerging technologies to process redesign.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6058",
+      "courseId": "MGT 6058",
+      "title": "Information Technology Practicum",
+      "description": "Students will work with participating organizations on a strategic question based on a current technology management issue that the company is facing. The strategic question will involve the business use of technology and will utilize the skills that students typically learn in the core IT management class.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6059",
+      "courseId": "MGT 6059",
+      "title": "Emerging Technologies",
+      "description": "Teaches students a structured approach for analyzing emerging technologies and their business implications. To illustrate the approach, multiple emerging technologies are explored.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6060",
+      "courseId": "MGT 6060",
+      "title": "Financial Management",
+      "description": "This introductory finance course prepares you to analyze the financial aspects of firms, banks, and households. You’ll build foundational skills in areas like cash valuation, bond term structures, risk, accounting principles, and financial analysis, while learning to apply probability theory and statistical methods to assess financial models. Flexible assignments and exams range from defining basics (e.g., interest rates) to advanced applications, such as calculating the net present value of investments with complex cash flows.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6066",
+      "courseId": "MGT 6066",
+      "title": "Corporate Restructuring",
+      "description": "This course seeks to give students an understanding of issues in corporate restructuring. Topics include valuation, mergers, acquisitions, spin-offs, financial distress, corporate governance, and high leveraged transactions.  The valuation techniques recquire students  to develop forecasting skills and evaluate transactions using analytical and statistical tools.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6067",
+      "courseId": "MGT 6067",
+      "title": "Financial Aspects of Commercial Real Estate",
+      "description": "The course will examine commercial real estate assets from two perspectives: the unique nature of the financing and ownership structures and their role as an asset class in investment portfolios. Students will build financial models to mathematically analyze the impact of these different structures on required returns and portfolio diversification.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6070",
+      "courseId": "MGT 6070",
+      "title": "International Finance",
+      "description": "This course extends the principles of finance to an international setting. We will focus on economic principles, mathematical tools, financial instruments, and coding techniques to understand market imperfections, the management of exchange risk exposure, and the expanded global opportunity set for international investments. Major topics of the course include foreign exchange markets, determination and forecasting of the exchange rates with different models, methods in foreign exchange risk management, and international investments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6071",
+      "courseId": "MGT 6071",
+      "title": "Multinational Financial Management",
+      "description": "This course emphasizes decision making for the multinational firm amidst exchange rate fluctuations, differing tax structures across countries, and political risk via case discussion and analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6074",
+      "courseId": "MGT 6074",
+      "title": "Fintech & Cryptocurrencies",
+      "description": "Digital innovation is disrupting Financial Intermediation like lending, payments, asset management, and insurance. This class gives a comprehensive understanding of the FinTech industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6076",
+      "courseId": "MGT 6076",
+      "title": "Valuing Technology Firms",
+      "description": "The course involves valuing technology firms using the relative methods, discounted cash flow method and real options useful in mergers, acquisitions, and IPOs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6078",
+      "courseId": "MGT 6078",
+      "title": "Finance & Investments",
+      "description": "An introduction to finance, including the fundamental concepts of financial accounting, valuation, portfolio optimization, trading and investment strategies. The course develops and uses mathematical modeling, statistical analysis and programming tools. Credit not allowed for MGT 6078 and MGT 6080.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6080",
+      "courseId": "MGT 6080",
+      "title": "Investments",
+      "description": "Introduction to securities markets and study of theory and practice of security analysis and portfolio management concepts as applied to equities and fixed-income securities. Portfolio management relies on probability theory, statistical analysis, and computational methods. Credit not allowed for MGT 6078 and MGT 6080.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6081",
+      "courseId": "MGT 6081",
+      "title": "Derivative Securities",
+      "description": "An introduction to mathematical models used to price options, futures, and swaps is provided. Concepts of arbitrage, index trading, and portfolio insurance are discussed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6082",
+      "courseId": "MGT 6082",
+      "title": "Fundamentals of Real Estate Development",
+      "description": "An overview of the real estate development process from concept through design, feasibility, financing, construction, marketing, management and ultimate sale or long term financing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6083",
+      "courseId": "MGT 6083",
+      "title": "Real Estate Practicum",
+      "description": "Designed for graduate students with an interest in real estate. It consists of a one semester case study for a specific company or competitive program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6086",
+      "courseId": "MGT 6086",
+      "title": "Entrepreneurial Finance and Private Equity",
+      "description": "This course provides an introduction to financial theories and tools an entrepreneur needs to start, build, and harvest a successful venture. Cases and lecture will cover business evaluation and valuation, including the venture capital and the real option approach, forecasting models, quantitative and qualitative risk measurement methodologies, financing, venture capital funds, compensation structure and exit strategies. Credit not allowed for both MGT 6086 and MGT 4072.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6090",
+      "courseId": "MGT 6090",
+      "title": "Management of Financial Institutions",
+      "description": "Introduction to the various risks faced by financial institutions and a detailed analysis of the tools used to manage these risks. Course requires understanding of fundamentals of probabilities and statistics to conduct analysis of financial institutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6100",
+      "courseId": "MGT 6100",
+      "title": "Leadership and Organizational Behavior",
+      "description": "The focus of this course is on behavioral issues in the management of individual, team, and organizations' performance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6101",
+      "courseId": "MGT 6101",
+      "title": "Managing Human Resources",
+      "description": "An examination of the tools and procedures used by organizations to attract, select, and retain employees within the context of the legal and regulatory environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6106",
+      "courseId": "MGT 6106",
+      "title": "Teamwork in Organizations",
+      "description": "The focus of the course is on understanding the use, management, and performance of teams and teamwork in organizational settings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6107",
+      "courseId": "MGT 6107",
+      "title": "Leadership and Organizational Change",
+      "description": "An examination of theories and practices for designing and implementing major organizational change and the role played by leadership, power, and influence in change process.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6110",
+      "courseId": "MGT 6110",
+      "title": "Negotiation and Conflict Resolution",
+      "description": "This course covers the theory and process of negotiation and conflict resolution as it is practiced in different settings. Students develop understanding of other parties’ interests and perspectives, personality, and conflict management styles, and learn to build effective relationships.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6111",
+      "courseId": "MGT 6111",
+      "title": "Innovation and Entrepreneurial Behavior",
+      "description": "An examination of organizational policies, practices, and cultures that foster innovative and entrepreneurial behavior even in the context of large organizations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6113",
+      "courseId": "MGT 6113",
+      "title": "NonProfit Team Consulting Projects",
+      "description": "Teams work on a project developed in consultation with a not for profit organization, and present results to organizations and boards.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6114",
+      "courseId": "MGT 6114",
+      "title": "Leadership Development",
+      "description": "Preparation for becoming leaders of organizations, to exercise leadership, and to embark on paths of personal leadership development through readings, lectures, speakers, leadership groups, personality assessment, and analysis of assessments relative to leadership and psychology of individuals and groups.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6116",
+      "courseId": "MGT 6116",
+      "title": "The Role of Gender, Race and Ethnicity in Organizational Behavior",
+      "description": "This course will examine how managers and employees become more effective leaders by understanding the role gender, race and ethnicity plays in the life of the organization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6118",
+      "courseId": "MGT 6118",
+      "title": "Cross-Cultural Management",
+      "description": "This course develops students' global awareness to better understand and cope with the issues and challenges that managers face when working across international boundaries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6119",
+      "courseId": "MGT 6119",
+      "title": "Leading Teams",
+      "description": "This course prepares students to be an effective leader and manager of teams by giving students frameworks to implement and diagnose effective team processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6123",
+      "courseId": "MGT 6123",
+      "title": "Information Technology Management",
+      "description": "A study in understanding and managing information technology, strategic uses of IT, and electronic commerce.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6124",
+      "courseId": "MGT 6124",
+      "title": "Legal Environment of Business",
+      "description": "This course involves an examination of laws, rules, and standards of regulation and conduct, guidelines, and systems of conflict resolution relating to business operations and administration.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6125",
+      "courseId": "MGT 6125",
+      "title": "Strategic Management",
+      "description": "Designed to provide a view of business organizations, with the focus on the total enterprise - the industry and competitive environment in which the organization operates.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6126",
+      "courseId": "MGT 6126",
+      "title": "Integrative Management Experience (IME)",
+      "description": "IME is a team-based and project-based course that requires students to draw on all core skills areas for successful completion.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6127",
+      "courseId": "MGT 6127",
+      "title": "Business Communications",
+      "description": "Designed to improve verbal and written communication skills and the use of effective visuals for presentation through the understanding and application of a wide range of techniques.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6128",
+      "courseId": "MGT 6128",
+      "title": "Business Ethics",
+      "description": "A participative class consisting of lectures by the instructor, case analysis, discussion of contemporary ethical business issues and presentations by speakers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6130",
+      "courseId": "MGT 6130",
+      "title": "Managerial Economics",
+      "description": "This course is designed to provide students with an understanding of basic economic concepts and an ability to apply these concepts to business decision-making and public policy analysis.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6134",
+      "courseId": "MGT 6134",
+      "title": "Managerial Economics II",
+      "description": "A continuation of MGT 6130.  Microeconomics to include game theory, information economics, oligopoly and auction and bargaining models.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6135",
+      "courseId": "MGT 6135",
+      "title": "Macroeconomics for Managers",
+      "description": "This course is designed to provide future managers with an understanding of macroeconomics as well as how macroeconomic shocks can effect business operations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6164",
+      "courseId": "MGT 6164",
+      "title": "Corporate Strategy",
+      "description": "Corporate Strategy is the way a company creates value through the configuration and coordination of its\nmultimarket activities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6165",
+      "courseId": "MGT 6165",
+      "title": "Venture Creation",
+      "description": "Students will learn theories and models to create new business ventures and how to apply the theories to predict venture performance. Requires completing a business plan, which describes and analyzes a proposed venture, including quantitative analysis to evaluate risk and how to shift probabilities toward success for the new venture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6176",
+      "courseId": "MGT 6176",
+      "title": "Managing the Growing Firm",
+      "description": "This course examines the challenges associated with the successful management of growth.  Models and theories of firm growth will be reviewed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6182",
+      "courseId": "MGT 6182",
+      "title": "Work, Equity and Wellness",
+      "description": "This course suggests that sustainability is an overarching framework for understanding how to lead and model sustained equity in organizations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6185",
+      "courseId": "MGT 6185",
+      "title": "International Business Environments",
+      "description": "This course explores international environmental factors impacting firms' international operations and expansion. Concepts include economic, political, legal, socio-cultural and technology forces as well as data-driven corporate decisions under conditions of risk and uncertainty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6190",
+      "courseId": "MGT 6190",
+      "title": "Current Thinking In Strategy",
+      "description": "This course builds on the core strategic management course and strives to provide an in-depth and reflective coverage of current and emerging topics in strategic management, including theories such as real options, based on mathematical models applied to strategic business decisions. A key goal is to bridge the gap between rigorous strategy research based on advanced statistical techniques and managerial practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6197",
+      "courseId": "MGT 6197",
+      "title": "Global Strategic Management",
+      "description": "This course provides a forum for the analysis of managerial and organizational demands associated with effectively competing in global industries. Students will learn strategic concepts, analytical frameworks, and heuristics for taking strategic decisions in the global context, such where to compete around the globe, which products and services to offer in which locations, where to locate business operations, and how to organize and effectively coordinate global activities\n.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6198",
+      "courseId": "MGT 6198",
+      "title": "Corporate Entrepreneurship for Global Competitiveness",
+      "description": "This course examines how strategic pioneering actions and innovation are used by organizations to renew themselves, their markets, and their industries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6201",
+      "courseId": "MGT 6201",
+      "title": "Foundations of Business",
+      "description": "An introductory course which provides students with a foundational understanding of five business disciplines: Accounting, Finance, Supply Chain Management, Marketing, and Business Strategy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6203",
+      "courseId": "MGT 6203",
+      "title": "Data Analytics in Business",
+      "description": "This course teaches the scientific process of transforming data into insights for\nmaking better business decisions. The use of examples places business analytics techniques in context and teaches students how to avoid the common pitfalls, emphasizing the importance of building proper models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6213",
+      "courseId": "MGT 6213",
+      "title": "Business Analytics for Managers",
+      "description": "This course covers the models, issues, and challenges of business analytics. Students develop business analytics models to business problems and understand the models’ outputs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6214",
+      "courseId": "MGT 6214",
+      "title": "Business Analytics Practicum",
+      "description": "In this course, student teams work under the guidance of faculty practitioner on current real-world business challenges to apply business analytics skills & methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6300",
+      "courseId": "MGT 6300",
+      "title": "Marketing Management I",
+      "description": "This course focuses on the activities of managers who make the everyday decisions that guide the marketing of goods and services.  Students take the principles that they learn and apply them directly to solving relevant case problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6302",
+      "courseId": "MGT 6302",
+      "title": "Consumer Behavior",
+      "description": "This course exposes students to fundamental concepts and approaches from the behavioral sciences that can be used to understand, predict, and influence.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6303",
+      "courseId": "MGT 6303",
+      "title": "Sales and Promotion Management",
+      "description": "Students will obtain an understanding of the management of the sales function.  The importance of the marketing-sales interface will be stressed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6304",
+      "courseId": "MGT 6304",
+      "title": "Customer Relationship Management",
+      "description": "Provides an understanding of analytic techniques and computer models in analyzing customer-centric data and developing customer relationship management (CRM) strategy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6306",
+      "courseId": "MGT 6306",
+      "title": "Business-to-Business Marketing",
+      "description": "This course studies the marketing of products or services for resale, for use in producing other goods and service operations of an enterprise.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6307",
+      "courseId": "MGT 6307",
+      "title": "Integrated Marketing Communications",
+      "description": "An exploration of frameworks, processes, and tools used by organizations to develop and sustain effective marketing communications, with an emphasis on emerging communication channels.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6308",
+      "courseId": "MGT 6308",
+      "title": "Strategic Brand Management",
+      "description": "Enables a thorough understanding of important issues involved in the planning, implementation, and evaluation of brand strategies. Exposes students to the appropriate theories, models, and tools to make better branding decisions. Provides a forum in which students apply these principles to real-life projects and business situations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6310",
+      "courseId": "MGT 6310",
+      "title": "Marketing Research: Analytics",
+      "description": "This course covers the fundamentals of the analytical aspects of marketing research. The course has an applied orientation with application to contemporary issues in marketing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6311",
+      "courseId": "MGT 6311",
+      "title": "Digital Marketing",
+      "description": "An applied overview of modernized digital marketing tools and strategy, emphasizing the diverse ways that contemporary marketers use information technology through digital channels such as social media and the Internet to achieve strategic business objectives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6312",
+      "courseId": "MGT 6312",
+      "title": "Marketing Research: Tools and Design",
+      "description": "Introduce and explain the marketing research process including identifying the problem, establishing objectives, designing methodologies, collecting data, and presenting results.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6314",
+      "courseId": "MGT 6314",
+      "title": "Understanding Markets with Data Science",
+      "description": "This course applies a data science approach using network and text analytics to model and analyze how individuals and various kinds of markets behave.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6315",
+      "courseId": "MGT 6315",
+      "title": "Marketing Analysis",
+      "description": "This course seeks to impart an understanding of the various applications of pricing, advertising, platform ecosystems, and social media marketing available for analyzing and interpreting marketing data and analytics .",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6320",
+      "courseId": "MGT 6320",
+      "title": "Building Implementable Market Response Models",
+      "description": "Knowing that a company can take actions that affect its own sales market response models can be used to aid in planning and forecasting. The models are estimated by regression techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6325",
+      "courseId": "MGT 6325",
+      "title": "Product Planning",
+      "description": "Examines the critical role that product and brand managers play in the organization, and issues inherent in managing product portfolios across a range of industries including consumer products, technology products, and consumer services. Topics include the new product development process, product portfolio strategies, brand/product positioning, and development of annual brand/product marketing plans.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6326",
+      "courseId": "MGT 6326",
+      "title": "Collaborative Product Development",
+      "description": "Introduction to product development and product management topics through management science techniques and statistical analysis. These include product strategy, idea generation, experiment design, market development, managing product portfolios and positioning, testing of prototype systems, and brand management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6332",
+      "courseId": "MGT 6332",
+      "title": "Database Marketing and CRM",
+      "description": "Provides an understanding of analytic techniques and computer models in analyzing customer-centric data and developing customer relationship management (CRM) strategy.)",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6335",
+      "courseId": "MGT 6335",
+      "title": "International Marketing",
+      "description": "Students will obtain an understanding of marketing across national borders and cultures.  The differences and similarities throughout marketing functions are explored.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6345",
+      "courseId": "MGT 6345",
+      "title": "Marketing Practicum",
+      "description": "The course is designed to help MBA students gain hands-on experience in data analysis to solve marketing problems faced by companies. Students will meet regularly with companies on projects under faculty supervision.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6350",
+      "courseId": "MGT 6350",
+      "title": "Production and Operations Management I",
+      "description": "This course focuses on the issues and techniques relevant to the management of the organization within and recognizing its strategic significance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6351",
+      "courseId": "MGT 6351",
+      "title": "Operations Resource Planning and Execution",
+      "description": "The management of material flows within an enterprise will be covered by tracking the evolution of operational planning and execution systems through the enterprise resource planning (ERP) framework.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6352",
+      "courseId": "MGT 6352",
+      "title": "International Practicum",
+      "description": "A project-based course that provides an opportunity to apply decisions under uncertainty in global environments in the context of real and practical international business problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6353",
+      "courseId": "MGT 6353",
+      "title": "Operations Strategy",
+      "description": "This course provides knowledge about developing, implementing, and evaluating operations strategy through conceptual frameworks and adaptive tools to impact operating decisions that impact profitability and adaptivity. Topics include managing technologies, capacaties, and the supply chain.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6357",
+      "courseId": "MGT 6357",
+      "title": "Service Operations Management",
+      "description": "This course analyzes operational performance for the service sector and service support functions of manufacturers. Includes the design, delivery, variability, and innovation of services across many industries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6359",
+      "courseId": "MGT 6359",
+      "title": "Business Strategies For Sustainability",
+      "description": "Introduces business strategies such as eco-efficiency, product stewardship, green marketing and sustainable development. Cases, speakers reflect current issues such as electronics waste and global warming.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6360",
+      "courseId": "MGT 6360",
+      "title": "Global Operations",
+      "description": "This course is designed to present issues critical to the globalization of operations, and addresses strategic and tactical issues pertaining to an organization's global operations and supply chain activities. Includes impact of technology, efficient vs responsive supply chains, and forecasting and sales and operations planning decisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6369",
+      "courseId": "MGT 6369",
+      "title": "Sustainable Business Practicum",
+      "description": "Students work on real-world consulting projects focused on sustainability related challenge for companies, non-profits, and/or government organizations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6400",
+      "courseId": "MGT 6400",
+      "title": "Pricing Analytics and Revenue Management",
+      "description": "Focus in on increasing profit by measuring price responses and controlling capacity.  Topics include forecasting, price optimization, and revenue management.  Credit not allowed for both MGT 6400 and MGT 6362.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6401",
+      "courseId": "MGT 6401",
+      "title": "Supply Chain Modeling",
+      "description": "Focus on the design and implementation of succesful supply chain strategies. Develop and recommend the right mix of operational levers  through quantitative analysis for supply chain efficiency and effectiveness. Topics include: supply chain design, supply chain coordination, capacity management, retailing, and supplier management. Credit not allowed for both MGT 6401 and MGT 6362.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6405",
+      "courseId": "MGT 6405",
+      "title": "Lean Six Sigma",
+      "description": "This class will explore the DMAIC model, lean tools and how data analysis can be leveraged to solve real world problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6450",
+      "courseId": "MGT 6450",
+      "title": "Project Management",
+      "description": "Provides exposure to the concepts, frameworks and techniques for managing projects. Coverage includes both general project management frameworks along with agile methodologies commonly used to manage IT projects. Cases, problems, activities, software tools, extra readings, and guest speakers focus specifically on IT project management practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6451",
+      "courseId": "MGT 6451",
+      "title": "Business Intelligence and Analytics",
+      "description": "Provides exposure to the concepts and methods of machine learning, frameworks and techniques for business intelligence and analytics, and real world applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6452",
+      "courseId": "MGT 6452",
+      "title": "Machine Learning for Business",
+      "description": "This course introduces machine learning techniques and their applications in solving business problems. It covers core concepts, algorithm designs, and programming implementation with business.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6500",
+      "courseId": "MGT 6500",
+      "title": "Analytical Tools for Decisions",
+      "description": "Introduction to the most commonly use statistical and optimization-based analytical tools for data-based decision-making based on the data available, including  descriptive statistics, probability and distributions, hypothesis testing, and regression.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6501",
+      "courseId": "MGT 6501",
+      "title": "Operations Management",
+      "description": "This course focuses on the strategic design and management of operations processes and policies to match supply with demand in an economically sustainable manner. Credit will not be awarded for both MGT 6501 and MGT 6350.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6502",
+      "courseId": "MGT 6502",
+      "title": "Leading People and Organizations",
+      "description": "This course focuses on how to lead individuals and teams within organizations. This course will develop a systematic understanding of behavior within formal organizational settings. Credit will not be awarded for both MGT 6502 and MGT 6100.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6503",
+      "courseId": "MGT 6503",
+      "title": "Managing Information Resources",
+      "description": "Focuses on emerging trends and business models in organizational information technology infrastructure, the information technology industry, and the tools to manage the information resources in an organization through techniques related to data management, analytics, and visualization.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6504",
+      "courseId": "MGT 6504",
+      "title": "Principles of Finance",
+      "description": "Mathematic principles of finance including time value of money, risk and return relationship, capital budgeting. Credit will not be awarded for both MGT 6504 and MGT 6060.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6505",
+      "courseId": "MGT 6505",
+      "title": "Marketing Management",
+      "description": "This course discusses the core elements of the marketing and the major types of marketing decisions faced by organizations. Develop the relevant skills for critically analyzing marketing actions. Credit will not be awarded for both MGT 6505 and MGT 6300.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6506",
+      "courseId": "MGT 6506",
+      "title": "Managerial Economics",
+      "description": "Microeconomics is about scarcity and how individuals make choices in the face of scarcity. Topics include suppy/demand, markets and price system, risk/uncertainty, market limitations. Credit will not be awarded for both MGT 6506 and MGT 6130.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6507",
+      "courseId": "MGT 6507",
+      "title": "Business Communications",
+      "description": "The purpose of this course is to provide future leaders and managers with the communication skills that enable them to sell themselves and their ideas. Credit will not be awarded for both MGT 6507 and MGT 6127.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6508",
+      "courseId": "MGT 6508",
+      "title": "Strategic Management",
+      "description": "Strategic management builds on and integrates other functional core courses to understand how firms gain and sustain a competitive advantage. Credit will not be awarded for both MGT 6508 and MGT 6125 or MGT 6508 and MGT 6126.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6509",
+      "courseId": "MGT 6509",
+      "title": "Legal and Ethical Considerations in Business",
+      "description": "Constitutional law; dispute resolution; torts; contracts; theories of ethical analysis; and the role of stakeholders. Credit will not be awarded for both MGT 6509 and MGT 6124 or MGT 6509 and MGT 6126.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6510",
+      "courseId": "MGT 6510",
+      "title": "Leadership Development",
+      "description": "This course focuses on how to lead individuals and teams within organizations and will develop a systematic understanding of behavior within formal organizational settings.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6510P",
+      "courseId": "MGT 6510P",
+      "title": "Leadership Development Preparation",
+      "description": "This course focuses on how to lead individuals and teams within organizations and will develop a systematic understanding of behavior within formal organizational settings.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6512",
+      "courseId": "MGT 6512",
+      "title": "Financial Accounting",
+      "description": "A foundational course in financial accounting.  Students learn how a firm provides meaningful quantitative financial information to external decision makers.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6518",
+      "courseId": "MGT 6518",
+      "title": "Strategy Fundamentals",
+      "description": "This course covers concepts and frameworks for strategy analysis and formulation. Strategic management integrates perspectives to understand how firms gain and sustain competitive advantage.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6600",
+      "courseId": "MGT 6600",
+      "title": "Analytical Tools for Decision Support",
+      "description": "Exposes students to the most commonly used statistical and optimization-based analytical tools for decision support. The knowledge of these tools enables the decision maker to make informed decisions based on the data available.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6614",
+      "courseId": "MGT 6614",
+      "title": "Law for Entrepreneurs",
+      "description": "This course will focus on legal issues which entrepreneurs face while growing a start-up business from infancy to becoming a publicly held company. Students will not receive credit for both MGT 6614 and MGT 3614.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6655",
+      "courseId": "MGT 6655",
+      "title": "Business Data Preparation and Visualization",
+      "description": "This course helps business graduate students learn how to prepare and visualize data appropriately, to explore patterns and relations, and to convey these findings effectively.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6663",
+      "courseId": "MGT 6663",
+      "title": "Technology Strategy",
+      "description": "Provides an understanding of economic and strategic factors that guide firms' strategic decisions regarding generation, commercialization, protection, and adoption of technological innovations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6664",
+      "courseId": "MGT 6664",
+      "title": "Managing Innovation",
+      "description": "This course focuses on how firms (both new and old) can create and capture value from product, process, and service innovations. To do so, this course will introduce students to analytical models and tools to guide strategic decision making related to innovations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6665",
+      "courseId": "MGT 6665",
+      "title": "Strategy Execution",
+      "description": "This course, focusing on strategy execution, answers this question: After performing strategy analysis and strategy formulation, how do you succeed in achieving strategic results? Students learn and apply theoretical models to execute strategies, including the use of a computer based quantitative simulation\n.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6667",
+      "courseId": "MGT 6667",
+      "title": "Strat Entrepreneurship",
+      "description": "Provides a strategic perspective on the entrepreneurial process, competition and strategic interactions between startups and incumbents, cooperation and open innovation strategies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6668",
+      "courseId": "MGT 6668",
+      "title": "Behavioral Economics",
+      "description": "Behavioral economics studies individual decisions-making using tools at the intersection of economics and psychology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6725",
+      "courseId": "MGT 6725",
+      "title": "Information Security Strategies and Policies",
+      "description": "Information security vulnerabilities and risks; legal, cost, privacy, and technology constraints; derivation of strategies; technical and procedural means of achieving desired ends. Credit will not be awarded for both MGT 6725 and MGT 4725 or CS 4725 or CS 6725 or PUBP 4725 or PUBP 6725.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6726",
+      "courseId": "MGT 6726",
+      "title": "Privacy, Technology, Policy, and Law",
+      "description": "This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics, law, and business realms.  Information collection, transmission, and utilization in analog and digital formats raise specific issues about information classification and organization; information storage and processing; and information transmission, transfer, and signaling. In addition, privacy tech policy affects the way one builds a network and related systems planning and design; human interfacing and use analysis; database development; and related aspects of hardware, software, economics, social factors, and capacity. Credit will not be awareded for both MGT 6726 and CS 4726 or CS 6726 or MGT 4726.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6727",
+      "courseId": "MGT 6727",
+      "title": "Privacy for Professionals",
+      "description": "This course takes a multi-disciplinary approach to the study of privacy––a current topic of international interest for those in technology, policy, law, and/or business.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6748",
+      "courseId": "MGT 6748",
+      "title": "Applied Analytics Practicum",
+      "description": "Practical analytics project experience applying ideas from the classroom to a significant project of interest to a business, government agency, or other organization.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6753",
+      "courseId": "MGT 6753",
+      "title": "Principles of Management",
+      "description": "The course will provide an introduction to selected topics needed to be successful in the technology industries. Crosslisted with ME 6753.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6769",
+      "courseId": "MGT 6769",
+      "title": "Fixed Income Securities",
+      "description": "Description, institutional features, and mathematical modeling of fixed-income securities. Including risk analyses and hedging properties.  Use of both statistical and stochastic models. Crosslisted with ISYE 6769 and MATH 6769.\n.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6772",
+      "courseId": "MGT 6772",
+      "title": "Managing Resources of the Technological Firm",
+      "description": "This course explores the competitive advantage manufacturing and service firms derive from effective management of their technology, innovation, workforce, materials, and information resources as driven by uncertainty, global competition, and dynamic markets. Crosslisted with ISYE 6772.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6780",
+      "courseId": "MGT 6780",
+      "title": "Knowledge Management",
+      "description": "The purpose of this course is to enable students to think conceptually about the modern organization as a knowledge- based, information-processing organization. Crosslisted with PUBP 6780.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6785",
+      "courseId": "MGT 6785",
+      "title": "The Practice of Quantitative and Computational Finance",
+      "description": "Case studies, visiting lecturers from financial institutions, student group projects of an advanced nature, and student reports, all centered around quantitative and computational finance. Crosslisted with ISYE and MATH 6785.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6789",
+      "courseId": "MGT 6789",
+      "title": "Technology Ventures",
+      "description": "Team discussion and case studies in biomedical engineering technology transfer, including licensing, financial capital, safety and efficacy studies, clinical trials and strategic planning. Crosslisted with BMED, ECE, CHE, and ME 6789.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6793",
+      "courseId": "MGT 6793",
+      "title": "Advanced Topics in Quantitative and Computational Finance",
+      "description": "Advanced foundational material and analysis techniques in quantitative and computational finance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6799",
+      "courseId": "MGT 6799",
+      "title": "Legal Issues in Technology Transfer",
+      "description": "Biomedical science involves applying mathematical and scientific principles to the design, development, and operational evaluation of biomedical and health systems. Such discovery requires can lead to products such as integrated biomedical systems, instrumentation, medical information systems, artificial organs and prostheses, and health management and care delivery systems. But to take that discovery to patients and the market requires contecting that knowledge to legal questions about patentability, licensing, and ethics.  This course studies and analyzes U.S. law as it applies to scientific discovery and the patenting and licensing processes. Crosslisted with BMED, CHE, ECE, and ME 6799.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6801",
+      "courseId": "MGT 6801",
+      "title": "TI:GER Innovation Analysis",
+      "description": "This TI:GER course focuses on the analysis of technology innovation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6802",
+      "courseId": "MGT 6802",
+      "title": "TI:GER Innovation and Business Model Design",
+      "description": "This TI:GER course focuses on the design of business models for technology innovation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6803",
+      "courseId": "MGT 6803",
+      "title": "Innovation Execution",
+      "description": "This course focuses on the execution of launching and scaling technology innovation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6813",
+      "courseId": "MGT 6813",
+      "title": "Economic Analysis for Managers",
+      "description": "Economic reasoning and principles useful in understanding and solving managerial and public policy questions. Practice in analyzing major domestic and international economic events is included.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6821",
+      "courseId": "MGT 6821",
+      "title": "TI:GER Innovation Research Methods 1",
+      "description": "This TI:GER course is the first of two courses focusing on research methods for technology innovation.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6822",
+      "courseId": "MGT 6822",
+      "title": "TI:GER Innovation Research Methods 2",
+      "description": "This TI:GER course is the second of two courses focusing on research methods for technology innovation.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6830",
+      "courseId": "MGT 6830",
+      "title": "Fundamentals of Innovation I",
+      "description": "First of a two-course sequence on various approaches needed to understand the innovation process, including patterns of technological change and intellectual property protection.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6831",
+      "courseId": "MGT 6831",
+      "title": "Fundamentals of Innovation II",
+      "description": "Second of two-course sequence on various approaches needed to understand the innovation process, including competitive market analysis and valuing new technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6832",
+      "courseId": "MGT 6832",
+      "title": "Fundamentals of Technology Commerercialization",
+      "description": "Follow-up to year-long course on Fundamentals of Innovation, emphasizing business planning and understanding the business, technology, and legal aspects of Venture Lab technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "6901",
+      "courseId": "MGT 6901",
+      "title": "Consulting",
+      "description": "Students work in teams for client firms in a consulting capacity. The client firms are preselected, but the problem definition is derived from client-team negotiations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7000",
+      "courseId": "MGT 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7060",
+      "courseId": "MGT 7060",
+      "title": "Theory of Finance",
+      "description": "This Ph.D. course is an introduction to theoretical financial economics. This course focuses on individuals' consumption and investment decisions under uncertainty and their implications on the valuation of securities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7061",
+      "courseId": "MGT 7061",
+      "title": "Empirical Finance",
+      "description": "This Ph.D. course is a survey of selected current empirical research topics in finance and related econometric issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7062",
+      "courseId": "MGT 7062",
+      "title": "Corporate Restructuring",
+      "description": "This PhD course is an analysis of empirical research in corporate finance with a focus on issues related to corporate restructuring.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7063",
+      "courseId": "MGT 7063",
+      "title": "International Finance",
+      "description": "This Ph.D. course is an introduction to the foundations of of modern international finance.  Topics include: international portfolio diversification, design of country funds, tests of asset pricing, and international corporate finance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7064",
+      "courseId": "MGT 7064",
+      "title": "Microeconomics Theory for Management",
+      "description": "This course focuses on behavior of individual economic agents and how they interact to form markets. Topics include organizations, efficiency, and equilibria with incomplete information.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7101",
+      "courseId": "MGT 7101",
+      "title": "Human Resources Management",
+      "description": "A Ph.D. course that covers an analysis of advanced practice, research, and theory in human resource management. Topics will vary by instructor and student interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7102",
+      "courseId": "MGT 7102",
+      "title": "Organization Behavior Research Methods",
+      "description": "This Ph.D. course is an overview and analysis of research methodologies, mathematical tools and techniques used in conducting scientific research of organizational behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7105",
+      "courseId": "MGT 7105",
+      "title": "Individual Behavior in Organizations",
+      "description": "This Ph.D. course is designed to investigate organizational behavior research topics, and analyses based in mathematical models, at the individual level of analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7106",
+      "courseId": "MGT 7106",
+      "title": "Group Dynamics",
+      "description": "This Ph.D. course provides a fundamental understanding of group processes in organizations by analyzing and critiquing cross-level classic and contemporary theories, and research utilizing quantitative models on groups.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7107",
+      "courseId": "MGT 7107",
+      "title": "Organizational Theory",
+      "description": "This Ph.D. course provides a review of contemporary organizational theories, and  analysis of empirical studies of them to provide a framework to understand organizational structures, environments, and goals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7305",
+      "courseId": "MGT 7305",
+      "title": "Marketing Management and Strategy",
+      "description": "This Ph.D.  course provides a survey of research and theory in the marketing management and strategy literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7306",
+      "courseId": "MGT 7306",
+      "title": "Buyer Behavior",
+      "description": "Doctoral course in consumer behavior. Provides an introduction to the major theories in consumer behavior and discusses current research and methodology on theory development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7308",
+      "courseId": "MGT 7308",
+      "title": "Theory Construction in the Social Sciences",
+      "description": "Provides an understanding of key elements of a theory and how influential theories are developed in the managerial sciences. A small portion surveys topics in the philosophy of science.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7320",
+      "courseId": "MGT 7320",
+      "title": "Marketing Science",
+      "description": "This doctoral course addresses the literature on the state-of-the-art research on quantitative approaches to marketing problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7350",
+      "courseId": "MGT 7350",
+      "title": "Operations Strategy I",
+      "description": "This Ph.D.  seminar will discuss research papers dealing with strategic issues in operations management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7352",
+      "courseId": "MGT 7352",
+      "title": "Operations Planning and Control I",
+      "description": "This doctoral  seminar will discuss research papers dealing with tactical and operational (planning and control) issues in operations management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7353",
+      "courseId": "MGT 7353",
+      "title": "Operations Planning and Control II",
+      "description": "This doctoral seminar is a continuation of MGT 7352 and will discuss advanced papers dealing with tactical and operational (planning and control) issues in operations management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7354",
+      "courseId": "MGT 7354",
+      "title": "Research Methods in Operations Management",
+      "description": "This doctoral seminar will discuss papers dealing with research methods in operations management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7400",
+      "courseId": "MGT 7400",
+      "title": "PhD Strategic Management Research I",
+      "description": "Ph.D.-level research seminar in strategic management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7501",
+      "courseId": "MGT 7501",
+      "title": "Managerial Econometric Modeling",
+      "description": "The linear regression model in managerial research: topics include ordinary and generalized least squares, panel data, instrumental variables, discrete choice and censored data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7601",
+      "courseId": "MGT 7601",
+      "title": "Financial Accounting & Reporting Research Seminar",
+      "description": "A program that focuses on financial accounting research utilizing analytical methods and/or theories. It includes instruction on how to create, mathematically analyze, and critique such research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7602",
+      "courseId": "MGT 7602",
+      "title": "Management Accounting Research Seminar",
+      "description": "This doctoral course will help students develop an in-depth understanding of contemporary research topics, quantitative methods, and analytical techniques in management accounting and control.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7603",
+      "courseId": "MGT 7603",
+      "title": "PhD Seminar in Auditing Research",
+      "description": "This course will expose doctoral students to the design of research studies, quantitative measurement of variables, data analysis, and formulation of mathematical models in audit-related research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7604",
+      "courseId": "MGT 7604",
+      "title": "Seminar in Modern Capital Markets Research",
+      "description": "Doctoral research seminar focused on contemporary topics in capital markets research, including recent topics in disclosure, valuation, asset pricing, and forecasting.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7605",
+      "courseId": "MGT 7605",
+      "title": "Advanced Empirical Methods for Information Systems",
+      "description": "This course introduces advanced empirical methods for Information Systems research through lecturing and paper discussion. Examples include structural econometric models, probability models, and Bayesian inference.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7606",
+      "courseId": "MGT 7606",
+      "title": "Analytical Modeling Foundations for IS",
+      "description": "Introduces analytical models and methods, stochastic processes, and optimization techniques for modeling and solving relevant IS problems, and drawing meaningful inferences from the results.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7607",
+      "courseId": "MGT 7607",
+      "title": "Economics of Artificial Intelligence, and Machine Learning",
+      "description": "This is a Ph.D. seminar that covers fundamental topics in the economics of artificial intelligence, and machine learning.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7608",
+      "courseId": "MGT 7608",
+      "title": "Experimental Research in Information Systems",
+      "description": "This course is designed to provide doctoral students an introduction to experimental research methods in information systems.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7609",
+      "courseId": "MGT 7609",
+      "title": "Observational Studies in IS",
+      "description": "Surveys literature in IS and related disciplines on observational studies with a focus on causal inference.",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7610",
+      "courseId": "MGT 7610",
+      "title": "Best Practices in Teaching",
+      "description": "This course offers insights into diverse topics critical to Ph.D. students' success in educational evaluation and research.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "7611",
+      "courseId": "MGT 7611",
+      "title": "PhD Seminar in Entrepreneurship",
+      "description": "The seminar aims to provide an in-depth analysis of recent theoretical and empirical advances in entrepreneurship research. It covers relevant analytical approaches that inform the creation and growth of entrepreneurial ventures and their strategic interactions with incumbents, preparing doctoral students to contribute to the field with rigorously developed, impactful research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8803",
+      "courseId": "MGT 8803",
+      "title": "Special Topics in Management",
+      "description": "Topics of current interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8811",
+      "courseId": "MGT 8811",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8812",
+      "courseId": "MGT 8812",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8813",
+      "courseId": "MGT 8813",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8823",
+      "courseId": "MGT 8823",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8831",
+      "courseId": "MGT 8831",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8832",
+      "courseId": "MGT 8832",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1.5"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8833",
+      "courseId": "MGT 8833",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8853",
+      "courseId": "MGT 8853",
+      "title": "Research Topics in Marketing",
+      "description": "Coverage of special research topics of current interest in marketing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8873",
+      "courseId": "MGT 8873",
+      "title": "Special Topics in Organizational Behavior",
+      "description": "Special research topics of interest in organizational behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8903",
+      "courseId": "MGT 8903",
+      "title": "Special Problems in Management",
+      "description": "Provides project work experience in the field of management.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8997",
+      "courseId": "MGT 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "8998",
+      "courseId": "MGT 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "MGT",
+      "courseNumber": "9000",
+      "courseId": "MGT 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 330,
+  "scrapedAt": "2025-08-16T02:00:44.697Z"
+}

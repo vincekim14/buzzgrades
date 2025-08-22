@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4312",
+  "courseId": "MGT 4312",
+  "title": "Mktg Rsrch:Tools&amp;Design",
+  "description": "Explores the ways that managers design marketing research studies to solve specific marketing problems, including methodology selection, data collection, and reporting of results.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3300 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:32.675Z"
+}

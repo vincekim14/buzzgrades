@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CHEM",
+  "courseNumber": "4341",
+  "courseId": "CHEM 4341",
+  "title": "Applied Spectroscopy",
+  "description": "Theory and application of NMR, mass spectrometry, and infrared spectroscopy in the determination of organic structures.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 2312 Undergraduate Semester Minimum Grade of D or CHEM 2313 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:55.817Z"
+}

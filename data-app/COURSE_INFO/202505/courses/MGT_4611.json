@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "MGT",
+  "courseNumber": "4611",
+  "courseId": "MGT 4611",
+  "title": "Integrative Mgt Analysis",
+  "description": "Integrates the functional areas of management, economics, and the external environment in which businesses operate.  The course is designed to broaden the student's perspective on management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:31.681Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CP",
+  "courseNumber": "2040",
+  "courseId": "CP 2040",
+  "title": "Cities of Tomorrow",
+  "description": "This course explores how the forces shaping 21st-century cities compare to the dynamics that shaped cities of the past and present.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:39.631Z"
+}

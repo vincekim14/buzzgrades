@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "KOR",
+  "courseNumber": "3415",
+  "courseId": "KOR 3415",
+  "title": "Korean K-Pop/Film/Drama",
+  "description": "This course addresses key features of Korean society from the 1960s to the present day through K-Pop, film, and drama. Taught in English.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:22.158Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6100",
+  "courseId": "ECE 6100",
+  "title": "Adv Comput Architecture",
+  "description": "Comprehensive coverage of the architecture and system issues that confront the design of high-performance workstation/PC computer architectures with emphasis on quantitative evaluation.  Credit is not allowed for both ECE 6100 and any of the following courses: ECE 4100, CS 4290, CS 6290.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3058 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:50.808Z"
+}

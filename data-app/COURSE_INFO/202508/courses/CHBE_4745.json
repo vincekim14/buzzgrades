@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "4745",
+  "courseId": "CHBE 4745",
+  "title": "Data Analytics Chem Eng",
+  "description": "Introduction to data analytics and machine learning techniques for chemical engineers. Application of basic regression, classification, dimensional reduction, and clustering techniques to chemical data sets.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 2120 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:16.077Z"
+}

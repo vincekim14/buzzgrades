@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOS",
+  "courseNumber": "4744",
+  "courseId": "BIOS 4744",
+  "title": " Microbial Symbiosis",
+  "description": "This course explores how symbiotic interactions with microbes affect the biology of other organisms, focusing extensively on the beneficial microbes native to the human body.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BIOL 1510 Undergraduate Semester Minimum Grade of D or BIOL 1511 Undergraduate Semester Minimum Grade of D or (BIOS 1107 Undergraduate Semester Minimum Grade of D and BIOS 1107L Undergraduate Semester Minimum Grade of D) or (BIOS 1207 Undergraduate Semester Minimum Grade of D and BIOS 1207L Undergraduate Semester Minimum Grade of D))",
+  "lastUpdated": "2025-08-20T02:36:06.579Z"
+}

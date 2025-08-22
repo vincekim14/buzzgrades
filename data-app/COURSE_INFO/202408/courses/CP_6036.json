@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CP",
+  "courseNumber": "6036",
+  "courseId": "CP 6036",
+  "title": "Community Dynam &amp; Engage",
+  "description": "Study of theories and dynamics of community-building, with a focus on working in communities, equity and inclusive community engagement.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:09.894Z"
+}

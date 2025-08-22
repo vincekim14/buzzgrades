@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "MATH",
+  "courseNumber": "4305",
+  "courseId": "MATH 4305",
+  "title": "Linear Algebra",
+  "description": "Finite dimensional vector spaces, inner product spaces, least squares, linear transformations, the spectral theorem for normal transformations.  Applications to convex sets, positive matrices, difference equations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or MATH 1504 Undergraduate Semester Minimum Grade of D or MATH 1555 Undergraduate Semester Minimum Grade of D or ((MATH 1552 Undergraduate Semester Minimum Grade of D or MATH 15X2 Undergraduate Semester Minimum Grade of T or MATH 1X52 Undergraduate Semester Minimum Grade of T) and (MATH 1553 Undergraduate Semester Minimum Grade of D or MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1564 Undergraduate Semester Minimum Grade of D or MATH 1522 Undergraduate Semester Minimum Grade of D or MATH 1X53 Undergraduate Semester Minimum Grade of T))",
+  "lastUpdated": "2025-08-20T02:41:49.305Z"
+}

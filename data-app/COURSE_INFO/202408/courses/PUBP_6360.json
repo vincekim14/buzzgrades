@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "6360",
+  "courseId": "PUBP 6360",
+  "title": "Sust Energy &amp; Env Mgmt",
+  "description": "The course introduces the theory and philosophy of sustainability and how that theory is implemented through the public and private sectors.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:19.497Z"
+}

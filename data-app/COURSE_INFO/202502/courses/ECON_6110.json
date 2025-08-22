@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "6110",
+  "courseId": "ECON 6110",
+  "title": "Econ-Corporate Strategy",
+  "description": "Applies microeconomic and macroeconomic theory to the development of modern corporate strategy, including organizational boundaries, market structure and competition, industry analysis, and competitive advantage.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 3110 Undergraduate Semester Minimum Grade of D or ECON 6100 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:28.623Z"
+}

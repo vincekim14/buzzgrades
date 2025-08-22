@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MP",
+  "courseNumber": "6756",
+  "courseId": "MP 6756",
+  "title": "Radiation Physics",
+  "description": "Characteristics of atomic and nuclear radiation, transition probabilities, radioactivity abd isotopes, cross sections, electromagnetic radiation, neutrons, and charges particle interaction with matter.  Crosslisted with NRE 6756 and HP 6756.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:46.417Z"
+}

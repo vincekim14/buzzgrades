@@ -1,0 +1,1273 @@
+{
+  "subject": "INTA",
+  "subjectName": "International Affairs (INTA)",
+  "url": "https://catalog.gatech.edu/coursesaz/inta/",
+  "courses": [
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "1002",
+      "courseId": "INTA 1002",
+      "title": "Effective Study Abroad",
+      "description": "Introduces essential background information concerning countries, concepts, and what to do in order to gain maximum benefit from participation in school-sponsored study abroad programs.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "1050",
+      "courseId": "INTA 1050",
+      "title": "The World Today",
+      "description": "Introduction to current issues of politics, geography, and history around the globe, using a wide variety of media and sources.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "1110",
+      "courseId": "INTA 1110",
+      "title": "Introduction to International Relations",
+      "description": "An introduction to the major principles, concepts, actors, and theories of the international system and their application to current issues in world affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "1200",
+      "courseId": "INTA 1200",
+      "title": "American Government in Comparative Perspective",
+      "description": "Examines American government in relation to other political and economic systems in countries around the world. Includes study of the Constitution of Georgia. Credit not allowed for both POL 1101 and INTA 1200.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2001",
+      "courseId": "INTA 2001",
+      "title": "Careers in International Affairs",
+      "description": "Reinforces career development and planning process for international affairs majors.  Includes facilitation of decision-making skills, job search strategies, self-assessment, and overview from industry speakers.  Credit not allowed for both INTA 2001 and INTA 1001.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2010",
+      "courseId": "INTA 2010",
+      "title": "Empirical Methods",
+      "description": "Develops skills in research design, model building, and hypothesis construction. Provides experience in using computer software programs to perform statistical tests including t-tests, chi-square, and regression.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2030",
+      "courseId": "INTA 2030",
+      "title": "Ethics in International Affairs",
+      "description": "Surveys the main traditions and theories of international ethics with a focus on intervention and the use of force, human rights, self-determination, and global distributive justice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2040",
+      "courseId": "INTA 2040",
+      "title": "Science, Technology, and International Affairs",
+      "description": "An overview of science and technology as a determinant in the development and functioning of states and societies worldwide and the international context for the development of science and technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2042",
+      "courseId": "INTA 2042",
+      "title": "Introduction to Global WMD Issues",
+      "description": "This course will explore the challenges, history, and major theoretical frameworks relating to weapons of mass destruction (WMD).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2050",
+      "courseId": "INTA 2050",
+      "title": "Introduction to Global Development",
+      "description": "Mainstream and critical approaches to development, the role of diverse institutions and projects, and implications for sustainability in the countries of the global south.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2100",
+      "courseId": "INTA 2100",
+      "title": "Theoretical Approaches to Great Power Relations",
+      "description": "Juxtaposes competing explanations for the patterns of conflict and cooperation among nations, illustrated by relations among the great powers of Europe and Asia during the past two centuries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2120",
+      "courseId": "INTA 2120",
+      "title": "Introduction to International Security",
+      "description": "Introduction to the role of theory and provide an understanding of the significance of various issues in international security.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2210",
+      "courseId": "INTA 2210",
+      "title": "Comparative Political Philosophies and Ideologies",
+      "description": "Explores political ideologies and philosophies, including theories of democracy, capitalism, and socialism, as well as rival views of the \"good society\" in comparative and historical perspective.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2220",
+      "courseId": "INTA 2220",
+      "title": "Government and Politics of Europe",
+      "description": "A comparative analysis of the politics and major institutions of the countries of contemporary Western Europe.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2221",
+      "courseId": "INTA 2221",
+      "title": "Politics of the European Union",
+      "description": "Introduction and overview of the history and politics of the European Union from its inception to the new era of development under the 2009 Lisbon Treaty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2230",
+      "courseId": "INTA 2230",
+      "title": "Government and Politics of Asia",
+      "description": "An introduction to the major issues and aspects of the politics, societies, and cultures of East Asia, and the changing role of the region in international affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2241",
+      "courseId": "INTA 2241",
+      "title": "Government, Politics and Society of Latin America",
+      "description": "Introduction to the study of historical forces, cultural production, identity, political development and contemporary issues in Latin America.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2260",
+      "courseId": "INTA 2260",
+      "title": "Government, Politics and Society of the Middle East",
+      "description": "Introduction to the study and analysis of contemporary Middle East politics with an emphasis on the Arab states.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2694",
+      "courseId": "INTA 2694",
+      "title": "Intern Assistantship",
+      "description": "Undergraduate Internship for International Affairs for pay.",
+      "creditHours": "21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2695",
+      "courseId": "INTA 2695",
+      "title": "Undergraduate Internship",
+      "description": "Undergraduate Internship for International Affairs for academic credit.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2698",
+      "courseId": "INTA 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2699",
+      "courseId": "INTA 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2803",
+      "courseId": "INTA 2803",
+      "title": "Special Topics",
+      "description": "Topics of current interest in International Affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2813",
+      "courseId": "INTA 2813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in International Affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2823",
+      "courseId": "INTA 2823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in International Affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2833",
+      "courseId": "INTA 2833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in International Affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2901",
+      "courseId": "INTA 2901",
+      "title": "Special Problems",
+      "description": "Independent study with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2902",
+      "courseId": "INTA 2902",
+      "title": "Special Problems",
+      "description": "Independent study with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "2903",
+      "courseId": "INTA 2903",
+      "title": "Special Problems",
+      "description": "Independent study with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3010",
+      "courseId": "INTA 3010",
+      "title": "International Technology Transfer",
+      "description": "Explores the impact of technology transfer on key contexts such as economic development and the international diffusion of defense production and technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3012",
+      "courseId": "INTA 3012",
+      "title": "War in the 20th Century",
+      "description": "Provides historical foundation and understanding of the causes, conduct and consequences of modern war to support informed discussion and analysis of contemporary crisis and conflict.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3020",
+      "courseId": "INTA 3020",
+      "title": "Contemporary Mexico",
+      "description": "This course examines the socio-economic and political history and development of twentieth century Mexico, with a focus on current problems and issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3031",
+      "courseId": "INTA 3031",
+      "title": "Human Rights in a Technological World",
+      "description": "Explores how processes of globalization and advances in communication and technology have heightened and shaped human rights as a concern in international politics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3040",
+      "courseId": "INTA 3040",
+      "title": "Energy, Environment, and Policy",
+      "description": "Explores the interface between energy security and environmental sustainability with the aim of understanding the consequences of policy decisions for ecological, social, and economic systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3042",
+      "courseId": "INTA 3042",
+      "title": "Energy and International Security",
+      "description": "Examines issues at the intersection of national energy security and international conflict and cooperation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3043",
+      "courseId": "INTA 3043",
+      "title": "Space Policy",
+      "description": "Examination of the origins, evolution and range of current challenges and debates in international space policy issues, including civil, military, and commercial activities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3044",
+      "courseId": "INTA 3044",
+      "title": "Global Politics of Technology",
+      "description": "Examination of the economic and political dynamics that influence how regulations governing technology are adopted around the world.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3050",
+      "courseId": "INTA 3050",
+      "title": "The Meaning of Global Citizenship",
+      "description": "Explore the meaning of global citizenship in scholarly and public debates and how it is \"practiced\" by individuals and \"institutionalized\" by universities, corporations and organizations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3101",
+      "courseId": "INTA 3101",
+      "title": "International Institutions",
+      "description": "Scrutinizes the evolution of international institutions, and juxtaposes competing theoretical approaches for understanding the changing roles and functions of institutions in world affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3102",
+      "courseId": "INTA 3102",
+      "title": "The Problem of Proliferation",
+      "description": "Explores the political and economic issues, both international as well as domestic, involved in the spread of the weapons of mass destruction since the end of the Second World War.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3103",
+      "courseId": "INTA 3103",
+      "title": "The Challenge of Terrorism",
+      "description": "Examines the contexts that nurture domestic and international terrorism, the variety of terrorist organizations, and alternative approaches to combating the problem.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3104",
+      "courseId": "INTA 3104",
+      "title": "International Negotiations",
+      "description": "Examines the theories of bargaining and negotiation, with an emphasis on explaining success and failure in U.S. foreign policy and national security negotiations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3110",
+      "courseId": "INTA 3110",
+      "title": "U.S. Foreign Policy",
+      "description": "Analyzes the formulation and implementation of America's foreign policy from 1914 to the present, stressing economic, political, and strategic factors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3111",
+      "courseId": "INTA 3111",
+      "title": "U.S. Defense Policy",
+      "description": "Examines contemporary American defense policy, including the formulation of strategy, the defense budget, force structure, and nontraditional uses of military force.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3120",
+      "courseId": "INTA 3120",
+      "title": "European Security Issues",
+      "description": "Explores the contemporary European security environment, including threats, challenges, and various security architectures (e.g., NATO, the WEU, and the OSCE).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3121",
+      "courseId": "INTA 3121",
+      "title": "Foreign Policies of Russia and Eurasia",
+      "description": "Examines the many dimensions of the foreign and security policies of Russia and the other new post-Soviet states of Russia and Eurasia.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3130",
+      "courseId": "INTA 3130",
+      "title": "Foreign Policy of China",
+      "description": "Analyzes the major dimensions of the foreign policies of the People's Republic of China and the domestic and international influences shaping those policies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3131",
+      "courseId": "INTA 3131",
+      "title": "Pacific Security Issues",
+      "description": "Examines past, present, and future security concerns in the Pacific, including the Korean peninsula, Japanese defense, the emergence of China as a military power, and the forward basing of American troops and materiel.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3203",
+      "courseId": "INTA 3203",
+      "title": "Comparative Politics",
+      "description": "Contrasts competing theoretical perspectives in the comparative analysis of political systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3220",
+      "courseId": "INTA 3220",
+      "title": "Government and Politics of Germany",
+      "description": "Examines the government and politics of Germany with an in-depth focus on the post-1945 period.  NOTE: When taught jointly with the School of Modern Languages, all lectures, assignments, and readings are in German.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3221",
+      "courseId": "INTA 3221",
+      "title": "Post-Soviet Government and Politics",
+      "description": "Focuses on the challenge of building new social, political, and economic systems in Russia, but also considers some of the special problems confronting the other fourteen post-Soviet states.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3223",
+      "courseId": "INTA 3223",
+      "title": "Transatlantic Relations",
+      "description": "Analysis of the different aspects of the relationship between the US and the EU and how it is characterized by cooperation, conflict and competition.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3230",
+      "courseId": "INTA 3230",
+      "title": "Government and Politics of China",
+      "description": "Investigates the structure and institutions of political power as well as the patterns and features of political change in the contemporary People's Republic of China.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3231",
+      "courseId": "INTA 3231",
+      "title": "Government and Politics of Japan",
+      "description": "Examines the main institutions, policies, and politics of contemporary Japan. Investigates the impact of social, cultural, and economic forces on Japan's government and politics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3232",
+      "courseId": "INTA 3232",
+      "title": "Sustainable Megaregion",
+      "description": "Explores the ways in which environmental, economic, social, and technological forces shape megaregion sustainability in through comparison with megaregions in countries around the world.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3240",
+      "courseId": "INTA 3240",
+      "title": "Government and Politics of Africa",
+      "description": "A survey of the history, cultures, social systems, governments, economies, and international roles of Africa. Selected case studies of individual countries are presented.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3241",
+      "courseId": "INTA 3241",
+      "title": "Latin American Politics",
+      "description": "Surveys the government and politics of Latin America.  The course begins with an overview of the region's geography and history, and then explains why demographic government has had a tenuous existence in this area.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3242",
+      "courseId": "INTA 3242",
+      "title": "Soccer and Global Politics",
+      "description": "An examination of regional and national identity, development, and politics through the history of soccer.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3243",
+      "courseId": "INTA 3243",
+      "title": "US - Latin American Relations",
+      "description": "Study of government and non-governmental influences on policy and effectiveness of political, economic, and military instruments of power in Latin America.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3260",
+      "courseId": "INTA 3260",
+      "title": "Middle East Relations",
+      "description": "Course will provide an in-depth understanding of the Arab-Israeli conflict using theories of international relations and comparative politics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3301",
+      "courseId": "INTA 3301",
+      "title": "International Political Economy",
+      "description": "Analyzes the relationship between political and economic issues in international affairs. Examines the interaction of states and markets in the context of trade, investment, and production.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3303",
+      "courseId": "INTA 3303",
+      "title": "Political Economy of Development",
+      "description": "Surveys theories of economic development and political change, and examines a range of cases that include the European-American experience, the East Asian episode, and the transition from socialism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3304",
+      "courseId": "INTA 3304",
+      "title": "International Trade and Production",
+      "description": "Examines the political economy of international trade and the global production process with particular emphasis on conflict and cooperation in national competition for high- technology industries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3321",
+      "courseId": "INTA 3321",
+      "title": "Political Economy of European Integration",
+      "description": "Explores the processes and problems of political and economic integration in the European Union, the world's largest trading bloc.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3330",
+      "courseId": "INTA 3330",
+      "title": "Political Economy of China",
+      "description": "Examines the centuries of stagnation and the recent rapid growth of the Chinese economy, and seeks to understand the current interaction between politics and economic development in the People's Republic of China.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3331",
+      "courseId": "INTA 3331",
+      "title": "Political Economy of Japan",
+      "description": "Surveys the political foundations and economic achievements of modern Japan.  Explores the interaction of domestic and international forces, and analyzes Japan's changing world role.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3773",
+      "courseId": "INTA 3773",
+      "title": "Global Issues and Leadership",
+      "description": "Invited project based seminar: Uses global issues to explore diverse viewpoints, cultures and cognitive biases to develop leadership and presentation skills in small diverse groups.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3803",
+      "courseId": "INTA 3803",
+      "title": "Special Topics",
+      "description": "Selected topics will vary from term to term.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3813",
+      "courseId": "INTA 3813",
+      "title": "Special Topics",
+      "description": "Selected topics will vary from term to term.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3823",
+      "courseId": "INTA 3823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in International Affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "3833",
+      "courseId": "INTA 3833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in International Affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4007",
+      "courseId": "INTA 4007",
+      "title": "Intelligence and International Security",
+      "description": "This coures examines the history, nature and business of secret intelligence as a critical element of national and international security, with special emphasis given to its role in the global war on terror, and the relationship between the intelligence community and policy makers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4011",
+      "courseId": "INTA 4011",
+      "title": "Technology and Military Organization",
+      "description": "Addresses the impact of technological developments on the evolution of military organization and on international conflict from the Battle of Agincourt (1415) to the Gulf War (1991).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4014",
+      "courseId": "INTA 4014",
+      "title": "Scenario Writing and Pathgaming",
+      "description": "Introduces students to the construction and presentation of formalized scenarios for international planning, and into the formation, implementation, and assessment of path games.  Credit not allowed for both INTA 4014 and INTA 6014.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4016",
+      "courseId": "INTA 4016",
+      "title": "Strategy and Arms Control",
+      "description": "Explores elements of military strategy and tactics, weapons proliferation, and arms control efforts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4040",
+      "courseId": "INTA 4040",
+      "title": "Environmental Politics",
+      "description": "Examines the interface between politics and the environment.  Foci include sustainable development, the politics of the rain forest, eco-tourism, and export agriculture and the environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4050",
+      "courseId": "INTA 4050",
+      "title": "International Affairs and Technology Policy Making",
+      "description": "International policy issues in which science and technology figure prominently.  Topics include: health, environment, information technologies, arms control and defense, critical infrastructure, transportation, and energy.  Emphasis placed on policy analysis and formation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4060",
+      "courseId": "INTA 4060",
+      "title": "International Law",
+      "description": "Explores major issues, concepts and cases in public international law and their policy ramifications. Specific topics include human rights, armed conflict, crimes against humanity, and the environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4101",
+      "courseId": "INTA 4101",
+      "title": "Politics of the Vietnam War",
+      "description": "Strategic approaches and political environments of the United States, North Vietnam, China, and the USSR during 1954-1975 Vietnam War.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4121",
+      "courseId": "INTA 4121",
+      "title": "Seminar in Europe: European Security",
+      "description": "Examines the history, institutional structure, and functions, as well as current policy challenges facing NATO and other European security arrangements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4230",
+      "courseId": "INTA 4230",
+      "title": "Seminar in Europe: European Union",
+      "description": "Explores the history and processes of economic and political integration within the framework of the European Union.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4240",
+      "courseId": "INTA 4240",
+      "title": "Argentine Politics, History, and Culture",
+      "description": "Survey of the politics, history, and culture of Argentina. Topics include Argentine economic and political failure, the politics of immigration, and the relationship between culture and development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4241",
+      "courseId": "INTA 4241",
+      "title": "Democracy in the Global South",
+      "description": "Assesses theories about democracy and explores their applicability in the Global South. Examines the concept of democracy and explores its causes and effects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4330",
+      "courseId": "INTA 4330",
+      "title": "Chinese Economic Reform",
+      "description": "Addresses the profound and consequential process of the Chinese economic reform that started at the end of the 1970s and has led to China's rapid economic growth.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4331",
+      "courseId": "INTA 4331",
+      "title": "Chinese Politics in Transition",
+      "description": "Investigates the organizational apparatus through which the Chinese Communist Party exercises leadership over politics and society, and the way in which reforms have changed those relationships.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4332",
+      "courseId": "INTA 4332",
+      "title": "Chinese Institutions and Policy Process",
+      "description": "Supervised field research on the Chinese institutions and policy-making process especially in the areas of economic and social issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4333",
+      "courseId": "INTA 4333",
+      "title": "Korean Security Policy",
+      "description": "An examination of the principal policy issues facing the United States with regard to the Korean Peninsula and the principal neighboring states, China and Japan.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4340",
+      "courseId": "INTA 4340",
+      "title": "Latin American Regional Economic and Political Integration",
+      "description": "Examines institutional, interest group, international, and economic inputs and outputs of regional integration.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4500",
+      "courseId": "INTA 4500",
+      "title": "Pro-Seminar in International Affairs",
+      "description": "Capstone experience in which students formulate strategies and policies to cope with international problems.  Themes vary from seminar to seminar.  Credit not allowed for both INTA 4500 and INTA 4400.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4694",
+      "courseId": "INTA 4694",
+      "title": "Intern Assistantship",
+      "description": "Undergraduate Internship for International Affairs for pay.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4695",
+      "courseId": "INTA 4695",
+      "title": "Undergraduate Internship",
+      "description": "Undergraduate Internship for International Affairs for academic credit.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4698",
+      "courseId": "INTA 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4699",
+      "courseId": "INTA 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4740",
+      "courseId": "INTA 4740",
+      "title": "Seminar in Political Economy",
+      "description": "Capstone experience in which students apply tools of political economy to international issues. Crosslisted with ECOn 4740.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4741",
+      "courseId": "INTA 4741",
+      "title": "Thesis in Political Economy",
+      "description": "Individual project applying the tools of political economy to international issues. Crosslisted with ECON 4741.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4742",
+      "courseId": "INTA 4742",
+      "title": "Modeling, Simulation, and Military Gaming",
+      "description": "Creation and use of modeling and simulation tools to analyze and train students regarding strategic events in international relations.  Credit not allowed for both INTA 4742 and INTA 6742 (or CSE 6742 or CS 4343).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4744",
+      "courseId": "INTA 4744",
+      "title": "Global Development Capstone",
+      "description": "Teams develop solutions to multidisciplinary problems selected from globalization, food security, infrastructure, health, water, sanitation, hygiene, ecosystem resilience, services, capacity building, and urbanization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4745",
+      "courseId": "INTA 4745",
+      "title": "Information and Communication Technologies and Global Development",
+      "description": "Focus on technology, design, adoption, and use as seen through the lens of global development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4803",
+      "courseId": "INTA 4803",
+      "title": "Special Topics",
+      "description": "Selected topics will vary from term to term.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4811",
+      "courseId": "INTA 4811",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4812",
+      "courseId": "INTA 4812",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4813",
+      "courseId": "INTA 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4814",
+      "courseId": "INTA 4814",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4815",
+      "courseId": "INTA 4815",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4823",
+      "courseId": "INTA 4823",
+      "title": "Special Topics",
+      "description": "Selected topics will vary from term to term.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4833",
+      "courseId": "INTA 4833",
+      "title": "Special Topics",
+      "description": "Selected topics will vary from term to term.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4901",
+      "courseId": "INTA 4901",
+      "title": "Special Problems",
+      "description": "Independent study with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4902",
+      "courseId": "INTA 4902",
+      "title": "Special Problems",
+      "description": "Independent study with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "4903",
+      "courseId": "INTA 4903",
+      "title": "Special Problems",
+      "description": "Independent study with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6002",
+      "courseId": "INTA 6002",
+      "title": "Strategic Decision Making",
+      "description": "Examines the dynamics of individual, group, organizational, cross-cultural, and international interaction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6003",
+      "courseId": "INTA 6003",
+      "title": "Empirical Research Methods",
+      "description": "This course introduces research methods in international affairs.  It emphasizes writing research proposals, empirical techniques, gathering and assembling data, and methods for analyzing and reporting results.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6004",
+      "courseId": "INTA 6004",
+      "title": "Modeling, Forecasting, and Decision Making",
+      "description": "This course introduces modeling and forecasting in strategic decision making, analysis of long-term developments, path gaming, formal analysis of games, and simulation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6011",
+      "courseId": "INTA 6011",
+      "title": "International Trade and Technology Transfer",
+      "description": "This course examines the relationship between international trade and technology transfer and their effect on national competitiveness, national security, and international cooperation and coercion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6014",
+      "courseId": "INTA 6014",
+      "title": "Scenario Writing and Path Gaming",
+      "description": "Introduces students to the construction and presentation of formalized scenerios for international planning, and into the formulation, implementation and assessment of path games.  Credit not allowed for both INTA 6014 and INTA 4014.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6015",
+      "courseId": "INTA 6015",
+      "title": "Technology and Military Organizations",
+      "description": "Explores changes in military technology, organization, and operations leading to new conceptions of the conduct of warfare as a result of revolutions in military affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6016",
+      "courseId": "INTA 6016",
+      "title": "Strategy and Arms Control",
+      "description": "Explores elements of military strategy and tactics, weapons proliferation, and arms control efforts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6022",
+      "courseId": "INTA 6022",
+      "title": "Ethics and International Affairs",
+      "description": "An overview of the main tradition and theories of international ethics applied to four major issues: intervention and the use of force; human rights; self- determination; and global distributive justice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6102",
+      "courseId": "INTA 6102",
+      "title": "International Relations Theory",
+      "description": "This course provides an introduction to theoretical approaches to understanding international relations.  The focus of the course is on system-level theories and sub-systematic-level theories.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6103",
+      "courseId": "INTA 6103",
+      "title": "International Security",
+      "description": "Examines traditional and nontraditional issues in international security, including the uses of military force, military strategy and policy, arms control, peacekeeping, the environment, and migration.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6105",
+      "courseId": "INTA 6105",
+      "title": "International Institutional Design",
+      "description": "This course examines international institutions and their effect on foreign policy decision makers. Specific topics include: the theoretical study of cooperation; supranatural organizations and informal institutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6106",
+      "courseId": "INTA 6106",
+      "title": "The State in International Affairs",
+      "description": "Explores various concepts of the state in international affairs as well as the concepts of sovereignty and revolution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6111",
+      "courseId": "INTA 6111",
+      "title": "U.S. Foreign and National Security Strategy",
+      "description": "This course focuses on the design and implementation of U.S. foreign policy and national strategy in the areas of arms control, the Third World, and economic policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6121",
+      "courseId": "INTA 6121",
+      "title": "Seminar In Europe: European Security",
+      "description": "This course examines the history, institutional structure and functions, and current policy challenges facing the North Atlantic Treaty Organization (NATO) and other European security institutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6122",
+      "courseId": "INTA 6122",
+      "title": "Science, Technology and National Security",
+      "description": "Topics in the study of the relationship between national security and the scientific-technological enterprise from diverse perspectives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6131",
+      "courseId": "INTA 6131",
+      "title": "Pacific Security Issues",
+      "description": "Examines past, present, and future security concerns in the Pacific, including the Korean pennisula, Japanese defense, the emergence of China as a military power, and the forward basing of American troops and material.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6202",
+      "courseId": "INTA 6202",
+      "title": "Comparative Politics",
+      "description": "This course surveys the major political types of the late twentieth century world and explores their various development characteristics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6203",
+      "courseId": "INTA 6203",
+      "title": "Comparative Institutional Design",
+      "description": "This course examines the creation, maintenance, and evolution of political institutions, and the ways in which institutions affect policy choice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6302",
+      "courseId": "INTA 6302",
+      "title": "International Political Economy",
+      "description": "This course is an introduction to the politics of international economic relations.  Major theoretical approaches are applied to international trade, international monetary relations, and global production in the modern era.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6306",
+      "courseId": "INTA 6306",
+      "title": "Globalization",
+      "description": "Research seminar exploring theoretical perspectives on globalization and the political and economic issues facing modern states and their citizens in a \"borderless\" world.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6320",
+      "courseId": "INTA 6320",
+      "title": "Seminar in Europe: European Union",
+      "description": "This course explores the history and processes of economic and political integration within the framework of the European Union.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6330",
+      "courseId": "INTA 6330",
+      "title": "Political Economy of East Asia",
+      "description": "This course explores the politics of economic development in China, Japan, and Korea.  Focal issues include: trade patterns, financial institutions, trade-bloc formation, industrial competitiveness, and the status of U.S.-East Asian economic relations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6331",
+      "courseId": "INTA 6331",
+      "title": "Chinese Political Economy",
+      "description": "This course examines the Chinese social and economic development from the seventh century to current day. Specific emphasis is placed on the political economic reforms of Deng Xiaoping and assessing the implications of continued Chinese modernization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6450",
+      "courseId": "INTA 6450",
+      "title": "Data Analytics and Security",
+      "description": "Explores use of big data techniques to problems at the national and international levels.  Topics may include cybersecurity, surveillance, economic development, behavioral prediction and manipulation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6704",
+      "courseId": "INTA 6704",
+      "title": "Introduction to Global Development",
+      "description": "This course introduces students to the goals, theories and key institutional actors involved in the field of Global Development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6720",
+      "courseId": "INTA 6720",
+      "title": "Seminar: Politics Tech & Proliferation",
+      "description": "This seminar course is designed specifically to encourage new thinking and creative effort on nuclear deterrence and strategic \nstability for our global future.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6740",
+      "courseId": "INTA 6740",
+      "title": "Innovation, the State and Industrial Development in International Perspective",
+      "description": "Research seminar exploring the role of the state in industrial development, innovation and business-government relations. Special attention given to science and technology policies and their influence in different international and industrial contexts.  Crosslisted with PUBP 6740.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6742",
+      "courseId": "INTA 6742",
+      "title": "Modeling, Simulation and Military Gaming",
+      "description": "Focuses on the creation and use of modeling and simulation tools to analyze and train students regarding strategic events in international relations. Credit not allowed for both INTA 6742 and CSE 6742 (or INTA 4742 or CS 4343).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6745",
+      "courseId": "INTA 6745",
+      "title": "Information and Communication Technologies and Global Development",
+      "description": "Focus on technology design, adoption, and use as seen through the lens of global development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "6753",
+      "courseId": "INTA 6753",
+      "title": "Comparative Science and Technology Policy",
+      "description": "Examination of the social, political, and cultural contexts of science and technology, and how they affect the research, development, and regulatory policies of nations. Crosslisted with PUBP 6753.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "7000",
+      "courseId": "INTA 7000",
+      "title": "Master's Thesis",
+      "description": "Under the direct supervision of one or more faculty members, graduate students will complete an original research design and execute that study.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8000",
+      "courseId": "INTA 8000",
+      "title": "Seminar in Science, Technology and International Affairs I",
+      "description": "Research course introducing engineers and scientists to issues in science and technology as related to international security policy and development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8001",
+      "courseId": "INTA 8001",
+      "title": "Seminar in Science, Technology and International Affairs II",
+      "description": "Research course introducing engineers and scientists to issues in science and technology as related to international security policy and development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8010",
+      "courseId": "INTA 8010",
+      "title": "International Affairs, Science and Technology Ph.D. Proseminar",
+      "description": "An overview of resources and practices of doctoral research in International Affairs, Science, and Technology. Meetings will consist of faculty guest lectures and talks from Library personnel and others.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8801",
+      "courseId": "INTA 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8802",
+      "courseId": "INTA 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8803",
+      "courseId": "INTA 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8804",
+      "courseId": "INTA 8804",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8805",
+      "courseId": "INTA 8805",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8813",
+      "courseId": "INTA 8813",
+      "title": "Special Topics",
+      "description": "Topics of interest in the field of international affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8815",
+      "courseId": "INTA 8815",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8823",
+      "courseId": "INTA 8823",
+      "title": "Special Topics",
+      "description": "Topics of interest in International Affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8833",
+      "courseId": "INTA 8833",
+      "title": "Special Topics",
+      "description": "Topics of interest in the field of International Affairs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8901",
+      "courseId": "INTA 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8902",
+      "courseId": "INTA 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8903",
+      "courseId": "INTA 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8997",
+      "courseId": "INTA 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students with a teaching assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "8998",
+      "courseId": "INTA 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students with a research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "INTA",
+      "courseNumber": "9000",
+      "courseId": "INTA 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 158,
+  "scrapedAt": "2025-08-16T02:00:40.884Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "2101",
+  "courseId": "ECON 2101",
+  "title": "The Global Economy",
+  "description": "Historical and theoretical understanding of global economy, including international trade, finance, investment production; regional economic integration; economic development; environment, using micro and macro economic principles. Students can receive credit for either ECON 2100 or ECON 2101,or for ECON 2105/2106. Students cannot receive credit for ECON 2100 and ECON 2101 or for ECON 2100 and ECON 2105/2106 or for  ECON 2101 and ECON 2105/2106.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:17.113Z"
+}

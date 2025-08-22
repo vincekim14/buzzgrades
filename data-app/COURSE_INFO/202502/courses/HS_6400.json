@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "HS",
+  "courseNumber": "6400",
+  "courseId": "HS 6400",
+  "title": "Health Systems Practice",
+  "description": "An actual project conducted by individual graduate students within a healthcare institution or a health service organization.  Project has both a faculty and site sponsor.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "HS 6000 Graduate Semester Minimum Grade of D and HS 6100 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:18.970Z"
+}

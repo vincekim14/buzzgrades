@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CSE",
+  "courseNumber": "6243",
+  "courseId": "CSE 6243",
+  "title": "Adv Top Machine Learning",
+  "description": "Advanced machine learning topics including graphical models, kernel methods, boosting, bagging, semi-supervised and active learning, and tensor approach to data analysis.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CSE 6740 Graduate Semester Minimum Grade of D or CS 7641 Graduate Semester Minimum Grade of D or ISYE 6740 Graduate Semester Minimum Grade of D or CS 7616 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:41.521Z"
+}

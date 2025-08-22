@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4243",
+  "courseId": "CS 4243",
+  "title": "Cyber Warfare",
+  "description": "This course provides students with a framework for understanding cyber warfare from a technological and political standpoint.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 3235 Undergraduate Semester Minimum Grade of C and CS 3237 Undergraduate Semester Minimum Grade of C) or INTA 3044 Undergraduate Semester Minimum Grade of D or INTA 2040 Undergraduate Semester Minimum Grade of D or PUBP 3502 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:34.187Z"
+}

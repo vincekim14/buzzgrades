@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "6508",
+  "courseId": "MGT 6508",
+  "title": "Strategic Management",
+  "description": "Strategic management builds on and integrates other functional core courses to understand how firms gain and sustain a competitive advantage. Credit will not be awarded for both MGT 6508 and MGT 6125 or MGT 6508 and MGT 6126.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:05.155Z"
+}

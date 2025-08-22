@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "3120",
+  "courseId": "ECON 3120",
+  "title": "Advanced Macroeconomics",
+  "description": "Develops theories and models of income and output determination in the open economy. Students explore the impacts of fiscal and monetary policies changes on aggregate economic outcomes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2105 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:24.247Z"
+}

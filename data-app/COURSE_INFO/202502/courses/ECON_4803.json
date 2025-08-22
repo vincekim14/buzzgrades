@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "4803",
+  "courseId": "ECON 4803",
+  "title": "Analytics Econ/Fin Value Model",
+  "description": "Courses designed to permit students and a professor to pursue a specialized interest in an area of economics not extensively treated in the offerings of the School.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:27.506Z"
+}

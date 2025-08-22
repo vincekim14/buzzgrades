@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "6050",
+  "courseId": "AE 6050",
+  "title": "Gas Dynamics",
+  "description": "Defining equations for compressible flows, real gas properties and their effect on the behavior of equilibrium and non-equilibrium flows.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 6765 Graduate Semester Minimum Grade of D or ME 6765 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:12.460Z"
+}

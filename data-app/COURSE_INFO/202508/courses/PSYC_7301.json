@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "7301",
+  "courseId": "PSYC 7301",
+  "title": "Multivariate Statistics",
+  "description": "Foundations for multivariate analysis including properties of linear composite variables, multiple regression, multiple and partial correlation, MANOVA, factor analysis, multiple discriminant analysis, canonical correlation, etc.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:42.668Z"
+}

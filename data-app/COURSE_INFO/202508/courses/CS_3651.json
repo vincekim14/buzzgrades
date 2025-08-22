@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "3651",
+  "courseId": "CS 3651",
+  "title": "Prototyping Intelligent Device",
+  "description": "Hands-on course teaching the fundamentals of electronics of electrical and mechanical prototyping.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2031 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:23.439Z"
+}

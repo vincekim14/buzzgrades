@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "4452",
+  "courseId": "ME 4452",
+  "title": "Control Dynamic Systems",
+  "description": "Modeling and simulation of dynamic systems in frequency and time domains.  Feedback control analysis and design methods including root-locus, frequency response, and pole-placement.  Introduction to digital control systems.  Credit not allowed for both ME 4452 and ME 3015. Credit not allowed for both ME 4452 and AE 3531.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3017 Undergraduate Semester Minimum Grade of D or ME 3015 Undergraduate Semester Minimum Grade of D or AE 3515 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:21.945Z"
+}

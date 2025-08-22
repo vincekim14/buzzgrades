@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "4740",
+  "courseId": "ISYE 4740",
+  "title": "Bio-Inspired Design",
+  "description": "We examine evolutionary adaptation as a course for engineering design inspiration, utilizing principles of scaling, adaptability, and robust multifunctionality that characterize biological systems.  Credit not allowed for both ISYE 4740 and (BIOL 4740, or PTFE 4740 or MSE 4740 or ME 4740).",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOL 1520 Undergraduate Semester Minimum Grade of D or BIOL 3600 Undergraduate Semester Minimum Grade of D or BMED 3100 Undergraduate Semester Minimum Grade of D or PHYS 2211 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:59.099Z"
+}

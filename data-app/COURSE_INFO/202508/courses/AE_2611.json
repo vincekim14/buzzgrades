@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "AE",
+  "courseNumber": "2611",
+  "courseId": "AE 2611",
+  "title": "Technical Commun for AE",
+  "description": "Development of technical communication skills required by aerospace engineers. Includes written, oral and visual communication methods.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "AE 2610",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:53.184Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CETL",
+  "courseNumber": "2000",
+  "courseId": "CETL 2000",
+  "title": "Undergraduate  TA  Prep",
+  "description": "This course is an introduction to the procedural information and practical skills needed to be an effective undergraduate teaching assistant.  May be used as free elective credit with department approval.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:35.688Z"
+}

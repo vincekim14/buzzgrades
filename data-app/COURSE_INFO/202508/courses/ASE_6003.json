@@ -1,0 +1,20 @@
+{
+  "term": "202508",
+  "subjectCode": "ASE",
+  "courseNumber": "6003",
+  "courseId": "ASE 6003",
+  "title": "Modeling/Sim Sys Eng",
+  "description": "Introduction to modeling and simulation for systems engineers.  Topics include problem formulation, conceptual modeling, simulation methodologies, verification and validation, DOE, simulation execution, and output analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__Applied Systems Engineering (ASE)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ASE 6001 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:12.807Z"
+}

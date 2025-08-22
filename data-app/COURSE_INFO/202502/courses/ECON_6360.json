@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "6360",
+  "courseId": "ECON 6360",
+  "title": "Development Economics",
+  "description": "Concepts and models of development and growth in Third World countries, emphasizing modeling and testing of recent changes in the Third World . Topics include economic growth, trade and globalization, poverty and inequity, migration, population growth, unemployment, agricultural development, the environment, and the role of the market versus the state.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 6100 Undergraduate Semester Minimum Grade of D or ECON 6106 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:29.283Z"
+}

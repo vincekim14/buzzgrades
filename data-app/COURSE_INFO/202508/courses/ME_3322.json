@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "3322",
+  "courseId": "ME 3322",
+  "title": "Thermodynamics",
+  "description": "Introduction to thermodynamics. Thermodynamic properties, energy and mass conservation, entropy and the second law. Second-law analysis of thermodynamic systems, gas cycles, vapor cycles.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(PHYS 2211 Undergraduate Semester Minimum Grade of C or PHYS 2231 Undergraduate Semester Minimum Grade of C) and (MATH 2403 Undergraduate Semester Minimum Grade of C or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2413 Undergraduate Semester Minimum Grade of C or MATH 2552 Undergraduate Semester Minimum Grade of C or MATH 2X52 Undergraduate Semester Minimum Grade of T or MATH 2562 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:43:17.860Z"
+}

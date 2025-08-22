@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "PSYC",
+  "courseNumber": "6019",
+  "courseId": "PSYC 6019",
+  "title": "Statistical Analysis I",
+  "description": "Introductory treatment of descriptive and inferential statistics as applied to psychological research.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Psychology 6018",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:59.187Z"
+}

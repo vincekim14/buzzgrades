@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "7451",
+  "courseId": "CS 7451",
+  "title": "Hum- Center Data Analysis",
+  "description": "This course covers the role of people in data science and visual data analysis, including cognitive processes, bias, perception, and decision-making theories and frameworks.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:16.629Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "6203",
+  "courseId": "ISYE 6203",
+  "title": "Transp&amp;Supply Chain Sys",
+  "description": "Topics include supply chain characterization, site location, mode selection, distribution planning, vehicle routing, demand management, replenishment management, geographic information systems, and real-time control issues. Credit will not be awarded for both ISYE 6203 and ISYE 6383.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6669 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:36.838Z"
+}

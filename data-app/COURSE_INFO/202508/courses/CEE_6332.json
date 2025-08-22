@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "6332",
+  "courseId": "CEE 6332",
+  "title": "Separation Processes",
+  "description": "Theory and applications of the physical and chemical processes of sorption, membrane separation, and absorption in both gas-phase and liquid-phase environmental engineering systems.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 6310 Graduate Semester Minimum Grade of D and CEE 6312 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:00.282Z"
+}

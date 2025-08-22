@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "6786",
+  "courseId": "ECE 6786",
+  "title": "Medical Imaging Systems",
+  "description": "A study of the principles and design of medical imaging systems such as X-ray, ultrasound, nuclear medicine, and nuclear magnetic resonance. Crosslisted with BMED 6786.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:52.696Z"
+}

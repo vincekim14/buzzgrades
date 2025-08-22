@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "4350",
+  "courseId": "EAS 4350",
+  "title": "Paleoclim &amp; Paleocean",
+  "description": "This course will explore the history of the Earth's climate, covering methods for reconstructing past climate and the mechanisms behind these climate changes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:08.954Z"
+}

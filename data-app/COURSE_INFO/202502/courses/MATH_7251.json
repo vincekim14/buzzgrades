@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "7251",
+  "courseId": "MATH 7251",
+  "title": "High-Dim Probability",
+  "description": "The goal of this PhD level graduate course is to provide a rigorous introduction to the methods of high-dimensional probability.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:21.197Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "3404",
+  "courseId": "LMC 3404",
+  "title": "Social Media",
+  "description": "Students learn the cultural history, theory, and practice of social media in a variety of settings, and its impact on personal, professional, and political life.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:07.677Z"
+}

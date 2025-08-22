@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "4015",
+  "courseId": "ECE 4015",
+  "title": "ECE One Sem Culminat Des",
+  "description": "A single-semester ECE culminating design experience forming ECE-only teams, proposing, prototyping, testing, demonstrating, formally presenting and documenting projects incorporating engineering standards and realistic constraints.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 3011 Undergraduate Semester Minimum Grade of C) and ((ECE 3025 Undergraduate Semester Minimum Grade of C and ECE 3040 Undergraduate Semester Minimum Grade of C) or (ECE 3058 Undergraduate Semester Minimum Grade of C))",
+  "lastUpdated": "2025-08-20T02:39:34.938Z"
+}

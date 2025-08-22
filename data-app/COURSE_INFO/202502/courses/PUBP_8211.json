@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "8211",
+  "courseId": "PUBP 8211",
+  "title": "Microeconomic Theory",
+  "description": "Extensions of microeconomic theory-consumer theory, firm theory, and markets-to situations involving many periods and uncertainty.  Introduces students to general equilibrium, externality, and welfare economics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:59.573Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "NRE",
+  "courseNumber": "4234",
+  "courseId": "NRE 4234",
+  "title": "Nuc Criticality Safe Eng",
+  "description": "This course covers the theoretical concepts, the computational techniques, and the principal methods of criticality safety.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "NRE 4204 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:13.238Z"
+}

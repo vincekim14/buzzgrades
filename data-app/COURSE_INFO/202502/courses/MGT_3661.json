@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3661",
+  "courseId": "MGT 3661",
+  "title": "Adv Concepts-Int&#39;l Bus",
+  "description": "Covers significant aspects of international business with a particular focus on the challenges associated with transnational corporations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3660 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:25.731Z"
+}

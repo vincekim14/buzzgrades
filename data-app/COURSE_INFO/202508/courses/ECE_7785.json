@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "7785",
+  "courseId": "ECE 7785",
+  "title": "Intro Robotics Research",
+  "description": "Familiarizes students with the core areas of robotics; mechanics, control, perception, AI, and autonomy. Provides an introduction to the mathematical tools required in robotics research.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:54.140Z"
+}

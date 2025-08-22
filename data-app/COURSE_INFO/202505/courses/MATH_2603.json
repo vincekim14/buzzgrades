@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MATH",
+  "courseNumber": "2603",
+  "courseId": "MATH 2603",
+  "title": "Intro Discrete Math",
+  "description": "Mathematical logic and proof, mathematical induction, counting methods, recurrence relations, algorithms and complexity, graph theory and graph algorithms. Credit not awarded for both MATH 2603 and MATH 2602.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or MATH 1504 Undergraduate Semester Minimum Grade of D or MATH 1555 Undergraduate Semester Minimum Grade of D or MATH 1552 Undergraduate Semester Minimum Grade of D or MATH 15X2 Undergraduate Semester Minimum Grade of T or MATH 1X52 Undergraduate Semester Minimum Grade of T",
+  "lastUpdated": "2025-08-20T02:41:48.341Z"
+}

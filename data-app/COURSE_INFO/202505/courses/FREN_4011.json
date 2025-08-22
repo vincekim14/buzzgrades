@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "FREN",
+  "courseNumber": "4011",
+  "courseId": "FREN 4011",
+  "title": "French Art",
+  "description": "This course will thematically explore French visual, conceptual, and performance art in the historical, theoretical, and cultural contexts of production and reception.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:03.669Z"
+}

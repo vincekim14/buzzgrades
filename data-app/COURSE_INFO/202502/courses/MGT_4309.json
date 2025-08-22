@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4309",
+  "courseId": "MGT 4309",
+  "title": "Services Marketing",
+  "description": "Explores how many of the traditional marketing models can be adapted to the marketing of services, as well as introducing entirely new concepts and frameworks specifically applicable to services and services marketing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3300 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:32.250Z"
+}

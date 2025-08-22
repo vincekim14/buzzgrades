@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "NEUR",
+  "courseNumber": "3231",
+  "courseId": "NEUR 3231",
+  "title": "Intro Neuroengineering",
+  "description": "An introduction to the intersection between neuroscience and neurotechnology, including identification of key aspects of the nervous system as the basis for measurement and intervention.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BIOS 4401 Undergraduate Semester Minimum Grade of D or PSYC 2020 Undergraduate Semester Minimum Grade of D) and (CS 1301 Undergraduate Semester Minimum Grade of D or CS 1371 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:44:03.140Z"
+}

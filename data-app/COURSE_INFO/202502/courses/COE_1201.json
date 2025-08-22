@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "COE",
+  "courseNumber": "1201",
+  "courseId": "COE 1201",
+  "title": "Design Thinking &amp; Innov",
+  "description": "A project-based learning course to develop problem solving skills using design thinking with multidisciplinary teams to tackle Grand Challenges facing humanity.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PUBP 1142 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:15.717Z"
+}

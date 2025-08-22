@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "6393",
+  "courseId": "AE 6393",
+  "title": "Intro to Sys of Sys Eng",
+  "description": "Introduce students to the development and analysis of complex System of Systems, and their practical application to formulate Grand Challenge projects.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:31.457Z"
+}

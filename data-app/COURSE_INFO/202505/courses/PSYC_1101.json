@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "PSYC",
+  "courseNumber": "1101",
+  "courseId": "PSYC 1101",
+  "title": "Intro to Gen Psyc",
+  "description": "A broad survey of the major topics in psychology including, but not limited to, research methodology, biological and social factors influencing behavior, development, learning, memory, personality, and abnormal.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:18.971Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "3103",
+  "courseId": "MGT 3103",
+  "title": "Leadership-Changing Env",
+  "description": "The course focuses on the leadership challenges posed by recent changes in the business environment, and on the skills needed to adapt to those changes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3101 Undergraduate Semester Minimum Grade of D or MGT 3102 Undergraduate Semester Minimum Grade of D or MGT 3150 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:46.313Z"
+}

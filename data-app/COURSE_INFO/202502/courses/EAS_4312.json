@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "4312",
+  "courseId": "EAS 4312",
+  "title": "Geodynamics",
+  "description": "Quantitative discussion of dynamic processs in the solid Earth; lithospheric dynamics, continuum mechanics, lithospheric flexure and elasticity, heat transfer, viscous rheology, fluid mechanics, and earthquake dynamics.  Credit not allowed for both EAS 4312 and EAS 6312.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "EAS 3610 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:14.729Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4515",
+  "courseId": "BIOS 4515",
+  "title": "Community Ecology",
+  "description": "An advanced ecology course that covers classic and contemporary concepts, patterns, and processes in the field of community ecology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOS 2335 Undergraduate Semester Minimum Grade of D or BIOL 2337 Undergraduate Semester Minimum Grade of D or BIOS 2300 Undergraduate Semester Minimum Grade of D or BIOS 2310 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:45.691Z"
+}

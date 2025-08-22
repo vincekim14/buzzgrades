@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4731",
+  "courseId": "CS 4731",
+  "title": "Game AI",
+  "description": "Examines the expressive possibilities of artificial intelligence techniques in computer games. Students learn AI programming techniques, and how they strongly interface with game design.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3600 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:32.503Z"
+}

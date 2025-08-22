@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "LMC",
+  "courseNumber": "3308",
+  "courseId": "LMC 3308",
+  "title": "Environment Ecocritic",
+  "description": "Surveys the emergence of ecocriticism as an analytical framework for interpreting the verbal and visual rhetorics of environmentalism in both western and nonwestern cultures.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:00.812Z"
+}

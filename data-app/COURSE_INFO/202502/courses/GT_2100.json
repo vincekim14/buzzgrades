@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "GT",
+  "courseNumber": "2100",
+  "courseId": "GT 2100",
+  "title": "Student Success Seminar",
+  "description": "This academic skills seminar is designed to help students develop personalized strategies for success within the rigorous academic environment at Georgia Tech. This is a non-credit bearing course which cannot be used toward degree requirements.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:10.840Z"
+}

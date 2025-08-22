@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MUSI",
+  "courseNumber": "3311",
+  "courseId": "MUSI 3311",
+  "title": "Jazz Ensemble",
+  "description": "Jazz Ensemble explores music from the 1920's to the present, focusing on ensemble playing and improvisation.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:52.792Z"
+}

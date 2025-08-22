@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "3322R",
+  "courseId": "ME 3322R",
+  "title": "ME 3322 Recitation",
+  "description": "Recitation for ME 3322",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ME 3322",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:46.000Z"
+}

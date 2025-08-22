@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "4759",
+  "courseId": "MSE 4759",
+  "title": "Electrochem Storage",
+  "description": "An elective class for senior-level students interested in electrochemical storage and conversion, including the fundamentals of electrochemistry and practical battery and fueld cells. Cross-listed with ChBE and ME 4759.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:59.914Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "8803",
+  "courseId": "PSYC 8803",
+  "title": "Programming Brain &amp; Behavior",
+  "description": "Covers current issues and recent advances in the application of statistical methods to research in psychology.  Instructors select the specific focus for a given term.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:45.477Z"
+}

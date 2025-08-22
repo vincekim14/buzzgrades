@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "LMC",
+  "courseNumber": "6316",
+  "courseId": "LMC 6316",
+  "title": "Historical Approahces Di",
+  "description": "Examines digital media in the context of earlier media, such as handwriting and printing as well as photography, radio, film, and television. Students cannot receive credit for LMC 6316 and LCC 6316.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:07.493Z"
+}

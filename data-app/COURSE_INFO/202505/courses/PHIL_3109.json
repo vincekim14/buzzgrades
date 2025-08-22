@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "PHIL",
+  "courseNumber": "3109",
+  "courseId": "PHIL 3109",
+  "title": "Engineering Ethics",
+  "description": "Ethical reasoning in the context of professional work in science and technology.  Prepares future technical professionals to approach decision with a coherent ethical framework.  Credit not allowed for both PHIL 3109 and PST 3109.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:13.472Z"
+}

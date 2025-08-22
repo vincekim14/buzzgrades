@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PHYS",
+  "courseNumber": "6211",
+  "courseId": "PHYS 6211",
+  "title": "Condensed Matter Phys II",
+  "description": "Collective and many-electron properties in condensed matter systems.  Topics include second quantization, magnetism, phase transitions, and superconductivity.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 6210 Graduate Semester Minimum Grade of U",
+  "lastUpdated": "2025-08-20T02:43:29.116Z"
+}

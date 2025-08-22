@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "6790",
+  "courseId": "ECE 6790",
+  "title": "Info Proc Model Neur Sys",
+  "description": "Examines \"top-down\" modeling approaches for sensorineural systems, where optimal computational principles used in engineering(e.g., information theory, Bayesian inference, control theory) explain observed information processing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2026 Undergraduate Semester Minimum Grade of C and (ECE 3075 Undergraduate Semester Minimum Grade of C or ECE 3077 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:39:24.426Z"
+}

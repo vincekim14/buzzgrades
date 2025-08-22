@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "3412",
+  "courseId": "CHEM 3412",
+  "title": "Physical Chemistry II",
+  "description": "Quantum mechanics, atomic and molecular structure, bonding theory, molecular spectroscopy, statistical mechanics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHEM 1311 Undergraduate Semester Minimum Grade of D or CHEM 1212K Undergraduate Semester Minimum Grade of D) and PHYS 2212 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:33.890Z"
+}

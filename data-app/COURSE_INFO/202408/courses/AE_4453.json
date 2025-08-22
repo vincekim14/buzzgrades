@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "4453",
+  "courseId": "AE 4453",
+  "title": "Adv Aircraft Propulsion",
+  "description": "Analysis, preliminary design of turbomachinery and combustors for aircraft; engine design, off-design performance. Introduction to advanced architectures: including scramjets, pressure gain combustion, electric propulsion.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 4451 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:26.604Z"
+}

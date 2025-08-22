@@ -1,0 +1,20 @@
+{
+  "term": "202408",
+  "subjectCode": "ASE",
+  "courseNumber": "6111",
+  "courseId": "ASE 6111",
+  "title": "Analysis &amp; Synth-Sensors",
+  "description": "Defines, classifies, and examines technology used in stand-alone sensor systems.  Centers on system-engineering trades useful in designing systems of sensors and systems of systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__Applied Systems Engineering (ASE)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ASE 6004 Graduate Semester Minimum Grade of D and ASE 6006 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:41.465Z"
+}

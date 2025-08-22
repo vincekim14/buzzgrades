@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "7292",
+  "courseId": "CS 7292",
+  "title": "Reliable Secure Comparch",
+  "description": "Hardware support for process isolation, virtualization, debugging, and protection from side-channel attacks. Faults and failures, error tolerance, error rate budgeting, lifetime realiability of devices.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 6290 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:54.032Z"
+}

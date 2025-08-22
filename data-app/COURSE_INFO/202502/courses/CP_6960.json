@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CP",
+  "courseNumber": "6960",
+  "courseId": "CP 6960",
+  "title": "Urb Analyt Capstone Prep",
+  "description": "Students prepare to execute a major professional project using urban analytics methodologies and communicate the project results in written, graphic, and public presentation formats.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:53.927Z"
+}

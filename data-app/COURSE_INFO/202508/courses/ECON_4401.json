@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "4401",
+  "courseId": "ECON 4401",
+  "title": "Behavioral Economics",
+  "description": "Human psychology and the rational choice models of economics are joined to better understand human decision-making.  Students will design and execute their own experiments.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of C or ECON 2101 Undergraduate Semester Minimum Grade of C or ECON 2105 Undergraduate Semester Minimum Grade of C or ECON 2106 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:19.960Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "INTA",
+  "courseNumber": "4740",
+  "courseId": "INTA 4740",
+  "title": "Sem-Political Economy",
+  "description": "Capstone experience in which students apply tools of political economy to international issues. Crosslisted with ECOn 4740.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "INTA 3301 Undergraduate Semester Minimum Grade of D and (ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2105 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:41:35.314Z"
+}

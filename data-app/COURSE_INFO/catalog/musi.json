@@ -1,0 +1,721 @@
+{
+  "subject": "MUSI",
+  "subjectName": "Music (MUSI)",
+  "url": "https://catalog.gatech.edu/coursesaz/musi/",
+  "courses": [
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "1801",
+      "courseId": "MUSI 1801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2010",
+      "courseId": "MUSI 2010",
+      "title": "Fundamentals of Musicianship I",
+      "description": "First semester of integrated sequence in music theory, aural training, music technology, and music literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2011",
+      "courseId": "MUSI 2011",
+      "title": "Fundamentals of Musicianship II",
+      "description": "Second semester of integrated sequence in music theory, aural training, music technology, and music literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2012",
+      "courseId": "MUSI 2012",
+      "title": "Fundamentals of Musicianship III",
+      "description": "The third semester of integrated sequence in music theory, aural training, music technology, and music literature; focused on advanced theory, history, and technology topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2013",
+      "courseId": "MUSI 2013",
+      "title": "Fundamentals of Musicianship IV",
+      "description": "The fourth semester of integrated sequence in music theory, aural training, music technology, and music literature; focused on comprehensive and innovative music discussions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2015",
+      "courseId": "MUSI 2015",
+      "title": "Laptop Orchestra",
+      "description": "Analysis, rehearsal, creation, and performance of music for laptop orchestra.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2100",
+      "courseId": "MUSI 2100",
+      "title": "History of Popular Music: 1960–Present",
+      "description": "History of Pop music from 1960–present. American, European, and Afro-diasporic music explored in context with political and socioeconomic structures. Includes creation of original music.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2525",
+      "courseId": "MUSI 2525",
+      "title": "Introduction Audio Technology I",
+      "description": "Critical understanding of, and hands-on experience with the fundamentals of analog audio technology. Topics include signals and systems, electro-acoustics, sound effects, synthesis and music protocols.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2526",
+      "courseId": "MUSI 2526",
+      "title": "Introduction to Audio Technology II",
+      "description": "Critical understanding of, and hands-on experience with the fundamentals of digital audio technology. Topics include sampling, quantization, digital effects, music information retrieval and audio coding.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2698",
+      "courseId": "MUSI 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2699",
+      "courseId": "MUSI 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "2700",
+      "courseId": "MUSI 2700",
+      "title": "Introduction to Music Theory",
+      "description": "Introduction to music theory including basic notation, scales, key signatures, trials, roman numeral analysis, and voice leading in four-part harmony.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3018",
+      "courseId": "MUSI 3018",
+      "title": "Marching Band",
+      "description": "This course will prepare various traditional and contemporary music for scheduled performances throughout the semester in support various athletic events and School of Music concerts.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3019",
+      "courseId": "MUSI 3019",
+      "title": "Pep Band",
+      "description": "This course will prepare a variety of traditional and contemporary music for scheduled performances throughout the semester in support of various athletic events and School of Music concerts.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3121",
+      "courseId": "MUSI 3121",
+      "title": "Concert Band",
+      "description": "An advanced instrumental ensemble performing traditional and contemporary wind literature. Offered to all students with woodwind, brass, or percussion experience. Audition required.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3131",
+      "courseId": "MUSI 3131",
+      "title": "Symphonic Band",
+      "description": "An advanced instrumental ensemble performing traditional and contemporary wind literature. Offered to all students with woodwind, brass, or percussion experience. Audition required.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3231",
+      "courseId": "MUSI 3231",
+      "title": "Chamber Choir",
+      "description": "An auditioned mixed ensemble focused upon the rehearsal, study and performance of choral music. Repertoire varies from various style eras and genres.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3241",
+      "courseId": "MUSI 3241",
+      "title": "Chorale",
+      "description": "A non-auditioned mixed ensemble focused upon the rehearsal, study and performance of choral music. Repertoire varies from various style eras and genres.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3251",
+      "courseId": "MUSI 3251",
+      "title": "Glee Club",
+      "description": "A non-auditioned male ensemble focused upon the rehearsal, study and performance of choral music. Repertoire varies from various style eras and genres.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3261",
+      "courseId": "MUSI 3261",
+      "title": "Treble Choir",
+      "description": "A non-auditioned TREBLE ensemble focused upon the rehearsal, study and performance of choral music. Repertoire varies from various style eras and genres.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3311",
+      "courseId": "MUSI 3311",
+      "title": "Jazz Ensemble",
+      "description": "Jazz Ensemble explores music from the 1920's to the present, focusing on ensemble playing and improvisation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3321",
+      "courseId": "MUSI 3321",
+      "title": "Jazz Combo",
+      "description": "Jazz Combos explore small group jazz focusing on ensemble playing and improvisation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3411",
+      "courseId": "MUSI 3411",
+      "title": "Chamber Ensemble",
+      "description": "An advanced ensemble performing traditional and contemporary chamber ensemble literature. Audition and permit required.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3450",
+      "courseId": "MUSI 3450",
+      "title": "Survey of Music Technology",
+      "description": "Creative practices and technical pursuits in the inherently interdisciplinary world of music technology. Hands-on projects which explore key concepts, essential tools, and creative techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3511",
+      "courseId": "MUSI 3511",
+      "title": "Percussion Ensemble",
+      "description": "An advanced instrumental ensemble performing traditional and contemporary percussion literature. Offered to all students with percussion experience. Audition required.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3531",
+      "courseId": "MUSI 3531",
+      "title": "New Music Ensemble",
+      "description": "An advanced instrumental chamber ensemble that performs new and contemporary literature often using technology. Offered to all students with advanced performing experience. Audition required.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3541",
+      "courseId": "MUSI 3541",
+      "title": "Electronic Percussion Ensemble",
+      "description": "An advanced instrumental ensemble performing percussion literature using student designed and built instruments, interfaces and software, as well as commercially available controllers. Offered to all students with percussion experience. Audition required.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3551",
+      "courseId": "MUSI 3551",
+      "title": "Rock and Pop Ensemble",
+      "description": "A contemporary popular music ensemble performing historical and current popular music. Offered to all students with advanced performing experience. Audition required.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3611",
+      "courseId": "MUSI 3611",
+      "title": "Symphony Orchestra",
+      "description": "An advanced instrumental ensemble performing traditional and contemporary literature. Offered to all students with string, woodwind, brass, or percussion experience. Audition required.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3621",
+      "courseId": "MUSI 3621",
+      "title": "Musicians & their Music",
+      "description": "An historical survey of music, including analytical listening and cultural context. No prior experience needed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3630",
+      "courseId": "MUSI 3630",
+      "title": "The History of Jazz, the Roots and Evolution of an American Musical Art Form",
+      "description": "The history of the American musical art form, Jazz, from its roots within African American work songs through fusion and new directions in jazz.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3770",
+      "courseId": "MUSI 3770",
+      "title": "Project Studio: Technology",
+      "description": "Thematic project in music technology driven by a foundational research question.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3771",
+      "courseId": "MUSI 3771",
+      "title": "Project Studio:Analysis",
+      "description": "Thematic project connecting music theory, musicology, performance practice and musicianship through intensive study of a single musical genre or composer.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3801",
+      "courseId": "MUSI 3801",
+      "title": "Special Topics",
+      "description": "Special ad hoc courses or projects not included in regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3802",
+      "courseId": "MUSI 3802",
+      "title": "Special Topics",
+      "description": "Special ad hoc courses or projects not included in regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "3803",
+      "courseId": "MUSI 3803",
+      "title": "Special Topics",
+      "description": "Special ad hoc courses or projects not included in regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4450",
+      "courseId": "MUSI 4450",
+      "title": "Integrating Music Into Multimedia",
+      "description": "Techniques for effectively utilizing music and audio in the context of digital multimedia.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4456",
+      "courseId": "MUSI 4456",
+      "title": "Music Technology History and Repertoire",
+      "description": "Overview of the history, aesthetics, and technology of electronic and computer music over the past century through selected readings, musical analysis, and individual research projects. Credit will not be awarded for both MUSI 4456 and MUSI 6003.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4457",
+      "courseId": "MUSI 4457",
+      "title": "Audio Content Analysis",
+      "description": "The course will survey fundamental techniques in the fast-growing area of Music Information Retrieval (MIR). Credit will not be awarded for both MUSI 4457 and MUSI 6201.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4458",
+      "courseId": "MUSI 4458",
+      "title": "Computer Music Composition",
+      "description": "Realization of individual composition projects in music technology and consideration of related theory, aesthetics, and repertoire. Credit will not be awarded for both MUSI 4458 and MUSI 6304.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4459",
+      "courseId": "MUSI 4459",
+      "title": "Digital Signal Processing for Music",
+      "description": "This course will cover elements of digital audio signal processing, such as spectra, digital filters, Fourier analysis and their application to music synthesis and analysis. Credit will not be awarded for both MUSI 4459 and MUSI 6202.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4460",
+      "courseId": "MUSI 4460",
+      "title": "Computational Music Analysis: Symbolic",
+      "description": "Introduction to computational music analysis for symbolic-music data, covering the main aspects of symbolic data representations, softwares and toolkits, and common methodologies in computational musicology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4630",
+      "courseId": "MUSI 4630",
+      "title": "Music Recording and Mixing",
+      "description": "Overview of concepts, techniques, hardware, and software used in audio production, as well as aesthetic concerns and considerations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4650",
+      "courseId": "MUSI 4650",
+      "title": "Music and Sound Design",
+      "description": "An investigation of principles and practice of audio and music design, in both contemporary digital and traditional analog systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4670",
+      "courseId": "MUSI 4670",
+      "title": "Music Interface Design",
+      "description": "Theory and practice of designing and prototyping new forms of music interfaces, including percussion, haptic, and augmented traditional constructs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4677",
+      "courseId": "MUSI 4677",
+      "title": "Music Perception and Cognition",
+      "description": "The course will examine how humans process musical sound, covering the basics of the human auditory system and the experience of musical sound. Credit will not be awarded for both MUSI 4677 and MUSI 6001.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4698",
+      "courseId": "MUSI 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4699",
+      "courseId": "MUSI 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4705",
+      "courseId": "MUSI 4705",
+      "title": "Music Technology Capstone I",
+      "description": "Students will implement their broad theoretical and practical knowledge and understanding of music technology in a hands-on project, culminating in public presentation.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4706",
+      "courseId": "MUSI 4706",
+      "title": "Music Technology Capstone II",
+      "description": "Students will implement their broad theoretical and practical knowledge and understanding of music technology in a hands on project, culminating in a public and industry presentation.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4801",
+      "courseId": "MUSI 4801",
+      "title": "Special Topics",
+      "description": "Special ad hoc courses or projects not included in regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4802",
+      "courseId": "MUSI 4802",
+      "title": "Special Topics",
+      "description": "Special ad hoc courses or projects not included in regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4803",
+      "courseId": "MUSI 4803",
+      "title": "Special Topics",
+      "description": "Special ad hoc courses or projects not included in regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4813",
+      "courseId": "MUSI 4813",
+      "title": "Special Topics",
+      "description": "Special ad hoc courses or projects not included in regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4823",
+      "courseId": "MUSI 4823",
+      "title": "Special Topics",
+      "description": "Special ad hoc courses or projects included in regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4833",
+      "courseId": "MUSI 4833",
+      "title": "Special Topics",
+      "description": "Special ad hoc courses or projects not included in regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "4843",
+      "courseId": "MUSI 4843",
+      "title": "Special Topics",
+      "description": "Special Topics in MUSI.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6001",
+      "courseId": "MUSI 6001",
+      "title": "Music Perception and Cognition",
+      "description": "This course examines how humans process musical sound, including topics such as the auditory system, psychacoustics, music cognition, and psychology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6002",
+      "courseId": "MUSI 6002",
+      "title": "Computer Supported Interactive Music",
+      "description": "Theoretical and practical issues in computer supported interactive music. The course involves readings, class discussions, student presentations, and the design of a final project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6003",
+      "courseId": "MUSI 6003",
+      "title": "Music Technology History and Repertoire",
+      "description": "Overview of the history, aesthetics, and technology of electronic and computer music over the past century through selected readings, musical analysis, and individual research projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6004",
+      "courseId": "MUSI 6004",
+      "title": "Technology Ensemble",
+      "description": "Practice and performance of original and repertoire works in live audio settings using commercial and propriety technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6005",
+      "courseId": "MUSI 6005",
+      "title": "Music Ensemble for Graduate Students",
+      "description": "The graduate level of any music ensemble.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6103",
+      "courseId": "MUSI 6103",
+      "title": "Music Recording and Mixing",
+      "description": "Overview of concepts, techniques, hardware, and software used in audio production as well as aesthetic concerns and considerations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6104",
+      "courseId": "MUSI 6104",
+      "title": "Integrating Music into Multimedia",
+      "description": "To familiarize students with the tools and techniques for effectively utilizing music and audio in the context of digital multimedia and the internet.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6105",
+      "courseId": "MUSI 6105",
+      "title": "Digital Media Production and Mastering",
+      "description": "Tools and techniques for effectively mastering, optimizing, finalizing, and producing digital media for multimedia and the Internet.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6106",
+      "courseId": "MUSI 6106",
+      "title": "Audio Software Engineering",
+      "description": "Introduction to software engineering for audio-related software projects, covering the main aspects of music software production with a focus on music processing, audio plugin interfaces, and real-time systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6201",
+      "courseId": "MUSI 6201",
+      "title": "Audio Content Analysis",
+      "description": "This class addresses theory and techniques of Music Information Retrieval (MIR). Topics include computational analysis of audio signals, symbolic representations, and pattern recognition techniques. Credit will not be awarded for both MUSI 6201 and MUSI 4457.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6202",
+      "courseId": "MUSI 6202",
+      "title": "Digital Signal Processing for Music Analysis and Synthesis",
+      "description": "Research in music, as well as music production and composition increasingly relies on sophiticated digital signal processing techniques. This course will review fundamental elements of digital audio signal processing, such as sinusoids, spectra, digital filters, and Fourier analysis and their application to the fundamental music analysis problems of modeling and synthesis. The course will focus particularly on the algorithmic implementation sound transformation and synthesis techniques through intensive programming assignments in Matlab and CSound.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6203",
+      "courseId": "MUSI 6203",
+      "title": "Project Studio in Music Technology",
+      "description": "Discussion, design and development of computer music applications and performance controllers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6204",
+      "courseId": "MUSI 6204",
+      "title": "Computational Music Analysis: Symbolic",
+      "description": "Introduction to computational music analysis for symbolic-music data, covering the main aspects of symbolic data representations, softwares and toolkits, and common methodologies in computational musicology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6301",
+      "courseId": "MUSI 6301",
+      "title": "Music Interface Design",
+      "description": "Theory and practice of designing and prototyping new forms of music interfaces including percussion, haptic, and augmented traditional constructs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "6304",
+      "courseId": "MUSI 6304",
+      "title": "Computer Music Composition",
+      "description": "Realization of individual composition projects in music technology and consideration of related theory, aesthetics, and repertoire. Credit will not be awarded for both MUSI 6304 and MUSI 4458.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "7000",
+      "courseId": "MUSI 7000",
+      "title": "Master's Thesis",
+      "description": "Advisor guided thesis writing.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "7100",
+      "courseId": "MUSI 7100",
+      "title": "Music Technology Research Laboratory",
+      "description": "Advisor guided research and creative work in music technology. Investigation of novel technological and artistic concepts. Design and develop new hardware, software, and musical artifacts.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "7998",
+      "courseId": "MUSI 7998",
+      "title": "Preparation for Qualifying Paper",
+      "description": "Preparation of qualifying paper for Ph.D. in Music Technology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "7999",
+      "courseId": "MUSI 7999",
+      "title": "Preparation for Qualifying Examination",
+      "description": "Preparation for qualifying examinations for Ph.D. in Music Technology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8001",
+      "courseId": "MUSI 8001",
+      "title": "Research Methods",
+      "description": "Theoretical and practical issues in music technology research including design patterns, data sets, quantitative and qualitative evaluation standards, proper citation, and print and oral presentation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8002",
+      "courseId": "MUSI 8002",
+      "title": "Apprentice Teaching",
+      "description": "Pedagogical approaches to music technology, focusing on hands-on teaching experience.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8801",
+      "courseId": "MUSI 8801",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8802",
+      "courseId": "MUSI 8802",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8803",
+      "courseId": "MUSI 8803",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8804",
+      "courseId": "MUSI 8804",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8805",
+      "courseId": "MUSI 8805",
+      "title": "Special Topics",
+      "description": "Topics of current interest.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8901",
+      "courseId": "MUSI 8901",
+      "title": "Special Problems",
+      "description": "individualized study with an advisor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8902",
+      "courseId": "MUSI 8902",
+      "title": "Special Problems",
+      "description": "Individualized study with an advisor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8903",
+      "courseId": "MUSI 8903",
+      "title": "Special Problems",
+      "description": "individualized study with an advisor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8997",
+      "courseId": "MUSI 8997",
+      "title": "Teaching Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "8998",
+      "courseId": "MUSI 8998",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MUSI",
+      "courseNumber": "9000",
+      "courseId": "MUSI 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 89,
+  "scrapedAt": "2025-08-16T02:00:46.303Z"
+}

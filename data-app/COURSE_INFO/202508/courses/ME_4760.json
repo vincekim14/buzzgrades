@@ -1,0 +1,20 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "4760",
+  "courseId": "ME 4760",
+  "title": "Acoustics&amp; Noise Control",
+  "description": "Study of acoustics related to noise and its control; acoustic terminology, wave propagation, wave equation solutions, instrumentation, data processing, room acoustics, noise control, hearing, noise legislation. Crosslisted with AE 4760.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Colleges:",
+    "__DETAIL_0__College of Engineering (E)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)",
+    "__HEADER_2__Must be enrolled in one of the following Classes:",
+    "__DETAIL_2__Senior (SR)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T",
+  "lastUpdated": "2025-08-20T02:43:24.690Z"
+}

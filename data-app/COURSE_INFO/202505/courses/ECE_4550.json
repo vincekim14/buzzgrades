@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECE",
+  "courseNumber": "4550",
+  "courseId": "ECE 4550",
+  "title": "Control System Design",
+  "description": "Design of control algorithms using state-space methods, microcontroller implementation of control algorithms, and laboratory projects emphasizing motion control applications.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 2031 Undergraduate Semester Minimum Grade of C or ECE 20X2 Undergraduate Semester Minimum Grade of T) and (ECE 3550 Undergraduate Semester Minimum Grade of C or ECE 3085 Undergraduate Semester Minimum Grade of C or ECE 3084 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:39:54.129Z"
+}

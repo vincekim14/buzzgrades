@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "4411",
+  "courseId": "CHBE 4411",
+  "title": "Process Control",
+  "description": "Dynamics of chemical processes and their control. Techniques of conventional process control as well as digital control.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHBE 3210 Undergraduate Semester Minimum Grade of C or CHBE 3215 Undergraduate Semester Minimum Grade of C) and CHBE 3225 Undergraduate Semester Minimum Grade of C and (CHBE 4300 Undergraduate Semester Minimum Grade of C or CHBE 4320 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:37:14.118Z"
+}

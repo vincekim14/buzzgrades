@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MSE",
+  "courseNumber": "6795",
+  "courseId": "MSE 6795",
+  "title": "Math,Stat&amp;Comp Tech-Mate",
+  "description": "Fundamental physical, analytical, and mathematical techniques encountered in materials engineering including stress and strain, crystallographic and orientation transformations, X-ray, TEM, and solid-state concepts are emphasized. Crosslisted with ME and PTFE 6795.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:43.937Z"
+}

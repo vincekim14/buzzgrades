@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "3050",
+  "courseId": "INTA 3050",
+  "title": "Global Citizenship",
+  "description": "Explore the meaning of global citizenship in scholarly and public debates and how it is \"practiced\" by individuals and \"institutionalized\" by universities, corporations and organizations.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:04.475Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CP",
+  "courseNumber": "6552",
+  "courseId": "CP 6552",
+  "title": "Design Smart Urb Systems",
+  "description": "The course integrates data analytics, systems science and urban design. It covers theories, methods, modeling tools and case studies in the context of smart cities.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:52.410Z"
+}

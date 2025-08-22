@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "4042",
+  "courseId": "ME 4042",
+  "title": "Interactive Cad &amp; Cae",
+  "description": "Principles of geometric modeling and finite-element method; interactive CAD and CAE software tools. CAD and CAE applications in thermal and mechanical design problems. Design projects.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3180 Undergraduate Semester Minimum Grade of D and ME 3345 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:47.640Z"
+}

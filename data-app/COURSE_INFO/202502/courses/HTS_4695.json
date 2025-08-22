@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "HTS",
+  "courseNumber": "4695",
+  "courseId": "HTS 4695",
+  "title": "HTS Internship-Credit",
+  "description": "Unpaid undergraduate internship for which the student receives pass/fail credit.  Juniors and seniors only.",
+  "creditHours": "1 to 12",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:27.351Z"
+}

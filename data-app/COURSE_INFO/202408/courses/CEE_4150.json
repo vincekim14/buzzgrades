@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4150",
+  "courseId": "CEE 4150",
+  "title": "Constr Mgt &amp; Megaprojects",
+  "description": "Covers planning and development of megaprojects. Addresses social, environmental, and economic impacts of megaprojects. Discusses cultural differences & ethical issues in managing megaprojects.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:21.940Z"
+}

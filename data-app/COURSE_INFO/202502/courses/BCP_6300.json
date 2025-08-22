@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BCP",
+  "courseNumber": "6300",
+  "courseId": "BCP 6300",
+  "title": "Indus Hyg &amp; Health Prin",
+  "description": "This course provides an overview of the industrial hygiene discipline, which is the science of anticipation, recognition, evaluation, communication and control of occupational health stressors.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:07.006Z"
+}

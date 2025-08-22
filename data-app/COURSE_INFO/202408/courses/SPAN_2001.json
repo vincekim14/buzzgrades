@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "SPAN",
+  "courseNumber": "2001",
+  "courseId": "SPAN 2001",
+  "title": "Intermediate Spanish I",
+  "description": "Review of basic grammatical concepts: conversational, reading, and writing activities; cultural aspects of the Hispanic world. Conducted in Spanish. No native speakers allowed.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:27.076Z"
+}

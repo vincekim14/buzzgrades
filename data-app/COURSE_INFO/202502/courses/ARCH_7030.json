@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "7030",
+  "courseId": "ARCH 7030",
+  "title": "Media + Modeling 3",
+  "description": "Advanced approaches to two and three dimensional modeling and representation in architecture using both manual and digital media and techniques.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 6039",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:34.089Z"
+}

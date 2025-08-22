@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4607",
+  "courseId": "ECE 4607",
+  "title": "Mobile&amp;Wireless Networks",
+  "description": "Basics of mobile and wireless networking. Architectures and communication protocols for wireless sensor networks, wireless local area networks, ad-hoc networks, cellular systems, WiMAX, and Wireless Mesh Networks.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3076 Undergraduate Semester Minimum Grade of D or ECE 3600 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:11.315Z"
+}

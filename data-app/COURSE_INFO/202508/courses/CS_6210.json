@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "6210",
+  "courseId": "CS 6210",
+  "title": "Adv Operating Systems",
+  "description": "Introduction to graduate-level topics in operating systems using research papers, textbook excerpts, and projects. Provides students thorough comprehension of distributed and parallel computer systems. Credit is not awarded for both CS 4210 and CS 6210.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3210 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:34.733Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4570",
+  "courseId": "BIOS 4570",
+  "title": "Immunology",
+  "description": "A survey of modern immunology and its applications",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOL 2344 Undergraduate Semester Minimum Grade of D or BIOL 2354 Undergraduate Semester Minimum Grade of D or BIOS 2600 Undergraduate Semester Minimum Grade of D or BIOS 2610 Undergraduate Semester Minimum Grade of D or BIOL 3450 Undergraduate Semester Minimum Grade of D or BIOS 3450 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:46.365Z"
+}

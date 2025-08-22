@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "4620",
+  "courseId": "PUBP 4620",
+  "title": "Environmental Law",
+  "description": "Investigation of the principal environmental laws and regulations. The class will also consider philosophical and ethical underpinnings of environmental law.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:12.962Z"
+}

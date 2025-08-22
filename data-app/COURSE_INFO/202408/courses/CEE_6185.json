@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "6185",
+  "courseId": "CEE 6185",
+  "title": "Construction Automation",
+  "description": "Introduction to construction automation, robotics, AI, sensing, and 3D visualization. An integrated approach to design and assess new automated construction technologies using needs assessment, AHP, and economic feasibility analyses.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:27.351Z"
+}

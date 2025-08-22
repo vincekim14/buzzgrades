@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "IL",
+  "courseNumber": "6480",
+  "courseId": "IL 6480",
+  "title": "Supply Chain Lab I",
+  "description": "This course integrates supply chain management techniques in the region through readings, case studies, meetings and site visits.  Typically Supply Chain Lab I focuses on the US.  Credit not allowed for both IL 6480 and IL 6470.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:42.183Z"
+}

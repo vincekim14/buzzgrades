@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "4072",
+  "courseId": "ID 4072",
+  "title": "Invention Studio 2",
+  "description": "Comprehensive projects incorporating an iterative approach to user-centered design development of products, systems & services with emphasis on invention, innovation and entrepreneurship.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 3032 Undergraduate Semester Minimum Grade of C or ID 3042 Undergraduate Semester Minimum Grade of C or ID 3052 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:53.428Z"
+}

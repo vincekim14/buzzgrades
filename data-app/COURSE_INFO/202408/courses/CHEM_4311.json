@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CHEM",
+  "courseNumber": "4311",
+  "courseId": "CHEM 4311",
+  "title": "Adv Organic Chem",
+  "description": "Construction reactions and functional group interconversions as applied to multistep organic synthesis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 2312 Undergraduate Semester Minimum Grade of D or CHEM 2313 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:55.598Z"
+}

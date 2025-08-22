@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "PSYC",
+  "courseNumber": "8905",
+  "courseId": "PSYC 8905",
+  "title": "Special Prblems: CogNeuro",
+  "description": "Students conduct research under the direction of a faculty member on problems in cognitive neuroscience.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:04.799Z"
+}

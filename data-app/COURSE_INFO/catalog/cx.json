@@ -1,0 +1,289 @@
+{
+  "subject": "CX",
+  "subjectName": "Computational Mod, Sim, & Data (CX)",
+  "url": "https://catalog.gatech.edu/coursesaz/cx/",
+  "courses": [
+    {
+      "subjectCode": "CX",
+      "courseNumber": "1801",
+      "courseId": "CX 1801",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will use to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "1802",
+      "courseId": "CX 1802",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "1803",
+      "courseId": "CX 1803",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "1804",
+      "courseId": "CX 1804",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "1805",
+      "courseId": "CX 1805",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "2801",
+      "courseId": "CX 2801",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "2802",
+      "courseId": "CX 2802",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "2803",
+      "courseId": "CX 2803",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "2804",
+      "courseId": "CX 2804",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of a timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "2805",
+      "courseId": "CX 2805",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "3740",
+      "courseId": "CX 3740",
+      "title": "Probability and Statistics for Computing and Machine Learning",
+      "description": "Introductory probability and statistics for computing and machine learning, from random variables, joint distribution and concentration inequalities to parameter estimation, statistical models and Bayesian simulation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "3801",
+      "courseId": "CX 3801",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "3802",
+      "courseId": "CX 3802",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "3803",
+      "courseId": "CX 3803",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "3804",
+      "courseId": "CX 3804",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "3805",
+      "courseId": "CX 3805",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4010",
+      "courseId": "CX 4010",
+      "title": "Computational Problem Solving for Scientists and Engineers",
+      "description": "Computing principles, computer archietecture, algorithms and data structures; software development, parallelism. No credit for graduate students or undergraduates in Computer Science or Computational Media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4140",
+      "courseId": "CX 4140",
+      "title": "Computational Modeling Algorithms",
+      "description": "Design, analysis and implementation of algorithms for modeling natural and engineered systems; algorithm experimentation, and optimization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4220",
+      "courseId": "CX 4220",
+      "title": "Introduction to High Performance Computing",
+      "description": "Design of algorithms and software for high performance computing platforms used in computational science and engineering. Topics include parallelism, locality, machine architectures, and programming.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4230",
+      "courseId": "CX 4230",
+      "title": "Computer Simulation",
+      "description": "Algorithms and techniques for creating computer simulations and their realization in software.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4232",
+      "courseId": "CX 4232",
+      "title": "Simulation and Military Gaming",
+      "description": "Creation and use of modeling and simulation tools to analyze and train students regarding strategic events in international relations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4236",
+      "courseId": "CX 4236",
+      "title": "Distributed Simulation",
+      "description": "Algorithms and techniques used to execute simulations on parallel/distributed computing platforms. Simulations for analysis, virtual environments, and computer gaming.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4240",
+      "courseId": "CX 4240",
+      "title": "Introduction to Computing for Data Analysis",
+      "description": "Computational techniques needed for data analysis; programming, accessing databases, multidimensional arrays, basic numerical computing, and visualization; hands-on applications and case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4242",
+      "courseId": "CX 4242",
+      "title": "Data and Visual Analytics",
+      "description": "Introduction to the analysis of complex data; theory, applications and practical case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4640",
+      "courseId": "CX 4640",
+      "title": "Numerical Analysis I",
+      "description": "Introduction to numerical algorithms for some basic problems in computational mathematics. Discussion of both implementation issues and error analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4641",
+      "courseId": "CX 4641",
+      "title": "Numerical Analysis II",
+      "description": "Introduction to the numerical solution of initial and boundary value problems in differential equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4740",
+      "courseId": "CX 4740",
+      "title": "Computational Methods for Simulation and Machine Learning",
+      "description": "Introduction to numerical methods which are fundamental in modeling, simulation, and machine learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4777",
+      "courseId": "CX 4777",
+      "title": "Introduction to Parallel and Vector Scientific Computing",
+      "description": "Scientific computational algorithms on vector and parallel computers. Speed-up and algorithm complexity, interprocess communication, synchronization, modern algorithms for linear systems, programming techniques, code optimization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4801",
+      "courseId": "CX 4801",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4802",
+      "courseId": "CX 4802",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4803",
+      "courseId": "CX 4803",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4804",
+      "courseId": "CX 4804",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4805",
+      "courseId": "CX 4805",
+      "title": "Special Topics in Computational Science and Engineering",
+      "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4893",
+      "courseId": "CX 4893",
+      "title": "Special Topics",
+      "description": "Special Topics for CX (lecture + lab).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CX",
+      "courseNumber": "4903",
+      "courseId": "CX 4903",
+      "title": "Special Problems in Computational Science and Engineering",
+      "description": "An investigation of significant areas of computational science and engineering. Guided study and research.",
+      "creditHours": "3"
+    }
+  ],
+  "totalCourses": 35,
+  "scrapedAt": "2025-08-16T02:00:35.962Z"
+}

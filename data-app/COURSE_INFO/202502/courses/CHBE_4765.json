@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHBE",
+  "courseNumber": "4765",
+  "courseId": "CHBE 4765",
+  "title": "Drug Design,Devlpmnt&amp;Delivery",
+  "description": "Introduction to the pharmaceutical development process, including design of new drugs, synthesis and manufacturing issues, and methods for delivery into the body. Includes student presentations. Crosslisted with CHEM and BMED 4765.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 3511 Undergraduate Semester Minimum Grade of D or CHEM 4511 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:23.208Z"
+}

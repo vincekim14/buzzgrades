@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4694",
+  "courseId": "BIOS 4694",
+  "title": "Intern Assistantship",
+  "description": "Biology Undergraduate Internship for pay for juniors and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Biology.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:47.489Z"
+}

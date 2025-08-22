@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "3016",
+  "courseId": "PUBP 3016",
+  "title": "Judicial Process",
+  "description": "The functions, structures, and procedures of state and federal court systems, including selection and appointment of judges, judicial activism, influences on court decisions, and enforcement of court decisions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:49.349Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "4045",
+  "courseId": "ISYE 4045",
+  "title": "Adv Simulation",
+  "description": "Advanced modeling and statistical concepts in discrete-event simulations; Monte Carlo simulation; estimation of error and risk; advanced input modeling techniques; comparison and optimization of systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3044 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:33.318Z"
+}

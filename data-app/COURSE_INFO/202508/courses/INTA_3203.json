@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "INTA",
+  "courseNumber": "3203",
+  "courseId": "INTA 3203",
+  "title": "Comparative Politics",
+  "description": "Contrasts competing theoretical perspectives in the comparative analysis of political systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:32.652Z"
+}

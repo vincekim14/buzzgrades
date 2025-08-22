@@ -1,0 +1,19 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3313",
+  "courseId": "MGT 3313",
+  "title": "Social Media Marketing",
+  "description": "Explores the use of social media marketing as a fundamental marketing channel for driving customer engagement, brand advocacy, and enhanced customer loyalty.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Cannot be enrolled in one of the following Classes:",
+    "__DETAIL_1__Freshman (FR)",
+    "__DETAIL_1__Sophomore (SO)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:23.753Z"
+}

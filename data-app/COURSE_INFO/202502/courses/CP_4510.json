@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CP",
+  "courseNumber": "4510",
+  "courseId": "CP 4510",
+  "title": "Geographic Info Sys",
+  "description": "The course provides a basic understanding of the tools for collecting, storing, and analyzing spatially distributed data. Basic issues of software design and application are covered.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:47.944Z"
+}

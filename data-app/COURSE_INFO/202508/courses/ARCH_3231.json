@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "3231",
+  "courseId": "ARCH 3231",
+  "title": "Environmental Systems I",
+  "description": "Human physiology, the occupation of space, and principles of sustainability.  Micro-climate, energy consumption, thermal loading, passive solar strategies, daylighting, optics, and acoustics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 2211 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:16.556Z"
+}

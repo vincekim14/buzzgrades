@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "4370",
+  "courseId": "ECON 4370",
+  "title": "Law and Economics",
+  "description": "To introduce students to economic aspects of legal decision-making and to develop students' ability to critically analyze the purposes and efficiency of legal decision-making from an economic perspective.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:26.281Z"
+}

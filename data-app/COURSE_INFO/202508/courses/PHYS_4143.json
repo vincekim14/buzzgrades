@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PHYS",
+  "courseNumber": "4143",
+  "courseId": "PHYS 4143",
+  "title": "Quantum Mechanics II",
+  "description": "Second of two courses that develop the principles of quantum mechanics.  Topics include angular momentum, hydrogen atom, variation methods, perturbation theory, matter-radiation interactions, identical particles.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 3143 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:44:20.846Z"
+}

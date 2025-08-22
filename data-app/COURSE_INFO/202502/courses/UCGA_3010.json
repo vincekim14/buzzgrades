@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "UCGA",
+  "courseNumber": "3010",
+  "courseId": "UCGA 3010",
+  "title": "Cross Enroll-Ga St Univ",
+  "description": "CROSS ENROLL-GA ST UNIV",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:07.291Z"
+}

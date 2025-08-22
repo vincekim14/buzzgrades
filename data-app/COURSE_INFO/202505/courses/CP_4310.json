@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CP",
+  "courseNumber": "4310",
+  "courseId": "CP 4310",
+  "title": "Urban Transportation",
+  "description": "This course is designed to introduce the fundamentals of urban transportation planning and policy and is applicable to students in a variety of concentrations of study. The purpose of the course will be to acquaint students with transportation planning as a profession and the types of projects that transportation planners are required to conduct.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:55.219Z"
+}

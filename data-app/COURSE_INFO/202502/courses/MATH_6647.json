@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "6647",
+  "courseId": "MATH 6647",
+  "title": "Numeric Meth:Dynamic Sys",
+  "description": "Approximation of the dynamical structure of a differential equation and preservation of dynamical structure under discretization. Must be familiar with dynamical systems and numerical methods for initial and boundary value problems in ordinary differential equations.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4640 Undergraduate Semester Minimum Grade of D and MATH 4641 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:18.858Z"
+}

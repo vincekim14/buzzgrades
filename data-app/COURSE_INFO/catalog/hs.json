@@ -1,0 +1,113 @@
+{
+  "subject": "HS",
+  "subjectName": "Health Systems (HS)",
+  "url": "https://catalog.gatech.edu/coursesaz/hs/",
+  "courses": [
+    {
+      "subjectCode": "HS",
+      "courseNumber": "4001",
+      "courseId": "HS 4001",
+      "title": "Introduction to Health Systems",
+      "description": "Background of U.S. healthcare; the workforce; mechanisms and costs of delivery; facilities; ambulatory care; regulation and quality; managed care, finance, and role of government.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "6000",
+      "courseId": "HS 6000",
+      "title": "Introduction to Healthcare Delivery",
+      "description": "Historical background; the healthcare workforce; nature, problems, and costs of delivery sites; health planning, finance, role of government, alternative delivery models, and health policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "6100",
+      "courseId": "HS 6100",
+      "title": "Healthcare Delivery Systems Models",
+      "description": "Progression in service delivery from individual providers to complex financing and delivery organizations. Alternative models are explored with an emphasis on access, efficiency, and effectiveness.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "6200",
+      "courseId": "HS 6200",
+      "title": "Healthcare Financial Management",
+      "description": "Applications of accounting and finance in the healthcare delivery system; methods of reimbursement, product costing, strategic financial planning, and capital formation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "6300",
+      "courseId": "HS 6300",
+      "title": "Healthcare Information Systems",
+      "description": "Application of information systems to assist in medical practice including communication within the healthcare enterprise, reimbursement for care, clinical decision making, and assessment of outcomes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "6400",
+      "courseId": "HS 6400",
+      "title": "Health Systems Practice",
+      "description": "An actual project conducted by individual graduate students within a healthcare institution or a health service organization.  Project has both a faculty and site sponsor.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "8803",
+      "courseId": "HS 8803",
+      "title": "Special Topics",
+      "description": "Topics of current interest in health systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "8811",
+      "courseId": "HS 8811",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "8813",
+      "courseId": "HS 8813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in health systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "8900",
+      "courseId": "HS 8900",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "8901",
+      "courseId": "HS 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "8997",
+      "courseId": "HS 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "HS",
+      "courseNumber": "8998",
+      "courseId": "HS 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    }
+  ],
+  "totalCourses": 13,
+  "scrapedAt": "2025-08-16T02:00:39.328Z"
+}

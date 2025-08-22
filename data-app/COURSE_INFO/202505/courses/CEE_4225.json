@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CEE",
+  "courseNumber": "4225",
+  "courseId": "CEE 4225",
+  "title": "Coastal Engineering",
+  "description": "Introduction to coastal engineering processes and problems. Topics include: water wave mechanics, nearshore hydrodynamics, astronomical tides, sediment transport, beach nourishment, and coastal structures.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3040 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:00.943Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ME",
+  "courseNumber": "8916",
+  "courseId": "ME 8916",
+  "title": "Spec Prob-CAE &amp; Design",
+  "description": "Individual studies and/or experimental investigations of problems of current interest in computer-aided engineering and design.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:00.817Z"
+}

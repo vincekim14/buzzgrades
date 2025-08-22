@@ -1,0 +1,905 @@
+{
+  "subject": "UCGA",
+  "subjectName": "Cross Enrollment (UCGA)",
+  "url": "https://catalog.gatech.edu/coursesaz/ucga/",
+  "courses": [
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1001",
+      "courseId": "UCGA 1001",
+      "title": "Cross Enroll-Agnes Scott",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1002",
+      "courseId": "UCGA 1002",
+      "title": "Cross Enroll-Atlanta College of Art",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1003",
+      "courseId": "UCGA 1003",
+      "title": "Cross Enroll-AU Clark",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1004",
+      "courseId": "UCGA 1004",
+      "title": "Cross Enroll-AU Morehouse",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1005",
+      "courseId": "UCGA 1005",
+      "title": "Cross Enroll-AU Morris Brown",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1006",
+      "courseId": "UCGA 1006",
+      "title": "Cross Enroll-AU Spelman",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1007",
+      "courseId": "UCGA 1007",
+      "title": "Cross Enroll-Clayton College and State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1008",
+      "courseId": "UCGA 1008",
+      "title": "Cross Enroll-Columbia Theological Seminary",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1009",
+      "courseId": "UCGA 1009",
+      "title": "Cross Enroll-Emory University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1010",
+      "courseId": "UCGA 1010",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1011",
+      "courseId": "UCGA 1011",
+      "title": "Cross Enroll-Kennesaw State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1012",
+      "courseId": "UCGA 1012",
+      "title": "Cross Enroll-Mercer University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1013",
+      "courseId": "UCGA 1013",
+      "title": "Cross Enroll-Oglethorpe",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1015",
+      "courseId": "UCGA 1015",
+      "title": "Cross Enroll-University of Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1017",
+      "courseId": "UCGA 1017",
+      "title": "Cross Enroll -West Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1018",
+      "courseId": "UCGA 1018",
+      "title": "Cross Enroll - Brenau",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1019",
+      "courseId": "UCGA 1019",
+      "title": "Cross Enroll- Savannah College of Art",
+      "description": "CROSS ENROLL-SAVANNAH COLLEGE OF ART.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "1021",
+      "courseId": "UCGA 1021",
+      "title": "Cross Enroll-Georgia Gwinnett College",
+      "description": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2001",
+      "courseId": "UCGA 2001",
+      "title": "Cross Enroll-Agnes Scott",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2002",
+      "courseId": "UCGA 2002",
+      "title": "Cross Enroll-Atlanta College of Art",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2003",
+      "courseId": "UCGA 2003",
+      "title": "Cross Enroll-AU Clark",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2004",
+      "courseId": "UCGA 2004",
+      "title": "Cross Enrol-AU Morehouse",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2005",
+      "courseId": "UCGA 2005",
+      "title": "Cross Enroll-AU Morris Brown",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2006",
+      "courseId": "UCGA 2006",
+      "title": "Cross Enroll-AU Spelman",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2007",
+      "courseId": "UCGA 2007",
+      "title": "Cross Enroll-Clayton College and State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2008",
+      "courseId": "UCGA 2008",
+      "title": "Cross Enroll-Columbia Theological Seminary",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2009",
+      "courseId": "UCGA 2009",
+      "title": "Cross Enroll-Emory University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2010",
+      "courseId": "UCGA 2010",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2011",
+      "courseId": "UCGA 2011",
+      "title": "Cross Enroll-Kennesaw State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2012",
+      "courseId": "UCGA 2012",
+      "title": "Cross Enroll-Mercer University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2013",
+      "courseId": "UCGA 2013",
+      "title": "Cross Enroll-Oglethorpe",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2015",
+      "courseId": "UCGA 2015",
+      "title": "Cross Enroll-University of Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2017",
+      "courseId": "UCGA 2017",
+      "title": "Cross Enroll - West Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2018",
+      "courseId": "UCGA 2018",
+      "title": "Cross Enroll - Brenau",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2019",
+      "courseId": "UCGA 2019",
+      "title": "Cross Enroll-Savannah College of Art",
+      "description": "CROSS ENROLL-SAVANNAH COLLEGE OF ART.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2021",
+      "courseId": "UCGA 2021",
+      "title": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE",
+      "description": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2110",
+      "courseId": "UCGA 2110",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2210",
+      "courseId": "UCGA 2210",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "2310",
+      "courseId": "UCGA 2310",
+      "title": "Cross Enroll-Ga State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3001",
+      "courseId": "UCGA 3001",
+      "title": "Cross Enroll-Agnes Scott",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3002",
+      "courseId": "UCGA 3002",
+      "title": "Cross Enroll-Atlanta College of Art",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3003",
+      "courseId": "UCGA 3003",
+      "title": "Cross Enroll-AU Clark",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3004",
+      "courseId": "UCGA 3004",
+      "title": "Cross Enroll-AU Morehouse",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3005",
+      "courseId": "UCGA 3005",
+      "title": "Cross Enroll-AU Morris Brown",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3006",
+      "courseId": "UCGA 3006",
+      "title": "Cross Enroll-AU Spelman",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3007",
+      "courseId": "UCGA 3007",
+      "title": "Cross Enroll-Clayton College and State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3008",
+      "courseId": "UCGA 3008",
+      "title": "Cross Enroll-Columbia Theological Seminary",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3009",
+      "courseId": "UCGA 3009",
+      "title": "Cross Enroll-Emory University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3010",
+      "courseId": "UCGA 3010",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3011",
+      "courseId": "UCGA 3011",
+      "title": "Cross Enroll-Kennesaw State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3012",
+      "courseId": "UCGA 3012",
+      "title": "Cross Enroll-Mercer University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3013",
+      "courseId": "UCGA 3013",
+      "title": "Cross Enroll-Oglethorpe",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3015",
+      "courseId": "UCGA 3015",
+      "title": "Cross Enroll-University of Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3017",
+      "courseId": "UCGA 3017",
+      "title": "Cross Enroll - West Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3018",
+      "courseId": "UCGA 3018",
+      "title": "Cross Enroll - Brenau",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3019",
+      "courseId": "UCGA 3019",
+      "title": "Cross Enroll-Savannah College of Art",
+      "description": "CROSS ENROLL-SAVANNAH COLLEGE OF ART.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3021",
+      "courseId": "UCGA 3021",
+      "title": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE",
+      "description": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3110",
+      "courseId": "UCGA 3110",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3210",
+      "courseId": "UCGA 3210",
+      "title": "Cross Enroll-Ga State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "3310",
+      "courseId": "UCGA 3310",
+      "title": "Cross Enroll-Ga State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4001",
+      "courseId": "UCGA 4001",
+      "title": "Cross Enroll-Agnes Scott",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4002",
+      "courseId": "UCGA 4002",
+      "title": "Cross Enroll-Atlanta College of Art",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4003",
+      "courseId": "UCGA 4003",
+      "title": "Cross Enroll-AU Clark",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4004",
+      "courseId": "UCGA 4004",
+      "title": "Cross Enroll-AU Morehouse",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4005",
+      "courseId": "UCGA 4005",
+      "title": "Cross Enroll-AU Morris Brown",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4006",
+      "courseId": "UCGA 4006",
+      "title": "Cross Enroll-AU Spelman",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4007",
+      "courseId": "UCGA 4007",
+      "title": "Cross Enroll-Clayton College and State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4008",
+      "courseId": "UCGA 4008",
+      "title": "Cross Enroll-Columbia Theological Seminary",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4009",
+      "courseId": "UCGA 4009",
+      "title": "Cross Enroll-Emory University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4010",
+      "courseId": "UCGA 4010",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4011",
+      "courseId": "UCGA 4011",
+      "title": "Cross Enroll-Kennesaw State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4012",
+      "courseId": "UCGA 4012",
+      "title": "Cross Enroll-Mercer University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4013",
+      "courseId": "UCGA 4013",
+      "title": "Cross Enroll-Oglethorpe",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4015",
+      "courseId": "UCGA 4015",
+      "title": "Cross Enroll-University of Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4017",
+      "courseId": "UCGA 4017",
+      "title": "Cross Enroll - West Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4018",
+      "courseId": "UCGA 4018",
+      "title": "Cross Enroll - Brenau",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4019",
+      "courseId": "UCGA 4019",
+      "title": "Cross Enroll-Savannah College of Art",
+      "description": "CROSS ENROLL-SAVANNAH COLLEGE OF ART.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4021",
+      "courseId": "UCGA 4021",
+      "title": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE",
+      "description": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4210",
+      "courseId": "UCGA 4210",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4301",
+      "courseId": "UCGA 4301",
+      "title": "Cross Enroll-Ga State BS/JD",
+      "description": "CROSS ENROLL-GA STATE BS/JD.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4302",
+      "courseId": "UCGA 4302",
+      "title": "Cross Enroll-Ga State BS/JD",
+      "description": "CROSS ENROLL-GA STATE BS/JD.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4303",
+      "courseId": "UCGA 4303",
+      "title": "Cross Enroll-Ga State BS/JD",
+      "description": "CROSS ENROLL-GA STATE BS/JD.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4304",
+      "courseId": "UCGA 4304",
+      "title": "Cross Enroll-Ga State BS/JD",
+      "description": "CROSS ENROLL-GA STATE BS/JD.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4305",
+      "courseId": "UCGA 4305",
+      "title": "Cross Enroll- Georgia State BS/JD",
+      "description": "CROSS ENROLL-GA STATE BS/JD.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4306",
+      "courseId": "UCGA 4306",
+      "title": "Cross Enroll-Ga State BS/JD",
+      "description": "CROSS ENROLL-GA STATE BS/JD.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4307",
+      "courseId": "UCGA 4307",
+      "title": "Cross Enroll-Georgia Stata BS/JD",
+      "description": "CROSS ENROLL-GA STATE BS/JD.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4310",
+      "courseId": "UCGA 4310",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4410",
+      "courseId": "UCGA 4410",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4510",
+      "courseId": "UCGA 4510",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4610",
+      "courseId": "UCGA 4610",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4710",
+      "courseId": "UCGA 4710",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4810",
+      "courseId": "UCGA 4810",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "4910",
+      "courseId": "UCGA 4910",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6001",
+      "courseId": "UCGA 6001",
+      "title": "Cross Enroll-Agnes Scott",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6002",
+      "courseId": "UCGA 6002",
+      "title": "Cross Enroll-Atlanta College of Art",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6003",
+      "courseId": "UCGA 6003",
+      "title": "Cross Enroll-AU Clark",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6004",
+      "courseId": "UCGA 6004",
+      "title": "Cross Enroll-AU Morehouse",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6005",
+      "courseId": "UCGA 6005",
+      "title": "Cross Enroll-AU Morris Brown",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6006",
+      "courseId": "UCGA 6006",
+      "title": "Cross Enroll-AU Spelman",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6007",
+      "courseId": "UCGA 6007",
+      "title": "Cross Enroll-Clayton College and State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6008",
+      "courseId": "UCGA 6008",
+      "title": "Cross Enroll-Columbia Theological Seminary",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6009",
+      "courseId": "UCGA 6009",
+      "title": "Cross Enroll-Emory University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6010",
+      "courseId": "UCGA 6010",
+      "title": "Cross Enroll-Georgia State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6011",
+      "courseId": "UCGA 6011",
+      "title": "Cross Enroll-Kennesaw State University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6012",
+      "courseId": "UCGA 6012",
+      "title": "Cross Enroll-Mercer University",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6013",
+      "courseId": "UCGA 6013",
+      "title": "Cross Enroll-Oglethorpe",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6015",
+      "courseId": "UCGA 6015",
+      "title": "Cross Enroll-University of Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6016",
+      "courseId": "UCGA 6016",
+      "title": "Cross Enroll-Paper Institute",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6017",
+      "courseId": "UCGA 6017",
+      "title": "Cross Enroll - West Georgia",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6018",
+      "courseId": "UCGA 6018",
+      "title": "Cross Enroll - Brenau",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6019",
+      "courseId": "UCGA 6019",
+      "title": "Cross Enroll-Savannah College of Art",
+      "description": "CROSS ENROLL-SAVANNAH COLLEGE OF ART.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "UCGA",
+      "courseNumber": "6021",
+      "courseId": "UCGA 6021",
+      "title": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE",
+      "description": "CROSS-ENROLL-GEORGIA GWINNETT COLLEGE.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 112,
+  "scrapedAt": "2025-08-16T02:00:51.657Z"
+}

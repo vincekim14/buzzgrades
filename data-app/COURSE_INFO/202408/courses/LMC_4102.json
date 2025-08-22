@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "4102",
+  "courseId": "LMC 4102",
+  "title": "Senior Thesis",
+  "description": "Preparation for and writing of a thesis through faculty-directed independent study.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "LMC 2000 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:41:35.715Z"
+}

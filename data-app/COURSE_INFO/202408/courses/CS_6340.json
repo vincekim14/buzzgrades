@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "6340",
+  "courseId": "CS 6340",
+  "title": "Software Analysis &amp; Test",
+  "description": "Fundamental prinicples and advanced techniques for static and dynamic program analysis and software testing. Software reliability, resilience, and trustworthiness.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:08.432Z"
+}

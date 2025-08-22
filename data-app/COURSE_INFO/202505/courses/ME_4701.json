@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ME",
+  "courseNumber": "4701",
+  "courseId": "ME 4701",
+  "title": "Wind Engineering",
+  "description": "An introductory course on wind energy and its potential; modeling and design of wind turbines; analysis of the economic benefits of wind turbine systems.  Credit not allowed for both ME 4701 and AE 4701.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 2411 Undergraduate Semester Minimum Grade of D or MATH 24X1 Undergraduate Semester Minimum Grade of T or MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2561 Undergraduate Semester Minimum Grade of D or MATH 2X51 Undergraduate Semester Minimum Grade of T) and (PHYS 2211 Undergraduate Semester Minimum Grade of D or PHYS 2231 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:41:56.414Z"
+}

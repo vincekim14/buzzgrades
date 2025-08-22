@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "3001",
+  "courseId": "CS 3001",
+  "title": "Computing &amp; Society",
+  "description": "Examines the role and impact of information and communication technology in society, with emphasis on ethical, professional, and public policy issues.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:50.967Z"
+}

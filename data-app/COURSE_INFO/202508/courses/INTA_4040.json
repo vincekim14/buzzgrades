@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "INTA",
+  "courseNumber": "4040",
+  "courseId": "INTA 4040",
+  "title": "Environmental Politics",
+  "description": "Examines the interface between politics and the environment.  Foci include sustainable development, the politics of the rain forest, eco-tourism, and export agriculture and the environment.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:34.418Z"
+}

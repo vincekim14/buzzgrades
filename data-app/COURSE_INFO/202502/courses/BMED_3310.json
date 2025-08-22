@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "3310",
+  "courseId": "BMED 3310",
+  "title": "Biotransport",
+  "description": "Fundamental principles of fluid, heat, and mass transfer with particular emphasis on physiological and biomedical systems. Credit will not be awarded for both BMED 3310 and BMED 3300.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BMED 2210 Undergraduate Semester Minimum Grade of D or BMED 2110 Undergraduate Semester Minimum Grade of D) and (MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 2411 Undergraduate Semester Minimum Grade of D or MATH 24X1 Undergraduate Semester Minimum Grade of T or MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2561 Undergraduate Semester Minimum Grade of D or MATH 2X51 Undergraduate Semester Minimum Grade of T) and (MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T) and CS 1371 Undergraduate Semester Minimum Grade of D and (PHYS 2211 Undergraduate Semester Minimum Grade of D or PHYS 2231 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:35:55.182Z"
+}

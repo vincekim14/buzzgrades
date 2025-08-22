@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BIOS",
+  "courseNumber": "4428",
+  "courseId": "BIOS 4428",
+  "title": "Population Dynamics",
+  "description": "Students will examine the ecological factors that affect dynamics, regulation, and evolution of natural populations, emphasizing the connections with mathematical models, genetics, and ecology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BIOS 2300 Undergraduate Semester Minimum Grade of D or BIOS 2310 Undergraduate Semester Minimum Grade of D) or (BIOL 2335 Undergraduate Semester Minimum Grade of D or BIOL 2337 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:36:35.594Z"
+}

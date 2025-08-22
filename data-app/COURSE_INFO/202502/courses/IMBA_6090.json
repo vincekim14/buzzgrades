@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "IMBA",
+  "courseNumber": "6090",
+  "courseId": "IMBA 6090",
+  "title": "Managing Marketing",
+  "description": "Students are provided with an understanding of marketing and consumer behavior concepts and tools with an international environment approach.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:51.696Z"
+}

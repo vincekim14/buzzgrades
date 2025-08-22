@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "4710",
+  "courseId": "ME 4710",
+  "title": "Foundation ML Engineers",
+  "description": "Engineers are taught foundational data analytics principles to learn when, why, and how to use or not use machine learning in engineering problems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3077 Undergraduate Semester Minimum Grade of D or ISYE 2027 Undergraduate Semester Minimum Grade of D and (ISYE 2028 Undergraduate Semester Minimum Grade of D or ISYE 3030 Undergraduate Semester Minimum Grade of D) or ISYE 3770 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or MATH 3770 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D and (ME 2016 Undergraduate Semester Minimum Grade of D or CS 4640 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:43:22.627Z"
+}

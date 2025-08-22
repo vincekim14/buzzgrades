@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "MGT",
+  "courseNumber": "3062",
+  "courseId": "MGT 3062",
+  "title": "Financial Management",
+  "description": "An introduction to finance. Topics include: time value of money, capital budgeting, risk and return, capital structure, dividend policy, and working capital management. No credit allowed for MGT 3062 and MGT 3078.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ACCT 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:28.924Z"
+}

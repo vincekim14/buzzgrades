@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6780",
+  "courseId": "ECE 6780",
+  "title": "Medical Image Processing",
+  "description": "Studying biomedical image analysis techniques including image enhancement, analysis, classification, and interpretation for medical decision making through practicals and projects. Cross-listed with BMED 6780.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 6786 Graduate Semester Minimum Grade of D or ECE 6786 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:57.961Z"
+}

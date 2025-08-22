@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6720",
+  "courseId": "ME 6720",
+  "title": "Biotransport",
+  "description": "This graduate level course covers the analysis of fluid flow phenomena in the human body, cardiovasculature, respiratory system and other organ systems. Credit will not be awarded for both ME 6720 and BMED 6720.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3340 Undergraduate Semester Minimum Grade of D or ME 6601 Graduate Semester Minimum Grade of D or CEE 3040 Undergraduate Semester Minimum Grade of D or CE 6251 Graduate Semester Minimum Grade of D or AE 2020 Undergraduate Semester Minimum Grade of D or AE 6009 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:40.692Z"
+}

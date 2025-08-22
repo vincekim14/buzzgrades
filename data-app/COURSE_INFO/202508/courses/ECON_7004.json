@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "7004",
+  "courseId": "ECON 7004",
+  "title": "Math for Economists",
+  "description": "Topics include matrix algebra, limits and open sets, implicit functions and their derivatives, quadratic forms and definite matrices, unconstrained and constrained static optimization, dynamic optimization and economic applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2401 Undergraduate Semester Minimum Grade of D and MATH 1522 Undergraduate Semester Minimum Grade of D or (MATH 1551 Undergraduate Semester Minimum Grade of D and MATH 1553 Undergraduate Semester Minimum Grade of D and MATH 2551 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:39:23.422Z"
+}

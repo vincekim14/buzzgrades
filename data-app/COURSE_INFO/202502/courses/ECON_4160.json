@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "4160",
+  "courseId": "ECON 4160",
+  "title": "Economic Forecasting",
+  "description": "Surveys modern time series econometrics with topics such as univariate models, vector autoregressions, linear and nonlinear filtering, frequency domain methods, unit roots, structural breaks, empirical process theory asymptotics, and forecasting. The course highlights applications in macroeconomics and finance.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 3161 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:24.700Z"
+}

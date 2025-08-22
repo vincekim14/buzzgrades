@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "AE",
+  "courseNumber": "2221R",
+  "courseId": "AE 2221R",
+  "title": "AE 2221 Recitation",
+  "description": "This recitation is an optional session in support of AE 2221. This course is designed to allow students the chance to apply their knowledge of concepts through problem solving and group discussions.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "AE 2221",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:10.302Z"
+}

@@ -1,0 +1,3089 @@
+{
+  "subject": "CS",
+  "subjectName": "Computer Science (CS)",
+  "url": "https://catalog.gatech.edu/coursesaz/cs/",
+  "courses": [
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1100",
+      "courseId": "CS 1100",
+      "title": "Freshman Leap Seminar",
+      "description": "Small group discussions with first year students are led by one or more faculty members and include a variety of foundational, motivational, and topical subjects for computationalist.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1171",
+      "courseId": "CS 1171",
+      "title": "Introductory Computing in MATLAB",
+      "description": "For students with a solid introductory computing background needing to demonstrate proficiency in the MATLAB language.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1301",
+      "courseId": "CS 1301",
+      "title": "Introduction to Computing",
+      "description": "Introduction to computing principles and programming practices with an emphasis on the design, construction and implementation of problem solutions use of software tools.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1301R",
+      "courseId": "CS 1301R",
+      "title": "Introduction to Computing for Computer Science Recitation",
+      "description": "Recitation for CS 1301.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1315",
+      "courseId": "CS 1315",
+      "title": "Introduction to Media Computation",
+      "description": "Introduction to computation (algorithmic thinking, data structures, data transformation and processing, and programming) in a media and communication context. Credit not awarded for both CS 4452 and CS 1315.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1315R",
+      "courseId": "CS 1315R",
+      "title": "CS 1315 Recitation",
+      "description": "Recitation for CS 1315.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1316",
+      "courseId": "CS 1316",
+      "title": "Representing Structure and Behavior",
+      "description": "Modeling the structure of media (e.g., music, graphical scenes) using dynamic data structures. Designing objects as encapsulations of structure and behavior. Algorithms for simulating objects. May not be taken for credit by students who have credit for CS 1322.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1331",
+      "courseId": "CS 1331",
+      "title": "Introduction to Object Oriented Programming",
+      "description": "Introduction to techniques and methods of object-oriented programming such an encapsulation, inheritance, and polymorphism. Emphasis on software development and individual programming skills.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1331R",
+      "courseId": "CS 1331R",
+      "title": "CS 1331 Recitation",
+      "description": "Recitation for CS 1331.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1332",
+      "courseId": "CS 1332",
+      "title": "Data Structures and Algorithms for Applications",
+      "description": "Computer data structures and algorithms in the context of object-oriented programming. Focus on software development towards applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1332R",
+      "courseId": "CS 1332R",
+      "title": "CS 1332 Recitation",
+      "description": "Recitation for CS 1332.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1371",
+      "courseId": "CS 1371",
+      "title": "Computing for Engineers",
+      "description": "Foundations of computing with an introduction to design and analysis of algorithms and an introduction to design and construction of programs for engineering problem-solving.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1371R",
+      "courseId": "CS 1371R",
+      "title": "CS 1371 Recitation",
+      "description": "Recitation for CS 1371.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1372",
+      "courseId": "CS 1372",
+      "title": "Structured Program Design for Engineers",
+      "description": "Design, analysis and implementation of programs for engineering problem-solving using ANSI Standard C, with an introduction to C++.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1801",
+      "courseId": "CS 1801",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1802",
+      "courseId": "CS 1802",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1803",
+      "courseId": "CS 1803",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1804",
+      "courseId": "CS 1804",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "1805",
+      "courseId": "CS 1805",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2050",
+      "courseId": "CS 2050",
+      "title": "Introduction to Discrete Mathematics for Computer Science",
+      "description": "Proof methods, strategy, correctness of algorithms over discrete structures.  Induction and recursion.  Complexity and order of growth.  Number theoretic principles and algorithms.  Counting and computability.  Credit not allowed for both CS 2050 and CS 2051.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2050R",
+      "courseId": "CS 2050R",
+      "title": "CS 2050 Recitation",
+      "description": "Recitation for CS 2050.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2051",
+      "courseId": "CS 2051",
+      "title": "Honors - Induction to Discrete Mathematics for Computer Science",
+      "description": "Proof methods, strategy, correctness of algorithms over discrete structures.  Induction and recursion.  Complexity and order of growth.  Number theoretic principles and algorithms.  Counting and computability.  Credit not allowed for both CS 2051 and CS 2050.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2110",
+      "courseId": "CS 2110",
+      "title": "Computer Organization and Programming",
+      "description": "An introduction to basic computer hardware, machine language, assembly language, and C programming.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2200",
+      "courseId": "CS 2200",
+      "title": "Computer Systems and Networks",
+      "description": "A broad exposure to computer system structure and networking including software abstractions in operating systems for orchestrating the usage of the computing resources.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2261",
+      "courseId": "CS 2261",
+      "title": "Media Device Architectures",
+      "description": "Controlling the interface between hardware and software in media devices. Machine-level programming (e.g., in C) to create graphics, generate sound, and support user interaction.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2316",
+      "courseId": "CS 2316",
+      "title": "Data Manipulation for Science and Industry",
+      "description": "Reading, manipulating, and exporting data for engineering, business, and scientific applications.  Covers GUI's, File I/O, basic SQL, and web scraping.  Emphasis on software development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2316R",
+      "courseId": "CS 2316R",
+      "title": "CS 2316 Recitation",
+      "description": "Recitation for CS 2316.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2335",
+      "courseId": "CS 2335",
+      "title": "Software Practicum",
+      "description": "Methods for solving large programming problems. Techniques for quality assurance, managing programs, working in teams, analyzing problems, and producing effective solutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2340",
+      "courseId": "CS 2340",
+      "title": "Objects and Design",
+      "description": "Object-oriented programming methods for dealing with large programs.  Focus on quality processes, effective debugging techniques, and testing to assure a quality product.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2345",
+      "courseId": "CS 2345",
+      "title": "Advanced Practical Object-Oriented Programming",
+      "description": "This course presents important programming principles that should be considered when using a non-automatic memory management complex language (such as C++). Templating, generic programming, resource acquisition is initialization (RAII), and smart pointers are a few examples. Credit not awarded for both CS 2345 and ECE 2036.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2600",
+      "courseId": "CS 2600",
+      "title": "Knowledge Representation and Processing",
+      "description": "Introduction to the representation and manipulation of complex symbolic and sub-symbolic information.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2698",
+      "courseId": "CS 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2699",
+      "courseId": "CS 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2701",
+      "courseId": "CS 2701",
+      "title": "Startup Lab: Introduction to Technology Ventures",
+      "description": "Elements of technology venture creation including opportunity identification and validation, ideation, customer discovery, markey analysis, minimum viable product development, business models, intellectual property, and capital raises. Cross-listed with COE 2701.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2701R",
+      "courseId": "CS 2701R",
+      "title": "CS 2701 Recitation",
+      "description": "Recitation for CS 2701.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2740",
+      "courseId": "CS 2740",
+      "title": "Foundations of Mathematics and Computing",
+      "description": "This course introduces the essential mathematical concepts and computational techniques that form the basis of modern computing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2801",
+      "courseId": "CS 2801",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2802",
+      "courseId": "CS 2802",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2803",
+      "courseId": "CS 2803",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2804",
+      "courseId": "CS 2804",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "2805",
+      "courseId": "CS 2805",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3001",
+      "courseId": "CS 3001",
+      "title": "Computing, Society, and Professionalism",
+      "description": "Examines the role and impact of information and communication technology in society, with emphasis on ethical, professional, and public policy issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3101",
+      "courseId": "CS 3101",
+      "title": "Computer Science Ventures",
+      "description": "Students will learn how computer-science-based ventures are developed.  The course is project-based.  Students propose, analylze, pitch, design, implement, package and market web-2.0 and virtual-world-based products and services.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3210",
+      "courseId": "CS 3210",
+      "title": "Design of Operating Systems",
+      "description": "Operating systems concepts, including multi-threading, scheduling, synchronization, communication, and access control.  Projects will cover design and implementation of several operating systems components.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3220",
+      "courseId": "CS 3220",
+      "title": "Computer Structures: Hardware/Software Codesign of a Processor",
+      "description": "Principles in pipelined processor design, with emphasis on the need for a close interaction between code generation and architecture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3235",
+      "courseId": "CS 3235",
+      "title": "Introduction to Information Security",
+      "description": "Terms/concepts for threats; controls; problem definition; comprehensive information security model; security for operating systems, databases, network/distributed systems; administering security.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3237",
+      "courseId": "CS 3237",
+      "title": "Human Dimension of Cybersecurity: People, Organizations, Societies",
+      "description": "This course will illuminate the human dimension of cybersecurity, and explore the attitudes, behaviors and perceptions associated with different stakeholders in cybersecurity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3240",
+      "courseId": "CS 3240",
+      "title": "Languages and Computation",
+      "description": "Interpreters as abstract machines and the tools used to construct them, such as scanners and parsers. An introduction to models of computation as embodied by different programming languages.  Limits of and relationships between these models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3251",
+      "courseId": "CS 3251",
+      "title": "Computer Networking I",
+      "description": "Introduction to problems in computer networking, including error recovery, medium access, routing, flow control, and transport. Emphasis on current best practice.  Includes programming of networked applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3300",
+      "courseId": "CS 3300",
+      "title": "Introduction to Software Engineering",
+      "description": "Team-based project class to introduce and apply software engineering principles and practices.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3311",
+      "courseId": "CS 3311",
+      "title": "Project Design",
+      "description": "Part 1 of a 2 semester project design and implementation sequence conjoined with Technical Communications. Prepare requirements, design and project plans.  Develop a basic prototype of the desired system. Project is completed in CS 3312-Project Implementation. Credit will not be awared for CS 3311 and CS 4911.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3312",
+      "courseId": "CS 3312",
+      "title": "Project Implementation",
+      "description": "The second part of a 2 semester project design and implementation sequence conjoined with Technical Communications. Implement a project designed in CS 3311. Credit will not be awarded for CS 3312 and CS 4911.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3451",
+      "courseId": "CS 3451",
+      "title": "Computer Graphics",
+      "description": "Geometric constuctions; transformations; perception; reflection models; photorealistic; non-photorealistic, and image-based rendering; rendering software and API's; triangle-mesh processing; graphic acceleration; user-interaction, design and animation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3510",
+      "courseId": "CS 3510",
+      "title": "Design and Analysis of Algorithms",
+      "description": "Basic techniques of design and analysis of efficient algorithms for standard computational problems. NP-Completeness.  Credit not allowed for both CS 3510 and CS 3511.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3511",
+      "courseId": "CS 3511",
+      "title": "Design and Analysis of Algorithms, Honors",
+      "description": "Techniques of design and analysis of efficient algorithms for standard computational problems.  NP-Completeness Project.  Credit not allowed for both CS 3511 and CS 3510.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3600",
+      "courseId": "CS 3600",
+      "title": "Introduction to Artificial Intelligence",
+      "description": "An introduction to artificial intelligence and machine learning. Topics include intelligent system design methodologies, search and problem solving, supervised and reinforced learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3630",
+      "courseId": "CS 3630",
+      "title": "Introduction to Perception and Robotics",
+      "description": "Covers fundamental problems and leading solutions for computer and robot perception and action from the point of view of autonomous robot navigation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3651",
+      "courseId": "CS 3651",
+      "title": "Prototyping Intelligent Devices",
+      "description": "Hands-on course teaching the fundamentals of electronics of electrical and mechanical prototyping.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3651R",
+      "courseId": "CS 3651R",
+      "title": "CS 3651 Recitation",
+      "description": "Recitation for CS 3651.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3743",
+      "courseId": "CS 3743",
+      "title": "Analysis of Emerging Technologies",
+      "description": "Analysis of emerging technologies and their impacts for firm practice, market practice, policy, and society. Credit not allowed for both CS 3743 and MGT 3743 or ME 3743.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3744",
+      "courseId": "CS 3744",
+      "title": "Managing Product, Service & Technology Development",
+      "description": "Analysis of the managerial challenges of the product development process.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3750",
+      "courseId": "CS 3750",
+      "title": "Human Computer Interface Design and Evaluation",
+      "description": "Human computer interface is considered in terms of user-system compatibility. Concepts in human factors and interface design are covered in relation to capabilities of both humans and computers. Crosslisted with PSYC 3750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3751",
+      "courseId": "CS 3751",
+      "title": "Introduction to User Interface Design",
+      "description": "Describes the characteristics of interaction between humans and computers and demonstrates techniques for the design and evaluation of user interfaces and computational systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3790",
+      "courseId": "CS 3790",
+      "title": "Introduction to Cognitive Science",
+      "description": "Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action. Crosslisted with PST, PSYC, and ISYE 3790.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3801",
+      "courseId": "CS 3801",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3802",
+      "courseId": "CS 3802",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3803",
+      "courseId": "CS 3803",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3804",
+      "courseId": "CS 3804",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3805",
+      "courseId": "CS 3805",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "3873",
+      "courseId": "CS 3873",
+      "title": "Special Topics",
+      "description": "Special Topics in Computer Science.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4001",
+      "courseId": "CS 4001",
+      "title": "Computing, Society, and Professionalism",
+      "description": "Examines the role and impact of information and communication technology in society, with emphasis on ethical, professional, and public policy issues. Credit not allowed for both CS 4001 and 4002.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4002",
+      "courseId": "CS 4002",
+      "title": "Robots and Society",
+      "description": "Examines the role and impact of robotics, distributed sensing and actuation, ubiquitous computing and related technology in society, emphasizing ethical, professional and public policy issues. Credit not allowed for both CS 4001 and 4002.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4003",
+      "courseId": "CS 4003",
+      "title": "AI, Ethics, and Society",
+      "description": "This course covers various Artificial Intelligence and bias mitigation techniques that can be used to counterbalance the potential misuse and abuse of learning from data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4005",
+      "courseId": "CS 4005",
+      "title": "Next-Generation Computing Technologies",
+      "description": "Students will explore new paradigms in how content is created, distributed, and consumed, with hands-on demos of next-generation computing technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4010",
+      "courseId": "CS 4010",
+      "title": "Introduction to Computer Law",
+      "description": "Provides an introduction to copyrights, patents, trade secrets, trademarks, and commercial law pertaining to computer software and hardware.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4052",
+      "courseId": "CS 4052",
+      "title": "Systems Analysis and Design",
+      "description": "An introductory course on the development life cycle of business information systems.  It covers analysis and design tools and methodology.  Credit not allowed for both CS 4052 and MGT 4045.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4057",
+      "courseId": "CS 4057",
+      "title": "Business Process Analysis and Design",
+      "description": "Business processes are the mechanisms by which work is organized and performed. This course covers the analysis of business technology. Credit will not be awarded for both CS 4057 and MGT 4057.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4117",
+      "courseId": "CS 4117",
+      "title": "Introduction to Malware Reverse Engineering",
+      "description": "This course exposes students to an immersive, hands-on experience in the dissection and analysis of the code, structure, and functionality of malicious software.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4210",
+      "courseId": "CS 4210",
+      "title": "Advanced Operating Systems",
+      "description": "Operating system abstractions and their implementations, multi-threading, efficient inter-address communication, high-level synchronization, introduction to multi-processor and distributed operating systems, real-time systems. Credit is not awarded for both CS 4210 and CS 6210.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4220",
+      "courseId": "CS 4220",
+      "title": "Programming Embedded Systems",
+      "description": "Design principles, programming techniques, and case studies of embedded real-time systems.  Interface techniques and devices.  Representations and reasoning about physical processes.Credit not awarded for both CS 4220 and CS 6235.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4220R",
+      "courseId": "CS 4220R",
+      "title": "CS 4220 Recitation",
+      "description": "Recitation for CS 4220.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4233",
+      "courseId": "CS 4233",
+      "title": "Parallel Computer Architecture",
+      "description": "The objective of this course is to develop an in-depth understanding of the design, implementation, and evaluation of modern parallel computers.  Credit not allowed for both CS 4233 and CS 7110.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4235",
+      "courseId": "CS 4235",
+      "title": "Introduction to Information Security",
+      "description": "Terms/concepts, threats, controls; problem definition; comprehensive information security model; security for operating systems, databases, network/distributed systems; administering security; legal/ethical/policy issues.  Credit not allowed for both CS 4235 and CS 6035.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4237",
+      "courseId": "CS 4237",
+      "title": "Computer and Network Security",
+      "description": "Fundamental concepts and principles of computer security, operating system and database security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec ad VPN, and wireless security.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4238",
+      "courseId": "CS 4238",
+      "title": "Computer Systems Security",
+      "description": "Trusted computing base, hardware support for protection and virtualization, authentication, access control and authorization, discretionary and mandatory security policies, secure kernel design, and secure databases. Students cannot receive credit for CS 4238 and CS 6238.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4239",
+      "courseId": "CS 4239",
+      "title": "Enterprise Cybersecurity Management",
+      "description": "The duties and concerns of an enterprise Chief Information Security Officer including strategy, cybersecurity operations, risk management, and governance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4240",
+      "courseId": "CS 4240",
+      "title": "Compilers, Interpreters, and Program Analyzers",
+      "description": "Study of techniques for the design and implementation of compilers, interpreters, and program analyzers, with consideration of the particular characteristics of widely used programming languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4243",
+      "courseId": "CS 4243",
+      "title": "Cyber Warfare",
+      "description": "This course provides students with a framework for understanding cyber warfare from a technological and political standpoint.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4245",
+      "courseId": "CS 4245",
+      "title": "Introduction to Data Mining and Analysis",
+      "description": "Computational techniques for analysis of large, complex datasets, covering fundamental aspects as well as modern data mining and analysis techniques. Cross-listed with ISYE 4245.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4251",
+      "courseId": "CS 4251",
+      "title": "Computer Networking II",
+      "description": "Principles of computer networks, including medium access, ARQ protocols, routing, congestion avoidance, and control. Emphasis on design options and tradeoffs. Includes significant network application programming.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4255",
+      "courseId": "CS 4255",
+      "title": "Introduction to Network Management",
+      "description": "Introduction to SNMP-based network management.  Practical application to network and system management including hands-on lab practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4260",
+      "courseId": "CS 4260",
+      "title": "Telecommunications Systems",
+      "description": "Study of telecommunication systems emphasizing functional roles of the various portions of the system and how various functional components support and interact with one another.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4261",
+      "courseId": "CS 4261",
+      "title": "Mobile Applications and Services for Converged Networks",
+      "description": "This course provides an introduction to mobile applications and services with an emphasis on voice and data service integration in modern commercial networks.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4262",
+      "courseId": "CS 4262",
+      "title": "Network Security",
+      "description": "Fundamental concepts of network information security, including applied cryptography, secure access methods, and vulnerabilities in network protocols and network applications. Students cannot receive credit for CS 4262 and CS 6262.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4263",
+      "courseId": "CS 4263",
+      "title": "Psychology of Cybersecurity",
+      "description": "This course will explore psychological processes relevant to cybersecurity. Students will gain an appreciation for psychological influence factors inherent in the current cyberspace environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4265",
+      "courseId": "CS 4265",
+      "title": "Technical Introduction to Blockchain and Cryptocurrencies",
+      "description": "Undergraduate Introduction to Blockchain and cryptocurrencies, building on formal crypto and distributed systems.  Cover fundamental and practical aspects.  Includes programming projects and a report.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4267",
+      "courseId": "CS 4267",
+      "title": "Critical Infrastructures Security and Resilience",
+      "description": "Critical infrastructures are large cyber-physical networks essential to the well-being of the societies they serve. We study their resilience and security against a range of disruptions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4270",
+      "courseId": "CS 4270",
+      "title": "Data Communications Laboratory",
+      "description": "Detailed study of the principles of data transmission systems and their performance, reinforced by laboratory exercises.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4280",
+      "courseId": "CS 4280",
+      "title": "Survey of Telecommunications and the Law",
+      "description": "Overview of telecommunication regulation at the federal, state, and judicial levels; review of FCC policies and restrictions on Bell operating companies under the AT&T Consent Agreement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4290",
+      "courseId": "CS 4290",
+      "title": "Advanced Computer Organization",
+      "description": "Topics concerning the hardware design of computer systems. Advanced techniques in high-performance pipelined central processing units. Memory and I/O systems. Parallel processors including shared-memory multiprocessors and cluster computers.  Credit is not allowed for both CS 4290 and any of the following courses:  CS 6290, ECE 4100, ECE 6100.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4320",
+      "courseId": "CS 4320",
+      "title": "Introduction to Software Processes",
+      "description": "The course will provide students with an overall context in which software systems are developed from the viewpoint of processes that support development.  Software engineering is described as the set of activities developers engage in to create high-quality products within schedule and budget constraints.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4330",
+      "courseId": "CS 4330",
+      "title": "Software Engineering Applications",
+      "description": "Software engineering methods specific to classes of applications or systems, including information systems and embedded, real-time systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4342",
+      "courseId": "CS 4342",
+      "title": "Software Generation, Testing, and Maintenance",
+      "description": "Methods and principles for program generation, testing, and managing the evolution of software systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4365",
+      "courseId": "CS 4365",
+      "title": "Introduction to Enterprise Computing",
+      "description": "A survey of basic software tools and techniques used in mission-critical systems and applications, combined with in-depth study of fundamental principles underlying enterprise computing.  Credit not allowed for both 4365 and CS 6365.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4392",
+      "courseId": "CS 4392",
+      "title": "Programming Languages",
+      "description": "Fundamentals of programming language design and theory. Topics include formal semantics and type systems for imperative, functional, and parallel languages; lambda calculus and its variants; the Curry-Howard Correspondence; techniques for proving language properties and verifying program specifications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4400",
+      "courseId": "CS 4400",
+      "title": "Introduction to Database Systems",
+      "description": "Comprehensive coverage of mainstream database concepts such as the entity-relationship model, relational databases, query languages, and database design methodology. Includes a project.  Credit not allowed for both CS 4400 and CS 6402.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4420",
+      "courseId": "CS 4420",
+      "title": "Database System Implementation",
+      "description": "Study of fundamental software components/algorithms of a database system, including the file manager, query engine, lock manager, and recovery manager.  Includes a project component.  Credit not allowed for both CS 4420 and CS 6422.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4423",
+      "courseId": "CS 4423",
+      "title": "Advanced Database System Implementation",
+      "description": "Study of advanced topics in implementing a database system, including the query optimizer, concurrency control and recovery protocols. Includes a project component.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4432",
+      "courseId": "CS 4432",
+      "title": "Information Systems Design",
+      "description": "The analysis, design, and implementation of information systems.  Topics include requirements analysis, design representations, implementation techniques, and evaluation of systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4440",
+      "courseId": "CS 4440",
+      "title": "Emerging Database Technologies and Applications",
+      "description": "The course will cover current developments including distributed, object-oriented, temporal-spatial, Web-based, mobile, and active database technologies, and data warehousing and mining applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4452",
+      "courseId": "CS 4452",
+      "title": "Human-Centered Computing Concepts",
+      "description": "Introduction to programming and human-centered principles of computing based on a communications and media computation context. Introduces user interface programming. Credit not awarded for both CS 4452 and CS 1315.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4455",
+      "courseId": "CS 4455",
+      "title": "Video Game Design and Programming",
+      "description": "Techniques for electronic game design and programming, including graphics game engines, motion generation, behavioral control for autonomous characters, interaction structure, social and interface issues of multi-user play, and the business aspects of game development.  Credit not allowed for both CS 4455 and CS 6457.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4460",
+      "courseId": "CS 4460",
+      "title": "Introduction to Information Visualization",
+      "description": "Introduction to principles and techniques of information visualization, the presentation of primarily abstract data to help people understand, analyze and make sense of data. Students cannot receive credit for both CS 4460 and CS 6730.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4460R",
+      "courseId": "CS 4460R",
+      "title": "CS 4460 Recitation",
+      "description": "This recitation supports the information visualization (CS 4460) course. Sessions will focus on introducing students to technical work with visualization programming languages and grammars important to the course.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4464",
+      "courseId": "CS 4464",
+      "title": "Computational Journalism",
+      "description": "A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information.  Credit not allowed for both CS 4464 and CS 6465.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4470",
+      "courseId": "CS 4470",
+      "title": "Introduction to User Interface Software",
+      "description": "Concepts, techniques, structures, and strategies for implementation of interactive software. Credit not awarded for both CS 4470 and CS 6456.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4472",
+      "courseId": "CS 4472",
+      "title": "Design of Online Communities",
+      "description": "Introduction to the design of online communities.  Students study an existing community in depth.  Credit not allowed for both CS 4472 and CS 6470.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4475",
+      "courseId": "CS 4475",
+      "title": "Computational Photography",
+      "description": "An introductory course on the scientific, technical, perceptual, and aesthetic principles of pictures. Emphasis is on the techniques of image formation, analysis, merging, modification and their use for depiction of reality on a 2D medium of photographs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4476",
+      "courseId": "CS 4476",
+      "title": "Introduction to Computer Vision",
+      "description": "Introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, stereo, motion estimation and tracking, image classification and scene understanding. Credit will not be awarded for both CS 4476 and CS 4495 or CS 6476.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4480",
+      "courseId": "CS 4480",
+      "title": "Digital Video Special Effects",
+      "description": "A study of digital multimedia and the analysis and synthesis of digital video.  Special attention paid to techniques for generating video special effects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4488",
+      "courseId": "CS 4488",
+      "title": "Procedural Content Generation",
+      "description": "Students will learn algorithmic techniques for creating geometric models and images that can be used for games, feature films or virtual reality.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4495",
+      "courseId": "CS 4495",
+      "title": "Computer Vision",
+      "description": "An introduction to computer vision and machine perception. An intensive study of the process of generating a symbolic description of the scene by interpretation of images(s).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4496",
+      "courseId": "CS 4496",
+      "title": "Computer Animation",
+      "description": "Motion techniques for computer animation and interactive games (keyframing, procedural methods, motion capture, and simulation) and principles for storytelling, composition, lighting, and interactivity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4497",
+      "courseId": "CS 4497",
+      "title": "Computational Aesthetics",
+      "description": "Aesthetics plays a key role in society and economy.  Students will invent and test beautification algorithms for colors, music, and animations and more.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4510",
+      "courseId": "CS 4510",
+      "title": "Automata and Complexity Theory",
+      "description": "Computational machine models and their language classes. Undecidability. Resource-bounded computations. Central complexity-theoretic concepts such as complexity classes, reducibility and completeness.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4520",
+      "courseId": "CS 4520",
+      "title": "Approximation Algorithms",
+      "description": "Approximation algorithms for NP-hard optimization problems, design and analysis techniques for such algorithms.  Credit not allowed for both CS 4520 and CS 7520.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4530",
+      "courseId": "CS 4530",
+      "title": "Randomized Algorithms",
+      "description": "Efficient randomized algorithms with improved performance over deterministic algorithms, or for NP-hard optimization problems, design and analysis techniques for such algorithms.  Credit not allowed for both CS 4530 and CS 7530.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4540",
+      "courseId": "CS 4540",
+      "title": "Advanced Algorithms",
+      "description": "Advanced techniques for designing and analyzing efficient algorithms for combinatorial, algebraic, and number theoretic problems.  Credit not allowed for both CS 4540 and CS 6505 or CS 4540 and CS 6515.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4550",
+      "courseId": "CS 4550",
+      "title": "Scientific Data Processing and Visualization",
+      "description": "Foundations and algorithms underlying the development and application of tools for the efficient transmission, analysis, filtering, and visualization of large scientific data sets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4560",
+      "courseId": "CS 4560",
+      "title": "Verification of Systems",
+      "description": "Technique for verifying, validating and testing software and hardware systems. Topics covered will include modeling, abstraction methods, evaluation and certification, and computer-aided verification methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4590",
+      "courseId": "CS 4590",
+      "title": "Principles and Applications of Computer Audio",
+      "description": "A well-rounded exploration of digital audio and its importance in current research and applications. Exposes students to the principles, technology, and current research of computer audio.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4605",
+      "courseId": "CS 4605",
+      "title": "Mobile and Ubiquitous Computing",
+      "description": "Investigates the infrastructure required to develop mobile and ubiquitous computing applications and establishes major research themes and experimental practices.Credit not awarded for both CS 4605 and CS 7470.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4611",
+      "courseId": "CS 4611",
+      "title": "Artificial Intelligence Problem Solving",
+      "description": "Basic concepts and methods of AI problem solving, knowledge representation, reasoning, and learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4613",
+      "courseId": "CS 4613",
+      "title": "Knowledge Systems Engineering",
+      "description": "Techniques for constructing large knowledge-based systems. Advanced symbolic AI techniques. Constraint systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4615",
+      "courseId": "CS 4615",
+      "title": "Knowledge-Based Modeling and Design",
+      "description": "Information-processing theories of modeling and design; topics include design decision-making, problem-solving and learning, and knowledge-based modeling and design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4616",
+      "courseId": "CS 4616",
+      "title": "Pattern Recognition",
+      "description": "An introductory course on pattern classification and decision problems with applications to character recognition, image analysis, and speech recognition.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4622",
+      "courseId": "CS 4622",
+      "title": "Case-Based Reasoning",
+      "description": "Based on human problem-solving, CBR has had many successes in industry and research.  Topics include case representation, indexing and retrieval, similarity assessment, adaptation, learning.  Credit not allowed for both CS 4622 and CS 7620.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4625",
+      "courseId": "CS 4625",
+      "title": "Intelligent and Interactive Systems",
+      "description": "Explores how human-computer interaction and machine learning can interact to create personalized information environments. Emphasis on current research efforts from both fields.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4632",
+      "courseId": "CS 4632",
+      "title": "Advanced Intelligent Robotics",
+      "description": "Hands-on course in which students program autonomous mobile robots and solve complex tasks for robot teams.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4635",
+      "courseId": "CS 4635",
+      "title": "Knowledge-Based Artificial Intelligence",
+      "description": "Structured knowledge representation; knowledge-based methods of reasoning and learning; problem-solving, modeling and design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4641",
+      "courseId": "CS 4641",
+      "title": "Machine Learning",
+      "description": "Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications. Credit not awarded for both CS 4641 and CS 7641/CSE 6740/ISYE 6740/ECE 4252.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4644",
+      "courseId": "CS 4644",
+      "title": "Deep Learning",
+      "description": "This course will cover the fundamental underpinnings and practice of deep learning, including neural network architectures, optimization algorithms, and applications to perception and Artificial Intelligence.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4646",
+      "courseId": "CS 4646",
+      "title": "Machine Learning for Trading",
+      "description": "This course introduces students to the real world challenges of implementing machine learning based strategies including the algorithmic steps from information gathering to market orders.Credit not awarded for both CS 4646 and CS 7646.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4649",
+      "courseId": "CS 4649",
+      "title": "Robot Intelli Planning",
+      "description": "We investigate algorithms for robots and complex systems that make intelligent decisions.  Emphasis on the theoretical and empirical properties of classical, geometric, stochastic/dynamic planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4650",
+      "courseId": "CS 4650",
+      "title": "Natural Language Understanding",
+      "description": "Methodologies for designing systems that comprehend natural language. Topics include lexical analysis, parsing, interpretation of sentences, semantic representation, organization of knowledge, and inference mechanisms.  Credit not allowed for both CS 4650 and CS 7650.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4660",
+      "courseId": "CS 4660",
+      "title": "Introduction to Educational Technology",
+      "description": "Introduction to the theory and practice of educational technology. Covers learning theory applicable to educational technology, explains major research findings. Credit not awarded for both CS 4660 and CS 6460.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4665",
+      "courseId": "CS 4665",
+      "title": "Educational Technology: Design and Evaluation",
+      "description": "Intensive project class in which students design, implement, and evaluate a piece of educational technology, applying the theory learned in Introduction  to Educational Technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4670",
+      "courseId": "CS 4670",
+      "title": "Computer-Supported Collaborative Learning",
+      "description": "Research and practice in computer-supported collaborative learning. Review of existing systems and research, as well as evaluation and design methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4675",
+      "courseId": "CS 4675",
+      "title": "Internet Computing Systems, Services and Applications",
+      "description": "Focusing on fundamental issues, concepts, techniques, and technical challenges that are critical for designing and developing Internet systems, services and applications.  Credit not allowed for both CS 4675 and CS 6675.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4685",
+      "courseId": "CS 4685",
+      "title": "Pervasive Systems and Networking",
+      "description": "In-depth study of systems and wireless networking issues in enabling pervasive computing environments and applications using a hand-on approach.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4690",
+      "courseId": "CS 4690",
+      "title": "Empirical Methods for User Interface Design and Evaluation",
+      "description": "Introduction to empirical methods for gathering requirements and evaluating the end-user and usability of software systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4698",
+      "courseId": "CS 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4699",
+      "courseId": "CS 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4710",
+      "courseId": "CS 4710",
+      "title": "Introduction to Computing Concepts for Bioinformatics",
+      "description": "Introduction to programming concepts and computing tools such as formal models and algorithms with applications from conceptual biology.  May not be used by computer science majors for degree credit.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4723",
+      "courseId": "CS 4723",
+      "title": "Inter Capstone Design",
+      "description": "Entrepreneurial Junior Design. Teams comprised of CS, ECE, and ME students will design and build prototypes of their invention ideas and explore market fit.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4725",
+      "courseId": "CS 4725",
+      "title": "Information Security Strategies and Policies",
+      "description": "Information security vulnerabilities and risks; legal, cost, privacy, and technology constraints; derivation of strategies; technical and procedural means of achieving desired results. Credit will not be awarded for both CS 4725 and CS 6725 or MGT 4725 or MGT 6725 or PUBP 4725.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4726",
+      "courseId": "CS 4726",
+      "title": "Privacy, Technology, Policy, and Law",
+      "description": "This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics, law, and business realms. Credit will not be awarded for both CS 4726 and MGT 4726 or MGT 6726 or CS 6726.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4731",
+      "courseId": "CS 4731",
+      "title": "Game AI",
+      "description": "Examines the expressive possibilities of artificial intelligence techniques in computer games. Students learn AI programming techniques, and how they strongly interface with game design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4741",
+      "courseId": "CS 4741",
+      "title": "Integrative Management Development-Project Preparation",
+      "description": "Individual and group-based experiential learning activities to develop integrated human system management skills that prepare students for more successful capstone collaboration and learning.  Credit not allowed for both CS 4741 and MGT 4741 or ME 4741.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4742",
+      "courseId": "CS 4742",
+      "title": "Integrated Computing and Management Capstone Project",
+      "description": "Project-based course for students in Computing and Management minor to work in interdisciplinary teams on projects provided by corporate affiliates.  Credit not allowed for both CS 4742 and MGT 4742 or ME 4742.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4745",
+      "courseId": "CS 4745",
+      "title": "Information and Communication Technologies and Global Development",
+      "description": "Focus on technology design, adoption, and use as seen through the lens of global development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4770",
+      "courseId": "CS 4770",
+      "title": "Mixed Reality Experience Design",
+      "description": "Focuses on informal design, integration of  media theory, HCI and technology issues. Significant group design projects. Credit not awarded for both CS 4770 and LMC 4733/6340/CS 6770.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4791",
+      "courseId": "CS 4791",
+      "title": "Integrative Project in Cognitive Science",
+      "description": "An integrative course in cognitive science focusing on the integration and use of concepts and skills from cognitive science.  A different integrative project or set of projects will be taken on each semester; students will contribute on the basis of their background and skill.  Crosslisted with PST, PSYC, and ISYE 4791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4792",
+      "courseId": "CS 4792",
+      "title": "Design Project in Cognitive Science",
+      "description": "Individual project with a cognitive science faculty member, designed as a supplement to the student's senior design project or thesis in their major area.  Crosslisted with PST, PSYC, and ISYE 4792.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4793",
+      "courseId": "CS 4793",
+      "title": "Integrative Perspectives in Cognitive Science",
+      "description": "An integrative course in cognitive science which uses a focus topic to deepen interdisciplinary perspective and develop cognitive science knowledge and skills.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4795",
+      "courseId": "CS 4795",
+      "title": "GPU Programming for Video Games",
+      "description": "3-D graphics pipelines. Physically-based rendering. Game engine architectures. GPU architectures. Graphics APIs. Vertex and pixel shader programming. Post-processing effects. Deferred rendering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4801",
+      "courseId": "CS 4801",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4802",
+      "courseId": "CS 4802",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4803",
+      "courseId": "CS 4803",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4804",
+      "courseId": "CS 4804",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4805",
+      "courseId": "CS 4805",
+      "title": "Special Topics",
+      "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4816",
+      "courseId": "CS 4816",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4851",
+      "courseId": "CS 4851",
+      "title": "Special Topics",
+      "description": "Special Topics in CS - Lab.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4853",
+      "courseId": "CS 4853",
+      "title": "Special Topics",
+      "description": "Special Topics in CS (lecture and supervised lab)",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4854",
+      "courseId": "CS 4854",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4863",
+      "courseId": "CS 4863",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4873",
+      "courseId": "CS 4873",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4883",
+      "courseId": "CS 4883",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4893",
+      "courseId": "CS 4893",
+      "title": "Special Topics",
+      "description": "Special Topics for CS (lecture + lab).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4901",
+      "courseId": "CS 4901",
+      "title": "Special Problems",
+      "description": "An investigation of significant areas of information in computer science. Guided study and research.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4902",
+      "courseId": "CS 4902",
+      "title": "Special Problems",
+      "description": "An investigation of significant areas of information and computer science. Guided study and research.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4903",
+      "courseId": "CS 4903",
+      "title": "Special Problems",
+      "description": "An investigation of significant areas of information and computer science. Guided study and research.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4911",
+      "courseId": "CS 4911",
+      "title": "Design Capstone Project",
+      "description": "Team-based capstone experience allowing students to analyze a problem for a customer and manage the solution development through the full project life cycle.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4912",
+      "courseId": "CS 4912",
+      "title": "Design Capstone Project",
+      "description": "Team-based capstone experience allowing students to analyze a problem for a customer and manage the solution development through the full project life cycle.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "4980",
+      "courseId": "CS 4980",
+      "title": "Research Capstone Project",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6010",
+      "courseId": "CS 6010",
+      "title": "Principles of Design",
+      "description": "This is an interactive hands-on course that will teach students the principles of design at the individual level.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6035",
+      "courseId": "CS 6035",
+      "title": "Introduction to Information Security",
+      "description": "A broad spectrum of information security: threats, basic cryptography, software vulnerabilities, programming for malice, operating system protections, network security, privacy, data mining, computer crime.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6150",
+      "courseId": "CS 6150",
+      "title": "Computing For Good",
+      "description": "Exploring challenges faced by underserved populations and developing countries from a computing perspective.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6200",
+      "courseId": "CS 6200",
+      "title": "Graduate Introduction to Operating Systems",
+      "description": "This course teaches operating system abstractions, mechanisms, and their implementations, including for concurrency (threads) and synchronization, resource management (CPU, memory, I/O), and distributed services.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6210",
+      "courseId": "CS 6210",
+      "title": "Advanced Operating Systems",
+      "description": "Introduction to graduate-level topics in operating systems using research papers, textbook excerpts, and projects. Provides students thorough comprehension of distributed and parallel computer systems. Credit is not awarded for both CS 4210 and CS 6210.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6211",
+      "courseId": "CS 6211",
+      "title": "System Design for Cloud Computing",
+      "description": "Through in-depth presentations and hands-on projects for each layer of the full stack of cloud technologies, learners acquire the systems design skills for cloud computing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6220",
+      "courseId": "CS 6220",
+      "title": "Big Data Systems and Analytics",
+      "description": "This course will cover the concepts, techniques, algorithms, and systems of big data systems and data analytics, with strong emphasis on big data processing systems, fundamental models and optimizations for data analytics and machine learning, which are widely deployed in real world big data analytics and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6230",
+      "courseId": "CS 6230",
+      "title": "High-Performance Parallel Computing: Tools and Applications",
+      "description": "Introduction to MIMD parallel computation, using textbook excerpts, research papers, and projects on multiple parallel machines.  Emphasizes practical issues in high-performance computing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6235",
+      "courseId": "CS 6235",
+      "title": "Real-Time System Concepts and Implementation",
+      "description": "Principles of real-time systems, as occurring in robotics and manufacturing, interactive, and multimedia applications. Reviews and uses real-time operating systems.Credit not awarded for both CS 6235 and CS 4220.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6238",
+      "courseId": "CS 6238",
+      "title": "Secure Computer Systems",
+      "description": "Design principles of secure systems, authentication, access control and authorization, discretionary and mandatory security policies, secure kernel design, and secure databases.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6239",
+      "courseId": "CS 6239",
+      "title": "Enterprise Cybersecurity Management",
+      "description": "The duties and concerns of an enterprise Chief Information Security Officer including strategy, cybersecurity operations, risk management, and governance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6241",
+      "courseId": "CS 6241",
+      "title": "Design and Implementation of Compilers",
+      "description": "Design and implementation of modern compilers, focusing upon optimization and code generation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6245",
+      "courseId": "CS 6245",
+      "title": "Compiling for Parallelism",
+      "description": "Design and implementation of compilers for parallel and distributed computers, focusing upon optimization and code generation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6246",
+      "courseId": "CS 6246",
+      "title": "Object-Oriented Systems and Languages",
+      "description": "Design and implementation of object-oriented systems.  Aspect-oriented programming, type systems, OO language implementation (virtual dispatch, GC), OO language design (genericity, reflection, mixins).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6250",
+      "courseId": "CS 6250",
+      "title": "Computer Networks",
+      "description": "Principles and practice of computer networks, including signaling and framing, error control, medium access, routing, congestion control, end-to-end transport, and network APIs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6255",
+      "courseId": "CS 6255",
+      "title": "Principles of Network Management",
+      "description": "Focus on network, system, and applications management. Principles and practice of various network management standards will be presented.  Course includes project assignment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6260",
+      "courseId": "CS 6260",
+      "title": "Applied Cryptography",
+      "description": "Cryptographic algorithms, cryptanalysis, symmetric cryptography, public key cryptography, DES, AES, RSA, hash and MAC functions, digital signatures, pseudo-random generators, cryptographic protocols, SSL//TLS, SET. Credit not allowed for both CS 6260 and ECE 6280.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6261",
+      "courseId": "CS 6261",
+      "title": "Security Operations and Incident Response",
+      "description": "The course covers the principles and technologies utilized in and the processes followed in responding to cybersecurity incidents and crises. The course utilizes real-life case studies to develop how these technologies and processes are applied within the cybersecurity industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6262",
+      "courseId": "CS 6262",
+      "title": "Network Security",
+      "description": "Design principles of secure network protocols and systems, authentication, integrity, confidentiality, privacy, information hiding, digital watermarking, access control, firewall, intrusion detection, and case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6263",
+      "courseId": "CS 6263",
+      "title": "Intro to Cyber-Physical Systems Security",
+      "description": "This course provides an introduction to security issues relating to various cyber-physical systems including industrial control systems and those considered critical infrastructure systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6264",
+      "courseId": "CS 6264",
+      "title": "Information Security Lab: System and Network Defenses",
+      "description": "This course will help students develop both in-depth knowledge and hands-on skills in a number of important cybersecurity areas, including software security, malware and threat analysis, end-point security, network security, web security, mobile security, and machine learning based security analytics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6265",
+      "courseId": "CS 6265",
+      "title": "Information Security Lab: Binary Exploitation",
+      "description": "This course covers advanced techniques for writing exploits, taught\nthrough an intense, hands-on security laboratory, following a\ncyberspace war game called Capture-The-Flag.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6266",
+      "courseId": "CS 6266",
+      "title": "Information Security Practicum",
+      "description": "Capstone independent study placing each student in a commercial, industrial, academic, or government setting where they must solve real-world security problems.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6267",
+      "courseId": "CS 6267",
+      "title": "Critical Infrastructures Security and Resilience",
+      "description": "Critical infrastructures are large cyber-physical networks essential to the well-being of the societies they serve. We study their resilience and security against a range of disruptions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6268",
+      "courseId": "CS 6268",
+      "title": "Psychology of Cybersecurity",
+      "description": "This course will explore psychological processes relevant to cybersecurity. Students will gain an appreciation for psychological influence factors inherent in the current cyberspace environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6269",
+      "courseId": "CS 6269",
+      "title": "Formal Models and Methods for Information Assurance",
+      "description": "Logical foundations of high-assurance systems, formal models for access control, authentication, and trust; techniques for constructing high-assurance systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6270",
+      "courseId": "CS 6270",
+      "title": "Technical Introduction to Blockchain and Cryptocurrencies",
+      "description": "Graduate Introduction to Blockchain and cryptocurrencies, building on formal crypto and distributed systems.  Cover fundamental and practical aspects.  Includes programming projects and research presentation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6271",
+      "courseId": "CS 6271",
+      "title": "Cybersecurity of Drones",
+      "description": "The course covers introductory topics in the security and privacy of cyber-physical systems especially unmanned aerial vehicles (UAVs) or drones. The goal is to expose students to fundamental security primitives specific to cyber-physical systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6280",
+      "courseId": "CS 6280",
+      "title": "Performance Evaluation of Communication Networks",
+      "description": "Methods for evaluating the performance of communication networks with emphasis on modeling, mathematical analysis, computer simulation, and measurement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6290",
+      "courseId": "CS 6290",
+      "title": "High-Performance Computer Architecture",
+      "description": "Topics concerning very high-performance computers including techniques exploiting parallelism in single and multiple processor systems.  Credit not allowed for both CS 6290 and any of the following courses: CS 4290, ECE 4100, ECE 6100.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6291",
+      "courseId": "CS 6291",
+      "title": "Embedded Software Optimizations",
+      "description": "First, this course introduces the student to embedded domain-specific processor and instruction set design issues.  Next, machine-specific optimizations for performance and for energy consumption are discussed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6300",
+      "courseId": "CS 6300",
+      "title": "Software Development Process",
+      "description": "The process of developing software systems. Includes development and assessment of processes, their instantiation in actual product development, and techniques ensuring quality of developed products.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6301",
+      "courseId": "CS 6301",
+      "title": "Advanced Topics in Software Engineering",
+      "description": "This project-based course will cover fundamental principles, advanced techniques, and tools for the development of high-quality, industrial-strength software.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6310",
+      "courseId": "CS 6310",
+      "title": "Software Architecture and Design",
+      "description": "Principles and concepts involved in the design and analysis of large software systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6320",
+      "courseId": "CS 6320",
+      "title": "Software Requirements Analysis and Specification",
+      "description": "Methods and principles for determining, documenting, analyzing, and formally specifying requirements for software systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6330",
+      "courseId": "CS 6330",
+      "title": "Software Generation, Testing, and Maintenance",
+      "description": "Introduction to methods and principles for programming, testing, and managing the evolution of software systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6340",
+      "courseId": "CS 6340",
+      "title": "Advanced Topics in Software Analysis and Testing",
+      "description": "Fundamental prinicples and advanced techniques for static and dynamic program analysis and software testing. Software reliability, resilience, and trustworthiness.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6365",
+      "courseId": "CS 6365",
+      "title": "Introduction to Enterprise Computing",
+      "description": "Survey of basic software concepts and techniques used in mission-critical systems and applications, combined with in-depth study of fundamental principles underlying enterprise computing.  Credit not allowed for both CS 6365 and CS 4365.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6390",
+      "courseId": "CS 6390",
+      "title": "Programming Language Design",
+      "description": "Design, structure, and goals of programming languages. Object-oriented, logic, functional, and traditional languages.  Semantic models.   Parallel programming languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6400",
+      "courseId": "CS 6400",
+      "title": "Database Systems Concepts and Design",
+      "description": "Study of fundamental concepts with regard to relational databases. Topics covered include database design, query processing, concurrency control, and recovery. Credit not given for both CS 6400 and CS 6754.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6402",
+      "courseId": "CS 6402",
+      "title": "Databases and Information Security",
+      "description": "Fundamentals of designing and using databases:  conceptual data models to database-specific models, SQL, storage structures.  Security-related topics include privacy, access control, backup, recovery, SQL injection.  Credit not allowed for both CS 6402 and CS 4400.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6411",
+      "courseId": "CS 6411",
+      "title": "Object-Oriented Database Models and Systems",
+      "description": "Study of advanced database concepts as they apply to object-oriented database systems.  Topics include semantic data models, object-oriented query languages, tools, and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6421",
+      "courseId": "CS 6421",
+      "title": "Temporal, Spatial and Active Databases",
+      "description": "Study of advanced database concepts for temporal databases with emphasis on storage structure, processing and query languages, as well as active database concepts and implementation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6422",
+      "courseId": "CS 6422",
+      "title": "Database System Implementation",
+      "description": "Design and implementatuion of a databse system covering: storage manager, query optimizer, transaction manager, and recovery manager.  Study of the advantages of different implementation algorithms.  Credit not allowed for both CS 6422 and CS 4420.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6423",
+      "courseId": "CS 6423",
+      "title": "Advanced Database System Implementation",
+      "description": "Study of advanced topics in implementing a database system, including the query optimizer, concurrency control and recovery protocols. Includes a project component.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6430",
+      "courseId": "CS 6430",
+      "title": "Parallel and Distributed Database Systems and Applications",
+      "description": "Study of algorithms and performance in advanced databases. Systems include parallel, distributed, and client-server databases. Applications include data mining and on-line analytical processing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6435",
+      "courseId": "CS 6435",
+      "title": "Digital Health Equity",
+      "description": "This course introduces individual, interpersonal, and societal influences on health; how these create health disparities, and how digital health technologies can help achieve health equity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6440",
+      "courseId": "CS 6440",
+      "title": "Information to Health Informatics",
+      "description": "A broad review of the US health system and the application of informatics to the clinical practice of medicine, digital imaging, public health and bioinformatics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6441",
+      "courseId": "CS 6441",
+      "title": "Personal Health Informatics",
+      "description": "This course will cover the design of personal health technologies. Students will apply the taught design issues to a semester-long\nhealth application design project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6451",
+      "courseId": "CS 6451",
+      "title": "Introduction to Human-Centered Computing",
+      "description": "Introduction to the range of issues across the HCC disciplines, including design and research methodologies: cognitive, social, and cultural theories; assessment and evaluation: ethical issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6452",
+      "courseId": "CS 6452",
+      "title": "Prototyping Interactive Systems",
+      "description": "Introduction to design, prototyping and implementation of systems for human-centered computing. Focuses on core concepts in computer science and implications for interactive systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6454",
+      "courseId": "CS 6454",
+      "title": "Qualitative Methods for Design of Human Computer Interaction",
+      "description": "Qualitative methods for HCI including data collection through interviews, observations and design, analysis using research and industry standards, and methods for communicating findings to industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6455",
+      "courseId": "CS 6455",
+      "title": "User Interface Design and Evaluation",
+      "description": "Examines usability in the software development process with an emphasis on usability, requirements, methodology, design, and evaluation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6456",
+      "courseId": "CS 6456",
+      "title": "Principles of User Interface Software",
+      "description": "Considers the architectural and algorithmic principles behind the implementation of interactive software systems and the tools that support them. Credit not awarded for CS 6456 and CS 4470.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6457",
+      "courseId": "CS 6457",
+      "title": "Video Game Design and Programming",
+      "description": "Techniques for electronic game design and programming, including graphics, game engines, animation, behavioral control for autonomous characters, interaction, social and interface issues of multi-user play.  Credit not allowed for both CS 6457 and CS 4455.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6460",
+      "courseId": "CS 6460",
+      "title": "Educational Technology: Conceptual Foundations",
+      "description": "Introduction to educational technology, with an emphasis on theoretical foundations.  Introduces basic philosophies, approaches, and technologies.  Analyzes issues surrounding technology's impact on education. Credit not awarded for both CS 4660 and CS 6460.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6461",
+      "courseId": "CS 6461",
+      "title": "CS Education Research",
+      "description": "Introduction to computing education research (CER). History and influential early work. Learning goals for different populations. Design of research studies in CER.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6465",
+      "courseId": "CS 6465",
+      "title": "Computational Journalism",
+      "description": "Technology is rapidly affecting how news information is gathered, reported, visualized, aggregated, summarized, distributed, and consumed.  This class studies the computational technologies that impact journalism.  Credit not allowed for both CS 6455 and CS 4464.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6470",
+      "courseId": "CS 6470",
+      "title": "Design of Online Communities",
+      "description": "Introduction to the design of online communities. Students study an existing community in depth, and then develop a new community design.  Credit not allowed for both CS 6470 and CS 4472.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6471",
+      "courseId": "CS 6471",
+      "title": "Computational Social Science",
+      "description": "This graduate seminar focuses on text and network analysis of data with applications to domains such as political science, sociolinguistics, and public health.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6474",
+      "courseId": "CS 6474",
+      "title": "Social Computing",
+      "description": "Design and prototype new social computing systems, as well as analyze social media data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6475",
+      "courseId": "CS 6475",
+      "title": "Computational Photography",
+      "description": "This class explores the impact of computation on the entire workflow of photography, from how light is captured by a camera, to how the images are processed, enhanced, and improved to generate novel photographs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6476",
+      "courseId": "CS 6476",
+      "title": "Introduction to Computer Vision GR",
+      "description": "Introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, stereo, motion estimation and tracking, image classification and scene understanding. Credit not awarded for both CS 6476 and CS 4495 or CS 4476.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6480",
+      "courseId": "CS 6480",
+      "title": "Computer Visualization Techniques",
+      "description": "Principles, techniques, and practice in data, information, multivariate, and scientific visualization. Includes visualization methods, data structures, examples, and tools.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6485",
+      "courseId": "CS 6485",
+      "title": "Visualization Methods for Science and Engineering",
+      "description": "Algorithms, software, and practical applications of visualization techniques in science, engineering, business, and medicine. Includes data structures, multivariate visualization, interactive visualization, and visual representations and examples. Computer science students cannot receive credit for this course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6491",
+      "courseId": "CS 6491",
+      "title": "Foundations of Computer Graphics",
+      "description": "Mathematical/physical/perceptual principles and modeling/rendering techniques used to create, represent, display, and animate models of 3D shapes and their properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6492",
+      "courseId": "CS 6492",
+      "title": "Shape Grammars",
+      "description": "Shape grammars are production systems using shape rewriting rules to perform computations with shapes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6497",
+      "courseId": "CS 6497",
+      "title": "Computational Aesthetics",
+      "description": "Aesthetics play a key role in society and economy. Students will invent and test beautification algorithms for colors, music, and animations and more.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6505",
+      "courseId": "CS 6505",
+      "title": "Computability, Algorithms, and Complexity",
+      "description": "Important concepts from computability theory; techniques for designing algorithms for combinatorial, algebraic, and number-theoretic problems; basic concepts such as NP-Completeness from computational complexity theory. Credit not awarded for both CS 6505 and CS 4540/6515.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6515",
+      "courseId": "CS 6515",
+      "title": "Introduction to Graduate Algorithms",
+      "description": "Design and analysis of algorithms on a graduate level, including dynamic programming, divide and conquer, FFT, graph and flow algorithms, RSA, linear programming, and NP-completedness.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6520",
+      "courseId": "CS 6520",
+      "title": "Computational Complexity Theory",
+      "description": "Introduction to resource-bounded computations, central complexity-theoretic concepts such as complexity classes, reducibility, completeness, and intractability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6550",
+      "courseId": "CS 6550",
+      "title": "Design and Analysis of Algorithms",
+      "description": "Advanced techniques for designing and analyzing efficient algorithms for combinatorial, algebraic, and number-theoretic problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6601",
+      "courseId": "CS 6601",
+      "title": "Artificial Intelligence",
+      "description": "Basic concepts and methods of artificial intelligence including both symbolic/conceptual and numerical/probabilistic techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6603",
+      "courseId": "CS 6603",
+      "title": "AI, Ethics, and Society",
+      "description": "This course covers various Artificial Intelligence and bias mitigation techniques that can be used to counterbalance the potential misuse and abuse of learning from data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6670",
+      "courseId": "CS 6670",
+      "title": "Distributed Control Algorithms",
+      "description": "Algorithms for synchronous, asynchronous, and partially synchronous networks; analysis, control, and implementation of distributed systems such as robot fleets, animal groups.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6675",
+      "courseId": "CS 6675",
+      "title": "Advanced Internet Computing Systems and Applications",
+      "description": "Survey of basic Internet computing concepts and techniques used in Internet systems and applications, combined with in-depth study of fundamental principles underlying Internet computing.  Credit not allowed for both CS 6675 and CS 4675.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6705",
+      "courseId": "CS 6705",
+      "title": "Applications of Artificial Intelligence",
+      "description": "A study of the principles and practice of artificial intelligence in areas other than computer science, with particular focus on engineering, science, and business applications. Computer science majors cannot receive credit for this course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6725",
+      "courseId": "CS 6725",
+      "title": "Information Security Strategies and Policies",
+      "description": "Information security vulnerabilities and risks; legal, cost, privacy, and technology constraints; derivation of strategies; technical and procedural means of achieving desired ends. Credit not awarded for both CS 6725 and CS 4725/MGT 4725/6725/PUBP 4725/6725.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6726",
+      "courseId": "CS 6726",
+      "title": "Privacy, Technology, Policy, and Law",
+      "description": "This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics, law, and business realms. Credit will not be awarded for both CS 6726 and CS 4726 or MGT 4726 or MGT 6726.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6727",
+      "courseId": "CS 6727",
+      "title": "Cyber Security Practicum",
+      "description": "Capstone independent study project placing each student in a commercial, academic or government setting where he or she identifies a major cyber security problem, and explores and evaluates a solution that addresses it with realistic assumptions about the organizational context. The chose problem must be approved by course instructor. Cross-listed with ECE and PUBP 6727.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6730",
+      "courseId": "CS 6730",
+      "title": "Data Visualization: Principles and Applications",
+      "description": "Introductory course on design principles and applications of data visualization. This course teaches best practices for visualizing datasets from diverse domains intended to help people make sense of data. Students cannot receive credit for both CS 6730 and CS 4460.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6745",
+      "courseId": "CS 6745",
+      "title": "Information and Communication Technologies and Global Development",
+      "description": "Focus on technology design, adoption, and use as seen through the lens of global development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6747",
+      "courseId": "CS 6747",
+      "title": "Advanced Topics in Malware Analysis",
+      "description": "This course covers advanced approaches for the analysis of malicious software and explores recent research and unsolved problems in software protection and forensics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6750",
+      "courseId": "CS 6750",
+      "title": "Human-Computer Interaction",
+      "description": "Describes the characteristics of interaction between humans and computers and demonstrates techniques for the evaluation of user-centered systems. Crosslisted with PSYC 6750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6753",
+      "courseId": "CS 6753",
+      "title": "Human-Computer Interaction-Professional Preparation and Practice",
+      "description": "Preparation for a professional career in HCI. Hands-on workshops in resume and portfolio building, interviewing, public speaking, team work. HCI career choices and trajectories.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6754",
+      "courseId": "CS 6754",
+      "title": "Engineering Database Management Systems",
+      "description": "Modeling and managing engineering information systems, integration of design and manufacturing functions in engineering product development, logical models of engineering product and processes. Credit not given for CS 6400 and CS 6754.  Crosslisted with ME  6754.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6755",
+      "courseId": "CS 6755",
+      "title": "Human-Computer Interaction Foundations",
+      "description": "Describes the theory and practice of designing effective and efficient interactions between people and technology. Students do not receive credit for both CS 6755 and PSYC 6755.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6756",
+      "courseId": "CS 6756",
+      "title": "Human-Computer Interaction Applications",
+      "description": "This course supports MS-HCI students in a semester-long team project that is research-focused and results in portfolio-ready artifacts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6763",
+      "courseId": "CS 6763",
+      "title": "Design of Design Environments",
+      "description": "Analysis of design processes; analysis of current design tools at both the user interface and functional levels; procedures for developing better design tools. Credit not allowed for both CS 6763 and ID 6763 or COA 6763.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6764",
+      "courseId": "CS 6764",
+      "title": "Geometric Modeling",
+      "description": "Software development course focusing on 3D geometric constructions and modeling; emphasizes solid modeling and its role in design. Crosslisted with COA 6764.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6770",
+      "courseId": "CS 6770",
+      "title": "Mixed Reality Experience Design",
+      "description": "Introduction to the design of Mixed Reality experiences. Focuses on informal design, integration of media theory, HCI and technology issues. Significant group design projects.Credit not awarded for both CS 6770 and CS 4770/LMC 4733/6340.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6780",
+      "courseId": "CS 6780",
+      "title": "Medical Image Processing",
+      "description": "A study of methods for enhancing, analyzing, interpreting, and visualizing information from two- and three-dimensional data obtained from a variety of medical image modalities. Crosslisted with ECE and BMED 6780.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6795",
+      "courseId": "CS 6795",
+      "title": "Introduction to Cognitive Science",
+      "description": "Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action. Crosslisted with ISYE and PSYC 6795.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6998",
+      "courseId": "CS 6998",
+      "title": "HCI Master's Project",
+      "description": "",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "6999",
+      "courseId": "CS 6999",
+      "title": "Master's Project",
+      "description": "Final project for students completing a master's degree in the College of Computing.  Repeatable for multi-semester projects.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7000",
+      "courseId": "CS 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7001",
+      "courseId": "CS 7001",
+      "title": "Overview of Graduate Studies in Computing",
+      "description": "Research tools including computer systems, as well as fundamental problem-solving skills, are introduced. Lectures on current computing research are presented and projects are required. Credit not allowed in a program of study for a graduate degree.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7110",
+      "courseId": "CS 7110",
+      "title": "Parallel Computer Architectures",
+      "description": "Issues in the design, implementation, and programming of parallel machines.  Credit not allowed for both CS 7110 and CS 4233.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7210",
+      "courseId": "CS 7210",
+      "title": "Distributed Computing",
+      "description": "Fundamental concepts in distributed systems, including global states, logical clocks, and failure models. Distributed algorithms and their implementations using advanced distributed programming systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7230",
+      "courseId": "CS 7230",
+      "title": "Systems Software Design, Implementation, and Evaluation",
+      "description": "Design, implementation, and evaluation of systems software. Distributed/parallel applications will be constructed and evaluated using the systems support that is developed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7250",
+      "courseId": "CS 7250",
+      "title": "Broadband Networking Systems",
+      "description": "Focus on the data link layer and its relationship to layers below and above.  Gigabit Ethernet, SONTET, fibre channel; media including wireless, satellite, xDSL, cable.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7260",
+      "courseId": "CS 7260",
+      "title": "Internetworking Architectures and Protocols",
+      "description": "Detailed discussion of the problems and solution techniques that arise in internetworking. Topics include routing, addressing, quality of service, and security.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7270",
+      "courseId": "CS 7270",
+      "title": "Networked Applications and Services",
+      "description": "End-to-end functional building blocks and their use in adaptive and non-adaptive applications, including multimedia: coding, compression, security, directory services.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7280",
+      "courseId": "CS 7280",
+      "title": "Network Science: Methods and Applications",
+      "description": "Characteristics of real networks in nature and technology, network measurement methods, network analysis, evolving networks, dynamic network processes, co-evolution of structure and function.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7290",
+      "courseId": "CS 7290",
+      "title": "Advanced Topics in Microarchitecture and organization of high-performance processors.",
+      "description": "Low-level organization and hardware algorithms for the implementation of modern high-performance microprocessors including concept designs and real-world case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7292",
+      "courseId": "CS 7292",
+      "title": "Reliability and Security in Computer Architecture",
+      "description": "Hardware support for process isolation, virtualization, debugging, and protection from side-channel attacks. Faults and failures, error tolerance, error rate budgeting, lifetime realiability of devices.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7400",
+      "courseId": "CS 7400",
+      "title": "Introduction to Quantum Computing",
+      "description": "Provide background on quantum computing and equip students with the skills to write code and optimize quantum programs on real quantum computers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7450",
+      "courseId": "CS 7450",
+      "title": "Information Visualization",
+      "description": "Study of computer visualization principles, techniques, and tools used for explaining and understanding symbolic, structured, and/or hierarchical information. Includes data and software visualization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7451",
+      "courseId": "CS 7451",
+      "title": "Human-Centered Data Analysis",
+      "description": "This course covers the role of people in data science and visual data analysis, including cognitive processes, bias, perception, and decision-making theories and frameworks.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7455",
+      "courseId": "CS 7455",
+      "title": "Issues in Human-Centered Computing",
+      "description": "In-depth focus on theoretical, methodological, conceptual, and technical issues across the HCC disciplines associated with humans (cognitive, biological, socio-cultural); design; ethics; and analysis and evaluation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7460",
+      "courseId": "CS 7460",
+      "title": "Collaborative Computing",
+      "description": "Introduction to computer-supported collaborative work, workflow automation, and meeting augmentation. The course deals with models, enabling technology, systems, and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7462",
+      "courseId": "CS 7462",
+      "title": "Animal-Centered Computing",
+      "description": "Explores current research, techniques, and methods in computing as applied to animals, both domestic and wild.  Covers technology for understanding animal cognition and behavior, animal communication, animal welfare and enrichment, and conservation, as well as ethics of computing for animals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7465",
+      "courseId": "CS 7465",
+      "title": "Educational Technology:  Design and Evaluation",
+      "description": "Intensive project class in which students design, implement, and evaluate a piece of educational technology, applying the theory learned in Educational Technology: Conceptual Foundations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7467",
+      "courseId": "CS 7467",
+      "title": "Computer-Supported Collaborative Learning",
+      "description": "Computer-supported collaborative learning is the use of Internet-based technologies to support learning in social settings.  Focus on issues of implementation and evaluation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7470",
+      "courseId": "CS 7470",
+      "title": "Mobile and Ubiquitous Computing",
+      "description": "Investigates the infrastructure required to develop mobile and ubiquitous computing applications and establishes major research themes and experimental practices. Credit not awarded for both CS 7470 and CS 4605.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7476",
+      "courseId": "CS 7476",
+      "title": "Advanced Computer Vision",
+      "description": "Advanced topics in computer vision, which includes a deep dive into both the theoretical foundations of computer vision to the practical issues of building real systems that use computer vision. Credit will not be awarded for CS 7476 and CS 7495.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7490",
+      "courseId": "CS 7490",
+      "title": "Advanced Image Synthesis",
+      "description": "Advanced techniques in realistic image synthesis based on the physics of light.  Anti-aliasing, textures, surface reflectance, distribution ray tracing, volume rendering, radiosity, and image-based rendering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7491",
+      "courseId": "CS 7491",
+      "title": "3D Complexity Techniques for Graphics, Modeling, and Animation",
+      "description": "Multiresolution,  compression, collision, morphing, visibility, and computational geometry techniques for accessing, rendering, and animating complex 3D models in engineering, scientific, business, or entertainment applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7492",
+      "courseId": "CS 7492",
+      "title": "Simulation of Biological Systems",
+      "description": "Study different computer simulation methods for use in investigating biological systems, including bio-molecules, cells and full organisms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7495",
+      "courseId": "CS 7495",
+      "title": "Computer Vision",
+      "description": "An introduction to computer vision and machine perception. An intensive study of the process of generating a symbolic description of the scene by interpretation of images(s). Credit will not be awarded for both CS 7495 and CS 7476.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7496",
+      "courseId": "CS 7496",
+      "title": "Computer Animation",
+      "description": "Motion techniques for computer animation and interactive games (keyframing, procedural methods, motion capture, and simulation) and principles for storytelling, composition, lighting, and interactivity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7497",
+      "courseId": "CS 7497",
+      "title": "Virtual Environments",
+      "description": "An introduction to virtual reality and virtual environments. Issues covered will include VR technology, software design, 3D human-computer interaction, and applications for VR.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7499",
+      "courseId": "CS 7499",
+      "title": "3D Reconstruction and Mapping in Computer Vision, Robotics, and Augmented Reality",
+      "description": "In this course we study the principles and algorithms underlying 3D Reconstruction and Mapping in Computer Vision, Robotics, and Augmented Reality.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7510",
+      "courseId": "CS 7510",
+      "title": "Graph Algorithms",
+      "description": "Algorithms for graph problems such as maximum flow, matching, network reliability, minimum cuts, covering, coloring, planarity, shortest paths, and connectivity. Crosslisted with MATH 7510 and ISYE 7510.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7520",
+      "courseId": "CS 7520",
+      "title": "Approximation Algorithms",
+      "description": "Approximation algorithms for NP-hard optimization problems, design and analysis techniques for such algorithms.  Credit not allowed for both CS 7520 and CS 4520.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7525",
+      "courseId": "CS 7525",
+      "title": "Algorithmic Game Theory and Economics",
+      "description": "Algorithmic aspects of game theory covering topics at the intersection of computer science, economics, and game theory with applications to domains such as internet.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7530",
+      "courseId": "CS 7530",
+      "title": "Randomized Algorithms",
+      "description": "Techniques for designing and analyzing randomized algorithms, derandomization techniques.  Credit not allowed for both CS 7530 and CS 4530.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7535",
+      "courseId": "CS 7535",
+      "title": "Markov Chain Monte Carlo Algorithms",
+      "description": "This course studies Markov Chain Monte Carlo algorithms, widely-used in a variety of scientific fields, focusing on mathematical techniques for analyzing their convergence rates.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7540",
+      "courseId": "CS 7540",
+      "title": "Spectral Algorithms and Representations",
+      "description": "Spectral methods mathematics and algorithmic insights driving applications with large data sets in domains such as web-search, information-retrieval, and medical diagnosis and prediction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7545",
+      "courseId": "CS 7545",
+      "title": "Theoretical Foundations of Machine Learning",
+      "description": "This course provides a basic arsenal of powerful mathematical tools for the analysis of learning algorithms, focusing on both statistical and computational aspects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7560",
+      "courseId": "CS 7560",
+      "title": "Theoretical Foundations of Cryptography",
+      "description": "One-way functions, pseudorandomness, public-key and identity-based cryptography, commitment and zero knowledge.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7610",
+      "courseId": "CS 7610",
+      "title": "Modeling and Design",
+      "description": "Information-processing theories of modeling and design; topics include design decision making, problem solving and learning, and knowledge-based modeling and design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7611",
+      "courseId": "CS 7611",
+      "title": "AI Problem Solving",
+      "description": "Basic concepts and methods of AI problem solving, knowledge representation, reasoning, and learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7612",
+      "courseId": "CS 7612",
+      "title": "Artificial Intelligence Planning",
+      "description": "Symbolic numerical techniques that allow intelligent systems to decide how they should act in order to achieve their goals, including action and plan representation, plan synthesis and reasoning, analysis of planning algorithms, plan execution and monitoring, plan reuse and learning, and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7613",
+      "courseId": "CS 7613",
+      "title": "Knowledge Systems Engineering",
+      "description": "Techniques for constructing large knowledge-based systems.  Advanced symbolic AI techniques. Constraint systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7615",
+      "courseId": "CS 7615",
+      "title": "Knowledge Agents",
+      "description": "Knowledge-based interactive systems, knowledge-based autonomous agents, agent architectures, learning and adaptation, agent evolution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7616",
+      "courseId": "CS 7616",
+      "title": "Pattern Recognition",
+      "description": "This course provides an introduction to the theory and practice of pattern recognition.  It emphasizes unifying concepts and the analysis of real-world datasets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7620",
+      "courseId": "CS 7620",
+      "title": "Case-Based Reasoning",
+      "description": "Topics include case representation, indexing and retrieval, adaptation, interpretive CBR, the cognitive model that CBR implies, and its implications for creativity, decision aiding, and education.  Credit not allowed for both CS 7620 and CS 4622.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7626",
+      "courseId": "CS 7626",
+      "title": "Introduction to Behavioral Imaging",
+      "description": "An introduction to the use of sensor data and machine learning methods to measure and model human behavior objectively and automatically for health applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7630",
+      "courseId": "CS 7630",
+      "title": "Autonomous Robotics",
+      "description": "The principles and practice of autonomous robotics including behavior-based design and architectures, adaptive learning and team behavior, and the role of perception within robotic systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7631",
+      "courseId": "CS 7631",
+      "title": "Autonomous Multi-Robot Systems",
+      "description": "In-depth examination of the current research on multi-robot systems.  Students develop and critically analyze a multi-robot system.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7632",
+      "courseId": "CS 7632",
+      "title": "Game Artificial Intelligence",
+      "description": "An exploration of how artificial intelligence is used in modern digital computer games. Credit will not be awarded for CS 7632 and CS 4731, CS 7632 and LCC 4731 or CS 7632 and LMC 4731.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7633",
+      "courseId": "CS 7633",
+      "title": "Human-Robot Interaction",
+      "description": "Survey of the state of the art in HRI research, introduction to statistical methods for HRI research, research project studio.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7634",
+      "courseId": "CS 7634",
+      "title": "AI Storytelling in Virtual Worlds",
+      "description": "An exploration of how artificial intelligence can enable us to use stories in virtual worlds for the purpose of entertaining, educatintg, and training human users.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7636",
+      "courseId": "CS 7636",
+      "title": "Computational Perception",
+      "description": "Study of statistical and algorithmic methods for sensing people using video and audio.  Topics include face detection and recognition, figure tracking, and audio-visual sensing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7637",
+      "courseId": "CS 7637",
+      "title": "Knowledge-Based AI",
+      "description": "Structured knowledge representation; knowledge-based methods of reasoning and learning; problem-solving, modeling and design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7638",
+      "courseId": "CS 7638",
+      "title": "Artificial Intelligence Techniques for Robotics",
+      "description": "AI techniques with applications to autonomous vehicles. Extensive programming exercises. Topics include probabilistic inference, Kalman/particle filters, planning/search algorithms, PID control, SLAM.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7639",
+      "courseId": "CS 7639",
+      "title": "Cyber Physical Design and Analysis",
+      "description": "Cyber Physical Systems (CPS), including examples. Design methods. Formalisms: Different equations, finite-state machines. Analysis. Formal methods. Design processes, Model-Based Systems Engineering, Reference documents and regulations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7640",
+      "courseId": "CS 7640",
+      "title": "Learning in Autonomous Agents",
+      "description": "An in-depth look at agents that learn, including intelligent systems, robots, and humans. Design and implementation of computer models of learning and adaptation in autonomous intelligent agents.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7641",
+      "courseId": "CS 7641",
+      "title": "Machine Learning",
+      "description": "Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications. Credit not awarded for both CS 7641 and CS 4641/CSE 6740/ISYE 6740.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7642",
+      "courseId": "CS 7642",
+      "title": "Reinforcement Learning and Decision Making",
+      "description": "Efficient algorithms for multiagent planning, and approaches to learning near-optimal decisions using possibly partially observable Markov decision processes; stochastic and repeated games; and reinforcement learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7643",
+      "courseId": "CS 7643",
+      "title": "Deep Learning",
+      "description": "This course will cover theory and practice of deep learning, including neural network and structured models, optimization algorithms, and applications to perception and Artificial Intelligence.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7644",
+      "courseId": "CS 7644",
+      "title": "Machine Learning for Robotics",
+      "description": "Overview of a portfolio of machine learning techniques useful for robotic application: from regression to deep learning, applied on simulated real-time mobile robotic applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7645",
+      "courseId": "CS 7645",
+      "title": "Numerical Machine Learning",
+      "description": "This course explores problems in classification/pattern recognition (OCR, speech, vision, fault detection, medical diagnosis), regression/function approximation, robot control, and reinforcement learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7646",
+      "courseId": "CS 7646",
+      "title": "Machine Learning for Trading",
+      "description": "Introduces machine learning based trading strategies. Topics:  Information processing, probabilistic analysis, portfolio construction, generation of market orders, KNN, random forests. Credit not awarded for both CS 4646 and CS 7646.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7647",
+      "courseId": "CS 7647",
+      "title": "Machine Learning with Limited Supervision",
+      "description": "Explore advanced techniques in learning from visual data with limited human supervision through study of recently published research papers and completing a semester-long research project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7648",
+      "courseId": "CS 7648",
+      "title": "Interactive Robot Learning",
+      "description": "This course combines lectures in CS (Machine and Reinforcement Learning) and CogSci with a research seminar to enable students to develop learning from demonstration systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7649",
+      "courseId": "CS 7649",
+      "title": "Robot Intelligence: Planning",
+      "description": "We investigate algorithms for robots and complex systems that make intelligent decisions.  Emphasis on the theoretical and empirical properties of classical, geometric, stochastic/dynamic planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7650",
+      "courseId": "CS 7650",
+      "title": "Natural Language",
+      "description": "Topics include lexical analysis, parsing, interpretation of sentences, semantic representation, organization of knowledge, inference mechanisms.  Newer approaches combining statistical language processing and information retrieval techniques.  Credit not allowed for both CS 7650 and CS 4650.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7651",
+      "courseId": "CS 7651",
+      "title": "Human and Machine Learning",
+      "description": "Explores the gap between empirical research on human learning and models from machine learning. Covers symbolic, statistical, semantic space, neural network, unsupervised, and other approaches.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7695",
+      "courseId": "CS 7695",
+      "title": "Philosophy of Cognition",
+      "description": "Examines problems in the foundations of cognition in relation to current issues in cognitive sciences. Topics include meaning, mental imagery, consciousness, and mind/body problem.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7697",
+      "courseId": "CS 7697",
+      "title": "Cognitive Models of Science and Technology",
+      "description": "Examines how models of reasoning and representation developed in the cognitive sciences can provide a basis for an enriched understanding of scientific theories and research practices in science and technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7741",
+      "courseId": "CS 7741",
+      "title": "Robotics Professional Preparation",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Program introduction. Technical resume preparation. GT Robotics labs & resources.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7742",
+      "courseId": "CS 7742",
+      "title": "Robotics Professional Preparation 2",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Selecting and applying for Internship. Developing capstone project proposal. Public speaking practice and preparation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7743",
+      "courseId": "CS 7743",
+      "title": "Robotics Professional Preparation 3",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Interview preparation & career search. Technical report writing and presentation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7750",
+      "courseId": "CS 7750",
+      "title": "Mathematical Foundations of Machine Learning",
+      "description": "Provides the mathematical background for two of the pillars of modern data science: linear algebra and applied probability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7751",
+      "courseId": "CS 7751",
+      "title": "Probabilistic Graphical Models in Machine Learning",
+      "description": "The course provides an introduction to theory and practice of graphical models in machine learning. It covers three main aspects; representation, probabilistic inference, and learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7785",
+      "courseId": "CS 7785",
+      "title": "Introduction to Robotics Research",
+      "description": "Familiarizes students with the core areas of robotics; mechanics, control, perception, AI, and autonomy. Provides an introduction to the mathematical tools required in robotics research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7790",
+      "courseId": "CS 7790",
+      "title": "Cognitive Modeling",
+      "description": "A hands-on course covering a range of cognitive modeling methodologies.  It explores the analysis, development, construction, and evaluation of models of cognitive processing. Crosslisted with ISYE and PSYC 7790.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "7999",
+      "courseId": "CS 7999",
+      "title": "Preparation for Doctoral Qualifying Exams",
+      "description": "Consent of the College required.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8001",
+      "courseId": "CS 8001",
+      "title": "Seminar",
+      "description": "Group discussion of advanced topics in information and computer science. May not be used by computer science majors for degree credit.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8002",
+      "courseId": "CS 8002",
+      "title": "Seminar",
+      "description": "Group discussion of advanced topics in information and computer science.  May not be used by computer science majors for degree credit.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8003",
+      "courseId": "CS 8003",
+      "title": "Seminar",
+      "description": "Group discussion of advanced topics in information and computer science. May not be used by computer science majors for degree credit.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8004",
+      "courseId": "CS 8004",
+      "title": "Seminar",
+      "description": "Group discussion of advanced topics in information and computer science. May not be use by computer science majors for degree credit.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8005",
+      "courseId": "CS 8005",
+      "title": "Seminar",
+      "description": "Group discussion of advanced topics in information and computer science. May not be used by computer science majors for degree credit.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8006",
+      "courseId": "CS 8006",
+      "title": "Seminar",
+      "description": "Group discussion of advanced topics in information and computer science. May not be used by computer science majors for degree credit.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8030",
+      "courseId": "CS 8030",
+      "title": "Software Engineering Seminar",
+      "description": "This seminar provides students with an opportunity to explore contemporary topics in software engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8740",
+      "courseId": "CS 8740",
+      "title": "Robotics Internship",
+      "description": "Graduate Internship at a partner company, GTRI or a GT Robotics lab.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8741",
+      "courseId": "CS 8741",
+      "title": "Robotics Capstone Project",
+      "description": "Teams or individuals apply the knowledge and skills acquired throughout the MS program to a faculty supervised robotics project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8750",
+      "courseId": "CS 8750",
+      "title": "Robotics Research Foundation I",
+      "description": "Multidisciplinary research course supervised by two robotics faculty from different schools participating in the robotics Ph.D. program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8751",
+      "courseId": "CS 8751",
+      "title": "Robotics Research Foundation II",
+      "description": "Continuation of AE 8751 (Robotics Research Foundation I).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8795",
+      "courseId": "CS 8795",
+      "title": "Colloquium in Cognitive Sciences",
+      "description": "Reading of research papers by leading cognitive scientists, attendance at their colloquia and meeting with them to discuss research. Crosslisted with ISYE and PSYC 8795.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8801",
+      "courseId": "CS 8801",
+      "title": "Special Topics",
+      "description": "Special topics of current interest. Treatment of new developments in various areas of computing.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8802",
+      "courseId": "CS 8802",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.  Treatment of new developments in various areas of computing.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8803",
+      "courseId": "CS 8803",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.  Treatment of new developments in various areas of computing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8804",
+      "courseId": "CS 8804",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.  Treatment of new developments in various areas of computing.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8805",
+      "courseId": "CS 8805",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.  Treatment of new developments in various areas of computing.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8806",
+      "courseId": "CS 8806",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.  Treatment of new developments in various areas of computing.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8811",
+      "courseId": "CS 8811",
+      "title": "Special Topics",
+      "description": "Special Topics in CS - Lab.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8813",
+      "courseId": "CS 8813",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8816",
+      "courseId": "CS 8816",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8873",
+      "courseId": "CS 8873",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8893",
+      "courseId": "CS 8893",
+      "title": "Special Topics in Cognitive Science",
+      "description": "Topics of current interest in cognitive science.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8901",
+      "courseId": "CS 8901",
+      "title": "Special Problems",
+      "description": "Small-group or individual investigation of advanced topics in computing. Guided study and research.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8902",
+      "courseId": "CS 8902",
+      "title": "Special Problems",
+      "description": "Small-group or individual investigation of advanced topics in computing. Guided study and research.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8903",
+      "courseId": "CS 8903",
+      "title": "Special Problems",
+      "description": "Small-group or individual investigation of advanced topics in computing.  Guided study and research.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8997",
+      "courseId": "CS 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8998",
+      "courseId": "CS 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "8999",
+      "courseId": "CS 8999",
+      "title": "Doctoral Thesis Preparation",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CS",
+      "courseNumber": "9000",
+      "courseId": "CS 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 385,
+  "scrapedAt": "2025-08-16T02:00:35.561Z"
+}

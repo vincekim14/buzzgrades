@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "4640",
+  "courseId": "PUBP 4640",
+  "title": "Tech Law, Policy, Mgmt",
+  "description": "An in-depth analysis of patent law and survey of other forms of intellectual property protection, including trademark, copyright, and trade secrets.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:13.173Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "2250",
+  "courseId": "MGT 2250",
+  "title": "Management Statistics",
+  "description": "This is the introduction to basic statistics for management students.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1712 Undergraduate Semester Minimum Grade of D or MATH 17X2 Undergraduate Semester Minimum Grade of D or MATH 1501 Undergraduate Semester Minimum Grade of D or MATH 15X1 Undergraduate Semester Minimum Grade of D or MATH 1550 Undergraduate Semester Minimum Grade of D or MATH 1551 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:20.828Z"
+}

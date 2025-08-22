@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4194",
+  "courseId": "MGT 4194",
+  "title": "Social Entrepreneurship",
+  "description": "Social Entrepreneurship applies innovative solutions to the world's pressing social problems by having students utilize leadership and managerial skills to address major challenges.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:31.597Z"
+}

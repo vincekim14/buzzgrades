@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "4353",
+  "courseId": "MGT 4353",
+  "title": "Operations Strategy",
+  "description": "This course provides knowledge about developing, implementing and evaluating operations strategy.  It stresses the relationships between the operations and other functions of the organization.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3501 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:22.609Z"
+}

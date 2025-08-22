@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "PHYS",
+  "courseNumber": "4751",
+  "courseId": "PHYS 4751",
+  "title": "Laser Theory&amp;Application",
+  "description": "Provides an introduction to the theory and applications of laser principles and related instrumentation. Emphasis is on the fundamental principles underlying laser action. Crosslisted with ECE 4751.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 2212 Undergraduate Semester Minimum Grade of D or PHYS 2232 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:16.685Z"
+}

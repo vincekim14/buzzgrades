@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "4601",
+  "courseId": "ISYE 4601",
+  "title": "Online Learn/Dec Making",
+  "description": "Fundamental theoretical tools for analyzing online methods, algorithmic techniques for developing computationally efficient methods, applications to real-world problems, and discussion around ethical and legal issues.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3133 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:58.426Z"
+}

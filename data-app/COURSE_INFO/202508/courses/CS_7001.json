@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "7001",
+  "courseId": "CS 7001",
+  "title": "Grad Studies-Computing",
+  "description": "Research tools including computer systems, as well as fundamental problem-solving skills, are introduced. Lectures on current computing research are presented and projects are required. Credit not allowed in a program of study for a graduate degree.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:46.322Z"
+}

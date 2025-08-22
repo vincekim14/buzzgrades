@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3118",
+  "courseId": "MGT 3118",
+  "title": "Cross-Cultural Mgt",
+  "description": "This course develops students' global awareness to better understand and cope with the issues and challenges that managers face when working across international boundaries.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:23.062Z"
+}

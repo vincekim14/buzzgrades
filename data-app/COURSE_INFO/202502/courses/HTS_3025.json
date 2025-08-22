@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "HTS",
+  "courseNumber": "3025",
+  "courseId": "HTS 3025",
+  "title": "Afr-Amer Hist since 1865",
+  "description": "The African American experience since 1865, including Reconstruction, segregation, the African American family, the Harlem Renaissance, the Civil Rights Movement, and Black Power.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:23.547Z"
+}

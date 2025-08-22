@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ISYE",
+  "courseNumber": "6525",
+  "courseId": "ISYE 6525",
+  "title": "High Dimension Data Anlt",
+  "description": "A variety of topics such as functional data analysis, image processing, multilinear algebra and tensor analysis, and regularization in high-dimensional regression.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:47.521Z"
+}

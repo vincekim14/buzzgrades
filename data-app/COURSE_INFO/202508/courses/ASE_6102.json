@@ -1,0 +1,20 @@
+{
+  "term": "202508",
+  "subjectCode": "ASE",
+  "courseNumber": "6102",
+  "courseId": "ASE 6102",
+  "title": "System of Systems &amp; Arch",
+  "description": "Develop a broader understanding of the interdependencies and interoperability issues, interfaces, and processes for creating and defining Systems Architecture for complex systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__Applied Systems Engineering (ASE)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ASE 6101 Graduate Semester Minimum Grade of D or ASE 6111 Graduate Semester Minimum Grade of D or ASE 6121 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:13.488Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "NEUR",
+  "courseNumber": "2010R",
+  "courseId": "NEUR 2010R",
+  "title": "NEUR 2010 Recitation",
+  "description": "Recitation for NEUR 2010",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Neuroscience 2010",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:01.524Z"
+}

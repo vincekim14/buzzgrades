@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "4200",
+  "courseId": "PUBP 4200",
+  "title": "Social Policy Issues",
+  "description": "A review of conceptual and analytical perspectives in social policy and coverage of major areas of persistent social problems, including health care, welfare reform, housing, education, reproductive issues, and gerontology.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PUBP 3201 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:52.573Z"
+}

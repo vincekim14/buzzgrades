@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "2112",
+  "courseId": "ARCH 2112",
+  "title": "History of Arch II",
+  "description": "Architectural history during the nineteenth and twentieth centuries emphasizing buildings in their cultural context as informed by social, technological, and constructive factors and theoretical positions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:25.522Z"
+}

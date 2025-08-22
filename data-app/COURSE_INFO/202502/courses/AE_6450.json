@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "6450",
+  "courseId": "AE 6450",
+  "title": "Rocket Propulsion",
+  "description": "Analysis and design of rocket engines including liquid, solid, hybrid, and advanced propulsion systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 4451 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:14.976Z"
+}

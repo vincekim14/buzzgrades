@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CHEM",
+  "courseNumber": "1310",
+  "courseId": "CHEM 1310",
+  "title": "Prin of Gen Chem for Engr",
+  "description": "A first course in chemistry, surveying its fundamental laws and theories, for some engineering majors. It can serve as the first course in a two course sequence where CHEM 1315 is the second course. Topics include atomic structure; bonding theory; stoichiometry; properties of solids, liquids and gases; chemical thermodynamics; electrochemistry; and kinetics. Credit not allowed for both CHEM 1310 and CHEM 1211K.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:50.379Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "VIP",
+  "courseNumber": "4698",
+  "courseId": "VIP 4698",
+  "title": "VIP Team Research II",
+  "description": "Course for students participating in VIP as part of a paid undergraduate research program.  Students held to same standards as in VIP 4601/4602.  No volunteers.",
+  "creditHours": "1 to 12",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:10.865Z"
+}

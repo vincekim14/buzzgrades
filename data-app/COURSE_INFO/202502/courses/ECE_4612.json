@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4612",
+  "courseId": "ECE 4612",
+  "title": "Telecom Systems Lab",
+  "description": "Basic digital telecommunications systems are examined in a laboratory setting using electronic modules, covering concepts such as modulation, channel coding, AWGN, eye diagrams, and BER. Credit will not be awarded for ECE 4612 and ECE 4602.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3040 Undergraduate Semester Minimum Grade of D or ECE 3043 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:46.615Z"
+}

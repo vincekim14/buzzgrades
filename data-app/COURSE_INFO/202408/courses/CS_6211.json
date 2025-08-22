@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "6211",
+  "courseId": "CS 6211",
+  "title": "Sys Design Cloud Comput",
+  "description": "Through in-depth presentations and hands-on projects for each layer of the full stack of cloud technologies, learners acquire the systems design skills for cloud computing",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:04.637Z"
+}

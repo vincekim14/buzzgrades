@@ -1,0 +1,20 @@
+{
+  "term": "202505",
+  "subjectCode": "ASE",
+  "courseNumber": "6005",
+  "courseId": "ASE 6005",
+  "title": "Adv Topics SE - SysML",
+  "description": "This core elective introduces SymML as a system modeling and design tool, with example applications, guidelines for application, and student projects on implementations in practice.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__Applied Systems Engineering (ASE)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ASE 6001 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:17.721Z"
+}

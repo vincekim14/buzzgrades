@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "1770",
+  "courseId": "CEE 1770",
+  "title": "Intro to Engr Graphics",
+  "description": "Engineering graphics and visualization including sketching, line drawing, and solid modeling.Development and interpretation of drawings and specification for product realization. Crosslisted with AE and ME 1770.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:17.879Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "3610",
+  "courseId": "AE 3610",
+  "title": "Exper Fluids&amp;Solid Mech",
+  "description": "Experimental laboratory in solid and fluid mechanics, aerodynamics, propulsion. Emphasis on measurement techniques, analysis and interpretation of data, comparison to analytical predictions, and reporting.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D and AE 2610 Undergraduate Semester Minimum Grade of D and AE 2010 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:07.578Z"
+}

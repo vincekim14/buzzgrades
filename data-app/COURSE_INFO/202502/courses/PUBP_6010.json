@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "6010",
+  "courseId": "PUBP 6010",
+  "title": "Ethic,Epistem&amp;Public Pol",
+  "description": "Examination of the role of ethics and epistemology in public decision making including the effects of values of professionals on public institutions and private sector organizations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:56.178Z"
+}

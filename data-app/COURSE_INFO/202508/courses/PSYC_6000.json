@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "6000",
+  "courseId": "PSYC 6000",
+  "title": "Resp. Conduct Research",
+  "description": "Topics include research misconduct, data management, use of animal and human subjects, conflicts of interest and commitment, authorship, publication, peer review , and collaboration and mentoring.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:38.108Z"
+}

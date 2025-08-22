@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4332",
+  "courseId": "ME 4332",
+  "title": "Renewable Energy Systems",
+  "description": "Renewable and efficient energy systems are introduced. Various energy conversion and storage technologies are explained and analyzed, along with their respective advantages and limitations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3322 Graduate Semester Minimum Grade of D and ME 3340 Graduate Semester Minimum Grade of D and ME 3345 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:31.371Z"
+}

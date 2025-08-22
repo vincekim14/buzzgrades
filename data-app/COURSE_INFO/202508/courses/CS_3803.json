@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "3803",
+  "courseId": "CS 3803",
+  "title": "Technical Communication",
+  "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:24.520Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "6445",
+  "courseId": "ECE 6445",
+  "title": "Power IC Design",
+  "description": "Analysis and design of linear dc-dc regulators and switched-inductor dc-dc supplies with CMOS and BiCMOS integrated circuits (ICs).",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:19.086Z"
+}

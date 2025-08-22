@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "4056",
+  "courseId": "ME 4056",
+  "title": "ME Systems Laboratory",
+  "description": "Measurement and analysis of mechanical, acoustic, manufacturing, thermodynamic, fluid, and heat transfer phenomena.  Emphasis on data acquisition, reduction, analysis, and report preparation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ME 3017 Undergraduate Semester Minimum Grade of D or ME 3015 Undergraduate Semester Minimum Grade of D or AE 3515 Undergraduate Semester Minimum Grade of D) and ME 3057 Undergraduate Semester Minimum Grade of D and ME 3345 Undergraduate Semester Minimum Grade of D and (MATH 3770 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or CEE 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:42:47.921Z"
+}

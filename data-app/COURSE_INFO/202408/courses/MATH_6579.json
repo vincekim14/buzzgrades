@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "6579",
+  "courseId": "MATH 6579",
+  "title": "Measure Th for Engineers",
+  "description": "An introduction to measure theory and Lebesgue integration with a focus on topics that tend to be of the most utility in\nscience and engineering. Credit cannot be received for both MATH 6337 and MATH 6579.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:37.236Z"
+}

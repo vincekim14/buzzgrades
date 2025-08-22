@@ -1,0 +1,337 @@
+{
+  "subject": "CETL",
+  "subjectName": "Center Enhancement-Teach/Learn (CETL)",
+  "url": "https://catalog.gatech.edu/coursesaz/cetl/",
+  "courses": [
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "2000",
+      "courseId": "CETL 2000",
+      "title": "Undergraduate Teaching Assistant Preparation",
+      "description": "This course is an introduction to the procedural information and practical skills needed to be an effective undergraduate teaching assistant.  May be used as free elective credit with department approval.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "2001",
+      "courseId": "CETL 2001",
+      "title": "Fundamentals of Peer Tutoring",
+      "description": "This course is an introduction to the practical skills needed to be an effective peer tutor at Georgia Tech. May not be used towards degree requirements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "2002",
+      "courseId": "CETL 2002",
+      "title": "Fundamentals of K-12 Tutoring",
+      "description": "This course is an introduction to the practical skills needed to be an effective tutor in the K-12 arena.  May not be used towards degree requirements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "2698",
+      "courseId": "CETL 2698",
+      "title": "Research Assistantship",
+      "description": "Credit hours to be arranged.  Independent research conducted under the guidance of a faculty member.  May not be used towards degree requirements.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "2699",
+      "courseId": "CETL 2699",
+      "title": "Undergraduate Research",
+      "description": "Credit hours to be arranged.  Independent research conducted under the guidance of a faculty member.  May be used as free elective towards BS degrees with department approval.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "3000",
+      "courseId": "CETL 3000",
+      "title": "Residence Life Seminar",
+      "description": "This course will provide students with techniques, skills and knowledge necessary to become a successful Residence Life Student Staff member.  May not be used towards degree requirements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "3801",
+      "courseId": "CETL 3801",
+      "title": "Special Topics",
+      "description": "Topics of current interest.  May not be used towards degree requirements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "4001",
+      "courseId": "CETL 4001",
+      "title": "Principles of Learning and Teaching I",
+      "description": "This course focuses on the knowledge and skills necessary for effective classroom instruction and management including: educational psychology, instructional design and delivery techniques.  May be used as free elective towards BS degrees with department approval.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "4002",
+      "courseId": "CETL 4002",
+      "title": "Principles of Teaching and Learning II",
+      "description": "This course focuses on the knowledge and skills necessary for effective classroom instruction and management including instructional planning, assessment, and the teaching professional community.  May be used as free elective towards BS degrees with department approval.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "4698",
+      "courseId": "CETL 4698",
+      "title": "Research Assistantship",
+      "description": "Credit hours to be arranged.  Independent research conducted under the guidance of a faculty member.  May not be used towards degree requirements.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "4699",
+      "courseId": "CETL 4699",
+      "title": "Undergraduate Research",
+      "description": "May be used as free elective towards BS degrees with department approval.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "4801",
+      "courseId": "CETL 4801",
+      "title": "Special Topics",
+      "description": "Topics of Current Interest.  May not be used towards degree requirements.  May not be used towards degree requirements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "4802",
+      "courseId": "CETL 4802",
+      "title": "Special Topics",
+      "description": "Topics of Current Interest.  May not be used towards degree requirements.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "4803",
+      "courseId": "CETL 4803",
+      "title": "Special Topics",
+      "description": "Topics of Current Interest.  May not be used towards degree requirements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8000",
+      "courseId": "CETL 8000",
+      "title": "Graduate Teaching Assistant Preparation",
+      "description": "This course is an introduction to the procedural information and practical skills needed to be an effective graduate teaching assistant.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8701",
+      "courseId": "CETL 8701",
+      "title": "Classroom Management and Policies: Effective Teaching",
+      "description": "A course in which students learn about official Georgia Tech policies impacting instruction and develop skills to resolve problems and enhance classroom learning.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8711",
+      "courseId": "CETL 8711",
+      "title": "Student and Teacher Enhancement Partnership Summer Training",
+      "description": "Participants attend training sessions on pedagogy, classroom management, educational technology; engage in practice teaching; and design action plans for partnering with local high school teachers.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8712",
+      "courseId": "CETL 8712",
+      "title": "STEP Fellows Academic Year Seminar",
+      "description": "This is the academic year follow-up course for STEP fellows.  It is a forum to share and to continue training as the fellows work in their STEP high schools.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8713",
+      "courseId": "CETL 8713",
+      "title": "Teaching and Learning in Higher Education",
+      "description": "This course explores how to apply evidence-based teaching practices in higher education including principles of learning, student development, inclusive teaching, and instructional strategies..",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8714",
+      "courseId": "CETL 8714",
+      "title": "Teach Practicum-HigherEd",
+      "description": "Apprentice to faculty mentor and help teach a college course.  Get feedback from mentor, CETL, and a peer learning community.  Explore types of academic careers.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8715",
+      "courseId": "CETL 8715",
+      "title": "Teach Practicum-HigherEd",
+      "description": "Apprentice to faculty mentor and help teach a college course. Get feedback from mentor, CETL, and a peer learning community.  Explore types of academic careers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8717",
+      "courseId": "CETL 8717",
+      "title": "Course Design for Higher Education",
+      "description": "This course examines evidence-based teaching, formative and summative assessment, and educational technology as students apply the backward design process in developing a college course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8718",
+      "courseId": "CETL 8718",
+      "title": "Teaching Capstone in Higher Education",
+      "description": "Students apply evidence-based teaching and backward design principles, student assessment, peer and mentor feedback through supervised college teaching in this Tech to Teaching certificate capstone.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8719",
+      "courseId": "CETL 8719",
+      "title": "Teaching Immersion-Higher Education",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8721",
+      "courseId": "CETL 8721",
+      "title": "Academic Writing for Graduate Students and",
+      "description": "Through examination of writing samples and practice, students learn techniques for enhancing proposal preparation and methods for evaluating writing as future instructors and thesis directors.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8722",
+      "courseId": "CETL 8722",
+      "title": "Academic Writing for International Graduate Students",
+      "description": "This course aids international graduate students in enhancing their academic writing skills in English through exposure to, and practice of producing examples of academic writing. Credit will not be awarded for both CETL 8722 and CETL 8723.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8723",
+      "courseId": "CETL 8723",
+      "title": "Academic Writing for International Graduate Students",
+      "description": "This course helps international graduate students enhance their academic writing skills in English through analysis and production of academic writing samples. Credit not awarded for both CETL 8723 and CETL 8722.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8731",
+      "courseId": "CETL 8731",
+      "title": "Academic Professionalism",
+      "description": "Participants in this course work through numerous exercises and scenarios in order to prepare them professionally and personally for a future career in academics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8741",
+      "courseId": "CETL 8741",
+      "title": "Academic Presentations",
+      "description": "An examination and practice of oral presentations in a variety of academic scenarios: e.g., conference talks, proposal presentations, discussion facilitation, job talks, and oral exams/defenses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8791",
+      "courseId": "CETL 8791",
+      "title": "Instructional Practices for International",
+      "description": "Enhancement of English pronunciation and instructional skills for international teaching assistants.  In-class and small-group language practice; discussion of teaching methodology.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8792",
+      "courseId": "CETL 8792",
+      "title": "Classroom English and Pedagogy for International",
+      "description": "Enhancement of English pronunciation and instructional skills for international teaching assistants.  In-class and small-group language practice; discussion of teaching methodology; individual tutoring.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8793",
+      "courseId": "CETL 8793",
+      "title": "Oral Skills for International Graduate Students",
+      "description": "An oral skills class designed to help graduate students become more accurate and fluent in both verbal and nonverbal skills. In addition to working on acquiring an American accent and body language when speaking English, students will work on basic presentation skills. Credit will not be awarded for CETL 8793 and CETL 8797.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8794",
+      "courseId": "CETL 8794",
+      "title": "Academic English for International Graduate Students",
+      "description": "Enhancement of English pronunciation for international teaching assistants.  In-class and small group language practice.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8795",
+      "courseId": "CETL 8795",
+      "title": "Advanced Oral Skills for International Graduate Students and Teaching Assistants",
+      "description": "An advanced oral skills class designed to help graduate students improve their verbal ability in English for teaching, making presentations, and interacting in academic and professional situations. Credit will not be awarded for both CETL 8796 and CETL 8795.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8796",
+      "courseId": "CETL 8796",
+      "title": "Presentation Skills for International Graduate Students",
+      "description": "This advanced oral skills class is designed to help graduate students improve their presentation skills in English for more effective communication in academic/professinal situations. Credit will not be awarded for both CETL 8795 and CETL 8796.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8797",
+      "courseId": "CETL 8797",
+      "title": "Oral Communication for International Graduate Students",
+      "description": "In this class, students work on fluency, pronunciation clarity, and appropriateness in spoken communication to prepare for effective and confident participation in their academic communities. Credit will not be awarded for both CETL 8797 and CETL 8793.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8801",
+      "courseId": "CETL 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8802",
+      "courseId": "CETL 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8803",
+      "courseId": "CETL 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8900",
+      "courseId": "CETL 8900",
+      "title": "Special Problems",
+      "description": "Special problems in current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CETL",
+      "courseNumber": "8997",
+      "courseId": "CETL 8997",
+      "title": "Student and Teacher Enhancement Partnership",
+      "description": "This course if for STEP students with an assistantship.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 41,
+  "scrapedAt": "2025-08-16T02:00:33.493Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BC",
+  "courseNumber": "2632",
+  "courseId": "BC 2632",
+  "title": "Constr Materls &amp; Methods",
+  "description": "The course will cover the planning and physical development process for the construction of residential, commercial and heavy/industrial projects.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:08.473Z"
+}

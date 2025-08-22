@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECON",
+  "courseNumber": "4060",
+  "courseId": "ECON 4060",
+  "title": "Money &amp; Capital Markets",
+  "description": "Examines the role of money in macroeconomic activity and the impacts of monetary institutions and policy strategy on the behavior of financial markets and aggregate economic activity.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2105 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:44.853Z"
+}

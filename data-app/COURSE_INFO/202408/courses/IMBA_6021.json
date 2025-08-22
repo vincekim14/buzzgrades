@@ -1,0 +1,20 @@
+{
+  "term": "202408",
+  "subjectCode": "IMBA",
+  "courseNumber": "6021",
+  "courseId": "IMBA 6021",
+  "title": "Data Analysis for Bus",
+  "description": "Covers common statistical tools for the analysis of corporate data such as descriptive statistics, probability concepts, sampling and estimation, hypothesis testing, and regression analysis.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Programs:",
+    "__DETAIL_1__MBA-Global Business (MBAGB)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:14.325Z"
+}

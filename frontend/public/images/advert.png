@@ -1,0 +1,8 @@
+# PLACEHOLDER IMAGE
+# This is a placeholder for the main advertisement/promotional image used for social sharing
+# Purpose: Open Graph image for social media sharing (Facebook, Twitter, LinkedIn, etc.)
+# Usage: Used in pages/index.jsx and pages/privacy.mdx for og:image meta tags
+# Shows: Main promotional image for BuzzGrades when shared on social platforms
+# Dimensions: Should be 1200x630px (standard Open Graph image ratio)
+# Format: PNG with transparent background preferred
+# Content: Should contain BuzzGrades branding, Georgia Tech colors, and brief description of the service

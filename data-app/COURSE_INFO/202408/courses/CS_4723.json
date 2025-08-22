@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "4723",
+  "courseId": "CS 4723",
+  "title": "Inter Capstone Design",
+  "description": "Entrepreneurial Junior Design. Teams comprised of CS, ECE, and ME students will design and build prototypes of their invention ideas and explore market fit.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2340 Undergraduate Semester Minimum Grade of C and (CS 3001 Undergraduate Semester Minimum Grade of C or CS 4001 Undergraduate Semester Minimum Grade of C or CS 4002 Undergraduate Semester Minimum Grade of C or CS 4003 Undergraduate Semester Minimum Grade of C or CS 4726 Undergraduate Semester Minimum Grade of C or SLS 3110 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:38:02.046Z"
+}

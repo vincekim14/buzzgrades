@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CP",
+  "courseNumber": "6850",
+  "courseId": "CP 6850",
+  "title": "Publ Health &amp; Built Env",
+  "description": "This interdisciplinary course examines how cities and neighborhoods can have both positive and adverse effects on human health, and produces recommendations to improve these outcomes.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:13.395Z"
+}

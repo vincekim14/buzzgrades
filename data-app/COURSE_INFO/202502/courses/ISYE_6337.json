@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "6337",
+  "courseId": "ISYE 6337",
+  "title": "Supply Chain Engrg III",
+  "description": "Problems of coordination and collaboration along the supply chain; make-or-buy decisions; pricing and auctions; wholesale and retail channels; supply chain dynamics, including the bullwhip effect.  Distinctive supply chain issues in key economies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6335 Graduate Semester Minimum Grade of D and ISYE 6336 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:37.509Z"
+}

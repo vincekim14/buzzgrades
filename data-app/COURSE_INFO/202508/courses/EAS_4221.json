@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "4221",
+  "courseId": "EAS 4221",
+  "title": "Environ Geochemistry Lab",
+  "description": "Lab and field exploration of the chemical, biological, and geological processes controlling the distribution of chemical nutrients and pollutants in aquatic and soil environments.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Earth and Atmospheric Sciences 4220",
+  "prerequisites": "(MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or MATH 1552 Undergraduate Semester Minimum Grade of D) and CHEM 1212K Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:07.696Z"
+}

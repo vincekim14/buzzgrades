@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "4030",
+  "courseId": "CHBE 4030",
+  "title": "Chemeng Energy Systems",
+  "description": "Students will acquire the knowledge and tools to analyze CHP systems, traditional power generation, refinery and biorefinery configurations and advanced power generation and storage options.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 2130 Undergraduate Semester Minimum Grade of C and CHBE 2120 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:12.981Z"
+}

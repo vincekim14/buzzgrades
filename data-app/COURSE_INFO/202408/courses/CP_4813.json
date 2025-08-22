@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CP",
+  "courseNumber": "4813",
+  "courseId": "CP 4813",
+  "title": "Public Health &amp; Built Env",
+  "description": "Topics of current interest not covered in other courses in the department.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:09.069Z"
+}

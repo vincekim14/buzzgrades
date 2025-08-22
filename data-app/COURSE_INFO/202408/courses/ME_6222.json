@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "6222",
+  "courseId": "ME 6222",
+  "title": "Mfg Processes &amp; Systems",
+  "description": "Materials processing analysis and selection.  Manufacturing systems design.  Economic analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 4215 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:56.096Z"
+}

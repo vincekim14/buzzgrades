@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "6202",
+  "courseId": "MUSI 6202",
+  "title": "Dig Signal Process-Music",
+  "description": "Research in music, as well as music production and composition increasingly relies on sophiticated digital signal processing techniques. This course will review fundamental elements of digital audio signal processing, such as sinusoids, spectra, digital filters, and Fourier analysis and their application to the fundamental music analysis problems of modeling and synthesis. The course will focus particularly on the algorithmic implementation sound transformation and synthesis techniques through intensive programming assignments in Matlab and CSound.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:04.572Z"
+}

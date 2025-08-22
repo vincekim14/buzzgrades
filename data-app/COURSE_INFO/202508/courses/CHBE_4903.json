@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "4903",
+  "courseId": "CHBE 4903",
+  "title": "Spec Probs-Chemical Engr",
+  "description": "The student is given an opportunity to develop initiative and to apply fundamental principles by doing semioriginal laboratory or theoretical investigation of a chemical engineering problem.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:17.363Z"
+}

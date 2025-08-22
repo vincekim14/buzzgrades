@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "LMC",
+  "courseNumber": "3256",
+  "courseId": "LMC 3256",
+  "title": "Greta Gerwig",
+  "description": "Traces in depth an individual artist's career and affords students the opportunity to immerse themselves in the works of an important figure in the world of film.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of C and (LMC 2000 Undergraduate Semester Minimum Grade of C or LMC 2500 Undergraduate Semester Minimum Grade of C or LMC 2400 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:42:00.141Z"
+}

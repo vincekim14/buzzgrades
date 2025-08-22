@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "RUSS",
+  "courseNumber": "3691",
+  "courseId": "RUSS 3691",
+  "title": "Intensive Adv Russian",
+  "description": "Intensive development of aural/oral communication skills, capitalizing on a rich linguistic environment. Review and expansion of grammar, practiced in context. Focus on description, narration and comparison.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:32.371Z"
+}

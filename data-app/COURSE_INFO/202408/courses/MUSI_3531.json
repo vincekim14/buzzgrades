@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MUSI",
+  "courseNumber": "3531",
+  "courseId": "MUSI 3531",
+  "title": "New Music Ensemble",
+  "description": "An advanced instrumental chamber ensemble that performs new and contemporary literature often using technology. Offered to all students with advanced performing experience. Audition required.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:21.087Z"
+}

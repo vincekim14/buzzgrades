@@ -1,0 +1,19 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3607",
+  "courseId": "MGT 3607",
+  "title": "Business Ethics",
+  "description": "This courses introduces students to ethical aspects of the business decision-making process, including: theoretical underpinnings of ethics, stakeholders, and decision-making strategies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Must be enrolled in one of the following Classes:",
+    "__DETAIL_1__Junior (JR)",
+    "__DETAIL_1__Senior (SR)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 2106 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:25.036Z"
+}

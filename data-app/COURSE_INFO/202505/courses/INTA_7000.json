@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "INTA",
+  "courseNumber": "7000",
+  "courseId": "INTA 7000",
+  "title": "Master&#39;s Thesis",
+  "description": "Under the direct supervision of one or more faculty members, graduate students will complete an original research design and execute that study.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:01.379Z"
+}

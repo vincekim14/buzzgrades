@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CHBE",
+  "courseNumber": "4300",
+  "courseId": "CHBE 4300",
+  "title": "Kinetics&amp;Reactor Dsgn",
+  "description": "Reacting systems are analyzed in terms of reaction mechanisms, kinetics, and reactor design.  Both homogeneous and heterogeneous reactions are considered.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 3130 Undergraduate Semester Minimum Grade of C and CHBE 3200 Undergraduate Semester Minimum Grade of C and CHBE 3210 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:36:40.541Z"
+}

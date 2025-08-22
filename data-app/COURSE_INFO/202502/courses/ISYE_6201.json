@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "6201",
+  "courseId": "ISYE 6201",
+  "title": "Manufacturing Systems",
+  "description": "Topics include analysis of flows, bottlenecks and queuing, types of operations, manufacturing inventories, aggregreate production planning, lot sizes and lead times, and pull production systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6650 Graduate Semester Minimum Grade of D and ISYE 6669 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:36.624Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "4725",
+  "courseId": "LMC 4725",
+  "title": "Game Design",
+  "description": "Emphasis is on the design elements common to games and the expressive possibilities and cultural concerns specific to digital games.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 1322 Undergraduate Semester Minimum Grade of C or CS 1331 Undergraduate Semester Minimum Grade of C) and (LMC 2700 Undergraduate Semester Minimum Grade of C or LMC 2000 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:41:37.553Z"
+}

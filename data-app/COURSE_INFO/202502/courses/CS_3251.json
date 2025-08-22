@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "3251",
+  "courseId": "CS 3251",
+  "title": "Computer Networking I",
+  "description": "Introduction to problems in computer networking, including error recovery, medium access, routing, flow control, and transport. Emphasis on current best practice.  Includes programming of networked applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2200 Undergraduate Semester Minimum Grade of C or ECE 3057 Undergraduate Semester Minimum Grade of C or ECE 3058 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:30.299Z"
+}

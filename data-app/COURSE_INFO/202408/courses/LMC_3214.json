@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "3214",
+  "courseId": "LMC 3214",
+  "title": "Science Fiction",
+  "description": "Examines science fiction texts from the last 200 years to show how they reflect ambigous reactions to change.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:28.920Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "3010",
+  "courseId": "ARCH 3010",
+  "title": "Design Strategies",
+  "description": "The design process as reflection in action. The logic of design decisions. The synthesis of diverse bodies of knowledge in design. Interdisciplinary collaborations in design.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 3016",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:16.130Z"
+}

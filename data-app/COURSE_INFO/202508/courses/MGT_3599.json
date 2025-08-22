@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "3599",
+  "courseId": "MGT 3599",
+  "title": "Career Develmnt Workshop",
+  "description": "This workshop style class focuses on skills and strategies for identifying a career path and conducting a successful job search in the field of management.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:15.273Z"
+}

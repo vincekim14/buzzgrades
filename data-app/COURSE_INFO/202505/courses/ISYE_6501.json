@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ISYE",
+  "courseNumber": "6501",
+  "courseId": "ISYE 6501",
+  "title": "Intro Analytics Modeling",
+  "description": "An introduction to important and commonly-used models in analytics, as well as aspects of the modeling process.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1301 Undergraduate Semester Minimum Grade of D and MATH 1712 Undergraduate Semester Minimum Grade of D and ISYE 6739 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:47.306Z"
+}

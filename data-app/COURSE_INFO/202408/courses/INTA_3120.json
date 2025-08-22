@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "INTA",
+  "courseNumber": "3120",
+  "courseId": "INTA 3120",
+  "title": "European Security Issues",
+  "description": "Explores the contemporary European security environment, including threats, challenges, and various security architectures (e.g., NATO, the WEU, and the OSCE).",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:00.116Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "BMED",
+  "courseNumber": "3600",
+  "courseId": "BMED 3600",
+  "title": "Physio Cell &amp; Mol  Syst",
+  "description": "In depth cell and molecular physiology focused on cellular responses to stimuli, including cell organization/ reorganization, membrane transport/kinetics, cell signaling/ molecular biology, mechanobiology and energy requirements.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 3100 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:34.398Z"
+}

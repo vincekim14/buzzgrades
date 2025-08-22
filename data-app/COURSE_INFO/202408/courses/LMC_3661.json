@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "3661",
+  "courseId": "LMC 3661",
+  "title": "Theatre Production III",
+  "description": "In this \"hands-on\" course, students will create and execute a publicity campaign and operate the box office for DramaTech Theatre productions.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:34.294Z"
+}

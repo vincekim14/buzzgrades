@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "6510",
+  "courseId": "MSE 6510",
+  "title": "Polymer-Elec&amp;Photo App I",
+  "description": "Review of fundamentals and principles of polymers used in electronics and photonics;  relationships between the advances of semiconductor technology and the importance of polymers and their applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:01.708Z"
+}

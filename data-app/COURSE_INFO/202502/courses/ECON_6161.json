@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "6161",
+  "courseId": "ECON 6161",
+  "title": "Econometric Modeling",
+  "description": "This course introduces techniques on economic and business forecasting, focusing on regression analysis and ARIMA models.  Testing for unit roots and cointegration are also discussed.  Professional software packages for forecasting are used in applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 6160 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:29.063Z"
+}

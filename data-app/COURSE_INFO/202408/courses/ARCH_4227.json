@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "4227",
+  "courseId": "ARCH 4227",
+  "title": "Architecture &amp; Ecology",
+  "description": "Introduction to ecological design theory, research, and practice in architecture, including writings, criticism, and analyses of buildings and projects.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 3231 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:46.059Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "1000",
+  "courseId": "BMED 1000",
+  "title": "Intro to Biomedical Engr",
+  "description": "An introduction to the field of biomedical engineering, with an emphasis on career preparation.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:53.597Z"
+}

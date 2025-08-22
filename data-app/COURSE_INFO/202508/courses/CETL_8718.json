@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CETL",
+  "courseNumber": "8718",
+  "courseId": "CETL 8718",
+  "title": "Teaching Capstone",
+  "description": "Students apply evidence-based teaching and backward design principles, student assessment, peer and mentor feedback through supervised college teaching in this Tech to Teaching certificate capstone.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:09.645Z"
+}

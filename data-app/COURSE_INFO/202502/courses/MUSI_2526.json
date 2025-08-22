@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "2526",
+  "courseId": "MUSI 2526",
+  "title": "Intro to Audio Tech II",
+  "description": "Critical understanding of, and hands-on experience with the fundamentals of digital audio technology. Topics include sampling, quantization, digital effects, music information retrieval and audio coding.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MUSI 2525 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:58.714Z"
+}

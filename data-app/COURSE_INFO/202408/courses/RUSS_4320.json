@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "RUSS",
+  "courseNumber": "4320",
+  "courseId": "RUSS 4320",
+  "title": "19th Cent Russ Writers",
+  "description": "Trends and paradigms in Russian literature from Pushkin to Chekhov. Conducted in Russian.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:26.422Z"
+}

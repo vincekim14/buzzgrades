@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "4447",
+  "courseId": "ARCH 4447",
+  "title": "Urban Ecological Design",
+  "description": "This course engages the contemporary issues of urban ecology and its articulation to design. It explores relationship between urban forms and flows of ecology, energy, material, water and information. Credit will not be awarded for both ARCH 4447 and ARCH 6447 or ARCH 4447 and CP 6836.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:27.456Z"
+}

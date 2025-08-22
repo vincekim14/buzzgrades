@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "6185",
+  "courseId": "MGT 6185",
+  "title": "Intl Business Environ",
+  "description": "This course explores international environmental factors impacting firms' international operations and expansion. Concepts include economic, political, legal, socio-cultural and technology forces as well as data-driven corporate decisions under conditions of risk and uncertainty",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:00.954Z"
+}

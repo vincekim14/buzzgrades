@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "4091",
+  "courseId": "HTS 4091",
+  "title": "Food in the World Economy",
+  "description": "Advanced undergraduate topics in global issues.  Designed for HTS majors, but open to other students with junior or senior standing.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "HTS 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:50.605Z"
+}

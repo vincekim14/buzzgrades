@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "4510",
+  "courseId": "ECON 4510",
+  "title": "Health Economics",
+  "description": "Surveys theoretical and empirical evidence on current issues in health and health care. The course presents individual-level models of health behaviors and the demand for health and medical insurance. Students analyze the economic behaviors of physicians, hospitals, and insurance companies as well as the possible role of government in encouraging the equitable and efficient performance of health markets. The course emphasizes current debates involving individual health decisions, health care reform, and the diffusion of new medical technologies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:20.622Z"
+}

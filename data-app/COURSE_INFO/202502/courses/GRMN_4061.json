@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "GRMN",
+  "courseNumber": "4061",
+  "courseId": "GRMN 4061",
+  "title": "Adv Business German I",
+  "description": "Advanced principles of German business organization and language. Taught through the use of reading, audio, and video materials. Conducted in German.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:17.880Z"
+}

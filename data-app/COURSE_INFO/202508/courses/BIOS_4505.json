@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BIOS",
+  "courseNumber": "4505",
+  "courseId": "BIOS 4505",
+  "title": "Biological Programming",
+  "description": "This course introduces students to the basics of coding, applied to fundamental biological and medical questions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BIOS 1107 Undergraduate Semester Minimum Grade of D or BIOS 1207 Undergraduate Semester Minimum Grade of D) and (BIOS 1107L Undergraduate Semester Minimum Grade of D or BIOS 1207L Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:36:36.261Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "FREN",
+  "courseNumber": "4103",
+  "courseId": "FREN 4103",
+  "title": "Francophone Africa",
+  "description": "This interdisciplinary course will explore contemporary Francophone Africa and its representations in light of its modern history and culture.  Taught in French.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:08.095Z"
+}

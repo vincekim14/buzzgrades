@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "4122",
+  "courseId": "ECE 4122",
+  "title": "Adv Prog Techniques",
+  "description": "Course covers a number of programming techniques for distributed and parallel computing and other advanced methods, such as multiprecision arithmetic and nonblocking I/O. Credit not awarded for ECE 4122 and ECE 6122.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2035 Undergraduate Semester Minimum Grade of C or ECE 2036 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:36.323Z"
+}

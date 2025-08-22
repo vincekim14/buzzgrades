@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "6605",
+  "courseId": "ECE 6605",
+  "title": "Information Theory",
+  "description": "To introduce the mathematical theory of communications. Emphasis will be placed on Shannon's theorems and their use in the analysis and design of communication systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3075 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:50.468Z"
+}

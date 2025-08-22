@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "4010",
+  "courseId": "MGT 4010",
+  "title": "Business Taxation",
+  "description": "Comprehensive survey of federal taxation of business. A focus on tax planning and decision making will extend to the study of the tax code and regulations. Credit not allowed for both MGT 4010 and MGT 6010.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3000 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:16.864Z"
+}

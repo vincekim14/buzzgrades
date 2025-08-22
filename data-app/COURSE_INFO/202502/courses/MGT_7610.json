@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "7610",
+  "courseId": "MGT 7610",
+  "title": "Best Practices Teaching",
+  "description": "This course will provide insights into a variety of topics relevant to Ph.D. students’ success in the classroom.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:52.213Z"
+}

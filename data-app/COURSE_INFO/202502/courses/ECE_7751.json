@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "7751",
+  "courseId": "ECE 7751",
+  "title": "Graphical Models in ML",
+  "description": "The course provides an introduction to theory and practice of graphical models in machine learning. It covers three main aspects; representation, probabilistic inference, and learning.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 3077 Undergraduate Semester Minimum Grade of C or ISYE 3770 Undergraduate Semester Minimum Grade of C or MATH 3670 Undergraduate Semester Minimum Grade of C) and (CS 1371 Undergraduate Semester Minimum Grade of C or CS 1301 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:38:59.062Z"
+}

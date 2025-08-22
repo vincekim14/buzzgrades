@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4239",
+  "courseId": "CS 4239",
+  "title": "Enterprise Cyber Mgt",
+  "description": "The duties and concerns of an enterprise Chief Information Security Officer including strategy, cybersecurity operations, risk management, and governance.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 4235 Undergraduate Semester Minimum Grade of C or CS 3235 Undergraduate Semester Minimum Grade of C) or CS 4725 Undergraduate Semester Minimum Grade of C or MGT 4058 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:25.386Z"
+}

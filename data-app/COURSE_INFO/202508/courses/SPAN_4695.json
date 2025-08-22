@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "SPAN",
+  "courseNumber": "4695",
+  "courseId": "SPAN 4695",
+  "title": "Spanish Internship",
+  "description": "Professional experience with a business/organization in which students enhance their language skills and cultural knowledge in Spanish in relation to the practical goals/objectives of the entity.",
+  "creditHours": "1 to 3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:45:10.120Z"
+}

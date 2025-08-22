@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "3600",
+  "courseId": "CS 3600",
+  "title": "Intro-Artificial Intell",
+  "description": "An introduction to artificial intelligence and machine learning. Topics include intelligent system design methodologies, search and problem solving, supervised and reinforced learning.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1332 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:12.212Z"
+}

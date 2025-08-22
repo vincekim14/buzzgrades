@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "LING",
+  "courseNumber": "4100",
+  "courseId": "LING 4100",
+  "title": "Language &amp; Computers",
+  "description": "A linguistic perspective on language processing topics (search, vector semantics, document classification, digital humanities, translation, dialog). Students read current literature and implement concepts in Python.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:53.652Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "8307",
+  "courseId": "MATH 8307",
+  "title": "Advanced Academic Commun",
+  "description": "Continued enhancement of English listening/speaking skills for current and future SOM graduate international teaching assistants and international lead instructors who speak English as their second language (ESL).",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 8305 Graduate Semester Minimum Grade of S",
+  "lastUpdated": "2025-08-20T02:42:22.111Z"
+}

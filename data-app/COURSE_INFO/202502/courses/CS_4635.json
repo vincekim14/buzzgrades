@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4635",
+  "courseId": "CS 4635",
+  "title": "Knowledge-Based AI",
+  "description": "Structured knowledge representation; knowledge-based methods of reasoning and learning; problem-solving, modeling and design.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3600 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:38.409Z"
+}

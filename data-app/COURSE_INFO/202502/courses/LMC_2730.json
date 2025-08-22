@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "2730",
+  "courseId": "LMC 2730",
+  "title": "Construct-Moving Image",
+  "description": "Provides the student with the conceptual, formal, aesthetic, and technical approaches to reconsider film, videos, and animation within the context of emerging digital forms.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "LMC 2000 Undergraduate Semester Minimum Grade of C or LMC 2700 Undergraduate Semester Minimum Grade of C or LMC 2720 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:41:02.753Z"
+}

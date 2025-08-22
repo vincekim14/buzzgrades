@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "6130",
+  "courseId": "CEE 6130",
+  "title": "Construction Proj Ctrls",
+  "description": "Introduction to project control concepts and advanced implementation techniques.  Project control concerns including project budgeting, project productivity, cash flow, and resource allocation will be introduced.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 6100 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:26.909Z"
+}

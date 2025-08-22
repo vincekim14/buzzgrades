@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "3400",
+  "courseId": "BIOS 3400",
+  "title": "Mathematical Models in Biology",
+  "description": "Probability and deterministic models in biology, including discrete and continuous probability distributions and dynamic models from molecular and cellular biology to ecology and epidemiology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 1552 Undergraduate Semester Minimum Grade of D or MATH 1555 Undergraduate Semester Minimum Grade of D or MATH 15X2 Undergraduate Semester Minimum Grade of D) and ((MATH 1553 Undergraduate Semester Minimum Grade of D or MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1564 Undergraduate Semester Minimum Grade of D or MATH 1522 Undergraduate Semester Minimum Grade of D) or (MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1504 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D)) and ((BIOS 1107 Undergraduate Semester Minimum Grade of D or BIOS 1207 Undergraduate Semester Minimum Grade of D) and (BIOS 1107L Undergraduate Semester Minimum Grade of D or BIOS 1207L Undergraduate Semester Minimum Grade of D)) or (BIOL 1510 Undergraduate Semester Minimum Grade of D or BIOL 1511 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:35:41.821Z"
+}

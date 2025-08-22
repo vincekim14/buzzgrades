@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "6353",
+  "courseId": "MGT 6353",
+  "title": "Operations Strategy",
+  "description": "This course provides knowledge about developing, implementing, and evaluating operations strategy through conceptual frameworks and adaptive tools to impact operating decisions that impact profitability and adaptivity. Topics include managing technologies, capacaties, and the supply chain.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6501 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:32.446Z"
+}

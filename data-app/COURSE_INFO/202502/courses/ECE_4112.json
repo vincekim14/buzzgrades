@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4112",
+  "courseId": "ECE 4112",
+  "title": "Internetwork Security",
+  "description": "Hands-on experimentation and evaluation of internet security theory, principles, and practices. Laboratory component involves implementing both defensive and offensive security techniques. Credit not awarded for both ECE 4112 and ECE 4115.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3600 Undergraduate Semester Minimum Grade of D or ECE 4110 Undergraduate Semester Minimum Grade of D or CS 3251 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:42.233Z"
+}

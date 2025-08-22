@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4090",
+  "courseId": "CEE 4090",
+  "title": "Capstone Design",
+  "description": "An interdisciplinary civil and environmental design experience.  Problem definition, data acquisition, modeling and analysis, evaluation of design alternatives, oral and written presentation of final design.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:21.296Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOS",
+  "courseNumber": "4400",
+  "courseId": "BIOS 4400",
+  "title": "Human Neuroanatomy",
+  "description": "The purpose of this course is to learn the anatomical makeup of the human nervous system.  In this course we will closely examine details of central and peripheral neuroanatomy with links to function.  As well, comparisons with non-human vertebrate neuroanatomy will be made.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BIOL 1520 Undergraduate Semester Minimum Grade of D or BIOL 1521 Undergraduate Semester Minimum Grade of D or (BIOS 1108 Undergraduate Semester Minimum Grade of D and BIOS 1108L Undergraduate Semester Minimum Grade of D) or (BIOS 1208 Undergraduate Semester Minimum Grade of D and BIOS 1208L Undergraduate Semester Minimum Grade of D)) or (CHEM 1211K Undergraduate Semester Minimum Grade of D or CHEM 1310 Undergraduate Semester Minimum Grade of D) or NEUR 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:02.760Z"
+}

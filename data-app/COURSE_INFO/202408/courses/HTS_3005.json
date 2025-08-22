@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "3005",
+  "courseId": "HTS 3005",
+  "title": "Amer Environmental Hist",
+  "description": "Transformation of the North American environment since 1500, including different notions of nature, romantic responses to wilderness during industrialization, rise of conservation movements, and environmental policy.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:47.287Z"
+}

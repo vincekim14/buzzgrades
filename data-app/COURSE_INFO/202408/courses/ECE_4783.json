@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4783",
+  "courseId": "ECE 4783",
+  "title": "Intro-Medical Image Proc",
+  "description": "A study of mathematical methods used in medical acquisition and processing.  Concepts, algorithms, and methods associated with acquisition, processing, and display of two- and three-dimensional medical images are studied.  Crosslisted with BMED 4783.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 2025 Undergraduate Semester Minimum Grade of C or ECE 2026 Undergraduate Semester Minimum Grade of C) and (MATH 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or CEE 3770 Undergraduate Semester Minimum Grade of D or ECE 3077 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:39:12.647Z"
+}

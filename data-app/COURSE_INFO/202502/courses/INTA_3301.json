@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "3301",
+  "courseId": "INTA 3301",
+  "title": "Int&#39;l Political Econ",
+  "description": "Analyzes the relationship between political and economic issues in international affairs. Examines the interaction of states and markets in the context of trade, investment, and production.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:06.713Z"
+}

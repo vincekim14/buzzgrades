@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "3260",
+  "courseId": "INTA 3260",
+  "title": "Middle East Relations",
+  "description": "Course will provide an in-depth understanding of the Arab-Israeli conflict using theories of international relations and comparative politics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:06.487Z"
+}

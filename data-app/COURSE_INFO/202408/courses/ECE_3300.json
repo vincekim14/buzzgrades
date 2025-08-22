@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "3300",
+  "courseId": "ECE 3300",
+  "title": "Elec Energy Conversion",
+  "description": "Introduction to three phase power systems, electromechanical energy conversion and operating principles of electric machines.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3025 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:02.713Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MGT",
+  "courseNumber": "6614",
+  "courseId": "MGT 6614",
+  "title": "Law for Entrepreneurs",
+  "description": "This course will focus on legal issues which entrepreneurs face while growing a start-up business from infancy to becoming a publicly held company. Students will not receive credit for both MGT 6614 and MGT 3614.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:38.295Z"
+}

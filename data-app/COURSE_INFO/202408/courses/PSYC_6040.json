@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "PSYC",
+  "courseNumber": "6040",
+  "courseId": "PSYC 6040",
+  "title": "Topics in Cog &amp; Brain Sc",
+  "description": "This course presents current research topics in cognition and brain science.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:59.833Z"
+}

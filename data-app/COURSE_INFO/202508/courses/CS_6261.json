@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "6261",
+  "courseId": "CS 6261",
+  "title": "Cyber Incident Response",
+  "description": "The course covers the principles and technologies utilized in and the processes followed in responding to cybersecurity incidents and crises. The course utilizes real-life case studies to develop how these technologies and processes are applied within the cybersecurity industry.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:36.520Z"
+}

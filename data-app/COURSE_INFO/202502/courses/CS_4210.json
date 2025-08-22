@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4210",
+  "courseId": "CS 4210",
+  "title": "Adv Operating Systems",
+  "description": "Operating system abstractions and their implementations, multi-threading, efficient inter-address communication, high-level synchronization, introduction to multi-processor and distributed operating systems, real-time systems. Credit is not awarded for both CS 4210 and CS 6210.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3210 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:33.177Z"
+}

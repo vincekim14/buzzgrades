@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3745",
+  "courseId": "MGT 3745",
+  "title": "Business Programming",
+  "description": "An introduction to the basic concepts and skills of software programming and their applications to solving business problems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1371 Undergraduate Semester Minimum Grade of D or CS 1315 Undergraduate Semester Minimum Grade of D or CS 1331 Undergraduate Semester Minimum Grade of D or CS 1301 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:26.836Z"
+}

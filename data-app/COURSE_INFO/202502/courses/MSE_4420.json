@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "4420",
+  "courseId": "MSE 4420",
+  "title": "Capstone Engr Design II",
+  "description": "A team problem-solving approach is used to work on a project developed in cooperation with industry.  Weekly communications, both oral and written, are required.   Credit not allowed for MSE 4420.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 4410 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:58.314Z"
+}

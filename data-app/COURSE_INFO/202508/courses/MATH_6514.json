@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "6514",
+  "courseId": "MATH 6514",
+  "title": "Industrial Math I",
+  "description": "Applied mathematics techniques to solve real-world problems. Topics include mathematical modeling, asymptotic analysis, differential equations and scientific computation.  Prepares the student for MATH 6515.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2602 Undergraduate Semester Minimum Grade of D) and MATH 4640 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:09.670Z"
+}

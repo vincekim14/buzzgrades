@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "INTA",
+  "courseNumber": "4340",
+  "courseId": "INTA 4340",
+  "title": "Latin American Economics",
+  "description": "Examines institutional, interest group, international, and economic inputs and outputs of regional integration.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:58.598Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "AE",
+  "courseNumber": "7772",
+  "courseId": "AE 7772",
+  "title": "Fund-Fracture Mechanics",
+  "description": "Advanced study of failure of structural materials under load, mechanics of fracture, and microscopic and macroscopic aspects of the fracture of engineering materials. Crosslisted with CHE, CEE, ME, and MSE 7772.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 3005 Undergraduate Semester Minimum Grade of D or AE 3120 Undergraduate Semester Minimum Grade of D or ME 3201 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:06.207Z"
+}

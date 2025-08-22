@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MP",
+  "courseNumber": "6203",
+  "courseId": "MP 6203",
+  "title": "Rad Thrpy Treat Plan Lab",
+  "description": "Radiation therapy treatment planning course covering conventional radiation therapy treatment planning, monitor unit calculations, and advanced radiation treatment planning techniques.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MP 6204 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:13.109Z"
+}

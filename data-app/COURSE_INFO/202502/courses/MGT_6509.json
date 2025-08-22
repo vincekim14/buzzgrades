@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6509",
+  "courseId": "MGT 6509",
+  "title": "Legal &amp; Ethical Business",
+  "description": "Constitutional law; dispute resolution; torts; contracts; theories of ethical analysis; and the role of stakeholders. Credit will not be awarded for both MGT 6509 and MGT 6124 or MGT 6509 and MGT 6126.",
+  "creditHours": "1.5",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:47.344Z"
+}

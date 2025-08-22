@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "SPAN",
+  "courseNumber": "4170",
+  "courseId": "SPAN 4170",
+  "title": "Span Applied Linguistics",
+  "description": "Advanced linguistic analysis of the Spanish language, particularly as it contrasts with English. Conducted in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:28.799Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "AE",
+  "courseNumber": "3030",
+  "courseId": "AE 3030",
+  "title": "Aerodynamics",
+  "description": "Aerodynamics of airfoils and wings in subsonic, transonic and supersonic flight. Laminar and turbulent boundary layers and effects of viscosity on aerodynamic performance.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 2010 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:35:54.068Z"
+}

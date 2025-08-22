@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4460R",
+  "courseId": "CS 4460R",
+  "title": "CS 4460 Recitation",
+  "description": "This recitation supports the information visualization (CS 4460) course. Sessions will focus on introducing students to technical work with visualization programming languages and grammars important to the course.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "CS 4460",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:36.988Z"
+}

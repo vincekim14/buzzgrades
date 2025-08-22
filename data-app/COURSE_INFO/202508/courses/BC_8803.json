@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "BC",
+  "courseNumber": "8803",
+  "courseId": "BC 8803",
+  "title": "Special Topics: Market Analy",
+  "description": "Topics of current interest in building construction.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:07.263Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "3231",
+  "courseId": "MUSI 3231",
+  "title": "Chamber Choir",
+  "description": "An auditioned mixed ensemble focused upon the rehearsal, study and performance of choral music. Repertoire varies from various style eras and genres.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:59.565Z"
+}

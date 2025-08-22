@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BC",
+  "courseNumber": "3600",
+  "courseId": "BC 3600",
+  "title": "Construction Cost Mgt",
+  "description": "Introduction to cost principles and cost analysis of construction projects, including classification of work, quantity survey techniques, construction operation costs, and bid proposals.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 2634 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:29.104Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "LMC",
+  "courseNumber": "4407",
+  "courseId": "LMC 4407",
+  "title": "Video Editing Postprod",
+  "description": "Introduction to Editing and Post Production develops the skills and knowledge of digital film post-production, concentrating on editing, editing theory, narrative editing, and post-production workflow.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "LMC 2500 Undergraduate Semester Minimum Grade of D and (LMC 3254 Undergraduate Semester Minimum Grade of D or LMC 3406 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:42:05.281Z"
+}

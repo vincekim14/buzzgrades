@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "IMBA",
+  "courseNumber": "6230",
+  "courseId": "IMBA 6230",
+  "title": "Intl Bus Negotiations",
+  "description": "A role-play course involving the complex international negotiation simulation dealing with an international business enterprise and its relationship with one or more governments.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:17.087Z"
+}

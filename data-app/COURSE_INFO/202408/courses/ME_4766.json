@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "4766",
+  "courseId": "ME 4766",
+  "title": "Nanoscale Devices",
+  "description": "Fundamental properties at the nanoscale for photonics and sensors.  Nanoscale fabrication methods including thin films, ion beam, lithography, electroplating, and example case studies in NEMS/MEMS and photonics.  Credit not allowed for both ME 4766 and MSE 4766.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3322 Undergraduate Semester Minimum Grade of D or ME 3720 Undergraduate Semester Minimum Grade of D or AE 3450 Undergraduate Semester Minimum Grade of D or PHYS 3141 Undergraduate Semester Minimum Grade of D or MSE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:52.352Z"
+}

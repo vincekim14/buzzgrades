@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "FREN",
+  "courseNumber": "6998",
+  "courseId": "FREN 6998",
+  "title": "Master&#39;s Project",
+  "description": "Optional project course taught in French.",
+  "creditHours": "1 to 6",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:04.328Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4211",
+  "courseId": "CEE 4211",
+  "title": "Water Resources Systems",
+  "description": "Components and services of water resources systems; and planning and management approaches in the face of climatic, environmental, and socio-economic change.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3040 Undergraduate Semester Minimum Grade of D and CEE 3770 Undergraduate Semester Minimum Grade of D and CS 1371 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:22.790Z"
+}

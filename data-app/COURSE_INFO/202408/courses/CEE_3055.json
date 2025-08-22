@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "3055",
+  "courseId": "CEE 3055",
+  "title": "Structural Analysis",
+  "description": "Determination of internal forces and deflection in statically determinate trusses, beams, and frames. Introduction to analysis of statically indeterminate structures.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:20.193Z"
+}

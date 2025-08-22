@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "BIOS",
+  "courseNumber": "4690",
+  "courseId": "BIOS 4690",
+  "title": "Independnt Research Proj",
+  "description": "Independent research with proposal and manuscript writing, conducted with the guidance of a faculty member.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Programs:",
+    "__DETAIL_0__BS in Biology (BSBIO)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "APPH 2698 Undergraduate Semester Minimum Grade of D or APPH 2699 Undergraduate Semester Minimum Grade of D or APPH 4698 Undergraduate Semester Minimum Grade of D or APPH 4699 Undergraduate Semester Minimum Grade of D or BIOL 2698 Undergraduate Semester Minimum Grade of D or BIOL 2699 Undergraduate Semester Minimum Grade of D or BIOL 4698 Undergraduate Semester Minimum Grade of D or BIOL 4699 Undergraduate Semester Minimum Grade of D or BIOS 2699 Undergraduate Semester Minimum Grade of D or BIOS 2698 Undergraduate Semester Minimum Grade of D or BIOS 4699 Undergraduate Semester Minimum Grade of D or BIOS 4698 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:28.243Z"
+}

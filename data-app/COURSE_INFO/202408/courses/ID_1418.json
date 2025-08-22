@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ID",
+  "courseNumber": "1418",
+  "courseId": "ID 1418",
+  "title": "Intro Sketch &amp; Model 1",
+  "description": "Introduction to basic visual representation techniques that empower designers of products, services and systems through sketching, model making, computer-assisted drawing, rapid prototyping, and other methods.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ID 1011 and ID 1101 and ID 1401",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:12.173Z"
+}

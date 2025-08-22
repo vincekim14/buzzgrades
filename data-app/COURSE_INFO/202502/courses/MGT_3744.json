@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3744",
+  "courseId": "MGT 3744",
+  "title": "Mangn Prod Serv Tech Dev",
+  "description": "Analysis of the managerial challenges of the product development process. Credit not allowed for both MGT 3744 and ME 3744/CS 3744.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:26.607Z"
+}

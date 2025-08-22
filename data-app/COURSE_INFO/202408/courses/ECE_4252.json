@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4252",
+  "courseId": "ECE 4252",
+  "title": "Fund of Machine Learning",
+  "description": "An introduction to the fundamentals and applications of Machine Learning. Students cannot receive credit for both ECE 4252 and CS 4641.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2550 Undergraduate Semester Minimum Grade of C or MATH 2551 Undergraduate Semester Minimum Grade of C) and CS 1301 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:08.050Z"
+}

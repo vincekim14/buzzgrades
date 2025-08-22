@@ -1,0 +1,137 @@
+{
+  "subject": "ASE",
+  "subjectName": "Applied Systems Engineering (ASE)",
+  "url": "https://catalog.gatech.edu/coursesaz/ase/",
+  "courses": [
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6001",
+      "courseId": "ASE 6001",
+      "title": "Fundamentals of Modern Systems Engineering",
+      "description": "Explore a wide range of modern systems engineering principles and development methodologies.  Address requirements engineering, systems definition, design and analysis, implementation, operation, and technical management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6002",
+      "courseId": "ASE 6002",
+      "title": "Systems Design and Analysis",
+      "description": "Introduce emerging techniques for systems and systems-of-systems analysis including IPPD, DOE, Taguchi methods, response surface equations, multi-attribute decision making, and concept feasibility assessment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6003",
+      "courseId": "ASE 6003",
+      "title": "Modeling and Simulation for Systems Engineers",
+      "description": "Introduction to modeling and simulation for systems engineers.  Topics include problem formulation, conceptual modeling, simulation methodologies, verification and validation, DOE, simulation execution, and output analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6004",
+      "courseId": "ASE 6004",
+      "title": "Leading Systems Engineering Teams",
+      "description": "Systems engineering processes provide a model for successfully managing complex systems.  Learn to apply management and development techniques used for successful commercial and government programs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6005",
+      "courseId": "ASE 6005",
+      "title": "Advanced Topics in Systems Engineering: Systems Modeling with SysML",
+      "description": "This core elective introduces SymML as a system modeling and design tool, with example applications, guidelines for application, and student projects on implementations in practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6006",
+      "courseId": "ASE 6006",
+      "title": "Systems Engineering Laboratory",
+      "description": "Application of working knowledge of systems engineering techniques applied to a \"case study\" in an applicable domain.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6101",
+      "courseId": "ASE 6101",
+      "title": "Vehicle Systems Analysis and Synthesis",
+      "description": "Vehicle Preliminary Design involves design iteration with disciplinary physics-based methods and tools.  Includes geometry and databases from conceptual design, six DOF modeling, analysis, and synthesized baseline.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6102",
+      "courseId": "ASE 6102",
+      "title": "System of Systems and Architecture",
+      "description": "Develop a broader understanding of the interdependencies and interoperability issues, interfaces, and processes for creating and defining Systems Architecture for complex systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6103",
+      "courseId": "ASE 6103",
+      "title": "Complex System Lifecycle and Integration",
+      "description": "System preliminary design must address product and process design throughout system lifecycle from integration through manufacturing to phase-out along with interfaces to other emerging systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6104",
+      "courseId": "ASE 6104",
+      "title": "Complex System Design and Integration (Capstone)",
+      "description": "Student teams apply methods and techniques taught throughout the program to conduct complex system Conceptual Design based on requirements provided in a Request for Proposal.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6111",
+      "courseId": "ASE 6111",
+      "title": "Sensor Systems Analysis and Synthesis",
+      "description": "Defines, classifies, and examines technology used in stand-alone sensor systems.  Centers on system-engineering trades useful in designing systems of sensors and systems of systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6121",
+      "courseId": "ASE 6121",
+      "title": "Information Systems Analysis and Synthesis",
+      "description": "Tools and approaches for analysis and synthesis of enterprise information systems.  Topics include user-centered requirement, scenario-based design, UML, network/communications, iterative prototyping, and enterprise support.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "6131",
+      "courseId": "ASE 6131",
+      "title": "Analysis and Synthesis: Human Systems Integration",
+      "description": "Human Systems Integration Analysis and Synthesis, a PMASE complex systems elective, ensures human-related technical issues are properly addressed during system definition, design, development, and implementation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "8801",
+      "courseId": "ASE 8801",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Applied Systems Engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "8803",
+      "courseId": "ASE 8803",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Applied Systems Engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ASE",
+      "courseNumber": "8901",
+      "courseId": "ASE 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 16,
+  "scrapedAt": "2025-08-16T02:00:31.347Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4150",
+  "courseId": "ECE 4150",
+  "title": "Cloud Computing",
+  "description": "Cloud computing technologies, computation models, and applications, design methodologies for cloud applications, use of cloud-based languages and tools in developing advanced applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1371 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:42.907Z"
+}

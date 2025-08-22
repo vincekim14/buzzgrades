@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "4741",
+  "courseId": "MGT 4741",
+  "title": "Int Mgt Dev-Proj Prep",
+  "description": "Individual and group-based experiential learning activities to develop integrated human system management skills that prepare students for more successful capstone collaboration and learning.  Credit not allowed for both MGT 4741 and CS 4741 or ME 4741.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:55.525Z"
+}

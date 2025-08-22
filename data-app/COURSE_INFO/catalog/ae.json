@@ -1,0 +1,1513 @@
+{
+  "subject": "AE",
+  "subjectName": "Aerospace Engineering (AE)",
+  "url": "https://catalog.gatech.edu/coursesaz/ae/",
+  "courses": [
+    {
+      "subjectCode": "AE",
+      "courseNumber": "1355",
+      "courseId": "AE 1355",
+      "title": "Aerospace Systems Design Competition I",
+      "description": "Team-oriented aerospace systems design project directed by a faculty advisor.  Typically a national student competition in aircraft, rotorcraft, or spacecraft design. Technical role commensurate with freshman standing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "1601",
+      "courseId": "AE 1601",
+      "title": "Introduction to Aerospace Engineering",
+      "description": "Overview of aerospace engineering. Common terminology, introduction to use of engineering models, professional and ethical standards and experience with team-based design of aerospace systems. Students cannot receive credit for both AE 1601 and AE 1350.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "1750",
+      "courseId": "AE 1750",
+      "title": "Introduction to Bioengineering",
+      "description": "An introduction to the field of bioengineering, including the application of engineering principles and methods to problems in biology and medicine, the integration of engineering with biology, and the emerging industrial opportunities. Crosslisted with BMED, CHE, ECE, ME, and MSE 1750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2010",
+      "courseId": "AE 2010",
+      "title": "Thermodynamics & Fluids Fundamentals",
+      "description": "Thermodynamic and fluid properties. Conservation laws, Isentropic flow, shocks and expansions, introduction to flows with friction and heat transfer. Applications to aerospace devices. Students cannot receive credit for both AE 2010 and AE 3450.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2010R",
+      "courseId": "AE 2010R",
+      "title": "AE 2010 Recitation",
+      "description": "This recitation is an optional session in support of AE 2010. This course is designed to allow students the chance to apply their knowledge of concepts through problem solving and group discussions.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2011",
+      "courseId": "AE 2011",
+      "title": "Fluid Fundamentals",
+      "description": "Flowfield concepts, fluid properties, conservation equations for flows, isentropic flow, shocks and expansions, introduction to flows with friction and heat transfer. Applications to aerospace devices.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2011R",
+      "courseId": "AE 2011R",
+      "title": "AR 2011 Recitation",
+      "description": "This recitation is an optional session in support of AE 2011. This course is designed to allow students the chance to apply their knowledge of concepts through problem solving and group discussions.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2220",
+      "courseId": "AE 2220",
+      "title": "Dynamics",
+      "description": "Motion of particles and mass center of bodies, kinematics and kinetics of rigid bodies in plane motion, work-energy and impulse-momentum methods, 3-D dynamics of rigid bodies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2220R",
+      "courseId": "AE 2220R",
+      "title": "AE 2220 Recitation",
+      "description": "This recitation is an optional session in support of AE 2220. This course is designed to allow students the chance to apply their knowledge of concepts through problem solving and group discussions.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2221",
+      "courseId": "AE 2221",
+      "title": "3D Dynamics",
+      "description": "Kinematics and kinetics of rigid bodies in three-dimensional motion.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2221R",
+      "courseId": "AE 2221R",
+      "title": "AE 2221 Recitation",
+      "description": "This recitation is an optional session in support of AE 2221. This course is designed to allow students the chance to apply their knowledge of concepts through problem solving and group discussions.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2355",
+      "courseId": "AE 2355",
+      "title": "Aerospace Systems Design Competition II",
+      "description": "Team-oriented aerospace systems design project directed by a faculty advisor. Typically a national student competition in aircraft, rotorcraft, or spacecraft design.  Technical role commensurate with sophomore standing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2610",
+      "courseId": "AE 2610",
+      "title": "Introduction to Experimental Methods in Aerospace",
+      "description": "Introduction to laboratory instrumentation and measurement techniques used in aerospace. Basic application of sensor principles, uncertainty analysis, interpretation and analysis of experimental data, and documentation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2611",
+      "courseId": "AE 2611",
+      "title": "Technical Communications for Aerospace Engineers",
+      "description": "Development of technical communication skills required by aerospace engineers. Includes written, oral and visual communication methods.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2698",
+      "courseId": "AE 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2699",
+      "courseId": "AE 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2801",
+      "courseId": "AE 2801",
+      "title": "Special Topics",
+      "description": "Normally taken by sophomores. Course material devoted to special topics in aerospace engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2802",
+      "courseId": "AE 2802",
+      "title": "Special Topics",
+      "description": "Normally taken by sophomores. Course material is devoted to special topics in aerospace engineering.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2803",
+      "courseId": "AE 2803",
+      "title": "Special Topics",
+      "description": "Normally taken by sophomores. Course material devoted to special topics in aerospace engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2901",
+      "courseId": "AE 2901",
+      "title": "Special Problems",
+      "description": "Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2902",
+      "courseId": "AE 2902",
+      "title": "Special Problems",
+      "description": "Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "2903",
+      "courseId": "AE 2903",
+      "title": "Special Problems",
+      "description": "Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3030",
+      "courseId": "AE 3030",
+      "title": "Aerodynamics",
+      "description": "Aerodynamics of airfoils and wings in subsonic, transonic and supersonic flight. Laminar and turbulent boundary layers and effects of viscosity on aerodynamic performance.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3030R",
+      "courseId": "AE 3030R",
+      "title": "Aerodynamics Recitation",
+      "description": "Recitation course for AE 3030.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3090",
+      "courseId": "AE 3090",
+      "title": "Numerical Methods for Aerospace Engineering",
+      "description": "Basic numerical methods in Aerospace Engineering taught in Fortran or C, language instruction included.  Numerical integration, interpolation, FFT, linear algebra, initial and boundary value problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3140",
+      "courseId": "AE 3140",
+      "title": "Structural  Analysis",
+      "description": "Application to structural analysis. Basic equations of elasticity. Bending, shearing and torsion of thin walled structures. Energy methods for structural analysis and application to finite element theory for trusses and beam structures. Students cannot receive credit for both AE 3140 and AE 3125.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3330",
+      "courseId": "AE 3330",
+      "title": "Introduction to Aerospace Vehicle Performance",
+      "description": "Orbital mechanics, orbit determination, and spacecraft maneuvers. Basics of airplane flight including climb, cruise, takeoff, and landing. Actuator disk theory and elements of rotorcraft performance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3340",
+      "courseId": "AE 3340",
+      "title": "Design and Systems Engineering Methods",
+      "description": "Overview of aerospace design and systems engineering. Tools to organize the design process and to support design decisions. Introduction to numerical optimization and trade studies.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3355",
+      "courseId": "AE 3355",
+      "title": "Aerospace Systems Design Competition III",
+      "description": "Team-oriented aerospace systems design project directed by a faculty advisor. Typically a national student competition in aircraft, rotorcraft, or spacecraft design.  Technical or leadership role commensurate with junior standing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3450",
+      "courseId": "AE 3450",
+      "title": "Thermodynamics and Compressible Flow",
+      "description": "First and second laws of thermodynamics. Thermodynamic properties and state equations. Isentropic flow. Flows with shocks and expansions.  Flows with friction and heat transfer. Students cannot receive credit for both AE 3450 and AE 2010.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3530",
+      "courseId": "AE 3530",
+      "title": "System Dynamics and Vibration",
+      "description": "Modeling and analysis of lumped- and distributed-parameter systems, free and forced vibration in mechanical systems, free vibration in structural systems. Students cannot receive credit for both AE 3530 and ME 3017 or AE 3530 and AE 3515.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3531",
+      "courseId": "AE 3531",
+      "title": "Control System Analysis and Design",
+      "description": "Control system performance analysis and specifications, classical methods of control system analysis and design, introduction to modern control methods. Students cannot receive credit for AE 3531 and AE 3515 or AE 3531 and ME 4452.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3610",
+      "courseId": "AE 3610",
+      "title": "Experiments in Fluid and Solid Mechanics",
+      "description": "Experimental laboratory in solid and fluid mechanics, aerodynamics, propulsion. Emphasis on measurement techniques, analysis and interpretation of data, comparison to analytical predictions, and reporting.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3801",
+      "courseId": "AE 3801",
+      "title": "Special Topics",
+      "description": "Normally taken by juniors. Course material devoted to special topics in aerospace engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3802",
+      "courseId": "AE 3802",
+      "title": "Special Topics",
+      "description": "Normally taken by juniors. Course material devoted to special topics in aerospace engineering.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3803",
+      "courseId": "AE 3803",
+      "title": "Special Topics",
+      "description": "Normally taken by juniors. Course material devoted to special topics in aerospace engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3901",
+      "courseId": "AE 3901",
+      "title": "Special Problems",
+      "description": "Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3902",
+      "courseId": "AE 3902",
+      "title": "Special Problems",
+      "description": "Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "3903",
+      "courseId": "AE 3903",
+      "title": "Special Problems",
+      "description": "Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4040",
+      "courseId": "AE 4040",
+      "title": "Computational Fluid Dynamics",
+      "description": "Discretization of PDEs, stability and accuracy considerations, iterative and time/space marching schemes, aerospace applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4060",
+      "courseId": "AE 4060",
+      "title": "Aeroacoustics",
+      "description": "Concepts and techniques, noise sources, data acquisition and reduction, aeroacoustic resonances, commonalities in the music of wind instruments and sources of aircraft noise, community impact.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4070",
+      "courseId": "AE 4070",
+      "title": "Introduction to Propeller and Rotor Theory",
+      "description": "A study of the theory and equations used in the design of propellers and helicopter rotors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4071",
+      "courseId": "AE 4071",
+      "title": "Rotorcraft Aeromechanics",
+      "description": "Basic rotor aerodynamics and dynamics, helicopter performance and trim, introduction to helicopter stability, control and vibration.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4080",
+      "courseId": "AE 4080",
+      "title": "Aerothermodynamics",
+      "description": "Convective heat transfer and viscous drag in high- temperature and high-speed flowfields. Inviscid hypersonic theory, real gas effects, and wall thermal protection strategies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4132",
+      "courseId": "AE 4132",
+      "title": "Finite Element Analysis",
+      "description": "An introduction to classical approximation techniques and the fundamentals of the finite element-method applied to structures and structural dynamics with aerospace applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4170",
+      "courseId": "AE 4170",
+      "title": "Structural Integrity and Durability",
+      "description": "Multiaxial stress states, inelasticity in metals and polymers, yield criteria, metal fatigue, fracture, stress intensity factors, fracture toughness, fatigue crack growth, metal creep, and polymer viscoelasticity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4220",
+      "courseId": "AE 4220",
+      "title": "Structural Dynamics and Aeroelasticity",
+      "description": "Structural dynamics of one-dimensional systems. Analysis of static aeroelastic phenomena, unsteady aerodynamics, and flutter.  Equations of motion for complete aeroelastic systems; solution techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4311",
+      "courseId": "AE 4311",
+      "title": "Aircraft Design I: Conceptual Design",
+      "description": "Conceptual design and synthesis of fixed wing aircraft.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4312",
+      "courseId": "AE 4312",
+      "title": "Aircraft Design II: Preliminary Design",
+      "description": "Preliminary design and synthesis of fixed wing aircraft.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4321",
+      "courseId": "AE 4321",
+      "title": "Space System Design I: Conceptual Design",
+      "description": "Conceptual design and synthesis of space systems. Students apply mission and spacecraft design principles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4322",
+      "courseId": "AE 4322",
+      "title": "Space System Design II: Mission Design",
+      "description": "Advanced design applications of space systems. Students apply mission and spacecraft design principles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4331",
+      "courseId": "AE 4331",
+      "title": "Rotorcraft Design I: Conceptual Design",
+      "description": "Conceptual design of traditional, urban air mobility, unmanned rotorcraft vehicles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4332",
+      "courseId": "AE 4332",
+      "title": "Rotorcraft Design II: Preliminary Design",
+      "description": "Preliminary design of traditional, urban air mobility, unmanned rotorcraft vehicles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4341",
+      "courseId": "AE 4341",
+      "title": "Aircraft Design",
+      "description": "Aircraft Vehicle Design. Preliminary design or case study of a complete flight vehicle, including a propulsion system, a structural system, and a control system. Students cannot receive credit for both AE 4341 and AE 4350.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4342",
+      "courseId": "AE 4342",
+      "title": "Space System Design",
+      "description": "Spacecraft subsystems and synthesis. Students apply mission and spacecraft design principles in developing a space flight mission concept. Topics may vary. Students cannot receive credit for AE 4342 and AE 4356.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4343",
+      "courseId": "AE 4343",
+      "title": "Rotorcraft Design",
+      "description": "Rotorcraft Vehicle Design. Preliminary design or case study of a complete rotorcraft flight vehicle, including a propulsion system, a structural system, and a control system. Students cannot receive credit for both AE 4343 and AE 4358 or AE 4343 and AE 6333.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4355",
+      "courseId": "AE 4355",
+      "title": "Aerospace Systems Design Competition IV",
+      "description": "Team-oriented aerospace systems design project directed by a faculty advisor.  Typically a national student competition in aircraft, rotorcraft, or spacecraft design. Technical or leadership role commensurate with senior standing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4361",
+      "courseId": "AE 4361",
+      "title": "Space Flight Operations",
+      "description": "This course introduces the foundations and analysis of space flight operations for human and robotic space missions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4370",
+      "courseId": "AE 4370",
+      "title": "Life Cycle Cost Analysis",
+      "description": "Modeling of total cost of complex systems over their entire life cycle.  Modeling risk uncertainty for complex energy, environmental, and military systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4376",
+      "courseId": "AE 4376",
+      "title": "Accident Causation and System Safety",
+      "description": "This course provides an in-depth examination of the multi-disciplinary issues in accident causation and system safety (prevention) across different industries.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4451",
+      "courseId": "AE 4451",
+      "title": "Jet and Rocket Propulsion",
+      "description": "Principles of aerospace propulsion systems. Thermodynamic cycles. Thermodynamics of combustion. Turbine engine and rocket performance characteristics. Cycle/component analysis of engines and turbomachinery.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4453",
+      "courseId": "AE 4453",
+      "title": "Advanced Aircraft Propulsion",
+      "description": "Analysis, preliminary design of turbomachinery and combustors for aircraft; engine design, off-design performance. Introduction to advanced architectures: including scramjets, pressure gain combustion, electric propulsion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4461",
+      "courseId": "AE 4461",
+      "title": "Introduction to Combustion",
+      "description": "Basics of combustion and combustion devices. Chemical thermodynamics, reaction rates, premixed/nonpremixed flames, ignition, stabilization, and pollutants.  Applications in turbine, rocket, and internal combustion engines.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4531",
+      "courseId": "AE 4531",
+      "title": "Aircraft Flight Dynamics",
+      "description": "Three-dimensional rigid body dynamics, aircraft equations of motion, static and dynamic stability, flight control design, introduction to aeroelastic phenomena. Students cannot receive credit for both AE 4531 and AE 3521.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4532",
+      "courseId": "AE 4532",
+      "title": "Spacecraft Flight Dynamics",
+      "description": "Cover fundamental material in orbit and attitude dynamics. Investigate orbits, rendezvous/intercept maneuvers, interplanetary transfers, attitude coordinates, attitude stability, attitude control, and attitude estimation. Students cannot receive credit for both AE 4532 and AE 4310.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4552",
+      "courseId": "AE 4552",
+      "title": "Introduction to Humans & Autonomy",
+      "description": "Learn the fundamental principles underlying the functions performed by humans and by autonomous systems in dynamic, complex domains. Credit will not be awarded for both AE 4552 and AE 6552.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4580",
+      "courseId": "AE 4580",
+      "title": "Introduction to Avionics Integration",
+      "description": "Avionics in modern aerospace vehicle systems, including impact on design and performance. Specific case-studies; covers: navigation, GPS, stability augmentation, radar, health monitoring, databases, human factors, and software.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4610",
+      "courseId": "AE 4610",
+      "title": "Dynamics and Control Laboratory",
+      "description": "Experiments in dynamics and control related to aerospace engineering topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4698",
+      "courseId": "AE 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4699",
+      "courseId": "AE 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4701",
+      "courseId": "AE 4701",
+      "title": "Wind Engineering",
+      "description": "An introductory course on wind energy and its potential; modeling and design of wind turbines; analysis of the economic benefits of wind turbine systems.  Credit not allowed for both AE 4701 and ME 4701.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4757",
+      "courseId": "AE 4757",
+      "title": "Biofluid Mechanics",
+      "description": "Introduction to the study of blood flow in the cardiovascular system.  Emphasis on modeling and the potential of flow studies for clinical research application. Crosslisted with CHE and ME 4757.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4758",
+      "courseId": "AE 4758",
+      "title": "Biosolid Mechanics",
+      "description": "The mechanics of living tissue, e.g., arteries, skin, heart muscle, ligament, tendon, cartilage, and bone.  Constitutive equations and some simple mechanical models. Mechanics of cells. Applications. Crosslisted with CHE and ME 4758.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4760",
+      "courseId": "AE 4760",
+      "title": "Engineering Acoustics and Noise Control",
+      "description": "Study of acoustics related to noise and its control; acoustics terminology wave propagation, wave equation solutions, instrumentation, data processing, room acoustics, noise control, noise legislation. Crosslisted with ME 4760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4791",
+      "courseId": "AE 4791",
+      "title": "Mechanical Behavior of Composites",
+      "description": "Stress-strain behavior of composites, property of matrix and reinforcing materials, mechanics of fiber-reinforced composites, lamina and laminate analysis, and mechanical performance.  Crosslisted with CEE, CHE, ME, MSE, and PTFE 4791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4793",
+      "courseId": "AE 4793",
+      "title": "Composite Materials and Processes",
+      "description": "Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with CEE, CHE, ME, MSE, and PTFE 4793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4794",
+      "courseId": "AE 4794",
+      "title": "Composite Materials and Manufacturing Testing",
+      "description": "Basic principles of selection and sign of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with CEE, CHE, ME, MSE, and PTFE 4794.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4801",
+      "courseId": "AE 4801",
+      "title": "Special Topics",
+      "description": "Normally taken by seniors.  Course material devoted to special topics in aerospace engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4802",
+      "courseId": "AE 4802",
+      "title": "Special Topics",
+      "description": "Normally taken by seniors. Course material devoted to special topics in aerospace engineering.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4803",
+      "courseId": "AE 4803",
+      "title": "Special Topics",
+      "description": "Normally taken by seniors.  Course material devoted to special topics in aerospace engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4804",
+      "courseId": "AE 4804",
+      "title": "Special Topics",
+      "description": "Normally taken by seniors.  Course material devoted to special topics in aerospace engineering.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4806",
+      "courseId": "AE 4806",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4863",
+      "courseId": "AE 4863",
+      "title": "Special Topics",
+      "description": "Special Topics in Aerospace Engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4864",
+      "courseId": "AE 4864",
+      "title": "Special Topics",
+      "description": "Special Topics in Aerospace Engineering.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4883",
+      "courseId": "AE 4883",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4901",
+      "courseId": "AE 4901",
+      "title": "Special Problems in Aerospace Engineering",
+      "description": "Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4902",
+      "courseId": "AE 4902",
+      "title": "Special Problems in Aerospace Engineering",
+      "description": "Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "4903",
+      "courseId": "AE 4903",
+      "title": "Special Problems",
+      "description": "Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6009",
+      "courseId": "AE 6009",
+      "title": "Viscous Fluid Flow",
+      "description": "Fundamental conservation laws.  Laminar flows, wall-bound and free shear flows. Separation, heat transfer, and compressibility effects. Introduction to flow instability and transition to turbulence.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6012",
+      "courseId": "AE 6012",
+      "title": "Turbulent Flows",
+      "description": "Basic characteristics of turbulence.  Statistical methods. Reynolds averaging, kinetic energy budget, and scaling issues.  Homogeneity and isotrophy.  Free and wall bounded shear flows. Simulation and modeling.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6015",
+      "courseId": "AE 6015",
+      "title": "Advanced Aerodynamics",
+      "description": "Introduce concepts, derivation and application of aerodynamic fundamentals. Emphasis on advanced knowledge in analysis and design of fixed-wing, launch/atmospheric return vehicles, and rotating systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6020",
+      "courseId": "AE 6020",
+      "title": "High-Speed Flow",
+      "description": "Transonic small disturbance theory. Transonic potential flow modeling. Supercritical airfoil design. Physics of hypersonic flow.  Newtonian flow. Modeling of hypersonic viscous and inviscid flow.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6030",
+      "courseId": "AE 6030",
+      "title": "Unsteady Aerodynamics",
+      "description": "Unsteady potential theory for various speed ranges. Calculation of steady and unsteady aerodynamic loads on airfoils and wings.  Vortex flows. Topics of current research interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6042",
+      "courseId": "AE 6042",
+      "title": "Computational Fluid Dynamics",
+      "description": "Finite-difference, finite volume methods for solution of Navier-Stokes and Euler equations. Classification of equations, stability, grids, boundary conditions, implicit and explicit methods, turbulence modeling.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6050",
+      "courseId": "AE 6050",
+      "title": "High-temperature Gas Dynamics I",
+      "description": "Defining equations for compressible flows, real gas properties and their effect on the behavior of equilibrium and non-equilibrium flows.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6060",
+      "courseId": "AE 6060",
+      "title": "Aeroacoustics",
+      "description": "Lighthill's theory of aerodynamic noise and extensions, flow/acoustic interactions, feedback phenomenon, supersonic jet noise, aeroacoustics of ducts, propeller noise, helicopter noise, sonic boom.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6070",
+      "courseId": "AE 6070",
+      "title": "Rotary Wing Aerodynamics",
+      "description": "Vortex wake modeling; analytical inflow theories; modern computational methods for rotary wing aerodynamic analysis; aerodynamic noise.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6080",
+      "courseId": "AE 6080",
+      "title": "Dynamics of Turbulence",
+      "description": "Fundamental physics of turbulent flows.  Vorticity dynamics, Kolmogorov similarity hypotheses and nonlinear interactions. Mixing and dispersion. Direct and large-eddy simulations, Reynolds stress modeling.  Advanced topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6100",
+      "courseId": "AE 6100",
+      "title": "Advanced Structural Analysis I",
+      "description": "Stability of elastic systems under quasi-static loads. Classical, kinetic, and potential energy approaches through rigid member models.  Buckling of elastic bars and frames. Energy methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6106",
+      "courseId": "AE 6106",
+      "title": "Analysis of Aerospace Structural Elements",
+      "description": "This course focuses on the analysis of advanced aerospace structures. Beam theory is reviewed, plate theory is introduced.  Classical and energy solutions are presented.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6114",
+      "courseId": "AE 6114",
+      "title": "Fundamentals of Solid Mechanics",
+      "description": "Unified overview of fundamental aspects of solid mechanics, from nonlinear continuum mechanics to linear elasticity, including an introduction to energy methods and other special topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6115",
+      "courseId": "AE 6115",
+      "title": "Fundamentals of Aerospace Structural Analysis",
+      "description": "Overview and fundamentals of aerospace structural analysis, including virtual work and energy methods, buckling and advanced structural theories.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6170",
+      "courseId": "AE 6170",
+      "title": "Structural Optimization",
+      "description": "Mathematical methods of constrained optimization, sensitivity analysis, approximation concepts, decomposition techniques, shape optimization in the context of structural design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6200",
+      "courseId": "AE 6200",
+      "title": "Advanced Aeroelasticity I",
+      "description": "Understanding and analysis of aeroelastic phenomena in fixed-wing aircraft, static aeroelasticity, dynamic aeroelasticity, and dynamic response and transient stresses in aircraft structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6210",
+      "courseId": "AE 6210",
+      "title": "Advanced Dynamics I",
+      "description": "Kinematics of particles and rigid bodies, angular velocity, inertia properties, holonomic and nonholonomic constraints, generalized forces.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6211",
+      "courseId": "AE 6211",
+      "title": "Advanced Dynamics II",
+      "description": "A continuation of AE 6210.  Equations of motion, Newtonian frames, consistent linearization, energy and momentum integrals, collisions, mathematical representation of finite rotation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6220",
+      "courseId": "AE 6220",
+      "title": "Rotorcraft Structural Dynamics and Aeroelasticity",
+      "description": "Elementary blade dynamics, flap-lag dynamics, ground resonance, structural dynamics of rotating beams, nonlinear elastic blade analysis, harmonic balance and trim, Floquet theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6230",
+      "courseId": "AE 6230",
+      "title": "Structural Dynamics",
+      "description": "Dynamic response of single-degree-of-freedom systems, Lagrange's equations; modal decoupling; vibration of Euler-Bernoulli and Timoshenko beams, membranes and plates.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6270",
+      "courseId": "AE 6270",
+      "title": "Applied Nonlinear Dynamics",
+      "description": "Nonlinear vibration methods through averaging and multiple scales, bifurcation, periodic and quasi-periodic systems, transition to chaos, characterization of chaotic vibrations, thermodynamics of chaos, chaos control.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6310",
+      "courseId": "AE 6310",
+      "title": "Optimization for the Design of Engineered Systems",
+      "description": "Introduction to optimization problem formulations for engineering design, algorithms for constrained nonlinear programming, multiobjective and multidisciplinary optimization, and robust design optimization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6333",
+      "courseId": "AE 6333",
+      "title": "Rotorcraft Design I",
+      "description": "System approach to conceptual design of aerospace systems with emphasis on rotorcraft. Comprehensive methodologies for aerospace vehicle synthesis and sizing. Integration of technologies. Students cannot receive credit for both AE 6333 and AE 4343.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6334",
+      "courseId": "AE 6334",
+      "title": "Rotorcraft Design II",
+      "description": "Students work together on this application to complete the preliminary design stage of a specific rotorcraft. Participants are exposed to disciplinary and interdisciplinary issues.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6343",
+      "courseId": "AE 6343",
+      "title": "Aircraft Design I",
+      "description": "Stochastic approach to conceptual design of aerospace systems with emphasis on aircraft and missiles. Comprehensive methodologies for aerospace vehicle synthesis and sizing. Integration of technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6344",
+      "courseId": "AE 6344",
+      "title": "Aircraft Design II",
+      "description": "Students work together on this application to complete the preliminary design stage of a specific aircraft or missile. Participants are exposed to disciplinary and interdisciplinary issues.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6353",
+      "courseId": "AE 6353",
+      "title": "Orbital Mechanics",
+      "description": "First graduate-level astrodynamics class that includes two-body orbital mechanics, orbit determination, orbit prediction, orbital maneuvers, lunar and interplanetary trajectories, orbital rendzvous and space navigation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6355",
+      "courseId": "AE 6355",
+      "title": "Planetary Entry, Descent and Landing",
+      "description": "Entry flight mechanics and dynamics, aerothermodynamics, thermal protection systems, aerodynamic decelerators, descent and landing.  Robotic and human exploration mission studies for aerobraking, planetary entry, aerocapture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6356",
+      "courseId": "AE 6356",
+      "title": "Spacecraft Attitude Estimation and Control",
+      "description": "Attitude representations, dynamics, estimation, and control. Spacecraft attitude sensors and actuators. Attitude determination and control topics applied to spacecraft and space missions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6357",
+      "courseId": "AE 6357",
+      "title": "Satellite Orbit Determination",
+      "description": "Satellite Orbit Determination is a graduate-level course designed to provide the theoretical and practical knowledge to estimate the position of a satellite from tracking measurements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6361",
+      "courseId": "AE 6361",
+      "title": "Air Breathing Propulsion System Design I",
+      "description": "Air breathing propulsion design with emphasis on multidisciplinary design issues related to system integration, cycle selection, performance, cost, reliability, maintainability, etc.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6362",
+      "courseId": "AE 6362",
+      "title": "Safety by Design",
+      "description": "Autonomous situational flight model allows students to examine complex behaviors in the \"pilot-vehicle-operational conditions\" system.  Flight certification and airworthiness requirements are mapped into formal scenarios.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6372",
+      "courseId": "AE 6372",
+      "title": "Aerospace Systems Engineering",
+      "description": "Introduction to aerospace systems engineering. Systems engineering and quality engineering methods and tools. Top-down design decision support processes, computer integrated environments, Integrated Product/Process Development (IPPD).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6373",
+      "courseId": "AE 6373",
+      "title": "Advanced Design Methods I",
+      "description": "Introduction to modern probabilistic design methods and techniques. Design of experiments, Taguchi methods, response surface equations, robust design, risk and uncertainty, technology assessment and selection.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6383",
+      "courseId": "AE 6383",
+      "title": "Applied Design Laboratory",
+      "description": "Introduction to computing tools and processes used in subsequent applied design courses in graduate fixed wing, rotary wing, and space systems design tracks.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6393",
+      "courseId": "AE 6393",
+      "title": "Introduction to System of Systems Engineering Principles",
+      "description": "Introduce students to the development and analysis of complex System of Systems, and their practical application to formulate Grand Challenge projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6394",
+      "courseId": "AE 6394",
+      "title": "System of Systems Engineering Applications",
+      "description": "Application of developed System of Systems analysis frameworks for the performance of Grand Challenge projects.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6410",
+      "courseId": "AE 6410",
+      "title": "Combustion Dynamics",
+      "description": "Acoustic wave propagation in inhomogeneous flows, flame-acoustic wave interactions, and control of combustion-driven oscillations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6412",
+      "courseId": "AE 6412",
+      "title": "Turbulent Combustion",
+      "description": "Fundamentals of interaction between flow turbulence and reactive scalars.  Theoretical, numerical, and experimental methods. Physics of premixed, non-premixed, and partially premixed turbulent combustion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6440",
+      "courseId": "AE 6440",
+      "title": "Turbine Engine Aerothermodynamics",
+      "description": "Analysis and design of gas turbine engine components including axial flow compressors, turbines, inlets, and nozzles.  Heat transfer and turbine blade cooling.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6450",
+      "courseId": "AE 6450",
+      "title": "Rocket Propulsion",
+      "description": "Analysis and design of rocket engines including liquid, solid, hybrid, and advanced propulsion systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6451",
+      "courseId": "AE 6451",
+      "title": "Electric Propulsion",
+      "description": "The course provides a solid background of the operating principles, performance characteristics, and design features of the state-of-the-art electric propulsion systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6503",
+      "courseId": "AE 6503",
+      "title": "Helicopter Stability and Control",
+      "description": "Helicopter general equations of motion, rotor forces and moments, helicopter stability and control characteristics, handling qualities, flight control system design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6505",
+      "courseId": "AE 6505",
+      "title": "Random Processes and Kalman Filtering",
+      "description": "Probability and random variables and processes; correlation; shaping filters; simulation of sensor errors; Wiener filter; random vectors; covariance propagation; recursive least-squares; Kalman filter; extensions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6506",
+      "courseId": "AE 6506",
+      "title": "Aerospace Guidance and Navigation",
+      "description": "Earth's shape and gravity. Introduction to inertial navigation. GPS aiding. Error analysis. Guidance systems. Analysis of the guidance loop. Estimation of guidance variables. Adjoint analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6511",
+      "courseId": "AE 6511",
+      "title": "Optimal Guidance and Control",
+      "description": "Euler-Lagrange formulation; Hamilton-Jacobi approach; Pontryagin's minimum principle; Systems with quadratic performance index; Second variation and neighboring extremals; Singular solutions; numerical solution techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6513",
+      "courseId": "AE 6513",
+      "title": "Mathematical Principles of Planning and Decision-Making for Autonomy",
+      "description": "The course will introduce the students to the mathematical tools and the theory \nfor formulating and solving problems that involve high-level decision-making for controlling and planning of autonomous systems with an emphasis on aerospace applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6520",
+      "courseId": "AE 6520",
+      "title": "Advanced Flight Dynamics",
+      "description": "Reference frames and transformations, general equations of unsteady motion, application to fixed-wing, rotary-wing and space vehicles, stability characteristics, flight in turbulent atmosphere.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6530",
+      "courseId": "AE 6530",
+      "title": "Multivariable Linear Systems and Control",
+      "description": "Techniques for analysis and description of multivariable linear systems. Tools for advanced feedback control design for these systems, including computational packages. Credit will not be awarded for both AE 6530 and ECE 6550 or AE 6530 and ME 6401.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6531",
+      "courseId": "AE 6531",
+      "title": "Aerospace Robust Control I",
+      "description": "Robustness issues in controller analysis and design. LQ analysis, H2 norm, LQR, LQG, uncertainty modeling, small gain theorem, H-infinity  performance, and the mixed-norm H2/H-infinity problem.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6532",
+      "courseId": "AE 6532",
+      "title": "Aerospace Robust Control II",
+      "description": "Advanced treatment of robustness issues. Controller analysis and design for linear and nonlinear systems with structured and non-structured uncertainty. Reduced-order control, stability, multipliers, and mixed-mu.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6534",
+      "courseId": "AE 6534",
+      "title": "Control of Aerospace Structures",
+      "description": "Advanced treatment of control of flexible structures. Topics include stability of multi-degree-of-freedom systems, passive and active absorbers and isolation, positive real models, and robust control for flexible structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6551",
+      "courseId": "AE 6551",
+      "title": "Cognitive Engineering",
+      "description": "Cognitive engineering addresses a range of technologies and work environments that will support human cognitive performance, including information systems, decision support, automation, and intelligent systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6580",
+      "courseId": "AE 6580",
+      "title": "Aerospace Nonlinear Control",
+      "description": "Advanced treatment of nonlinear robust control. Lyapunov stability theory, absolute stability, dissipativity, feedback linearization, Hamilton-Jacobi-Bellman theory, nonlinear H-infinity, backstepping control, and control Lyapunov functions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6694",
+      "courseId": "AE 6694",
+      "title": "Graduate Internship",
+      "description": "Graduate Internship for which the student is paid.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6701",
+      "courseId": "AE 6701",
+      "title": "Wind Engineering",
+      "description": "An introductory course on wind energy and its potential; modeling and design of wind turbines; analysis of the economic benefits of wind turbine systems. Credit will not be awarded for both AE 6701 and ME 6701.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6705",
+      "courseId": "AE 6705",
+      "title": "Introduction to Mechatronics",
+      "description": "Modeling and control of actuators and electro-mechanical systems. Performance and application of microprocessors and analog electronics to modern mechatronic systems.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6721",
+      "courseId": "AE 6721",
+      "title": "Evaluation of Human Integrated Systems",
+      "description": "Evaluation of human integrated systems including translating research questions into measurable objectives, overview of evaluation methods and data analysis techniques applicable to such systems.  Credit not allowed for both AE 6721 and ISYE 6231.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6760",
+      "courseId": "AE 6760",
+      "title": "Acoustics I",
+      "description": "Fundamental principles governing the generation, propagation, reflection, and transmission of sound waves in fluids.  Crosslisted with ME 6760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6761",
+      "courseId": "AE 6761",
+      "title": "Acoustics II",
+      "description": "Radiation and scattering of sound waves in fluids, duct acoustics, dissipation phenomena. Crosslisted with ME 6761.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6762",
+      "courseId": "AE 6762",
+      "title": "Applied Acoustics",
+      "description": "Mufflers, resonators, acoustic materials, barriers, industrial noise, room acoustics, active noise control. Crosslisted with ME  6762.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6765",
+      "courseId": "AE 6765",
+      "title": "Kinetics and Thermodynamics of Gases",
+      "description": "Thermodynamics of nonreacting and reacting gas mixtures. Introductory quantum theory, statistical thermodynamics, and gas kinetic theory. Crosslisted with ME 6765.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6766",
+      "courseId": "AE 6766",
+      "title": "Combustion",
+      "description": "Introductory chemical kinetics, detonations and deflagrations, laminar flame propagation in premixed gases, ignition and quenching, laminar diffusion flames and droplet burning, turbulent reacting flows. Crosslisted with ME 6766.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6769",
+      "courseId": "AE 6769",
+      "title": "Linear Elasticity",
+      "description": "Governing equations of linear elasticity, plane elasticity, boundary value problems, airy stress function and complex variable methods, simple three-dimensional solutions. Crosslisted with ME 6769.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6770",
+      "courseId": "AE 6770",
+      "title": "Energy and Variational Methods in Elasticity and Plasticity",
+      "description": "Applications of energy and variational methods in engineering mechanics to elastic, plastic, and dynamical behavior of deformable bodies.  Crosslisted with ME 6770.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "6779",
+      "courseId": "AE 6779",
+      "title": "Dynamic System Simulation and Modeling",
+      "description": "Models of dynamic systems, such as aircraft, ground vehicles and machinery, and manual control.  Numerical simulation techniques and applications. Interactive simulators. Student programming project.  Crosslisted with ISYE 6779.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7000",
+      "courseId": "AE 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7741",
+      "courseId": "AE 7741",
+      "title": "Robotics Professional Preparation",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Program introduction. Technical resume preparation. GT Robotics labs & resources.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7742",
+      "courseId": "AE 7742",
+      "title": "Robotics Professional Preparation 2",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Selecting and applying for Internship. Developing capstone project proposal. Public speaking practice and preparation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7743",
+      "courseId": "AE 7743",
+      "title": "Robotics Professional Preparation 3",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Interview preparation & career search. Technical report writing and presentation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7764",
+      "courseId": "AE 7764",
+      "title": "Acoustic Propagation",
+      "description": "Propagation of sound in inhomogeneous fluids; ray acoustics, ocean and atmospheric acoustics, nonlinear acoustics. Crosslisted with ME 7764.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7772",
+      "courseId": "AE 7772",
+      "title": "Fundamentals of Fracture Mechanics",
+      "description": "Advanced study of failure of structural materials under load, mechanics of fracture, and microscopic and macroscopic aspects of the fracture of engineering materials. Crosslisted with CHE, CEE, ME, and MSE 7772.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7773",
+      "courseId": "AE 7773",
+      "title": "Advanced Fracture Mechanics",
+      "description": "Nonlinear fracture mechanics including elastic-plastic and time-dependent fracture, advanced test methods, J-integral theory, and extensions. Crosslisted with CEE, CHE, ME, and MSE 7773.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7774",
+      "courseId": "AE 7774",
+      "title": "Fatigue of Materials and Structures",
+      "description": "Mechanical and microstructural aspects of nucleation and growth of cracks under cyclic loading conditions, notch effects, cumulative damage, multiaxial loading, and fatigue crack propagation. Crosslisted with CEE, CHE, ME, and MSE 7774.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7775",
+      "courseId": "AE 7775",
+      "title": "Topics in Fracture and Fatigue of Metallic and Composite Structures",
+      "description": "Brittle and ductile fracture criteria. Failrue prediction in composite structures. Free-edge and internal delamination. Anisotropic cracks. Fatigue behavior of composites and metal. New micromechanical models. Crosslisted with CHE, ME, and MSE 7775.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7785",
+      "courseId": "AE 7785",
+      "title": "Introduction to Robotics Resesarch",
+      "description": "Familiarizes students with the core areas of robotics; mechanics, control, perception, AI, and autonomy. Provides an introduction to the mathematical tools required in robotics research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7791",
+      "courseId": "AE 7791",
+      "title": "Damage, Failure, and Durability of Composite Materials",
+      "description": "Analysis and failure of fiber-reinforced composite material systems.  Mechanisms of toughening, multiple cracking mechanisms.  Failure in woven fabric, braided, and special geometry composites.  Crosslisted with CHE, CEE, ME, MSE, and PTFE 7791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7792",
+      "courseId": "AE 7792",
+      "title": "Advanced Mechanics of Composites",
+      "description": "Anisotropic elasticity, hygrothermal behavior, stress analysis of laminated composites including 3D effects, stress concentrations, free-edge effects, thick laminates, adhesive and mechanical connections, fracture of composites. Crosslisted with CHE, CEE, ME, MSE, and PTFE 7792.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "7793",
+      "courseId": "AE 7793",
+      "title": "Manufacturing of Composites",
+      "description": "Major manufacturing techniques of metal-ceramic and polymer-matrix composites.  Modeling of processes with emphasis on fundamental mechanisms and effects. Crosslisted with CHE, CEE, ME, MSE, and PTFE 7793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8001",
+      "courseId": "AE 8001",
+      "title": "Design Seminar",
+      "description": "Case studies of existing aerospace systems; assessment of design payoffs and risks; industry experts provide case examples and knowledge transfer to course participants; field trips.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8002",
+      "courseId": "AE 8002",
+      "title": "AE Graduate Seminar",
+      "description": "Introduce AE graduate students to world-class aerospace researchers and topics, discuss and demonstrate basic graduate student resources and skills.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8740",
+      "courseId": "AE 8740",
+      "title": "Robotics Internship",
+      "description": "Graduate Internship at a partner company, GTRI or a GT Robotics lab.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8741",
+      "courseId": "AE 8741",
+      "title": "Robotics Capstone Project",
+      "description": "Teams or individuals apply the knowledge and skills acquired throughout the MS program to a faculty supervised robotics project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8750",
+      "courseId": "AE 8750",
+      "title": "Robotics Research Foundation I",
+      "description": "Multidisciplinary research course supervised by two robotics faculty from different schools participating in the robotics Ph.D. program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8751",
+      "courseId": "AE 8751",
+      "title": "Robotics Research Foundation II",
+      "description": "Continuation of AE 8751 (Robotics Research Foundation I).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8801",
+      "courseId": "AE 8801",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8802",
+      "courseId": "AE 8802",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8803",
+      "courseId": "AE 8803",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8804",
+      "courseId": "AE 8804",
+      "title": "Special Topics",
+      "description": "Special  topics of current interest.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8805",
+      "courseId": "AE 8805",
+      "title": "Special Topics",
+      "description": "Special  topics of current interest.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8813",
+      "courseId": "AE 8813",
+      "title": "Special Topics",
+      "description": "Special Topics in AE.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8883",
+      "courseId": "AE 8883",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8900",
+      "courseId": "AE 8900",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8901",
+      "courseId": "AE 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8902",
+      "courseId": "AE 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8903",
+      "courseId": "AE 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8997",
+      "courseId": "AE 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8998",
+      "courseId": "AE 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "8999",
+      "courseId": "AE 8999",
+      "title": "Preparation for Doctoral Dissertation",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "AE",
+      "courseNumber": "9000",
+      "courseId": "AE 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 188,
+  "scrapedAt": "2025-08-16T02:00:30.128Z"
+}

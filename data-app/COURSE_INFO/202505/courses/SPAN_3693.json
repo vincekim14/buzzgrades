@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "SPAN",
+  "courseNumber": "3693",
+  "courseId": "SPAN 3693",
+  "title": "Science And Technology",
+  "description": "Study of business organizations and use of technology in the Spanish-speaking world. Specialized vocabularies of business, economics, statistics, and computer science. Geographical and anthropological background. Part of the Spanish intensive summer language program.  Admission by application only.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:35.746Z"
+}

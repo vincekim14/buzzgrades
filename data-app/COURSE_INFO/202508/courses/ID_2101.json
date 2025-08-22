@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "2101",
+  "courseId": "ID 2101",
+  "title": "Digital Design Methods",
+  "description": "This course introduces the basics of product design in the CAD environment. Stuents design a product, apply 3D scanning, produce an animation and 3D print.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:14.192Z"
+}

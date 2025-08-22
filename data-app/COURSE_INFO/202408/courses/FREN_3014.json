@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "FREN",
+  "courseNumber": "3014",
+  "courseId": "FREN 3014",
+  "title": "Intro To Contemp France",
+  "description": "This course will introduce students to issues in contemporary France.  Taught in French.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:34.597Z"
+}

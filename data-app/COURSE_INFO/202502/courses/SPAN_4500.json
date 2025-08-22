@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "SPAN",
+  "courseNumber": "4500",
+  "courseId": "SPAN 4500",
+  "title": "Intercultural Seminar",
+  "description": "Integrates cross-cultural research and reflection into discussion of current issues in the Hispanic world. Intended for students who have had some study abroad experience in a Spanish-speaking country.  Conducted in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:07.287Z"
+}

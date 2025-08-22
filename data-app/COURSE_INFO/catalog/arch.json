@@ -1,0 +1,2561 @@
+{
+  "subject": "ARCH",
+  "subjectName": "Architecture (ARCH)",
+  "url": "https://catalog.gatech.edu/coursesaz/arch/",
+  "courses": [
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "1016",
+      "courseId": "ARCH 1016",
+      "title": "Foundation Studio 1",
+      "description": "Introduction to creative problem-solving and the design realization cycle through project-based design exercises that emphasize the role of representation.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "1017",
+      "courseId": "ARCH 1017",
+      "title": "Architecture Design Studio 1",
+      "description": "Introduction to the design of complex problems through an emphasis on integrative and collaborative design strategies, research , critical reflection, and interdisciplinary teamwork.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "1020",
+      "courseId": "ARCH 1020",
+      "title": "Media + Modeling 1",
+      "description": "Intermediate approaches to two and three dimensional modeling and representation in architecture using both manual and digital media and techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "1060",
+      "courseId": "ARCH 1060",
+      "title": "Introduction to Design and the Built Environment",
+      "description": "Introduction to architecture and building construction through case studies that illuminate past and present practices, as well as future possibilities within the discipline.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "1801",
+      "courseId": "ARCH 1801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "1854",
+      "courseId": "ARCH 1854",
+      "title": "Special Topics",
+      "description": "Special topics in design.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "1855",
+      "courseId": "ARCH 1855",
+      "title": "Special Topics",
+      "description": "Special Topics in design.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2016",
+      "courseId": "ARCH 2016",
+      "title": "Architecture Design Studio 2",
+      "description": "Elementary design exercises exploring fundamental issues of form and space through analysis of architectural elements and compositions and their use in creative problem solving.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2017",
+      "courseId": "ARCH 2017",
+      "title": "Architecture Design Studio 3",
+      "description": "Elementary design exercises focusing upon the compositional integration of building and site through the creative assimilation of programmatic, technical, and contextual requirements.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2020",
+      "courseId": "ARCH 2020",
+      "title": "Media + Modeling 2",
+      "description": "Advanced approaches to two and three dimensional modeling and representation in architecture using both manual and digital media and techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2111",
+      "courseId": "ARCH 2111",
+      "title": "History of Architecture I",
+      "description": "Architectural history from antiquity through the eighteenth century emphasizing buildings in their cultural context as informed by social, technological, and constructive factors and theoretical positions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2112",
+      "courseId": "ARCH 2112",
+      "title": "History of Architecture II",
+      "description": "Architectural history during the nineteenth and twentieth centuries emphasizing buildings in their cultural context as informed by social, technological, and constructive factors and theoretical positions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2115",
+      "courseId": "ARCH 2115",
+      "title": "Modern Architecture and Art in Europe, America and Australia: Nineteenth and Twentieth Centuries",
+      "description": "A brief survey of architecture and art in the nineteenth and twentieth centuries, including a discussion of related influences on developments in those fields.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2211",
+      "courseId": "ARCH 2211",
+      "title": "Construction Technology and Design Integration I",
+      "description": "Introduction to building anatomy, technical and expressive characteristics of materials and their organizational assembly.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2698",
+      "courseId": "ARCH 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2699",
+      "courseId": "ARCH 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2801",
+      "courseId": "ARCH 2801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2803",
+      "courseId": "ARCH 2803",
+      "title": "Special Topics",
+      "description": "Special Topics in design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "2854",
+      "courseId": "ARCH 2854",
+      "title": "Special Topics",
+      "description": "Special Topics in design.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3000",
+      "courseId": "ARCH 3000",
+      "title": "REVIT",
+      "description": "Visualizing a form enhances a designer’s ability to communicate ideas.  Course will demonstrate how REVIT can facilitate the Conception of a design from various points of genesis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3007",
+      "courseId": "ARCH 3007",
+      "title": "Art & Architecture in Greece",
+      "description": "An intensive on-site investigation of the role that the arts and architecture have played in the development of classical Greek civilization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3008",
+      "courseId": "ARCH 3008",
+      "title": "Art & Architecture in Italy I",
+      "description": "Investigations of the painting, sculpture, and architecture of the Classical, Early Christian, Byzantine, and Medieval periods in Italy with special emphasis on Rome.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3009",
+      "courseId": "ARCH 3009",
+      "title": "Art & Architecture in Italy II",
+      "description": "Investigations of the painting, sculpture, and architecture of the Renaissance and Baroque Periods in Italy with special emphasis on the works in Rome.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3010",
+      "courseId": "ARCH 3010",
+      "title": "Design Strategies",
+      "description": "The design process as reflection in action. The logic of design decisions. The synthesis of diverse bodies of knowledge in design. Interdisciplinary collaborations in design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3016",
+      "courseId": "ARCH 3016",
+      "title": "Architecture Design Studio 4",
+      "description": "Intermediate architectural design projects emphasizing the functional priorities and expressive potential of building technologies through studio problems of varying programmatic and contextual complexity.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3017",
+      "courseId": "ARCH 3017",
+      "title": "Architecture Design Studio 5",
+      "description": "Intermediate architectural design projects exploring the inter-relationships of various programmatic models, normative building types, and technological themes within specific physical, urban and cultural contexts.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3115",
+      "courseId": "ARCH 3115",
+      "title": "Modern Arch and Art Workshop",
+      "description": "A brief survey of key ideas of architecture and art in the twenieth century and exploration of their application to current architectural design and representation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3116",
+      "courseId": "ARCH 3116",
+      "title": "Constructing the Visual",
+      "description": "Promote an understanding of visual representations as they pertain to art, architecture and the use of architecture representations in the structuring of persuasive statements/arguments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3135",
+      "courseId": "ARCH 3135",
+      "title": "City Literacy",
+      "description": "The course frames the city as material and social space, focusing on everyday experience in exemplary cities to explore how they are conceived and negotiated.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3200",
+      "courseId": "ARCH 3200",
+      "title": "Portfolio Design",
+      "description": "Explores strategies of descriptions, representation, and presentation and other art-related ideas in order to communicate design work and design speculation effectively.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3231",
+      "courseId": "ARCH 3231",
+      "title": "Environmental Systems and Design Integration I",
+      "description": "Human physiology, the occupation of space, and principles of sustainability.  Micro-climate, energy consumption, thermal loading, passive solar strategies, daylighting, optics, and acoustics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3825",
+      "courseId": "ARCH 3825",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "3855",
+      "courseId": "ARCH 3855",
+      "title": "Special Topics",
+      "description": "Special Topics in design.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4015",
+      "courseId": "ARCH 4015",
+      "title": "Structures 1",
+      "description": "Gravity loads on building structures.  Introduction to structural planning.  Design of wood and steel structures.  Properties of wood and architectural metals.  Computer-based analysis of structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4016",
+      "courseId": "ARCH 4016",
+      "title": "Architecture Design Studio 6",
+      "description": "Advanced studies in architectural design emphasizing application of analytical, conceptual, and representational skills within projects that engage and problematize urban context culturally, ecologically and technologically.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4017",
+      "courseId": "ARCH 4017",
+      "title": "Architecture Design Studio 7",
+      "description": "Advanced studies in architectural design emphasizing application of analytical, conceptual, and representational skills within projects that engage and problematize urban context culturally, ecologically and technologically. Capstone Design Studio.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4107",
+      "courseId": "ARCH 4107",
+      "title": "Introduction to Historic Preservation",
+      "description": "This course provides an overview of the history, philosophy, organization, current legislation, policies, and practice of historic preservation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4109",
+      "courseId": "ARCH 4109",
+      "title": "Architecture and Minimalism",
+      "description": "This course examines the influence of \"minimalism,\" the 1960s art phenomenon, upon architecture culture and production from 1968-present.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4112",
+      "courseId": "ARCH 4112",
+      "title": "Architecture in Georgia",
+      "description": "A field study and archival research on the architecture of the state of Georgia outside of Atlanta.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4123",
+      "courseId": "ARCH 4123",
+      "title": "European Modernism",
+      "description": "Survey of European architecture from Art Nouveau to LeCorbusier.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4127",
+      "courseId": "ARCH 4127",
+      "title": "Introduction to Art and Architecture in Italy",
+      "description": "Required preparation for the COA Summer Program in Italy.  The course includes the fundamentals of art and architecture,  basic Italian language skills, and  library research for required summer program projects.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4128",
+      "courseId": "ARCH 4128",
+      "title": "Barcelona:  Architecture, Urban Design, Public Space",
+      "description": "Architectural history of the city of Barcelona and its public spaces, with a focus on the major urban and architectural projects since 1850.  Offered through the Studies Abroad Program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4129",
+      "courseId": "ARCH 4129",
+      "title": "Form and Narrative: Cross Media Analysis",
+      "description": "This theory course will involve an extended comparison between architecture and related art forms, especially painting, film, and writing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4133",
+      "courseId": "ARCH 4133",
+      "title": "Architecture and Discourse of the Everyday",
+      "description": "Application of the concept of the everyday to architectural practice from perspectives of European social theory, American cultural landscape studies, and contemporary architectural theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4140",
+      "courseId": "ARCH 4140",
+      "title": "Modern and Contemporary Architectual Theory and Criticism",
+      "description": "Introduction to modern and contemporary architectural theory and criticism, including writings and manifestoes, analyses, projects and buildings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4142",
+      "courseId": "ARCH 4142",
+      "title": "Dwelling: Histories and Theories of Enviornmental Behavior and Design",
+      "description": "Explores scholarship and case studies from multiple disciplines relating to issues of place, community identity and memory, culturally constructed meaning, and appropriate use of resources.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4143",
+      "courseId": "ARCH 4143",
+      "title": "Museums: History, Theory, Design",
+      "description": "Investigates museums as manifestations of the construction and content of knowledge, the public mission of cultural and scientific institutions and the framing of visitors experience.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4151",
+      "courseId": "ARCH 4151",
+      "title": "History of Urban Form",
+      "description": "History of the city as a collective work of architecture with an emphasis on the city's physical form and space.  Credit not allowed for both ARCH 4151 and COA 6151.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4225",
+      "courseId": "ARCH 4225",
+      "title": "Reinvestigating the Detail: The Ornamental and the Everyday",
+      "description": "Explores the role of the detail in contemporary architectural practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4226",
+      "courseId": "ARCH 4226",
+      "title": "Green Construction",
+      "description": "This course focuses on the means, methods, strategies, and technologies to improve the energy efficiency and performance of buildings, and to reduce the environmental impact of buildings. Credit will not be awarded for both ARCH 4226 and ARCH 6226 or ARCH 4226 and BC 4710.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4227",
+      "courseId": "ARCH 4227",
+      "title": "Architecture and Ecology",
+      "description": "Introduction to ecological design theory, research, and practice in architecture, including writings, criticism, and analyses of buildings and projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4232",
+      "courseId": "ARCH 4232",
+      "title": "On Growth and Form",
+      "description": "Combination of aesthetic theory, history and digital design theory. The tracing of digital design (or generative design) back to its early roots in Romanticism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4240",
+      "courseId": "ARCH 4240",
+      "title": "Building Simulation in Design Practice",
+      "description": "Numerical simulation of performance of characteristics of whole buildings. Review of the finite element method for uniform treatment of transport phenomena in different building technology domains. Credit not awarded for both ARCH 4240 and ARCH 6241.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4253",
+      "courseId": "ARCH 4253",
+      "title": "Advanced Structures Seminar",
+      "description": "Fundamentals of steel and concrete design and the computerized design of steel and concrete structural systems for multi-story buildings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4303",
+      "courseId": "ARCH 4303",
+      "title": "Programming and Building Evaluation",
+      "description": "Building programming and evaluation of building performance with respect to the aims of organizational users, policy development, and the process of planning and design decisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4310",
+      "courseId": "ARCH 4310",
+      "title": "How do we dwell?",
+      "description": "Explores environmental behavior and the role of design in it through exploration of place and space, communal identity and memory, and natural and social ecology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4315",
+      "courseId": "ARCH 4315",
+      "title": "Professional Practice of Architecture",
+      "description": "Principles and framework of professional practice including ethics, legal climate, business practices and contracts, project process and management, office organization, and methods of building production.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4316",
+      "courseId": "ARCH 4316",
+      "title": "Traditions of Architectural Practice",
+      "description": "Critical examination of architectural practice. Cultural derivation and technological transformation of various conventions of representation, construction, and design; speculation about future paradigms of architectural practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4320",
+      "courseId": "ARCH 4320",
+      "title": "Retrofitting Suburbia",
+      "description": "Study of suburban redevelopment trends, projects, and policies that improve environmental, social, and economic sustainability, with an emphasis on urban design strategies. Credit not awarded for both ARCH 4320 and COA 6120.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4334",
+      "courseId": "ARCH 4334",
+      "title": "Housing and Culture",
+      "description": "Examination of social, cultural, and behavioral  issues as they influence the form of houses and housing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4350",
+      "courseId": "ARCH 4350",
+      "title": "Architectural Theory",
+      "description": "A critical perspective on the topics, voices, and texts that have  dominated architectural discourse in the West.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4410",
+      "courseId": "ARCH 4410",
+      "title": "Collage Making",
+      "description": "Concepts of Collage within art, architecture, and culture, manual and electronic approaches to two and three-dimensional collage-making.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4411",
+      "courseId": "ARCH 4411",
+      "title": "Introduction to Visual Arts",
+      "description": "Orientation to issues of visual perception and representation of form and space through freehand drawing, composition, color, texture, mixed-media, and journal making.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4412",
+      "courseId": "ARCH 4412",
+      "title": "Drawing and the Human Figure",
+      "description": "Studio instruction in figure drawing from the live model with emphasis on the structure and dynamics of the human figure.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4413",
+      "courseId": "ARCH 4413",
+      "title": "Collage Making",
+      "description": "Concepts of collage within art, architecture, and culture; manual and electronic approaches to two and three-dimensional collage making.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4414",
+      "courseId": "ARCH 4414",
+      "title": "Representation in Watercolor",
+      "description": "Introductory course in the use of transparent watercolor for field painting and architectural representation. Theory of pigment characteristics in applied painting.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4415",
+      "courseId": "ARCH 4415",
+      "title": "Photography I",
+      "description": "Introduction to studio, darkroom, and field photography with emphasis on composition, processing, and printing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4416",
+      "courseId": "ARCH 4416",
+      "title": "Photography II",
+      "description": "Advanced techniques in photography. Use of color, filters, four-by- five format cameras with emphasis on architectural photography.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4417",
+      "courseId": "ARCH 4417",
+      "title": "Building Furniture and Furnishing Buildings",
+      "description": "A course that focuses on schematic design development of furniture.  The emphasis of this course is on conceptual development and material and structural clarity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4447",
+      "courseId": "ARCH 4447",
+      "title": "Urban Ecological Design",
+      "description": "This course engages the contemporary issues of urban ecology and its articulation to design. It explores relationship between urban forms and flows of ecology, energy, material, water and information. Credit will not be awarded for both ARCH 4447 and ARCH 6447 or ARCH 4447 and CP 6836.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4503",
+      "courseId": "ARCH 4503",
+      "title": "BIM (Building Information Modeling) Applications",
+      "description": "Survey of Building Information Modeling - its technologies exploration of new technologies to be applied and new procedures of project execution. Credit is not awarded for both ARCH 4503 and ARCH 6503.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4505",
+      "courseId": "ARCH 4505",
+      "title": "Geometric Constructs",
+      "description": "Geometric surface and solid construction fundamentals using parametric modeling tools; use of sketching workbenches. Credit will not be awarded for both ARCH 4505 and ARCH 6505.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4507",
+      "courseId": "ARCH 4507",
+      "title": "Parametric Design",
+      "description": "Exploration of concepts and mechanisms for creating custom parametric models that use hierarchies of relationships, constraints and rules for architectural components through parameters. Credit not awarded for both ARCH 4507 and ARCH 6507.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4508",
+      "courseId": "ARCH 4508",
+      "title": "Shape Grammars",
+      "description": "Shape grammars are a powerful formal system for the generative description, interpretation and evaluation of designs. Credit will not be awarded for both ARCH 4508 and ARCH 6508.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4510",
+      "courseId": "ARCH 4510",
+      "title": "Advanced Productions",
+      "description": "Advanced integration of digital design and production technologies through Mixed Reality (MR)  \n geared towards collaborative immersive spatial design and production systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4515",
+      "courseId": "ARCH 4515",
+      "title": "Collaborative Design Workshop",
+      "description": "Collaborative Design Workshop provides a platform for students to participate in a \"live project\" that requires them to navigate external relationships and constraints as part of the design process.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4630",
+      "courseId": "ARCH 4630",
+      "title": "Architecture, Space and Culture",
+      "description": "Analytical models of the social functions of architectural space and evaluation of associated design choices, across a variety of building types.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4698",
+      "courseId": "ARCH 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4699",
+      "courseId": "ARCH 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4701",
+      "courseId": "ARCH 4701",
+      "title": "Analog-Digital Design Computing",
+      "description": "Analog and digital approaches in design computation. Visual and symbolic representations. Algorithmic and computational tools. History and logic. Credit will not be awarded for both ARCH 4701 and ARCH 6501.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4702",
+      "courseId": "ARCH 4702",
+      "title": "Design Scripting",
+      "description": "Learning the concepts and application of scripting languages in architecture and form generation. Credit will not be awarded for both ARCH 4702 and ARCH 6502.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4801",
+      "courseId": "ARCH 4801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4802",
+      "courseId": "ARCH 4802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4803",
+      "courseId": "ARCH 4803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4804",
+      "courseId": "ARCH 4804",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4805",
+      "courseId": "ARCH 4805",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4811",
+      "courseId": "ARCH 4811",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4812",
+      "courseId": "ARCH 4812",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4813",
+      "courseId": "ARCH 4813",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4814",
+      "courseId": "ARCH 4814",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4815",
+      "courseId": "ARCH 4815",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4820",
+      "courseId": "ARCH 4820",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4821",
+      "courseId": "ARCH 4821",
+      "title": "Special Topics: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4822",
+      "courseId": "ARCH 4822",
+      "title": "Special Topics: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4823",
+      "courseId": "ARCH 4823",
+      "title": "Special Topics: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4825",
+      "courseId": "ARCH 4825",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4831",
+      "courseId": "ARCH 4831",
+      "title": "Special Topics: Architectural Technology",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4832",
+      "courseId": "ARCH 4832",
+      "title": "Special Topics: Architectural Technology",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4833",
+      "courseId": "ARCH 4833",
+      "title": "Special Topics: Architectural Technology",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4841",
+      "courseId": "ARCH 4841",
+      "title": "Special Topics: Professional and Social Practice",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4842",
+      "courseId": "ARCH 4842",
+      "title": "Special Topics: Professional and Social Practice",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4843",
+      "courseId": "ARCH 4843",
+      "title": "Special Topics: Professional and Social Practice",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4851",
+      "courseId": "ARCH 4851",
+      "title": "Special Topics: Visual Arts and Computing",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4852",
+      "courseId": "ARCH 4852",
+      "title": "Special Topics: Visual Arts and Computing",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4853",
+      "courseId": "ARCH 4853",
+      "title": "Special Topics: Visual Arts and Computing",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4855",
+      "courseId": "ARCH 4855",
+      "title": "Special Topics",
+      "description": "Special topics in design.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4863",
+      "courseId": "ARCH 4863",
+      "title": "Special Topics",
+      "description": "Topics of current interest in architecture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4901",
+      "courseId": "ARCH 4901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4902",
+      "courseId": "ARCH 4902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4903",
+      "courseId": "ARCH 4903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4904",
+      "courseId": "ARCH 4904",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4905",
+      "courseId": "ARCH 4905",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4911",
+      "courseId": "ARCH 4911",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4912",
+      "courseId": "ARCH 4912",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4913",
+      "courseId": "ARCH 4913",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4914",
+      "courseId": "ARCH 4914",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4915",
+      "courseId": "ARCH 4915",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4921",
+      "courseId": "ARCH 4921",
+      "title": "Special Problems: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4922",
+      "courseId": "ARCH 4922",
+      "title": "Special Problems: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4923",
+      "courseId": "ARCH 4923",
+      "title": "Special Problems: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4931",
+      "courseId": "ARCH 4931",
+      "title": "Special Problems: Architectural Technology",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4932",
+      "courseId": "ARCH 4932",
+      "title": "Special Problems: Architectural Technology",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4933",
+      "courseId": "ARCH 4933",
+      "title": "Special Problems: Architectural Technology",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4941",
+      "courseId": "ARCH 4941",
+      "title": "Special Problems: Professional and Social Practice",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4942",
+      "courseId": "ARCH 4942",
+      "title": "Special Problems: Professional and Social Practice",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4943",
+      "courseId": "ARCH 4943",
+      "title": "Special Problems: Professional and Social Practice",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4951",
+      "courseId": "ARCH 4951",
+      "title": "Special Problems: Visual Arts and Design Computing",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4952",
+      "courseId": "ARCH 4952",
+      "title": "Special Problems: Visual Arts and Design Computing",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "4953",
+      "courseId": "ARCH 4953",
+      "title": "Special Problems: Visual Arts and Design Computing",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6000",
+      "courseId": "ARCH 6000",
+      "title": "REVIT",
+      "description": "Visualizing a form enhances a designer’s ability to communicate ideas.  Course will demonstrate how REVIT can facilitate the Conception of a design from various points of genesis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6007",
+      "courseId": "ARCH 6007",
+      "title": "Art & Architecture in Greece",
+      "description": "An intensive on-site investigation of the role that the arts and architecture have played in the development of classical Greek civilization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6008",
+      "courseId": "ARCH 6008",
+      "title": "Art & Architecture in Italy I",
+      "description": "Investigations of the painting, sculpture, and architecture of the Classical, Early Christian, Byzantine, and Medieval periods in Italy with special emphasis on Rome.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6009",
+      "courseId": "ARCH 6009",
+      "title": "Art & Architecture in Italy II",
+      "description": "Investigations of the painting, sculpture, and architecture of the Renaissance and Baroque periods in Italy with special emphasis on the works of Rome.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6010",
+      "courseId": "ARCH 6010",
+      "title": "Media + Modeling 1",
+      "description": "Introductory approaches to two and three dimensional modeling and representation in architecture using both manual and digital media and techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6015",
+      "courseId": "ARCH 6015",
+      "title": "Structures 1",
+      "description": "This course provides students with a basic knowledge of analysis and design of building structures and the ordering of structural systems to resist gravity and lateral loads.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6020",
+      "courseId": "ARCH 6020",
+      "title": "Media + Modeling 2",
+      "description": "Intermediate approaches to two dimensional modeling and representation in architecture using both manual and digital media techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6024",
+      "courseId": "ARCH 6024",
+      "title": "Architecture Core I Studio",
+      "description": "Foundation studies in architectural design emphasizing enalytical and analogical generative strategies applied to studio problems that engage architectural representation, composition, and fabrication.  Credit not allowed for both ARCH 6024 and ARCH 4021.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6026",
+      "courseId": "ARCH 6026",
+      "title": "Architecture Core II Studio",
+      "description": "Intermediate studies in architectural design emphasizing integrative design strategies that engage the programmatic, contextual, and constructed dimentions of architecure and its representations.  Credit not allowed for both ARCH 6026 and ARCH 4022.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6027",
+      "courseId": "ARCH 6027",
+      "title": "Architecture Core III Studio",
+      "description": "Intermediate studies in architectural design emphasizing integrative design strategies that engage the programmatic, contextual, and constructed dimensions of architecture and its representations.  Credit not allowed for both ARCH 6027 and ARCH 4023.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6028",
+      "courseId": "ARCH 6028",
+      "title": "Core 1 Studio",
+      "description": "Foundation studies in architectural design emphasizing analytical and analogical generative strategies applied to studio problems that engage architectural representation, composition, and fabrication.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6029",
+      "courseId": "ARCH 6029",
+      "title": "Core 2 Studio",
+      "description": "Intermediate studies in architectural design emphasizing integrative design strategies that engage the programmatic, contextual, and constructed dimensions of architecture and its representations.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6030",
+      "courseId": "ARCH 6030",
+      "title": "Core 3 Studio",
+      "description": "Intermediate studies in architectural design emphasizing integrative design strategies that engage the programmatic, contextual, and constructed dimensions of architecture and its representations.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6039",
+      "courseId": "ARCH 6039",
+      "title": "Advanced Architectural Studio 1",
+      "description": "Architectural design studio exploring advanced issues in architecture from the perspectives of professional practice, sustainability, technology and urban design.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6040",
+      "courseId": "ARCH 6040",
+      "title": "Advanced Architectural Studio 2",
+      "description": "Architectural design studio exploring advanced issues in architecture from the perspectives of professional practice, sustainability, technology and urban design.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6047",
+      "courseId": "ARCH 6047",
+      "title": "Advanced Architecture Studio 1",
+      "description": "Architectural design studio exploring advanced issues in architecture from the perspectives of professional practice, sustainability, technology and urban design.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6048",
+      "courseId": "ARCH 6048",
+      "title": "Advanced Studio 2",
+      "description": "Architectural design studio exploring advanced issues in architecture from the perspectives of professional practice, sustainability, technology and urban design.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6049",
+      "courseId": "ARCH 6049",
+      "title": "Design + Research Studio 1",
+      "description": "Advanced architectural design emphasizing innovation through applied research. Emerging methods of design generation/evaluation. Changing topics: healthcare, fabrication, urbanism, ecology, building performance, cultural institutions.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6050",
+      "courseId": "ARCH 6050",
+      "title": "Design + Research Studio 2",
+      "description": "Advanced architectural design emphasizing innovation through applied research. Emerging methods of design generation/evaluation. Changing topics: healthcare, fabrication, urbanism, ecology, building performance, cultural institutions.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6069",
+      "courseId": "ARCH 6069",
+      "title": "Advanced Architectural Design I",
+      "description": "Architectural design studio exploring advanced issues in architecture from the perspectives of professional practice, sustainability, technology and urban design.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6070",
+      "courseId": "ARCH 6070",
+      "title": "Advanced Architectural Design II",
+      "description": "Architectural design studio exploring advanced issues in architecture from the perspectives of professional practice, sustainability, technology and urban design.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6071",
+      "courseId": "ARCH 6071",
+      "title": "Architecture Design and Research Studio I",
+      "description": "Advanced architectural design emphasizing innovation through applied research.  Emerging methods of design generation/evaluation.  Changing topics: healthcare, fabrication, urbanism, ecology, building performance, cultural institutions.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6072",
+      "courseId": "ARCH 6072",
+      "title": "Architectural Design and Research Studio 2",
+      "description": "Advanced architectural design emphasizing innovation through applied research.  Emerging methods of design generation/evaluation.  Changing topics: healthcare, fabrication, urbanism, ecology, building performance, cultural institutions.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6100",
+      "courseId": "ARCH 6100",
+      "title": "Retrofitting Suburbia",
+      "description": "Study of suburban redevelopment trends, projects, and policies that improve environmental, social, and economic sustainability, with an emphasis on urban design strategies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6105",
+      "courseId": "ARCH 6105",
+      "title": "Architectural History I - Antiquity through the 18th Century",
+      "description": "Architectural history from aniquity through the 18th century emphasizing buildings in their cultural context as informed by social, technological, and constructive factors and theoretical positions.  Credit not allowed for both ARCH 6105 and ARCH 4105 or ARCH 2111.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6106",
+      "courseId": "ARCH 6106",
+      "title": "Architectural History II - 19th and 20th Century",
+      "description": "Architectural history during the 19th and 20th centuries emphasizing buildings in their cultural context as informed by social, technological, and constructive factors and theoretical positions.  Credit not allowed for both ARCH 6106 and ARCH 4106 or ARCH 2112.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6107",
+      "courseId": "ARCH 6107",
+      "title": "Intro to Historic Preser",
+      "description": "This course provides an overview of the history, philosophy, organization, current legislation, policies, and practice of historic preservation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6109",
+      "courseId": "ARCH 6109",
+      "title": "Architecture and Minimalism",
+      "description": "This course examines the influence of \"minimalism,\" the 1960s art phenomenon, upon architecture culture and production from 1968-present.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6110",
+      "courseId": "ARCH 6110",
+      "title": "Public Space: Questions and Configurations",
+      "description": "This course addresses questions concerning present-day configurations of public spaces as a platform for analysis of the contemporary city.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6112",
+      "courseId": "ARCH 6112",
+      "title": "Islamic Architecture and Urbanism",
+      "description": "Two-part survey of Asian architecture and urbanism (excluding East Asia). The Islamic world up to the 18th century: the Mughal, Raj, and post-independence periods in Indian subcontinent.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6113",
+      "courseId": "ARCH 6113",
+      "title": "History of Renaissance and Mannerist Architecture",
+      "description": "Investigation of the history and theory of Renaissance and Mannerist architecture with a primary emphasis on Italy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6114",
+      "courseId": "ARCH 6114",
+      "title": "Architecture and Discourse of the Everyday",
+      "description": "Application of the concept of the everyday to architectural practice from perspectives of European social theory, American cultural landscape studies, and contemporary architectural theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6115",
+      "courseId": "ARCH 6115",
+      "title": "Introduction to Principles of Classical Design",
+      "description": "An introduction to the principles of Classical and traditional architectural design through readings, discussions, and site visits with Classical architects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6117",
+      "courseId": "ARCH 6117",
+      "title": "Architecture of the Arts and Crafts Movement",
+      "description": "Study of the theory, design, and construction  of the \"artistic\" house as embodied in the English and American Arts and Crafts Movement and in related developments elsewhere.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6119",
+      "courseId": "ARCH 6119",
+      "title": "Frank Lloyd Wright and His Influence",
+      "description": "Study of the life, work, and influence of Frank Lloyd Wright, including work of his apprentices and followers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6120",
+      "courseId": "ARCH 6120",
+      "title": "History of Atlanta Architecture",
+      "description": "Study of the architecture of the Atlanta metro area.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6127",
+      "courseId": "ARCH 6127",
+      "title": "Introduction to Art and Architecture in Italy",
+      "description": "Required preparation for the COA Summer Program in Italy.  Includes the fundamentals of art and architecture; basic Italian language skills; library research for required summer program projects.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6129",
+      "courseId": "ARCH 6129",
+      "title": "Form and Narrative: Cross Media Analysis",
+      "description": "This theory course will involve an extended comparison between architecture and related art forms, especially painting, film, and writing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6135",
+      "courseId": "ARCH 6135",
+      "title": "Architectural Representation",
+      "description": "Systems of architectural representation and codes of thinking, drawing, and reading architecture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6136",
+      "courseId": "ARCH 6136",
+      "title": "Architecture and Ideology",
+      "description": "Architecture and politics in Italy, Germany, and the Soviet Union between the wars.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6137",
+      "courseId": "ARCH 6137",
+      "title": "Postwar Architecture and Urbanism in the U.S.: Design, Politics & History",
+      "description": "Introduction to the economic, social, political, cultural, and technological forces that shape architecture and cities in the United States after World War II.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6142",
+      "courseId": "ARCH 6142",
+      "title": "Dwelling: Histories and Theories of Environmental Behavior and Design",
+      "description": "Explores scholarship and case studies from multiple disciplines relating to issues of place, community identity and memory, culturally contstructed meaning, and appropriate use of resources.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6143",
+      "courseId": "ARCH 6143",
+      "title": "Museums: History, Theory, Design",
+      "description": "Investigates museums as manifestations of the construction and content of knowledge, the public mission of cultural and scientific institutions and the framing of visitors experience.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6151",
+      "courseId": "ARCH 6151",
+      "title": "Theories of Urban Design",
+      "description": "Contemporary theories of urban design and their relationship to the contemporary city examined through architects' writings, urban projects, and interdisciplinary criticism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6152",
+      "courseId": "ARCH 6152",
+      "title": "Studies in Landscape Architecture",
+      "description": "History and theory of the designed landscape and garden from the ancient world to the present.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6153",
+      "courseId": "ARCH 6153",
+      "title": "History and Theory of the Modern City",
+      "description": "An examination of the evolution of the modern city in the nineteenth and twentieth centuries with particular reference to architectural, city planning, and urban design theories.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6154",
+      "courseId": "ARCH 6154",
+      "title": "Introduction to Urban Design",
+      "description": "Introduction of urban design ideas, research, and practice, examining traditional qualities of the American city and their possible applications in the contemporary city.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6155",
+      "courseId": "ARCH 6155",
+      "title": "Contemporary Architecture and Urbanism in Europe",
+      "description": "A course on contemporary architecture and urban projects in Europe, including the architect's writings, published criticism, and analyses of the buildings and projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6160",
+      "courseId": "ARCH 6160",
+      "title": "Race, Space, and Architecture in the United States",
+      "description": "This course examines the relationship between architecture - as social practice and as a labor market - and race in the United States.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6171",
+      "courseId": "ARCH 6171",
+      "title": "Formulation of Design Intention in Architecture",
+      "description": "Reviews theories of interpretive criticism in architecture, and develops methodological approaches to interpreting criticizing, and formulating conceptual intent in architectural design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6200",
+      "courseId": "ARCH 6200",
+      "title": "Portfolio Design",
+      "description": "Explores strategies of descriptions, representation, and presentation and other art-related ideas in order to communicate design work and design speculation effectively.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6206",
+      "courseId": "ARCH 6206",
+      "title": "Studies in Architectural Building Assemblies",
+      "description": "Structural and cladding systems integration, environmental control, and tectonic representation explored through historical and contemporary case studies and applied design solutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6209",
+      "courseId": "ARCH 6209",
+      "title": "Building Enclosure: A Tectonic Element",
+      "description": "Investigations of enclosure design from three perspectives (technology, form, and culture), analyzing relationships of the four Semperian elements and Alberti's three parts of the enclosure.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6210",
+      "courseId": "ARCH 6210",
+      "title": "Architectonics",
+      "description": "The study of architecture of form from both an historical and a mathematical perspective.  The formal theory is applied mathematics, group theory, combinatroics, as well as recent studies in the history of mathematics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6215",
+      "courseId": "ARCH 6215",
+      "title": "Contemporary Architecture and Construction Technology",
+      "description": "General exposure to questions pertaining to the production of building systems and assemblies through a series of case study projects by contemporary practicing architects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6216",
+      "courseId": "ARCH 6216",
+      "title": "Eco-Tectonics: Making and Meaning",
+      "description": "Strategies of ecologically sustainable design and construction and the role of the architect in the stewardship of the environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6218",
+      "courseId": "ARCH 6218",
+      "title": "The Material Logic of Architecture",
+      "description": "Introduction to scientific and practical nature of architectural materials: soils, cements, metals, plastics, and glazing materials.  Laboratory includes fabrication of, and experiments on, architectural materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6225",
+      "courseId": "ARCH 6225",
+      "title": "Reinvestigating the Detail: The Ornamental and the Everyday",
+      "description": "Explores the role of the detail in contemporary architectural practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6226",
+      "courseId": "ARCH 6226",
+      "title": "Green Construction",
+      "description": "This course focuses on the means, methods, strategies, and technologies to improve the energy efficiency and performance of buildings, and to reduce the environmental impact of buildings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6227",
+      "courseId": "ARCH 6227",
+      "title": "Architecture and Ecology",
+      "description": "Introduction to ecological design theory, research, and practice in architecture, including writings, criticism, and analyses of buildings and projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6228",
+      "courseId": "ARCH 6228",
+      "title": "Analytical Investigations in Urban Design",
+      "description": "Measures of urban and spatial form.  Analysis of street connectivity.  Models of space use and spatial congnition.  Comparison and evaluation of design alternatives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6229",
+      "courseId": "ARCH 6229",
+      "title": "Construction Technology and Design Integration I",
+      "description": "Introduction to building anatomy, technical and expressive characteristics of materials and their organizational assembly.  Credit not allowed for both ARCH 6229 and ARCH 4219.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6241",
+      "courseId": "ARCH 6241",
+      "title": "Building Simulation in Design Practice",
+      "description": "Learn to use mainstream simulation packages to support building design in domains of Energy, CFD, Lighting, Ventilation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6242",
+      "courseId": "ARCH 6242",
+      "title": "Building Physics Modeling",
+      "description": "Survey of basic thermo-fluid energy and mass flows in buildings, the interrelations between these flows, physical system modeling, and implications for building performance goals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6243",
+      "courseId": "ARCH 6243",
+      "title": "Evidence-Based Design",
+      "description": "Fundamental concepts, research methods and case studies of evidence-based design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6251",
+      "courseId": "ARCH 6251",
+      "title": "Building Structures I",
+      "description": "Introduction to design and analysis of building structures and ordering of structural systems to resist gravity and lateral loads. Emphasis on wood structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6252",
+      "courseId": "ARCH 6252",
+      "title": "Building Structures II",
+      "description": "Introduction to structural design and framing systems for steel and concrete with consideration of lateral loads and lateral load resisting systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6268",
+      "courseId": "ARCH 6268",
+      "title": "Advanced Architecture, Culture and Behavior:  Theories, Models and Methods",
+      "description": "Theories, models, methods and case studies linking architectural design to culture and behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6271",
+      "courseId": "ARCH 6271",
+      "title": "Healthcare Design of the Future",
+      "description": "Introduction to research-based approaches to integrated healthcare design innovation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6303",
+      "courseId": "ARCH 6303",
+      "title": "Urban Design: Policy and Implementation",
+      "description": "Introduction to urban design policy and practice across a range of scales including planning, architecture, landscape architecture, civil engineering, public policy and administration.  Credit not allowed for both ARCH 6303 and CP 6834.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6305",
+      "courseId": "ARCH 6305",
+      "title": "Near and Far: Cross-Cultural Practices in Art, Architecture, and Design",
+      "description": "This course will address the material culture of globalization and cultural diffusion, emphasizing the multicultural registers of work produced between and across geographical, cultural, and disciplinary boundaries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6312",
+      "courseId": "ARCH 6312",
+      "title": "Ecological Practice: History, Polemics, and Poetics",
+      "description": "An historically and culturally grounded examination of the ecological perspective. Critical and productive engagement with green guidelines, laws, products, design briefs, and procedures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6313",
+      "courseId": "ARCH 6313",
+      "title": "Traditions of Architectural Practice",
+      "description": "Critical examination of architectural practice. Cultural derivation and technological transformation of various conventions of representation, construction, and design; speculations about future paradigms of architectural practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6315",
+      "courseId": "ARCH 6315",
+      "title": "Practice of Architecture I",
+      "description": "Architectural practice from historical, sociological, and ethical perspectives with focus on professional leadership, practice management, and entrepreneurship.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6316",
+      "courseId": "ARCH 6316",
+      "title": "Practice of Architecture 2",
+      "description": "Methods of architectural project delivery and project management.  Fundamentals of building economics.  Emergent models of research-driven architectural practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6350",
+      "courseId": "ARCH 6350",
+      "title": "Theory of Architecture I",
+      "description": "Architectural program.  Building types from functional and morphological perspectives.  Design responses to building programs in the context of culture and politics.  Architectural responses to site.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6352",
+      "courseId": "ARCH 6352",
+      "title": "Theory of Architecture 2",
+      "description": "Approaches to architectural form, style, and tectonics from aesthetic, social, and technological perspectives.  Instrumental and symbolic uses of architectural media in design and building production.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6404",
+      "courseId": "ARCH 6404",
+      "title": "Electronic Media: From Technique to Culture",
+      "description": "The influence of electronic media upon representation and invention in architecture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6410",
+      "courseId": "ARCH 6410",
+      "title": "Collage Making",
+      "description": "Concepts of Collage within art, architecture, and culture, manual and electronic approaches to two and three-dimensional collage-making.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6412",
+      "courseId": "ARCH 6412",
+      "title": "Dwelling: Histories and Theories of Environmental Behavior and Design",
+      "description": "Explores scholarship and case studies from multiple disciplines relating to issues of place, community identity and memory, culturally constructed meaning, and appropriate use of resources.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6417",
+      "courseId": "ARCH 6417",
+      "title": "Building Furniture/Furnishing Buildings",
+      "description": "A course that focuses on schematic design and design development of furniture.  The emphasis of this course is on conceptual and material/structural clarity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6420",
+      "courseId": "ARCH 6420",
+      "title": "Design Computing",
+      "description": "Survey of computer representations and modeling techniques, including pixel-based images, vector-based drawing systems, and surface and solid modeling; use of applications built upon these systems.  Credit not allowed for both ARCH 6420 and ARCH 4420.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6426",
+      "courseId": "ARCH 6426",
+      "title": "3D Modeling in Architecture",
+      "description": "Construction of 3D computer models of architectural structures.  Topics include: geometry creation, light and materials property, rendering, data exchange, and basic animation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6427",
+      "courseId": "ARCH 6427",
+      "title": "Advanced Modeling and Animation in Architecture",
+      "description": "Advanced computer modeling of architectural form. Topics include: parametric design, parametric materials, special effects, object libraries, animation, and video production.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6428",
+      "courseId": "ARCH 6428",
+      "title": "Formal Systems in Design, Art, and Architecture",
+      "description": "This course will examine generative descriptions of languages of design, art, and architecture and explore various computational approaches to design with a special emphasis on shape grammars.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6447",
+      "courseId": "ARCH 6447",
+      "title": "Urban Ecological Design",
+      "description": "This course engages the contemporary issues of urban ecology and its articulation to design.  It explores relationship between urban forms and flows of ecology, energy, material, water and information.  Credit not allowed for both ARCH 6447 and CP 6836.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6470",
+      "courseId": "ARCH 6470",
+      "title": "Architecture Modeling & Media I",
+      "description": "Introductory approaches to two and three dimensional modeling and representation in architecture using both manual and digital media and techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6472",
+      "courseId": "ARCH 6472",
+      "title": "Architecture Modeling & Media 2",
+      "description": "Intermediate approaches to two dimensional modeling and representation in architecture using both manual and digital media and techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6474",
+      "courseId": "ARCH 6474",
+      "title": "Architecture Modeling & Media 3",
+      "description": "Advanced approaches to two and three dimensional modeling and representation in architecture using both manual and digital media and techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6501",
+      "courseId": "ARCH 6501",
+      "title": "Analog and Digital Design Computation",
+      "description": "Analog and digital approaches in design computation. Visual and symbolic representations.  Algorithmic and computational tools.  History and logic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6502",
+      "courseId": "ARCH 6502",
+      "title": "Scripting for Architecture and Design",
+      "description": "Learning the concepts and application of scripting languages in architecture and form generation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6503",
+      "courseId": "ARCH 6503",
+      "title": "Building Information Modeling - Concepts and Applications",
+      "description": "Survey of Building Information Modeling - its technologies exploration of new technologies to be applied and new procedures of project execution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6504",
+      "courseId": "ARCH 6504",
+      "title": "Digital Design and Fabrication Workshop",
+      "description": "Parametric design, planning and programming.  Develop design for fabrication in specific materials including wood, plastic, metals, concrete, or composite.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6505",
+      "courseId": "ARCH 6505",
+      "title": "Geometric Constructs in Digital Space",
+      "description": "Geometric surface and solid construction fundamentals using parametric modeling tools; use of sketching workbenches.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6506",
+      "courseId": "ARCH 6506",
+      "title": "Construction Materials, Systems, and Fabrications",
+      "description": "Physical and constructional properties of building materials.  Fabrication techniques for building components. Digital representations of materials, components, and fabrication processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6507",
+      "courseId": "ARCH 6507",
+      "title": "Parametric Modeling and Design",
+      "description": "Design using parametric modeling tools; use of sketching workbenches and development of custom parametric models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6508",
+      "courseId": "ARCH 6508",
+      "title": "Shape Grammars",
+      "description": "Shape grammars are a powerful formal system for the generative description, interpretation and evaluation of designs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6509",
+      "courseId": "ARCH 6509",
+      "title": "Computation, Creativity and Design Cognition",
+      "description": "This course investigates computational methods, models tools that support design creativity and cognition.  Credit not allowed for both ARCH 6509 and ID 6509.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6510",
+      "courseId": "ARCH 6510",
+      "title": "Advanced Productions",
+      "description": "Advanced integration of digital design and production technologies through Mixed Reality (MR)  \n geared towards collaborative immersive spatial design and production systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6511",
+      "courseId": "ARCH 6511",
+      "title": "Robotic Fabrication",
+      "description": "Introduction to robotics in design and construction.  Kinematics and programing of 6-axis industrial robots.  Use of robotics in building fabrication and assembly operations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6512",
+      "courseId": "ARCH 6512",
+      "title": "Research Colloquium",
+      "description": "Introduces students to the processes of developing a topic of inquiry and delivering projects in architectural design, and to prepare students for the development of a final MS research project to be delivered as a final deliverable of the MS program during the subsequent semester.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6513",
+      "courseId": "ARCH 6513",
+      "title": "Building Systems & Data",
+      "description": "A focus on the overlap between AEC (Architecture, Engineering, Construction) processes and the building models and data that support them.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6531",
+      "courseId": "ARCH 6531",
+      "title": "Environmental Systems I",
+      "description": "Basics of heat, light, and sound applied to buildings. Thermal loading, passive thermal control, thermal comfort, climate, passive solar strategies, light and daylighting, acoustics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "6731",
+      "courseId": "ARCH 6731",
+      "title": "Zero Energy House",
+      "description": "Design, analysis, operation, construction, and cost feasibility of so-called \"zero energy\" houses.  Credit not allowed for both ARCH 6731 and BC 6731.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7000",
+      "courseId": "ARCH 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7012",
+      "courseId": "ARCH 7012",
+      "title": "Urban Design Studio I",
+      "description": "Urban design laboratory problems focusin on analysis, design, and implementation strategies for contemporary urban problems.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7013",
+      "courseId": "ARCH 7013",
+      "title": "Urban Design Studio 1",
+      "description": "Urban design studio problems focusing on analysis, design, and implementation strategies for contemporary urban problems.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7014",
+      "courseId": "ARCH 7014",
+      "title": "Urban Design Studio 2",
+      "description": "Advanced urban design problems emphasizing the application of contemporary urban design research and multidisciplinary collaboration into the design process.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7015",
+      "courseId": "ARCH 7015",
+      "title": "Urban Design Studio 3",
+      "description": "Advanced urban design problems emphasizing the application of contemporary urban design research and multidisciplinary collaboration into the design process.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7030",
+      "courseId": "ARCH 7030",
+      "title": "Media + Modeling 3",
+      "description": "Advanced approaches to two and three dimensional modeling and representation in architecture using both manual and digital media and techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7042",
+      "courseId": "ARCH 7042",
+      "title": "Urban Design Workshop",
+      "description": "Advanced problems in urban design and development focusing on the Atlanta region.  Integration of urban design theory and methods, economic development, political registration, and communication.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7043",
+      "courseId": "ARCH 7043",
+      "title": "Urban Design Workshop",
+      "description": "Advanced problems in urban design and development focusing on the Atlanta region.  Integration of urban design theory and methods, economic development, political registration, and communication.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7044",
+      "courseId": "ARCH 7044",
+      "title": "Urban Design Workshop",
+      "description": "Advanced problems in urban design and development focusing on the Atlanta region.  Integration of urban design theory and methods, economic development, political registration, and communication.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7045",
+      "courseId": "ARCH 7045",
+      "title": "Urban Design Workshop",
+      "description": "Advanced problems in urban design and development focusing on the Atlanta region.  Integration of urban design theory and methods, economic development, political registration, and communication.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7050",
+      "courseId": "ARCH 7050",
+      "title": "Architecture Professional Practice Immersion",
+      "description": "Immersion for first year Graduate students experiences of the Professional Practice of Architecture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7060",
+      "courseId": "ARCH 7060",
+      "title": "Critical Positions in Architectural Design",
+      "description": "Advanced topics in the theory of architectural production focusing upon contemporary ethical dilemmas and the development of critical positions of design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7101",
+      "courseId": "ARCH 7101",
+      "title": "Integrated Building Systems 1",
+      "description": "Examines approaches to building design and systems integration. Introduces resiliency as a means of integrating environmental assessment for energy efficiency and design for natural forces.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7102",
+      "courseId": "ARCH 7102",
+      "title": "Integrated Building Systems II",
+      "description": "Approaches building design and systems integration through the making of construction drawings and specifications of metal frame buildings, including structural steel calculations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7103",
+      "courseId": "ARCH 7103",
+      "title": "Integrated Building Systems III",
+      "description": "Approaches building design and systems integration via the design and detailing of a concrete frame building, including engineering of the concrete frame and the mechanical systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7104",
+      "courseId": "ARCH 7104",
+      "title": "Integrated Building Systems 2",
+      "description": "Approaches building design and systems integration through the making of construction drawings and specifications of metal frame buildings, including structural steel calculations.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7105",
+      "courseId": "ARCH 7105",
+      "title": "Integrated Building Systems 3",
+      "description": "Approaches building design and systems integration via the design and detailing of a concrete frame building, including engineering of the concrete frame and the mechanical systems.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7116",
+      "courseId": "ARCH 7116",
+      "title": "Constructing the Visual",
+      "description": "Promote an understanding of visual representations as they pertain to art, architecture and the use of architecture representations in the structuring of persuasive statements/arguments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7151",
+      "courseId": "ARCH 7151",
+      "title": "History of Urban Form",
+      "description": "History of the city as a collective work of architecture with an emphasis on the city's physical form and space.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7155",
+      "courseId": "ARCH 7155",
+      "title": "Flourishing Communities",
+      "description": "Introduces students to collaborative and participatory processes especially in relation to design, equity, diversity, and inclusion for underserved communities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7252",
+      "courseId": "ARCH 7252",
+      "title": "Computational Building Simulation",
+      "description": "Students learn how to develop their own extensible Building Simulation software using Finite Element discretization in Matlab and apply it to research problem.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7350",
+      "courseId": "ARCH 7350",
+      "title": "Foundations of Architectural Theory",
+      "description": "Reviews thought and attitudes guiding architecture since the modern movement, their philosophical sources, and their relationship with architectural production. Defines architectural theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7360",
+      "courseId": "ARCH 7360",
+      "title": "Design & Climate Change",
+      "description": "This course positions design as an essential component of research that explores the sociocultural and eco-political dimensions of climate change as it applies to the built environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7471",
+      "courseId": "ARCH 7471",
+      "title": "Cognitive Function of Visual Design in Architecture",
+      "description": "Presents fundamentals of imaginative and cognitive functioning of visual design in buildings, and develops inter-disciplinary approaches to investigating visual form of buildings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "7625",
+      "courseId": "ARCH 7625",
+      "title": "Theories of Inquiry",
+      "description": "Introduction to research paradigms and their assumptions. The formulation of questions and frameworks of description, representation, analysis, interpretation, and data control.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8100",
+      "courseId": "ARCH 8100",
+      "title": "Introduction to Architectural Research 1",
+      "description": "Fundamental issues and methods across specializations in architectural research modules on causation and simulation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8101",
+      "courseId": "ARCH 8101",
+      "title": "Introduction to Architectural Research 2",
+      "description": "Fundamental issues and methods across specializations in architectural research; modules on representation and interpretation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8102",
+      "courseId": "ARCH 8102",
+      "title": "Introduction to Architectural Research 3",
+      "description": "Fundamental issues and methods across specializations in architectural research; modules on historiography and epistemology and on theories of design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8630",
+      "courseId": "ARCH 8630",
+      "title": "Architecture Space & Culture",
+      "description": "Accounts of the social functions of architectural space and associated design choices, across a variety of building types and scales of environmental design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8685",
+      "courseId": "ARCH 8685",
+      "title": "Building Simulation Seminar",
+      "description": "Numerical simulation of performance characteristics of whole buildings. Review of the finite element method for uniform treatment of transport phenomena in different building technology domains.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8799",
+      "courseId": "ARCH 8799",
+      "title": "Qualifying Paper",
+      "description": "Preparation for Qualifying Paper in Doctorial Program in Architecture.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8801",
+      "courseId": "ARCH 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8802",
+      "courseId": "ARCH 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8803",
+      "courseId": "ARCH 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8804",
+      "courseId": "ARCH 8804",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8805",
+      "courseId": "ARCH 8805",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8806",
+      "courseId": "ARCH 8806",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8811",
+      "courseId": "ARCH 8811",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8812",
+      "courseId": "ARCH 8812",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8813",
+      "courseId": "ARCH 8813",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8814",
+      "courseId": "ARCH 8814",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8815",
+      "courseId": "ARCH 8815",
+      "title": "Special Topics: Architectural Design",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8821",
+      "courseId": "ARCH 8821",
+      "title": "Special Topics: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8822",
+      "courseId": "ARCH 8822",
+      "title": "Special Topics: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8823",
+      "courseId": "ARCH 8823",
+      "title": "Special Topics: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8831",
+      "courseId": "ARCH 8831",
+      "title": "Special Topics: Architectural Technology",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8832",
+      "courseId": "ARCH 8832",
+      "title": "Special Topics: Architectural Technology",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8833",
+      "courseId": "ARCH 8833",
+      "title": "Special Topics: Architectural Technology",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8841",
+      "courseId": "ARCH 8841",
+      "title": "Special Topics: Professional and Social Practice",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8842",
+      "courseId": "ARCH 8842",
+      "title": "Special Topics: Professional and Social Practice",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8843",
+      "courseId": "ARCH 8843",
+      "title": "Special Topics: Professional and Social Practice",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8851",
+      "courseId": "ARCH 8851",
+      "title": "Special Topics: Visual Arts and Design Computing",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8852",
+      "courseId": "ARCH 8852",
+      "title": "Special Topics: Visual Arts and Design Computing",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8853",
+      "courseId": "ARCH 8853",
+      "title": "Special Topics: Visual Arts and Design Computing",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8855",
+      "courseId": "ARCH 8855",
+      "title": "Special Topics",
+      "description": "Special topics in design.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8856",
+      "courseId": "ARCH 8856",
+      "title": "Special Topics",
+      "description": "Special topics in advanced design.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8863",
+      "courseId": "ARCH 8863",
+      "title": "Special Topics",
+      "description": "Topics of current interest in architecture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8866",
+      "courseId": "ARCH 8866",
+      "title": "Special Topics",
+      "description": "Special topics in Design & Research studio.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8873",
+      "courseId": "ARCH 8873",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8901",
+      "courseId": "ARCH 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8902",
+      "courseId": "ARCH 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8903",
+      "courseId": "ARCH 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8911",
+      "courseId": "ARCH 8911",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8912",
+      "courseId": "ARCH 8912",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8913",
+      "courseId": "ARCH 8913",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8914",
+      "courseId": "ARCH 8914",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8915",
+      "courseId": "ARCH 8915",
+      "title": "Special Problems: Architectural Design",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8921",
+      "courseId": "ARCH 8921",
+      "title": "Special Problems: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8922",
+      "courseId": "ARCH 8922",
+      "title": "Special Problems: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8923",
+      "courseId": "ARCH 8923",
+      "title": "Special Problems: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8924",
+      "courseId": "ARCH 8924",
+      "title": "Special Problems: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8925",
+      "courseId": "ARCH 8925",
+      "title": "Special Problems: History, Theory, and Criticism",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8931",
+      "courseId": "ARCH 8931",
+      "title": "Special Problems: Architectural Technology",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8932",
+      "courseId": "ARCH 8932",
+      "title": "Special Problems: Architectural Technology",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8933",
+      "courseId": "ARCH 8933",
+      "title": "Special Problems: Architectural Technology",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8941",
+      "courseId": "ARCH 8941",
+      "title": "Special Problems: Professional and Social Practice",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8942",
+      "courseId": "ARCH 8942",
+      "title": "Special Problems: Professional and Social Practice",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8943",
+      "courseId": "ARCH 8943",
+      "title": "Special Problems: Professional and Social Practice",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8951",
+      "courseId": "ARCH 8951",
+      "title": "Special Problems: Visual Arts and Design Computing",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8952",
+      "courseId": "ARCH 8952",
+      "title": "Special Problems: Visual Arts and Design Computing",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8953",
+      "courseId": "ARCH 8953",
+      "title": "Special Problems: Visual Arts and Design Computing",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8996",
+      "courseId": "ARCH 8996",
+      "title": "Prep Doctoral Dissertation",
+      "description": "Preparation for Qualifying Paper in Doctorial Program in Architecture.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8997",
+      "courseId": "ARCH 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8998",
+      "courseId": "ARCH 8998",
+      "title": "Research Assistantship",
+      "description": "For gratuate students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "8999",
+      "courseId": "ARCH 8999",
+      "title": "Preparation for Doctoral Dissertation",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARCH",
+      "courseNumber": "9000",
+      "courseId": "ARCH 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 319,
+  "scrapedAt": "2025-08-16T02:00:30.952Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4455",
+  "courseId": "CS 4455",
+  "title": "Video Game Design",
+  "description": "Techniques for electronic game design and programming, including graphics game engines, motion generation, behavioral control for autonomous characters, interaction structure, social and interface issues of multi-user play, and the business aspects of game development.  Credit not allowed for both CS 4455 and CS 6457.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3451 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:36.561Z"
+}

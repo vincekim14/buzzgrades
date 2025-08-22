@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "2801",
+  "courseId": "CS 2801",
+  "title": "Special Topics",
+  "description": "Courses of timely interest to the profession, conducted by resident or visiting faculty.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:28.859Z"
+}

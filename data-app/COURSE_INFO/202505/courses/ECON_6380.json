@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ECON",
+  "courseNumber": "6380",
+  "courseId": "ECON 6380",
+  "title": "Economic of Environment",
+  "description": "Explores how economics can address a variety of environmental issues ranging from climate change to local pollution. Topic areas include externalities and the social costs of pollution, valuation of non-market goods, climate change policy (emissions taxes and cap-and-trade), management of renewable resources (fisheries and forests), extraction of exhaustible resources (minerals and fossil fuels), and more. Focuses on global, regional, and local environmental policy.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 6100 Graduate Semester Minimum Grade of D or (ECON 6105 Graduate Semester Minimum Grade of D and ECON 6106 Graduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:39:46.840Z"
+}

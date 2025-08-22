@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "1552",
+  "courseId": "MATH 1552",
+  "title": "Integral Calculus",
+  "description": "Integral calculus: Definite and indefinite integrals, techniques of integration, improper integrals, infinite series, applications. Credit not awarded for both MATH 1552 and MATH 1502, MATH 1504, MATH 1512 or MATH 1555.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1550 Undergraduate Semester Minimum Grade of D or MATH 1551 Undergraduate Semester Minimum Grade of D or MATH 1501 Undergraduate Semester Minimum Grade of D or MATH 15X1 Undergraduate Semester Minimum Grade of T or MATH 1X51 Undergraduate Semester Minimum Grade of T",
+  "lastUpdated": "2025-08-20T02:42:56.455Z"
+}

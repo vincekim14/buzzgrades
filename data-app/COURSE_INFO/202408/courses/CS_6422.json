@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "6422",
+  "courseId": "CS 6422",
+  "title": "Database System Implemnt",
+  "description": "Design and implementatuion of a databse system covering: storage manager, query optimizer, transaction manager, and recovery manager.  Study of the advantages of different implementation algorithms.  Credit not allowed for both CS 6422 and CS 4420.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 4400 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:08.864Z"
+}

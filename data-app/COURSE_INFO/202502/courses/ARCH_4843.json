@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "4843",
+  "courseId": "ARCH 4843",
+  "title": "Ecological Practice",
+  "description": "No course description is available.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:29.201Z"
+}

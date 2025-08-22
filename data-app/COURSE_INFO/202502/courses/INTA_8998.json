@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "8998",
+  "courseId": "INTA 8998",
+  "title": "Research Assistantship",
+  "description": "For graduate students with a research assistantship.",
+  "creditHours": "1 to 9",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:14.986Z"
+}

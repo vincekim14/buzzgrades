@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "3208",
+  "courseId": "LMC 3208",
+  "title": "African-Amer Lit/Cult",
+  "description": "Explores the works of African American writers from the Colonial period to the present and examines a variety of cultural constructs that have fundamentally shaped the African American literary tradition.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:28.491Z"
+}

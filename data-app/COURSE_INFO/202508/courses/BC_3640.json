@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BC",
+  "courseNumber": "3640",
+  "courseId": "BC 3640",
+  "title": "Construction Mechanics",
+  "description": "An introductory course to the evaluation of behavior of buildings, the properties of structural materials, and the behavior of load-resisting members.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 2211 Undergraduate Semester Minimum Grade of D and BC 2620 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:02.891Z"
+}

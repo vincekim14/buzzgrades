@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "4651",
+  "courseId": "EAS 4651",
+  "title": "Practical Internship",
+  "description": "Faculty-supervised and approved independent internship, employment, or research project related to earth and atmospheric sciences.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:16.469Z"
+}

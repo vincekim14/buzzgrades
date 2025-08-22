@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "6271",
+  "courseId": "CEE 6271",
+  "title": "Flow-Porous Media I",
+  "description": "Basic principles governing ground water flow.  Topics covered: fundamental principles of saturated and unsaturated ground water flow, contaminant transport, and salt water intrusion.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 6221 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:58.993Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CHEM",
+  "courseNumber": "3216",
+  "courseId": "CHEM 3216",
+  "title": "Analytical Chem Lecture",
+  "description": "Introduction to the theory of modern chemical analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "CHEM 3216L",
+  "prerequisites": "CHEM 2211 Undergraduate Semester Minimum Grade of D or CHEM 2214 Undergraduate Semester Minimum Grade of D or (CHEM 2216L Undergraduate Semester Minimum Grade of D and CHEM 2216 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:38:48.993Z"
+}

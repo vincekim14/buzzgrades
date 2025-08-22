@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "SPAN",
+  "courseNumber": "3697",
+  "courseId": "SPAN 3697",
+  "title": "Span Health Professionls",
+  "description": "Culture-specific conceptions of health, medical vocabulary, professional-patient protocols, professional-professional protocols, symptoms, treatments.  Taught in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:36.185Z"
+}

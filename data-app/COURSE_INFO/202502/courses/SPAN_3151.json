@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "SPAN",
+  "courseNumber": "3151",
+  "courseId": "SPAN 3151",
+  "title": "Conversation Practicum",
+  "description": "This course combines current event discussion with ongoing conversation practice.  Students participate in in-class discussions plus weekly language exchanges with native Spaniards.  Taught in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:05.468Z"
+}

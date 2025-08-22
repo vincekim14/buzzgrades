@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ARCH",
+  "courseNumber": "6009",
+  "courseId": "ARCH 6009",
+  "title": "Art and Arch In Italy II",
+  "description": "Investigations of the painting, sculpture, and architecture of the Renaissance and Baroque periods in Italy with special emphasis on the works of Rome.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 6007 and Architecture 6008 and Architecture 8921",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:22.772Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "7012",
+  "courseId": "BMED 7012",
+  "title": "Integ Core-Experi Design",
+  "description": "This integrative core course focuses on the design of experiments to answer scientific questions, with an emphasis on the spatial and temporal scales of measurements.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:03.683Z"
+}

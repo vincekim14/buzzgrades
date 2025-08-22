@@ -1,0 +1,769 @@
+{
+  "subject": "FREN",
+  "subjectName": "French (FREN)",
+  "url": "https://catalog.gatech.edu/coursesaz/fren/",
+  "courses": [
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "1001",
+      "courseId": "FREN 1001",
+      "title": "Elementary French I",
+      "description": "Introduction to listening, speaking, reading, and writing in French and to the culture of French-speaking regions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "1002",
+      "courseId": "FREN 1002",
+      "title": "Elementary French II",
+      "description": "Continued listening, speaking, reading, and writing in French with further study of the culture of French-speaking regions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "1813",
+      "courseId": "FREN 1813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "2001",
+      "courseId": "FREN 2001",
+      "title": "Intermediate French I",
+      "description": "A rapid review of grammar with continued use of listening, speaking, reading, and writing skills in French, all with a cultural emphasis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "2002",
+      "courseId": "FREN 2002",
+      "title": "Intermediate French II",
+      "description": "This course focuses on listening, speaking, reading, and writing skills in French in an introduction to literature and within a cultural context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "2005",
+      "courseId": "FREN 2005",
+      "title": "LBAT French Culture and Language",
+      "description": "Proficiency-based introduction to sociocultural aspects of the French speaking world.  Part of the French intensive summer LBAT program.  Admission by application only. Conducted in French.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "2694",
+      "courseId": "FREN 2694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Language.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "2695",
+      "courseId": "FREN 2695",
+      "title": "Undergraduate Internship",
+      "description": "Modern Language Undergraduate Internship for credit for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "2698",
+      "courseId": "FREN 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "2699",
+      "courseId": "FREN 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "2813",
+      "courseId": "FREN 2813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3000",
+      "courseId": "FREN 3000",
+      "title": "Survey of French Literature",
+      "description": "This course introduces students to French literature.  Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3001",
+      "courseId": "FREN 3001",
+      "title": "French Literature from 1800 to 1900",
+      "description": "Romanticism, the reappearance of lyric poetry, the importance of the individual as opposed to classical anonymity. Realism and naturalism with emphasis on the development of the novel. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3002",
+      "courseId": "FREN 3002",
+      "title": "French Literature from 1900 to Present",
+      "description": "Exploration of currents in modern prose, poetry, and drama. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3004",
+      "courseId": "FREN 3004",
+      "title": "Drama Workshop",
+      "description": "Literary and theatrical aspects of French drama are explored through class discussion and performance of selections from contemporary and classical plays.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3011",
+      "courseId": "FREN 3011",
+      "title": "France Today I",
+      "description": "Culture, history, and geography of modern France through lectures, videos, downloads from the Internet, audio recordings, digital media, and class discussions. Short papers treating assigned topics to enhance writing skills. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3012",
+      "courseId": "FREN 3012",
+      "title": "France Today II",
+      "description": "Culture, history, and geography of modern France through lectures, videos, audio recordings, digital media, and class discussions. Short papers treating assigned topics to enhance writing skills. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3014",
+      "courseId": "FREN 3014",
+      "title": "Introduction to Contemporary France",
+      "description": "This course will introduce students to issues in contemporary France.  Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3015",
+      "courseId": "FREN 3015",
+      "title": "Social Identities in Contemporary French Culture",
+      "description": "Analysis of production, reception and perceptions of clashing class identities in France via films, novels, plays, short stories, and newspapers.  Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3017",
+      "courseId": "FREN 3017",
+      "title": "Paris:  Modernity Today",
+      "description": "This course explores contemporary Paris and its representations in light of its modern history and culture.  Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3030",
+      "courseId": "FREN 3030",
+      "title": "French Phonetics",
+      "description": "A detailed analysis of the significant features of the French sound system, intonation curves, and graphic representation of individual sounds. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3040",
+      "courseId": "FREN 3040",
+      "title": "Reading and Translation",
+      "description": "This course will prepare students for the techniques of rapid reading in French, and give them tools to translate and use texts.  Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3061",
+      "courseId": "FREN 3061",
+      "title": "France: Culture, Economy, Commerce I",
+      "description": "Advanced Business French, overview of French commerce, communications, publicity, various social milieus, and the work place. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3062",
+      "courseId": "FREN 3062",
+      "title": "France: Culture, Economy and Commerce II",
+      "description": "Advanced Business French. Overview of French commerce, communications, publicity, various social milieus, and the work place. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3110",
+      "courseId": "FREN 3110",
+      "title": "Comics & Graphic Arts",
+      "description": "This course studies French comics as a genre and its interrelationships with graphic arts and literature. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3120",
+      "courseId": "FREN 3120",
+      "title": "French Conversation and Culture",
+      "description": "This class is designed to help students improve their French speaking skills, and use French at an advanced level. Not for beginners. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3121",
+      "courseId": "FREN 3121",
+      "title": "Advanced Composition",
+      "description": "In-depth study of advanced grammar patterns as used in written expressions. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3420",
+      "courseId": "FREN 3420",
+      "title": "Introduction to Africa",
+      "description": "This interdisciplinary course will use a variety of approaches to study significant aspects of contemporary Africa’s societies, cultures, and representations. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3500",
+      "courseId": "FREN 3500",
+      "title": "Field Work Abroad",
+      "description": "This course will focus on theme-based individual projects abroad.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3501",
+      "courseId": "FREN 3501",
+      "title": "Sustainable Communities in France",
+      "description": "Examines social, cultural, artistic and environmental dimensions of sustainability and concepts of identity, diversity, social equity and inclusion/exclusion in the French context. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3551",
+      "courseId": "FREN 3551",
+      "title": "French for the Professions I",
+      "description": "Study aspects of literature, philosophy, culture, geography, history, business, and industry in France and other Francophone countries in these applied-language courses. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3691",
+      "courseId": "FREN 3691",
+      "title": "Business Communication and Correspondence in France",
+      "description": "Refinement of accuracy and flexibility in oral/written expression. Focus on appropriate use of strategies, business negotiation protocols, lexical precision.  Incorporates grammar review.  Part of the French intensive summer language program. Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3692",
+      "courseId": "FREN 3692",
+      "title": "French for Business and Technology I",
+      "description": "Study of business, technological, and cultural issues, tendencies and patterns of behavior among French-speaking people.  Value systems and their manifestations. Part of the French intensive summer language program.  Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3693",
+      "courseId": "FREN 3693",
+      "title": "French for Business and Technology II",
+      "description": "Business organizations and use of technology in France. Specialized vocabularies of economics, engineering, and computer science.  Attention to geographical and anthropological aspects of selected social and political situations.  Part of the French intensive summer language program.  Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3694",
+      "courseId": "FREN 3694",
+      "title": "French for Business and Technology Abroad",
+      "description": "Two-week seminar in France highlighting business and technology.  Field study of technology firms, economic trends, business institutions, and cultural protocols. Journals and papers assigned.  Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3695",
+      "courseId": "FREN 3695",
+      "title": "Sustainability in Paris",
+      "description": "This course examines sustainable development and communities in Paris, France. Topics include urban planning, environmental sustainability, use of energy, and social issues. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3697",
+      "courseId": "FREN 3697",
+      "title": "Paris in Cinema/Cinema in Paris",
+      "description": "This course offers an in-depth look at the history, industry, and scope of French cinema through the myth of Paris in films.  Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3813",
+      "courseId": "FREN 3813",
+      "title": "Special Topics",
+      "description": "Permits a group of students and a professor to pursue areas of the French language not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3821",
+      "courseId": "FREN 3821",
+      "title": "Special Topics",
+      "description": "Topics of current interest in French.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3822",
+      "courseId": "FREN 3822",
+      "title": "Special Topics",
+      "description": "Topics of current interest in French.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3823",
+      "courseId": "FREN 3823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "3833",
+      "courseId": "FREN 3833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4001",
+      "courseId": "FREN 4001",
+      "title": "French Stylistics",
+      "description": "Advanced study of syntax and semantics, aimed at development of stylistic sensitivity. Analysis of representative literary and current interest texts for practice in conversation and composition. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4005",
+      "courseId": "FREN 4005",
+      "title": "Contemporary French Literature",
+      "description": "This course will study contemporary French authors and their ideas in context, with a focus on specific authors or texts. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4011",
+      "courseId": "FREN 4011",
+      "title": "French Art",
+      "description": "This course will thematically explore French visual, conceptual, and performance art in the historical, theoretical, and cultural contexts of production and reception.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4013",
+      "courseId": "FREN 4013",
+      "title": "French Literature and the Visual Arts",
+      "description": "This course studies French Literature and its interrelationships with various arts (painting, music, cinema, architecture or opera), often through several periods.  Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4064",
+      "courseId": "FREN 4064",
+      "title": "Sustainability & Development in the Francophone World",
+      "description": "This course will analyze current sustainability & development issues in the Francophone World and policies initiated to address them. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4080",
+      "courseId": "FREN 4080",
+      "title": "Politics and Public Policy in France",
+      "description": "This course will analyze current issues in French society and the public policies initiated to address them. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4089",
+      "courseId": "FREN 4089",
+      "title": "Food, Arts And Media",
+      "description": "This course will focus on the culture of food in French arts, literature and media, examining its social and symbolic values through the centuries. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4101",
+      "courseId": "FREN 4101",
+      "title": "Literature of the Francophone World I",
+      "description": "Exploration of the literature of the Francophone world. Currents in modern prose, poetry, and drama. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4103",
+      "courseId": "FREN 4103",
+      "title": "Francophone Africa",
+      "description": "This interdisciplinary course will explore contemporary Francophone Africa and its representations in light of its modern history and culture.  Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4105",
+      "courseId": "FREN 4105",
+      "title": "Francophone Cinema",
+      "description": "This course will explore through films representations of Francophone regions of the world from Africa to the Caribbean. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4110",
+      "courseId": "FREN 4110",
+      "title": "Gender in French-Speaking Societies",
+      "description": "Course explores the intersection of gender with French history, politics, ethics, laws, professions, medical fields, social classes, religious, nationalisms, and (perceived) ethnicity. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4160",
+      "courseId": "FREN 4160",
+      "title": "Arts and Power in Paris: Architecture, Urban Art, Visual Arts, Literature, and More",
+      "description": "Explores the relationship between power and the arts throughout the history of Paris in sculpture, architecture, tapestry, songs, painting, literature, photography, etc. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4200",
+      "courseId": "FREN 4200",
+      "title": "Introduction to French Philosophy",
+      "description": "Introduction to major French philosophical texts with an emphasis on post-WWI thinkers (includes Existentialism, Structuralism, Post-Structuralism, Postmodernism, Deconstructionism).  Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4202",
+      "courseId": "FREN 4202",
+      "title": "Science in the French Imagination",
+      "description": "This course explores the relationships between literature and science, culture, and technology from the late 18th to the 21st century. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4241",
+      "courseId": "FREN 4241",
+      "title": "Migration in French Cinema",
+      "description": "A topical approach focusing on the major contributions of French cinema and cinematographic aesthetics, from the 1900s to contemporary films.  Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4242",
+      "courseId": "FREN 4242",
+      "title": "The French New Wave",
+      "description": "In-depth and concentrated study of French cinema. Particular attention devoted to the French New Wave, the development of film theory and criticism in France. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4245",
+      "courseId": "FREN 4245",
+      "title": "Women in Film",
+      "description": "This course will explore representations of women in French films and women's roles in the film industry. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4246",
+      "courseId": "FREN 4246",
+      "title": "French and Francophone Films and Media",
+      "description": "This course examines socio-historical, political, economic and cultural issues through films and other media in France and/or the Francophone world. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4250",
+      "courseId": "FREN 4250",
+      "title": "Reading Les Miserables",
+      "description": "This course examines in its entirety the world-famous novel from Victor Hugo: Les Miserables within its artistic and social environments and messages. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4300",
+      "courseId": "FREN 4300",
+      "title": "France and Globalization",
+      "description": "Intercultural class about French attitudes and policies toward globalization as well as France's role in the European Community.  Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4500",
+      "courseId": "FREN 4500",
+      "title": "Advanced Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues in the French-speaking world.  Intended for students who have some study-abroad experience in a French-speaking country.  Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4694",
+      "courseId": "FREN 4694",
+      "title": "Internship Assitantship",
+      "description": "Modern Language Undergraduate Internship for pay for junior and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4695",
+      "courseId": "FREN 4695",
+      "title": "French Internship",
+      "description": "Professional experience with a business/organization in which students enhance their language skills and cultural knowledge in French in relation to the practical goals/objectives of the entity.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4698",
+      "courseId": "FREN 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4699",
+      "courseId": "FREN 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4813",
+      "courseId": "FREN 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4823",
+      "courseId": "FREN 4823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4833",
+      "courseId": "FREN 4833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4901",
+      "courseId": "FREN 4901",
+      "title": "Special Problems in French",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "4902",
+      "courseId": "FREN 4902",
+      "title": "Special Problems in French",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6005",
+      "courseId": "FREN 6005",
+      "title": "Contemporary French Literature",
+      "description": "This course will study contemporary French authors and their ideas in context, with a focus on specific authors or texts. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6011",
+      "courseId": "FREN 6011",
+      "title": "French Art",
+      "description": "This course will thematically explore French visual, conceptual, and performance art in the historical, theoretical, and cultural contexts of production and reception.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6013",
+      "courseId": "FREN 6013",
+      "title": "Literature & Visual Arts",
+      "description": "This course examines the relationship between Word and Image (including cinema/ film adaptations, photography, hypertext, graphic design, and diverse artistic genres). Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6064",
+      "courseId": "FREN 6064",
+      "title": "Sustainability & Development in the Francophone World",
+      "description": "This course will analyze current sustainability & development issues in the Francophone World, and policies initiated to address them. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6089",
+      "courseId": "FREN 6089",
+      "title": "FOOD, ARTS & MEDIA",
+      "description": "This course will focus on the culture of food in French arts, literature and media, examining its social and symbolic values through the centuries. In French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6101",
+      "courseId": "FREN 6101",
+      "title": "Contemporary Francophone Literature",
+      "description": "This course will analyze Francophone Literatures produced outside of France since 1960 with a focus on their modern and innovative aspects. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6103",
+      "courseId": "FREN 6103",
+      "title": "Francophone Africa",
+      "description": "This interdisciplinary course will explore contemporary Francophone Africa and its representations in light of its modern history and culture.  Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6105",
+      "courseId": "FREN 6105",
+      "title": "Francophone Cinema",
+      "description": "This course will explore through films representations of Francophone regions of the world from Africa to the Caribbean. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6202",
+      "courseId": "FREN 6202",
+      "title": "SCIENCE IN THE FRENCH IMAGINATION",
+      "description": "This course explores the relationships between literature and science, culture, and technology from the late 18th to the 21st century. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6252",
+      "courseId": "FREN 6252",
+      "title": "French Domestic Internship",
+      "description": "Students complete domestic internships. Conducted in French. Online course.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6300",
+      "courseId": "FREN 6300",
+      "title": "France and Globalization",
+      "description": "Intercultural class about French attitudes and policies toward globalization as well as France's role in the European Community. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6500",
+      "courseId": "FREN 6500",
+      "title": "Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues in the French-speaking world. Taught in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6503",
+      "courseId": "FREN 6503",
+      "title": "Professional Portfolio Development",
+      "description": "Preparation of a professional portfolio connecting experiences and coursework in the MS program towards career preparation. Conducted in French.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6510",
+      "courseId": "FREN 6510",
+      "title": "Applied Language Practicum",
+      "description": "Students will serve as researchers, student aides and apprentice instructors for any 3/4000-level undergraduate course approved by their adviser and the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6511",
+      "courseId": "FREN 6511",
+      "title": "Applied Language Practicum Abroad",
+      "description": "Students serve as researchers and apprentice instructors in the LBAT or other faculty-led overseas language immersion program of the School of Modern Languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6695",
+      "courseId": "FREN 6695",
+      "title": "French Internship Abroad",
+      "description": "Students complete internships abroad in a French-speaking country. Conducted in French. Online course.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6696",
+      "courseId": "FREN 6696",
+      "title": "French Internship Abroad",
+      "description": "Students complete internships abroad in a French-speaking country. Conducted in French. Online course.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "6998",
+      "courseId": "FREN 6998",
+      "title": "Master's Project",
+      "description": "Optional project course taught in French.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "7000",
+      "courseId": "FREN 7000",
+      "title": "Master's Thesis",
+      "description": "Optional thesis course.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "8803",
+      "courseId": "FREN 8803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "8901",
+      "courseId": "FREN 8901",
+      "title": "Special Problems in French",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "8902",
+      "courseId": "FREN 8902",
+      "title": "Special Problems in French",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "FREN",
+      "courseNumber": "8903",
+      "courseId": "FREN 8903",
+      "title": "Special Problems in French",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 95,
+  "scrapedAt": "2025-08-16T02:00:37.640Z"
+}

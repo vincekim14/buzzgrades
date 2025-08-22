@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "3345",
+  "courseId": "ME 3345",
+  "title": "Heat Transfer",
+  "description": "Introduction to the study of heat transfer, transport coefficients, steady state conduction, transient conduction, radiative heat transfer, and forced and natural convection.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2403 Undergraduate Semester Minimum Grade of C or MATH 2413 Undergraduate Semester Minimum Grade of C or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2552 Undergraduate Semester Minimum Grade of C or MATH 2X52 Undergraduate Semester Minimum Grade of T or MATH 2562 Undergraduate Semester Minimum Grade of C) and (ME 3340 Undergraduate Semester Minimum Grade of D or CEE 3040 Undergraduate Semester Minimum Grade of D) and ME 3322 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:18.807Z"
+}

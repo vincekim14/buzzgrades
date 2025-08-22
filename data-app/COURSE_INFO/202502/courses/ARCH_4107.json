@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "4107",
+  "courseId": "ARCH 4107",
+  "title": "Intro to Historic Preser",
+  "description": "This course provides an overview of the history, philosophy, organization, current legislation, policies, and practice of historic preservation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:26.588Z"
+}

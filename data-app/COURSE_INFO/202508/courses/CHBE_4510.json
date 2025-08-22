@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "4510",
+  "courseId": "CHBE 4510",
+  "title": "Proc&amp; Prod Design&amp; Econ",
+  "description": "Basic principles of chemical process and product design including heuristic design approaches, heat exchanger network design, optimization, and economic evaluation.  Credit not allowed for both CHBE 4510 and CHBE 4505 (or CHBE 4525).",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHBE 3210 Undergraduate Semester Minimum Grade of C or CHBE 3215 Undergraduate Semester Minimum Grade of C) and CHBE 3225 Undergraduate Semester Minimum Grade of C and (CHBE 4300 Undergraduate Semester Minimum Grade of C or CHBE 4320 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:37:14.581Z"
+}

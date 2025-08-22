@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "LMC",
+  "courseNumber": "4701",
+  "courseId": "LMC 4701",
+  "title": "US Rsch Proposal Writing",
+  "description": "This course is intended to guide undergraduate students from all disciplines through the stages of writing a proposal for their research option project and thesis.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:24.954Z"
+}

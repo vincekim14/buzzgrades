@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4565",
+  "courseId": "BIOS 4565",
+  "title": "Chromosome Bio &amp; Disease",
+  "description": "This course explores the fundamental mechanisms governing metabolism of eukaryotic chromosomes and human diseases resulting from malfunctioning of chromosomal maintenance.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOS 2600 Undergraduate Semester Minimum Grade of D or BIOS 2610 Undergraduate Semester Minimum Grade of D or BIOL 2344 Undergraduate Semester Minimum Grade of D or BIOL 2354 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:46.136Z"
+}

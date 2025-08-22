@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "3659",
+  "courseId": "MGT 3659",
+  "title": "Foundations of Strategy",
+  "description": "This course covers the basic concepts and frameworks of strategy analysis and strategy formulation. Credit will not be awarded for both MGT 3659 and MGT 4195.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ACCT 2101 Undergraduate Semester Minimum Grade of D or MGT 3000 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:15.501Z"
+}

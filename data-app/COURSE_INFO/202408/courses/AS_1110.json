@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "AS",
+  "courseNumber": "1110",
+  "courseId": "AS 1110",
+  "title": "Heritage &amp; Vlus of AFI",
+  "description": "A survey course designed to introduce students to the Department of the Air Force (DAF) and provides an overview of the basic characteristics, missions, communications and organization of the Air and Space Forces. Topics include: Formation of the Air Force, Military Customs and Courtesies, and Introduction to Leadership. Leadership Laboratory is mandatory for AFROTC cadets and complements this course.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:37.578Z"
+}

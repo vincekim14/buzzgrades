@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "4011",
+  "courseId": "PSYC 4011",
+  "title": "Cognitive Psychology",
+  "description": "Exploration of the central aspects of human cognition including pattern recognition, attention, memory, language, categorization, problem solving, and decision making; phenomena and methods are stressed. Credit will not be awarded for both PSYC 4011 and PSYC 3011.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 2020 Undergraduate Semester Minimum Grade of C and PSYC 2015 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:44:34.269Z"
+}

@@ -1,0 +1,100 @@
+/* Full-page background variant (unused for landing inline placement but kept for flexibility) */
+.conveyorRoot {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+/* Inline variant shown below the search bar */
+.inlineRoot {
+  position: relative;
+  width: 100%;
+  height: clamp(256px, 30vh, 320px);
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.inlineRoot::before,
+.inlineRoot::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: clamp(24px, 10vw, 140px);
+  z-index: 2;
+}
+
+.inlineRoot::before {
+  left: 0;
+  background: linear-gradient(to right, rgba(255,255,255,0.95), rgba(255,255,255,0));
+}
+
+.inlineRoot::after {
+  right: 0;
+  background: linear-gradient(to left, rgba(255,255,255,0.95), rgba(255,255,255,0));
+}
+
+.trackWrap {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 200%;
+}
+
+.row {
+  display: inline-flex;
+  align-items: center;
+  gap: clamp(24px, 6vw, 64px);
+  opacity: 0.34;
+}
+
+.icon {
+  height: clamp(96px, 20vw, 260px);
+  width: auto;
+  filter: grayscale(40%);
+}
+
+/* Move a full-width dupe by exactly half the container so continuity is seamless */
+@keyframes conveyorScroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.scroller {
+  display: flex;
+  width: 200%;
+  animation: conveyorScroll 20s linear infinite;
+  will-change: transform;
+}
+
+/* Inline specific simpler structure to avoid absolute positioning issues */
+.inlineTrack {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+
+.inlineScroller {
+  width: 200%;
+  display: flex;
+  animation: conveyorScroll 20s linear infinite;
+  will-change: transform;
+}
+
+.inlineRow {
+  display: inline-flex;
+  align-items: center;
+  gap: clamp(24px, 6vw, 64px);
+  opacity: 0.34;
+}
+
+@media (max-width: 640px) {
+  .row { gap: 24px; opacity: 0.28; }
+  .icon { height: clamp(64px, 24vw, 140px); }
+}
+

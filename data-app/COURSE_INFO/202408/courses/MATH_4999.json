@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "4999",
+  "courseId": "MATH 4999",
+  "title": "Special Problems",
+  "description": "Reading or research in topics of current interest.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:34.237Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "6420",
+  "courseId": "ISYE 6420",
+  "title": "Bayesian Statistics",
+  "description": "Rigorous introduction to the theory of Beysian Statistical Inference. Bayesian estimation and testing. Conjugate priors. Noninformative priors. Bayesian computation. Bayesian networks and Bayesian signal processing. Various engineering applications.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6412 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:03.257Z"
+}

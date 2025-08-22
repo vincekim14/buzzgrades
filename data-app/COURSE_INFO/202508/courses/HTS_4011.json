@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "HTS",
+  "courseNumber": "4011",
+  "courseId": "HTS 4011",
+  "title": "Migr, Comm&amp;Identity:Comp World",
+  "description": "Advanced undergraduate topics in sociology. Designed for HTS majors, but open to other students with junior or senior standing.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "HTS 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:49.998Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "6504",
+  "courseId": "BMED 6504",
+  "title": "Fina Planning for Projs",
+  "description": "Finance planning for development projects including: costing, forecasting, time value of money, breakeven analysis, return on investment analysis, capital budgeting, risk and return, working capital management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:00.179Z"
+}

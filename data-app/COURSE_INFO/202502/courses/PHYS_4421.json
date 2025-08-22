@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PHYS",
+  "courseNumber": "4421",
+  "courseId": "PHYS 4421",
+  "title": "Intro-Continuum Phys",
+  "description": "A modern introduction to continuum physics.  Topics include elastic theory, dislocations and waves, fluid mechanics and dynamics, and instabilities in fluids.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 3201 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:26.890Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "INTA",
+  "courseNumber": "6121",
+  "courseId": "INTA 6121",
+  "title": "Sem in Europe: Euro Sec",
+  "description": "This course examines the history, institutional structure and functions, and current policy challenges facing the North Atlantic Treaty Organization (NATO) and other European security institutions.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:00.498Z"
+}

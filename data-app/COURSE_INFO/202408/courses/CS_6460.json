@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "6460",
+  "courseId": "CS 6460",
+  "title": "Educ Tech-Foundations",
+  "description": "Introduction to educational technology, with an emphasis on theoretical foundations.  Introduces basic philosophies, approaches, and technologies.  Analyzes issues surrounding technology's impact on education. Credit not awarded for both CS 4660 and CS 6460.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:10.369Z"
+}

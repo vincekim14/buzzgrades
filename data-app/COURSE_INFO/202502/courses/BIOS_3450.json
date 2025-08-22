@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "3450",
+  "courseId": "BIOS 3450",
+  "title": "Cell Molecular Biol",
+  "description": "An introduction to the structure and function of cells and their organelles with emphasis on eucaryotic cellular and molecular processes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "((BIOL 1510 Undergraduate Semester Minimum Grade of D or BIOL 1511 Undergraduate Semester Minimum Grade of D) or (BIOS 1107 Undergraduate Semester Minimum Grade of D and BIOS 1107L Undergraduate Semester Minimum Grade of D) or (BIOS 1207 Undergraduate Semester Minimum Grade of D and BIOS 1207L Undergraduate Semester Minimum Grade of D)) and (CHEM 2311 Undergraduate Semester Minimum Grade of D or CHEM 1315 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:35:42.053Z"
+}

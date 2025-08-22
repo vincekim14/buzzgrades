@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "HTS",
+  "courseNumber": "3007",
+  "courseId": "HTS 3007",
+  "title": "Soc of Work and Industry",
+  "description": "Analyzes paid employment as a decisive social attachment, emphasizing work organizations, technological change and authority relations, and social inequality among diverse groups of employees.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:22.320Z"
+}

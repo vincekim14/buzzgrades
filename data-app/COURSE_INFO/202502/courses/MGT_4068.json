@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4068",
+  "courseId": "MGT 4068",
+  "title": "Fixed Income",
+  "description": "This course covers the important securites that trade in the fixed income market and the valuation models that are used to price them.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3062 Undergraduate Semester Minimum Grade of D or MGT 3078 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:29.654Z"
+}

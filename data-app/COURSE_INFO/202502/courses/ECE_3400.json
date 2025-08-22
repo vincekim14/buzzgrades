@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "3400",
+  "courseId": "ECE 3400",
+  "title": "Analog Electronics",
+  "description": "Analysis and design of electronic circuits and systems.  Biasing, small-signal analysis, frequency response, feedback amplifiers, active filters, non-linear op-amp applications, and oscillators.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3040 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:37.977Z"
+}

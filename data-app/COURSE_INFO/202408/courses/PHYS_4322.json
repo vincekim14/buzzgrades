@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PHYS",
+  "courseNumber": "4322",
+  "courseId": "PHYS 4322",
+  "title": "Advanced Lab II",
+  "description": "A continuation of PHYS 4321.  Experiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 4321 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:44.453Z"
+}

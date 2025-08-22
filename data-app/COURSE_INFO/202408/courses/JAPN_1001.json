@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "JAPN",
+  "courseNumber": "1001",
+  "courseId": "JAPN 1001",
+  "title": "Elementary Japanese I",
+  "description": "Essential principles of Japanese grammar and phonetics, acquisition of vocabulary through conversational exercises, video, and tape material. Introduction to the kana writing system.  Humanities credit is awarded for JAPN 1001 upon successful completion of JAPN 1002 or JAPN 2001.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:18.668Z"
+}

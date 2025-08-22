@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "3021",
+  "courseId": "MSE 3021",
+  "title": "Materials Laboratory I",
+  "description": "Characterization of engineering properties of materials through hands-on experiments.   Instruction on basic laboratory skills, safety, statistical analysis of data, use of laboratory notebooks and technical report writing.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2021 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:56.414Z"
+}

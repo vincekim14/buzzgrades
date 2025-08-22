@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "4459",
+  "courseId": "MUSI 4459",
+  "title": "Dig Signal Process-Music",
+  "description": "This course will cover elements of digital audio signal processing, such as spectra, digital filters, Fourier analysis and their application to music synthesis and analysis. Credit will not be awarded for both MUSI 4459 and MUSI 6202.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MUSI 2526 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:02.697Z"
+}

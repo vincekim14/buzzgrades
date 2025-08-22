@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "FS",
+  "courseNumber": "4000",
+  "courseId": "FS 4000",
+  "title": "Foreign Studies",
+  "description": "Course used by students participating in an exchange program with a foreign university.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Foreign Exchange (8)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:59.995Z"
+}

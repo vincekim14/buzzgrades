@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "6665",
+  "courseId": "MGT 6665",
+  "title": "Strategy Execution",
+  "description": "This course, focusing on strategy execution, answers this question: After performing strategy analysis and strategy formulation, how do you succeed in achieving strategic results? Students learn and apply theoretical models to execute strategies, including the use of a computer based quantitative simulation",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6508 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:36.731Z"
+}

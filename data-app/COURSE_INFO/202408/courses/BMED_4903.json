@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BMED",
+  "courseNumber": "4903",
+  "courseId": "BMED 4903",
+  "title": "Special Problems",
+  "description": "Individualized studies in certain specialized areas of interest in biomedical engineering.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:20.184Z"
+}

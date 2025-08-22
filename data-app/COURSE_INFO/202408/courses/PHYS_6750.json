@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PHYS",
+  "courseNumber": "6750",
+  "courseId": "PHYS 6750",
+  "title": "Quantitative Biosciences",
+  "description": "Introduction to quantitative methods and logic that enable key advances in understanding living systems, spanning molecules, cells, organisms, and biomes.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:48.065Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "SPAN",
+  "courseNumber": "3500",
+  "courseId": "SPAN 3500",
+  "title": "Sci-Fi In Latin America",
+  "description": "This course is a survey of Latin America science-fiction. Taught in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:45:08.373Z"
+}

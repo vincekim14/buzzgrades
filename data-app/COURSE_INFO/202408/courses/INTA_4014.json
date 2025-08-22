@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "INTA",
+  "courseNumber": "4014",
+  "courseId": "INTA 4014",
+  "title": "Scenario and Pathgaming",
+  "description": "Introduces students to the construction and presentation of formalized scenarios for international planning, and into the formation, implementation, and assessment of path games.  Credit not allowed for both INTA 4014 and INTA 6014.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:01.659Z"
+}

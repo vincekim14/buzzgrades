@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOL",
+  "courseNumber": "6150",
+  "courseId": "BIOL 6150",
+  "title": "Genomics Appl Bioinf",
+  "description": "Retrieval and analysis of biological sequence, gene expression, and proteomics data from public databases and other sources; applying standard bioinformatics tools to investigate biological questions.  Credit not allowed for both BIOL 6150 and BIOL 4150.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:07.216Z"
+}

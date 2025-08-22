@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "2031",
+  "courseId": "ECE 2031",
+  "title": "Digital Design Lab",
+  "description": "Design and implementation of digital systems, including a team  design project.  CAD tools, project design methodologies, logic synthesis, and assembly language programming.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 2020 Undergraduate Semester Minimum Grade of C or ECE 2030 Undergraduate Semester Minimum Grade of C) and (ECE 2035 Undergraduate Semester Minimum Grade of C or ECE 2036 Undergraduate Semester Minimum Grade of C or CS 1372 Undergraduate Semester Minimum Grade of C) or CS 2110 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:57.173Z"
+}

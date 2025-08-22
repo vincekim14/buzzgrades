@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "3043",
+  "courseId": "ECE 3043",
+  "title": "Circuits&amp;Electronics Lab",
+  "description": "Basic electronic test instrumentation.  Elementary passive and active circuits using both discrete (diodes, bipolar junction transistors, MOSFETs) and integrated devices (operational amplifiers).  Credit not allowed for both ECE 3043 and ECE 3041.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3040 Undergraduate Semester Minimum Grade of C and (ECE 2031 Undergraduate Semester Minimum Grade of C or ECE 20X2 Undergraduate Semester Minimum Grade of T)",
+  "lastUpdated": "2025-08-20T02:39:00.953Z"
+}

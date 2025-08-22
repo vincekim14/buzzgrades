@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "HTS",
+  "courseNumber": "6743",
+  "courseId": "HTS 6743",
+  "title": "STS Core Seminar",
+  "description": "This survey course covers key works in Science, Technology & Society, and guest lectures introduce students to faculty doing STS-related research across the Ivan Allen College.  Credit not allowed for both HTS 6743 and PUBP 6743 or LCC 6743.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:51.334Z"
+}

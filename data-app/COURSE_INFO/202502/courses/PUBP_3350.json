@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "3350",
+  "courseId": "PUBP 3350",
+  "title": "Energy Policy",
+  "description": "Examines policies impacting the production and utilization of energy in the U.S. and abroad.  Addresses resource constraints, physical principles, and policy analysis tools and concepts.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:51.488Z"
+}

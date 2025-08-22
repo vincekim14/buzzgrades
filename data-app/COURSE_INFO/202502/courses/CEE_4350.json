@@ -1,0 +1,19 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4350",
+  "courseId": "CEE 4350",
+  "title": "Env Tech Developing Wrld",
+  "description": "Approaches, methods, and practical aspects of employing technologies for improving environmental quality in low and middle income countries. Team project-based course with field component.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Cannot be enrolled in one of the following Classes:",
+    "__DETAIL_1__Freshman (FR)",
+    "__DETAIL_1__Sophomore (SO)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 1310 Undergraduate Semester Minimum Grade of D or CHEM 1211K Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:02.211Z"
+}

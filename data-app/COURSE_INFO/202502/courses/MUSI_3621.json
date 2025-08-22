@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "3621",
+  "courseId": "MUSI 3621",
+  "title": "Musicians &amp; their Music",
+  "description": "An historical survey of music, including analytical listening and cultural context. No prior experience needed.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:02.045Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "NEUR",
+  "courseNumber": "4740",
+  "courseId": "NEUR 4740",
+  "title": "Neuroethics",
+  "description": "This course considers the implications of neuroscience research on culture, society, the legal system, and on how individuals conceive of their nature as human beings.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D or PHIL 2010 Undergraduate Semester Minimum Grade of D or (BIOS 1107 Undergraduate Semester Minimum Grade of D and BIOS 1107L Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:43:11.226Z"
+}

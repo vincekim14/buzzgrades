@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "PSYC",
+  "courseNumber": "8060",
+  "courseId": "PSYC 8060",
+  "title": "Sem-Quantitative Psy",
+  "description": "Presentation and discussion of quantitative approaches to psychology.  Topics will vary, but might include neural networks, measurement theory, behavioral ecology, modeling, system dynamics, etc.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:02.970Z"
+}

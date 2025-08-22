@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "6110",
+  "courseId": "MSE 6110",
+  "title": "Trans Electron Microscop",
+  "description": "Introduction to the kinematical electron scattering theory, optics in TEM, diffraction contrast imaging of defects, dynamical electron diffraction effects; and chemical microanalysis using EDS.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2020 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:00.814Z"
+}

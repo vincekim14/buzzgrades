@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "1101",
+  "courseId": "ID 1101",
+  "title": "Intro Industrial Des 1",
+  "description": "Introduction to Industrial Design – a survey of evolving diverse career options and the designer’s impact on society. Emphasis on traditional product design, research, and strategy.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ID 1011 and ID 1401 and ID 1418",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:13.225Z"
+}

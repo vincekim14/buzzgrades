@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "4140",
+  "courseId": "ARCH 4140",
+  "title": "Modern Arch Theory",
+  "description": "Introduction to modern and contemporary architectural theory and criticism, including writings and manifestoes, analyses, projects and buildings.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 2112 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:45.841Z"
+}

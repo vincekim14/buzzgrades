@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "4405",
+  "courseId": "ME 4405",
+  "title": "Fund of Mechatronics",
+  "description": "Focuses on fundamentals of microcontrollers, analog and digital electronics, sensors, actuators and their applications to modern mechatronics systems and intelligent manufacturing. Knowledge gained from lectures will be used to complete lab exercises. Credit will not be awarded for both ME 4405 and ME 6405 or ME 4405 and ME 4777.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3017 Undergraduate Semester Minimum Grade of D and ME 3057 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:49.825Z"
+}

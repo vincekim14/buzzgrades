@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "4431",
+  "courseId": "MATH 4431",
+  "title": "Introduction to Topology",
+  "description": "Point set topology, topological spaces and metric spaces, continuity and compactness, homotopy, and covering spaces.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4317 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:31.623Z"
+}

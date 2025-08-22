@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4073",
+  "courseId": "MGT 4073",
+  "title": "Financial Modeling",
+  "description": "This course presents tools necessary to build advanced Excel spreadsheets for financial decision-making. The course will include topics such as firm valuation, financial statements, cost of capital, portfolio construction, option valuation, duration and immunization.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3062 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:30.304Z"
+}

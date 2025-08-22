@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ISYE",
+  "courseNumber": "6767",
+  "courseId": "ISYE 6767",
+  "title": "Sys-Computation Finance",
+  "description": "Introduction to large-scale system design to support computational finance for options, stocks, or other financial instruments. Some programming experience and previous exposure to stocks, bonds, and options required.  Crosslisted with MATH 6767.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:08.731Z"
+}

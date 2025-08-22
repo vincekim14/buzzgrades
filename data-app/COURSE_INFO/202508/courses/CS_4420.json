@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4420",
+  "courseId": "CS 4420",
+  "title": "Database Sys Implement",
+  "description": "Study of fundamental software components/algorithms of a database system, including the file manager, query engine, lock manager, and recovery manager.  Includes a project component.  Credit not allowed for both CS 4420 and CS 6422.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1332 Undergraduate Semester Minimum Grade of C and (CS 2200 Undergraduate Semester Minimum Grade of C or ECE 3057 Undergraduate Semester Minimum Grade of C or ECE 3058 Undergraduate Semester Minimum Grade of C) and CS 4400 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:27.506Z"
+}

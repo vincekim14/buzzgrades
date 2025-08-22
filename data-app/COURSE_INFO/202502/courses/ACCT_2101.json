@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ACCT",
+  "courseNumber": "2101",
+  "courseId": "ACCT 2101",
+  "title": "Principles of Accounting I",
+  "description": "A study of the underlying theory and application of financial accounting concepts. These concepts include measurement principles, financial statement preparation, and introductory financial analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:02.286Z"
+}

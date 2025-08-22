@@ -1,0 +1,20 @@
+{
+  "term": "202505",
+  "subjectCode": "IL",
+  "courseNumber": "6455",
+  "courseId": "IL 6455",
+  "title": "Finance for Logistics",
+  "description": "This course provides an in-depth understanding of concepts of finance that relate to logistics, such as valuing logistics activities and measuring logistics performance.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__International Logistics (IL)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:04.106Z"
+}

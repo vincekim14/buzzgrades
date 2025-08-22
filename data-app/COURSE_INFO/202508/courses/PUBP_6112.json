@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "PUBP",
+  "courseNumber": "6112",
+  "courseId": "PUBP 6112",
+  "title": "Research Dsgn-Polcy Sci",
+  "description": "The objectives for this course include: (1) providing a broad overview of research methods and research criteria; (2) giving students the opportunity to conduct data-based research and analysis; (3) providing more specialized knowledge of one set of research techniques (e.g. survey research, case studies, experimentation - varies by term); (4) providing experience in presenting and defending research.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:56.706Z"
+}

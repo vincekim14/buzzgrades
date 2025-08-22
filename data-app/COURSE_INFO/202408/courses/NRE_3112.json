@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "NRE",
+  "courseNumber": "3112",
+  "courseId": "NRE 3112",
+  "title": "Radiation Detection",
+  "description": "An introduction to the principles and characteristics of basic detectors for nuclear radiation and the pulse processing electronics associated with them.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "NRE 2110 Undergraduate Semester Minimum Grade of D and NRE 3301 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:31.570Z"
+}

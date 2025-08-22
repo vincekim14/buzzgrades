@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "2050",
+  "courseId": "CS 2050",
+  "title": "Intro Discrete Math CS",
+  "description": "Proof methods, strategy, correctness of algorithms over discrete structures.  Induction and recursion.  Complexity and order of growth.  Number theoretic principles and algorithms.  Counting and computability.  Credit not allowed for both CS 2050 and CS 2051.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:47.620Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "6763",
+  "courseId": "ID 6763",
+  "title": "Design Interactv Environ",
+  "description": "Investigate and design ambient, intelligent, interactive interfaces and computational applications in tangible and physical environment to support health, wellness and quality of life.  Credit not allowed for both ID 6763 and COA 6763 or CS 6763.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:27.085Z"
+}

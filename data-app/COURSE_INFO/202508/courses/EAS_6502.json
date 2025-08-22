@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "6502",
+  "courseId": "EAS 6502",
+  "title": "Fluid Dynam&amp;Synop Meteor",
+  "description": "Fundamental principles of atmospheric fluid dynamics, analysis of meteorological codes, weather data and patterns, and numerical weather prediction.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T",
+  "lastUpdated": "2025-08-20T02:39:14.230Z"
+}

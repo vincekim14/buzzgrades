@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MUSI",
+  "courseNumber": "8001",
+  "courseId": "MUSI 8001",
+  "title": "Research Methods",
+  "description": "Theoretical and practical issues in music technology research including design patterns, data sets, quantitative and qualitative evaluation standards, proper citation, and print and oral presentation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:25.846Z"
+}

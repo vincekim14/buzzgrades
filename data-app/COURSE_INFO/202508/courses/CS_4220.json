@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4220",
+  "courseId": "CS 4220",
+  "title": "Embedded Systems",
+  "description": "Design principles, programming techniques, and case studies of embedded real-time systems.  Interface techniques and devices.  Representations and reasoning about physical processes.Credit not awarded for both CS 4220 and CS 6235.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2200 Undergraduate Semester Minimum Grade of C or ECE 3057 Undergraduate Semester Minimum Grade of C or ECE 3058 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:25.167Z"
+}

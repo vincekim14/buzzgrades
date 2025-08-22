@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "3311",
+  "courseId": "CS 3311",
+  "title": "Project Design",
+  "description": "Part 1 of a 2 semester project design and implementation sequence conjoined with Technical Communications. Prepare requirements, design and project plans.  Develop a basic prototype of the desired system. Project is completed in CS 3312-Project Implementation. Credit will not be awared for CS 3311 and CS 4911.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "LMC 3432",
+  "prerequisites": "CS 2340 Undergraduate Semester Minimum Grade of C and (CS 3001 Undergraduate Semester Minimum Grade of C or CS 4001 Undergraduate Semester Minimum Grade of C or CS 4002 Undergraduate Semester Minimum Grade of C or CS 4003 Undergraduate Semester Minimum Grade of C or CS 4726 Undergraduate Semester Minimum Grade of C or SLS 3110 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:37:52.559Z"
+}

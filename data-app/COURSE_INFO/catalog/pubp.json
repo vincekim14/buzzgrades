@@ -1,0 +1,1377 @@
+{
+  "subject": "PUBP",
+  "subjectName": "Public Policy (PUBP)",
+  "url": "https://catalog.gatech.edu/coursesaz/pubp/",
+  "courses": [
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "1142",
+      "courseId": "PUBP 1142",
+      "title": "Teams and Collaboration",
+      "description": "Exposes students to essential theories and concepts for analyzing, understanding, and managing teams in the context of complex interdependent public problems. Credit not awarded for both PUBP 1142 and PUBP 2142.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2010",
+      "courseId": "PUBP 2010",
+      "title": "Political Processes",
+      "description": "Introduction to political models and theories of policy making.  Agenda-setting, stakeholder involvement, policy adoption, policy design and implementation, evaluation, and advocacy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2012",
+      "courseId": "PUBP 2012",
+      "title": "Foundations of Public Policy",
+      "description": "An in-depth exploration of American public policy, with emphasis on the dynamics of policymaking in policy areas such as health care, research, energy and environment, income maintenance, and economic development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2030",
+      "courseId": "PUBP 2030",
+      "title": "Organizations and Policy",
+      "description": "An exploration of the roles and activities of bureaucracies in the implementation of policies and programs, with emphasis on practical issues of public management.  Credit not allowed for both PUBP 2030 and PUBP 3010.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2142",
+      "courseId": "PUBP 2142",
+      "title": "Teams and Collaboration in Context",
+      "description": "Exposes students to essential theories and concepts for analyzing, understanding, and managing teams in the context of complex interdependent public problems. Credit not awarded for both PUBP 2142 and PUBP 1142.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2651",
+      "courseId": "PUBP 2651",
+      "title": "Public Policy Internship",
+      "description": "Course projects related to professional internships. Topics, credit, and requirements to be arranged by student, instructor, and sponsor. Maybe taken only once.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2694",
+      "courseId": "PUBP 2694",
+      "title": "Intern Assistantship",
+      "description": "Undergraduate Internship for Public Policy for pay.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2695",
+      "courseId": "PUBP 2695",
+      "title": "Undergraduate Internship",
+      "description": "Undergraduate Internship for Public Policy for academic credit.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2698",
+      "courseId": "PUBP 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2699",
+      "courseId": "PUBP 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "2803",
+      "courseId": "PUBP 2803",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in Public Policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3000",
+      "courseId": "PUBP 3000",
+      "title": "American Constitutional Issues",
+      "description": "Examines the American social and political system through the prism of Constitutional issues decided by the U.S. Supreme Court. Includes study of the Constitution of Georgia.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3016",
+      "courseId": "PUBP 3016",
+      "title": "Judicial Process",
+      "description": "The functions, structures, and procedures of state and federal court systems, including selection and appointment of judges, judicial activism, influences on court decisions, and enforcement of court decisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3020",
+      "courseId": "PUBP 3020",
+      "title": "Applied Political Economy",
+      "description": "Roles of markets and government in allocating resources.  Rational choice approaches to understanding policy.  Institutional design.  Growth and sustainability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3030",
+      "courseId": "PUBP 3030",
+      "title": "Policy Analysis",
+      "description": "The science and craft of professional problem-solving, analysis, and advice.  Economic and political approaches and techniques for analysis of costs, benefits, and risks.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3042",
+      "courseId": "PUBP 3042",
+      "title": "Data Science for Public Policy",
+      "description": "Introduces fundamentals of data science, tools, and quantitative methodologies and ethical implications for public and social applications. Topics for policy applications vary by semester.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3120",
+      "courseId": "PUBP 3120",
+      "title": "Statistical Analysis for Public Policy",
+      "description": "Introduction to probability, descriptive statistics, inferential statistics and analysis, and spreadsheets. Emphasis application of basic statistical concepts to public policy and administration problems.  Credit not allowed for both PUBP 3120 and PUBP 4113.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3130",
+      "courseId": "PUBP 3130",
+      "title": "Research Methods and  Problem Solving",
+      "description": "Conceptual and methodological issues in policy studies, including causality, explanation, models, threats to research, data collection, and assessment of applicability to policy issues.  Design of research.  Credit not allowed for both PUBP 3130 and PUBP 3110.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3141",
+      "courseId": "PUBP 3141",
+      "title": "Leading Social Organizations",
+      "description": "This course is designed to give the student a sound understanding of how to lead and manage change in social organizations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3201",
+      "courseId": "PUBP 3201",
+      "title": "Introduction to Social Policy",
+      "description": "A survey of public policies directed toward social problems in America and their evolution and reform. Development of role of government in addressing issues related to poverty and social welfare.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3210",
+      "courseId": "PUBP 3210",
+      "title": "U.S. Health Policy",
+      "description": "Evolution of major US health care institutions and related policies and politics; their purposes, effects, and relationships; and recent and possible health policy reforms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3214",
+      "courseId": "PUBP 3214",
+      "title": "African American Politics",
+      "description": "An exploration of the organizations, strategies, and issues that have defined African American political life in the post-civil rights era in the United States.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3230",
+      "courseId": "PUBP 3230",
+      "title": "STEM Education Policy",
+      "description": "A seminar exploring the role of public policy in shaping the conduct of STEM (science, technology, engineering, and mathematics) education in the United States.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3244",
+      "courseId": "PUBP 3244",
+      "title": "Stem Cell Science, Policy, and Ethics",
+      "description": "Examination of current state of scientific knowledge regarding stem cells and historical development, relevant ethical issues, and policy considerations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3315",
+      "courseId": "PUBP 3315",
+      "title": "Environmental Policy and Politics",
+      "description": "Overview of the major institutions, organizations, official and unofficial actors in environmental policy and politics, and what influences their environmental decisions and actions.  Credit not allowed for both PUBP 3315 and PUBP 4314.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3320",
+      "courseId": "PUBP 3320",
+      "title": "Climate Policy",
+      "description": "Examines relevant scientific theory and evidence, political history, policy options, alternative policy analysis frameworks, and the influence of science and scientific uncertainity on climate policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3350",
+      "courseId": "PUBP 3350",
+      "title": "Energy Policy",
+      "description": "Examines policies impacting the production and utilization of energy in the U.S. and abroad.  Addresses resource constraints, physical principles, and policy analysis tools and concepts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3502",
+      "courseId": "PUBP 3502",
+      "title": "Information and Communications Technology Policy",
+      "description": "Examination of the convergence of information technology, communications and telecommunications, policymaking within the executive/regulatory branches, special interest group role, and key domestic and international issues.  Credit not allowed for both PUBP 3502 and PUBP 4512.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3510",
+      "courseId": "PUBP 3510",
+      "title": "Politics and Policy",
+      "description": "Application of political science and other social science concepts and theories to current issues. Investigates several current topics in detail.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3520",
+      "courseId": "PUBP 3520",
+      "title": "Globalization and Public Policy",
+      "description": "This course will serve as an introduction to the fundamental concepts, theories, conflicts, and issues of globalization and its effects on public policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3600",
+      "courseId": "PUBP 3600",
+      "title": "Sustainability, Technology, and Policy",
+      "description": "Ethical, scientific, technological, economic, and political dimensions of sustainable human practices, applying multidisciplinary perspectives to challenges facing public and private-sector approaches to sustainability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "3610",
+      "courseId": "PUBP 3610",
+      "title": "Pre-Law Seminar",
+      "description": "Examination of the legal profession and areas of legal specialization (e.g., contract, property, intellectual property, international). Emphasizes skills and values that are essential to success in law school and competent lawyering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4010",
+      "courseId": "PUBP 4010",
+      "title": "Policy Task Force I",
+      "description": "Capstone project in which teams of students formulate, analyze, and recommend policy options.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4020",
+      "courseId": "PUBP 4020",
+      "title": "Policy Task Force II",
+      "description": "Capstone project in which teams of students formulate, analyze, and recommend policy options.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4111",
+      "courseId": "PUBP 4111",
+      "title": "Internet and Public Policy",
+      "description": "Analyzes policy implications of Internet architecture (Internet protocols, domain name system, packet switching, peer-to-peer) and surveys policy issues about content, privacy, intellectual property, and governance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4140",
+      "courseId": "PUBP 4140",
+      "title": "Foundations of Leadership",
+      "description": "This course offers a comprehensive review of contemporary issues and perspectives on leadership, including multi-disciplinary and systems-oriented approaches as well as classic theory, moving to the examination of evolving contemporary beliefs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4200",
+      "courseId": "PUBP 4200",
+      "title": "Social Policy Issues",
+      "description": "A review of conceptual and analytical perspectives in social policy and coverage of major areas of persistent social problems, including health care, welfare reform, housing, education, reproductive issues, and gerontology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4211",
+      "courseId": "PUBP 4211",
+      "title": "Urban Policy",
+      "description": "Urban policy and urban economic development examined historically, nationally, and locally.  Approaches to urban development and redevelopment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4212",
+      "courseId": "PUBP 4212",
+      "title": "Women and Public Policy",
+      "description": "The status of women in American society as a function of rights and opportunities conferred upon women by governmental actions and as influenced by forces of social change.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4214",
+      "courseId": "PUBP 4214",
+      "title": "Gender, Science, Technology, and Public Policy",
+      "description": "The course focuses on the connections between gender, science, and technology, and issuues of public policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4226",
+      "courseId": "PUBP 4226",
+      "title": "Business and Government",
+      "description": "How government regulates business and markets, and how business exercises power and influence on government in areas such as antitrust, financial markets, safety and health, and environmental quality.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4410",
+      "courseId": "PUBP 4410",
+      "title": "Science, Technology, and Public Policy",
+      "description": "Examination of relationships between science, technology, and government, and their mutual influence on public and private decisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4414",
+      "courseId": "PUBP 4414",
+      "title": "Technology, Innovation, and Policy",
+      "description": "Theories and concepts of technological innovation and diffusion, economic development, and the role of public and private institutions in technological development at the firm, industry, regional, national, and international levels.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4440",
+      "courseId": "PUBP 4440",
+      "title": "Science, Technology, and Regulation",
+      "description": "Examines historical, legal, economic, and political rationales for regulation.  Survey of administrative law and processes, risk analysis/management, expertise and public, and current topical issues.   Credit not allowed for both PUBP 4440 and PUBP 6440.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4501",
+      "courseId": "PUBP 4501",
+      "title": "Info Policy & Management",
+      "description": "An introduction to the role of information and knowledge in modern private and public organizations. It covers theoretical and practical aspects of information seeking, gathering and use in organizations as well as knowledge creation and its role in private and public management.  Credit not awarded for both PUBP 4501 and PUBP 6501.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4514",
+      "courseId": "PUBP 4514",
+      "title": "Mass Communication Policy",
+      "description": "Examines mass media influences, activities, characteristics, and behavior with respect to the political process and government.  Structure of media markets, characteristics of news and advertising, and impacts of changing technologies on political processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4530",
+      "courseId": "PUBP 4530",
+      "title": "Introduction to Geographic Information Systems",
+      "description": "Overview of GIS concepts, methods, and terminology, Introduction to PC-based GIS software.  Applications to marketing, natural resource management, and public information systems. Students use case studies to design and implement actual projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4532",
+      "courseId": "PUBP 4532",
+      "title": "Advanced GIS Topics: Spatial Analysis, GIS Programming, and Map Internet Server",
+      "description": "Introduction to raster-based GIS software, Avenue script language, and map Internet server.  Applications to marketing, natural resource management, and public information systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4600",
+      "courseId": "PUBP 4600",
+      "title": "Senior Seminar/Thesis",
+      "description": "A capstone course usually taken in the student's last term before graduation, the senior seminar and thesis involves writing an original paper entailing policy analysis relevant to a public or nonprofit agency.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4609",
+      "courseId": "PUBP 4609",
+      "title": "Legal Practice",
+      "description": "This course develops skills in reading and comprehension of legal materials, analysis of legal writing, and document drafting in selected areas of law.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4620",
+      "courseId": "PUBP 4620",
+      "title": "Environmental Law",
+      "description": "Investigation of the principal environmental laws and regulations. The class will also consider philosophical and ethical underpinnings of environmental law.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4630",
+      "courseId": "PUBP 4630",
+      "title": "Law, Medicine, and Ethics",
+      "description": "This course will examine common ethical dilemmas and challenges in medicine, methods for thinking ethically, and how the law responds to these situations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4640",
+      "courseId": "PUBP 4640",
+      "title": "Technology Law, Policy, and Management",
+      "description": "An in-depth analysis of patent law and survey of other forms of intellectual property protection, including trademark, copyright, and trade secrets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4650",
+      "courseId": "PUBP 4650",
+      "title": "Internet Law",
+      "description": "Covers issues including copyright (including music/video file sharing), privacy; freedom of speech (including defamation and obscenity), jurisdiction, regulation, and crimes as applied to the Internet.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4651",
+      "courseId": "PUBP 4651",
+      "title": "Public Policy Internship",
+      "description": "Course projects related to professional internships. Topics, credit, and requirements to be arranged by student, instructor, and sponsor.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4652",
+      "courseId": "PUBP 4652",
+      "title": "OLA Legal Internship",
+      "description": "Supervised professional internship with the Georgia Tech Office of Legal Affairs.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4694",
+      "courseId": "PUBP 4694",
+      "title": "Intern Assistantship",
+      "description": "Undergraduate Internship for Public Policy for pay.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4695",
+      "courseId": "PUBP 4695",
+      "title": "Undergraduate Internship",
+      "description": "Undergraduate Internship for Public Policy for academic credit.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4698",
+      "courseId": "PUBP 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4699",
+      "courseId": "PUBP 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4725",
+      "courseId": "PUBP 4725",
+      "title": "Information Security Policies and Strategies",
+      "description": "Information security vulnerabilities and risks; legal, cost, privacy, and technology constraints; derivation of strategies; technical and procedural means of achieving desired ends. Credit not awarded for both PUBP 4725 and PUBP 6725/CS/MGT 4725/6725.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4726",
+      "courseId": "PUBP 4726",
+      "title": "Privacy, Technology, Policy and Law",
+      "description": "This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics and law business realms.  Credit will not be awarded for more than one of PUBP 4726, MGT 4726, MGT 6726, CS 4726 OR CS 6726.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4756",
+      "courseId": "PUBP 4756",
+      "title": "Technology Forecasting and Assessment",
+      "description": "Develops skills in methods for technology monitoring, forecasting, and assessment; draws on examples in various emerging technologies. Collection and analysis of quantitative and qualitative data on emerging technologies and their implications. Crosslisted with ISYE 4756.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4803",
+      "courseId": "PUBP 4803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4811",
+      "courseId": "PUBP 4811",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4812",
+      "courseId": "PUBP 4812",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4813",
+      "courseId": "PUBP 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4814",
+      "courseId": "PUBP 4814",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4815",
+      "courseId": "PUBP 4815",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4823",
+      "courseId": "PUBP 4823",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4833",
+      "courseId": "PUBP 4833",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4843",
+      "courseId": "PUBP 4843",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4901",
+      "courseId": "PUBP 4901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4902",
+      "courseId": "PUBP 4902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4903",
+      "courseId": "PUBP 4903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4951",
+      "courseId": "PUBP 4951",
+      "title": "Georgia Internship Program",
+      "description": "Work-study program assigning students to a project in state or local government.  Students prepare research papers analyzing their work experiences relative to theory from the social science or policy studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "4952",
+      "courseId": "PUBP 4952",
+      "title": "Legislative Internship Program",
+      "description": "Students work fulltime for the Georgia General Assembly for elected officials or committees. Students prepare research papers analyzing their work experiences relative to theory from the social science or policy studies. Spring semester only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6001",
+      "courseId": "PUBP 6001",
+      "title": "Introduction to Public Policy",
+      "description": "An introduction to the field of public policy, including an overview of the scope of the field and examples of public policy analysis.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6010",
+      "courseId": "PUBP 6010",
+      "title": "Ethics, Epistemology, and Public Policy",
+      "description": "Examination of the role of ethics and epistemology in public decision making including the effects of values of professionals on public institutions and private sector organizations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6012",
+      "courseId": "PUBP 6012",
+      "title": "Fundamentals of Policy Processes",
+      "description": "The political and governmental context of policy is presented, from agenda setting to evaluation. Examines constitutional and federal contexts of policy, the role of various input mechanisms in shaping policy decisions, the processes by which government institutions make decisions (and the interactions among these institutions), and approaches for understanding and anticipating policy decision making.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6014",
+      "courseId": "PUBP 6014",
+      "title": "Organization Theory",
+      "description": "A broad overview of the theoretical issues pertaining to the management of organizations.  The course explores both \"macro\" (i.e. external relations, strategies, and structures) organizational issues. While this is a survey course, we will be concentrating much of our attention on current challenges to bureaucracy as a form of organization. In particular, we will be using theories to examine trends toward re-engineering corporations or re-inventing government agencies.  Satisfies policy implementation, management, and organization theory requirement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6017",
+      "courseId": "PUBP 6017",
+      "title": "Public Management",
+      "description": "Using case studies and a field exercise, students will examine how public policies are executed and managed. Underlying the course is the assumption that public management, is the management of political authority and that strategic thinking can make for effective public management. Satisfies policy implementation, management and organization theory requirement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6018",
+      "courseId": "PUBP 6018",
+      "title": "Policy Implementation and Administration",
+      "description": "This course gives special attention to institutional processes in efforts to coordinate policy implementation at the federal level and within the intergovernmental context; the analysis of implementation and enforcement of policy by regulatory agencies with the support of state governments and private sector agents; challenges to implementation by policy type; and the analysis of policy tools and administrative discretion in implementation.  Satisfies policy implementation, management, and organization theory requirement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6111",
+      "courseId": "PUBP 6111",
+      "title": "Internet and Public Policy",
+      "description": "Analyzes policy implications of Internet architecture (Internet protocols, domain name system, packet switching, peer-to-peer) and surveys policy issues about content, privacy, intellectual property, and governance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6112",
+      "courseId": "PUBP 6112",
+      "title": "Research Design in Policy Science",
+      "description": "The objectives for this course include: (1) providing a broad overview of research methods and research criteria; (2) giving students the opportunity to conduct data-based research and analysis; (3) providing more specialized knowledge of one set of research techniques (e.g. survey research, case studies, experimentation - varies by term); (4) providing experience in presenting and defending research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6114",
+      "courseId": "PUBP 6114",
+      "title": "Applied Policy Methods and Data Analysis",
+      "description": "Development of the ability to extract meaning from multivariate data sets configured in formats amenable to statistical analysis in social science and policy analysis. This course introduces multivariate data collection, production, description, management and presentation for public policy; multivariate probability distributions; inferential statistics with multivariate data sets; graphical methods for multivariate data analysis; and the use of statistical programming languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6116",
+      "courseId": "PUBP 6116",
+      "title": "Microeconomics for Policy Analysis",
+      "description": "Microeconomic theory is studied with applications to public problems.  Students will be introduced to price-generating processes in an economy, demand and supply theory, market equilibrium, welfare economics, categories of market failure, and the public sector's role.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6118",
+      "courseId": "PUBP 6118",
+      "title": "Public Finance Policy",
+      "description": "Examines the theory, practice and policy implementations of federal, state, and local government budgeting and finance. Topics include government spending decisions with a focus on aggregate demand and supply, fiscal policy, budgeting practice, introduction to cost/benefit analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6120",
+      "courseId": "PUBP 6120",
+      "title": "Cost Benefit Analysis for Policy",
+      "description": "This course introduces Cost-Benefit Analysis theory and methods. Governments and other regulators can use Cost-Benefit analysis to increase the efficiency of public policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6201",
+      "courseId": "PUBP 6201",
+      "title": "Public Policy Analysis",
+      "description": "This course provides a capstone experience for public policy students.  The course addresses real-world policy issues and various approaches to analyzing them. The course relies heavily on cases and exercises.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6218",
+      "courseId": "PUBP 6218",
+      "title": "Quantitative Models in Public Policy",
+      "description": "This course lays a foundation for model building, and through the introduction of a variety of software packages will provide some hands-on experience with elementary model- building.  Decision models will be emphasized.  Some familiarity with data analysis, probability, and statistical models is assumed.  The goal of the course is to equip students with basic model building tools, familiarize them with common problems in modeling, and improve their ability to create and evaluate simple models of policy problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6221",
+      "courseId": "PUBP 6221",
+      "title": "Policy and Program Evaluation",
+      "description": "Approaches to evaluation policies and programs are presented using examples and case studies to contrast evaluation methods as well as the organizational and political context for evaluation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6226",
+      "courseId": "PUBP 6226",
+      "title": "Business and Government",
+      "description": "Examines government regulation of business operations and the economy from a broad perspective.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6300",
+      "courseId": "PUBP 6300",
+      "title": "Earth Systems",
+      "description": "Describes the scientific principles and interactions that make up the Earth's environmental system.  The course examines the interaction of natural and human influences that shape the development and operation of the Earth system and how public and private decision-making impacts this system.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6310",
+      "courseId": "PUBP 6310",
+      "title": "Environmental Issues",
+      "description": "Provides an overview of basic concepts and methods of environmental policy analysis and implementation through a case study approach.  Cases will range from local to global environmental policy issues.  The goal of the course will be to expose students to the broad range of social and physical problems referred to as \"environmental\" problems, and to orient the student for future work in the field.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6312",
+      "courseId": "PUBP 6312",
+      "title": "Economics of Environmental Policy",
+      "description": "This course addresses key concepts in environmental economics, including externalities, efficiency, social welfare and environmental quality as a public good. Addresses environmental problems (i.e. water resources, air quality, urbanization) and vehicles of collective environmental action.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6314",
+      "courseId": "PUBP 6314",
+      "title": "Policy Tools for Environmental Management",
+      "description": "Explores the various regulatory, managerial, and legal mechanisms available to policy analysts and decision makers for protecting environmental quality.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6326",
+      "courseId": "PUBP 6326",
+      "title": "Environmental Values and Policy Goals",
+      "description": "Examines the goals and objectives of environmentalists, with special attention to the literature of environmental ethics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6327",
+      "courseId": "PUBP 6327",
+      "title": "Sustainability and Environmental Policy",
+      "description": "This course explores the theory and practice of sustainable development, surveying areas of consensus and controversy in emerging thought on sustainability.  Credit not allowed for both PUBP 6327 and PUBP 6320.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6330",
+      "courseId": "PUBP 6330",
+      "title": "Environmental Law",
+      "description": "Presents the legal and institutional framework within which environmental law is developed and implemented in the in the United States and internationally. Also examines the major pollution control statutes, and reviews international law and conventions to address trans-boundary environmental issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6350",
+      "courseId": "PUBP 6350",
+      "title": "Energy Policy & Markets",
+      "description": "Examines theory and policy impacting production and utilization of energy in the U.S. and abroad. Addresses resource constraints, environmental impacts, and policy analysis tools.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6352",
+      "courseId": "PUBP 6352",
+      "title": "Utility Regulation and Policy",
+      "description": "Covers regulation of energy and water systems, including environmental laws, rate setting, purchase obligations, and policies influencing consumers, including solar systems and efficiency.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6354",
+      "courseId": "PUBP 6354",
+      "title": "Climate Policy",
+      "description": "Examines relevant scientific theory, the history of international negotiation and institutional, economic and technological alternatives to reduce emissions sources and/or adapt to climate change impacts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6360",
+      "courseId": "PUBP 6360",
+      "title": "Sustainable Energy & Environmental Management",
+      "description": "The course introduces the theory and philosophy of sustainability and how that theory is implemented through the public and private sectors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6401",
+      "courseId": "PUBP 6401",
+      "title": "Science, Technology, and Public Policy",
+      "description": "Examination of the relationships between science, technology, and government, including policies for support, control, and application of science and technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6402",
+      "courseId": "PUBP 6402",
+      "title": "Research Policy and Management",
+      "description": "Examines challenges in research policy and management. The research activities of public, private, and not-for-profit organizations are contrasted in examining strategic planning, allocation of resources, technology transfer, and research evaluation practices.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6403",
+      "courseId": "PUBP 6403",
+      "title": "Scientific Careers and Workplaces",
+      "description": "Focuses on key social and organizational dimensions of scientific careers and workplace sectors (academia, industry, and government).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6414",
+      "courseId": "PUBP 6414",
+      "title": "Technological Innovation and Government Policy",
+      "description": "Federal and state policies to stimulate innovation; sources and stimuli for innovation; role of universities and industry consortia; comparative innovation policy; evaluation of technology policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6415",
+      "courseId": "PUBP 6415",
+      "title": "Technology, Regions, and Policy",
+      "description": "Explores concepts, issues, and policies related to regional development, economic development, industrial change, and technology policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6417",
+      "courseId": "PUBP 6417",
+      "title": "Critical Perspectives on Science and Technology",
+      "description": "This course seeks to stimulate students' critical thinking about science and technology and their relationships to markets, politics and societies.  Discussions include topics such as the social organization of scientific and technical communities, the roles of economic and political forces in science and technology, the shaping of the technical workforce, and the implications of science and technology for concepts that go beyond utility and competitiveness to include justice and self-realization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6421",
+      "courseId": "PUBP 6421",
+      "title": "Development of Large-scale Socio-technical Systems",
+      "description": "Analyzes development of large systems such as smart highways, computer networks, electrical power, weapons, and space. Teaches practical skills including negotiation, coalition-building, strategy, and innovation politics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6440",
+      "courseId": "PUBP 6440",
+      "title": "Science, Technology, and Regulation",
+      "description": "Examines historical, legal, economic, and political rationales for regulation.  Survey of administrative law and processes, risk analysis/management, expertise and public, and current topical issues.  Credit not allowed for both PUBP 6440 and PUBP 4440.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6501",
+      "courseId": "PUBP 6501",
+      "title": "Information Policy and Management",
+      "description": "An introduction to the role of information and knowledge in modern private and public organizations. It covers theoretical and practical aspects of information seeking, gathering and use in organizations as well as knowledge creation and its role in private and public management.  Credit not awarded for both PUBP 6501 and PUBP 4501.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6502",
+      "courseId": "PUBP 6502",
+      "title": "Information and Communications Technology Policy",
+      "description": "Examination of the convergence of information technology, communications and telecommunication, policymaking within the executive/regulatory branches, special interest group role, and key domestic and international issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6514",
+      "courseId": "PUBP 6514",
+      "title": "Mass Communications Policy",
+      "description": "Traces the evolution of broadcasting, cable, and other mass media policies.  Examines the functioning/impact of mass communications in a changing technological environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6521",
+      "courseId": "PUBP 6521",
+      "title": "Globalization & Policy",
+      "description": "This course will serve as an introduction to the fundamental concepts, theories, conflicts, and issues of globalization and its effects on public policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6530",
+      "courseId": "PUBP 6530",
+      "title": "Introduction to Geographic Information Systems",
+      "description": "Introduction to the application of geographic information systems (GIS) to public policy issues. Students develop an understanding of GIS software and hardware components, develop facility with a desktop GIS software package, explore digital data availability on the Internet, learn data transfer procedures, learn cartographic projection methods, apply GIS and environmental management data to analyze a selected program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6540",
+      "courseId": "PUBP 6540",
+      "title": "Public Policy for the Digital World",
+      "description": "The political economy of the digital transformation: policy problems in AI regulation, money digitization, data governance, content regulation, platform competition, trade, industrial policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6600",
+      "courseId": "PUBP 6600",
+      "title": "Foundations of Local Economic Development Planning and Policy",
+      "description": "Introduction to the context, theory, process, and practice of local economic development planning and policy.  Topics covered include: differing theoretical and conceptual explanations of the economic development process; international, national, and regional factors affecting local economic development; federal, state, and local roles; key elements in the economic development process; and contrasting economic development approaches.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6602",
+      "courseId": "PUBP 6602",
+      "title": "Economic Development Analysis and Practice",
+      "description": "Strategy development, methods of analysis, and approaches to practice for urban and regional economic development policy and planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6604",
+      "courseId": "PUBP 6604",
+      "title": "Methods of Urban Policy Analysis and Planning",
+      "description": "Applies analytical techniques and practices of public policy and planning to urban issues, synthesizing varied public policy techniques and practices in a case study context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6606",
+      "courseId": "PUBP 6606",
+      "title": "Urban Development Policy",
+      "description": "Introduces elements of urban policy and urban economic development by examining them historically, nationally, and locally.  Approaches to urban development and redevelopment are analyzed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6701",
+      "courseId": "PUBP 6701",
+      "title": "Energy Technology Policy",
+      "description": "Examines energy production, use, and policy using quantitative engineering and policy analysis.  Addresses resource constraints, physical principles, and policy analysis methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6725",
+      "courseId": "PUBP 6725",
+      "title": "Information Security Policies and Strategies",
+      "description": "Information security vulnerabilities and risks; legal, cost, privacy and technology constraints; derivation of strategies; technical and procedural means of achieving desired ends. Credit not awarded for both PUBP 6725 and PUBP 4725/CS/MGT 4725/6725.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6726",
+      "courseId": "PUBP 6726",
+      "title": "Privacy, Technology, Policy, and Law",
+      "description": "This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics, law, and business realms.  Credit will not be awarded for more than one of PUB 6726, MGT 6726 or CS 6726.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6727",
+      "courseId": "PUBP 6727",
+      "title": "Cyber Security Practicum",
+      "description": "Capstone independent study project placing each student in a commercial, academic or government setting where he or she identifies a major cyber security problem, and explores and evaluates a solution that addresses it with realistic assumptions about the organizational context. The chose problem must be approved by course instructor. Cross-listed with ECE and CS 6727.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6740",
+      "courseId": "PUBP 6740",
+      "title": "Innovation, the State and Industrial Development in International Perspecitve",
+      "description": "Research seminar exploring the role of the state in industrial development, innovation and business-government relations. Special attention given to science and technology policies and their influence in different international and industrial contexts. Crosslisted with INTA 6740.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6741",
+      "courseId": "PUBP 6741",
+      "title": "Geography of Innovation",
+      "description": "Examination of the growing discussion on the knowledge economy, learning regions, innovation capacity, and place management and what those strategies mean for regional economies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6743",
+      "courseId": "PUBP 6743",
+      "title": "Science, Technology & Society: Core Seminar",
+      "description": "This survey course covers key works in Science, Technology & Society, and guest lectures introduce students to faculty doing STS-related research across the Ivan Allen College.  Credit not allowed for both PUBP 6743 and HTS 6743 or LCC 6743.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6748",
+      "courseId": "PUBP 6748",
+      "title": "Social Justice, Critical Theory, and Philosophy of Design",
+      "description": "Focuses on social justice from a Science, Technology, and Society (STS) point of view that is informed by critical theory and philosophy of design.  Credit not allowed for both PUBP 6748 and LCC 6748.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6749",
+      "courseId": "PUBP 6749",
+      "title": "Feminist Theory and Science and Technology Studies",
+      "description": "This course is an advanced science, technology and society (STS) seminar in feminist theory.  Credit not allowed for both PUBP 6749 and LCC 6749.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6753",
+      "courseId": "PUBP 6753",
+      "title": "Comparative Science and Technology Policy",
+      "description": "Examination of the social, political, and cultural contexts of science and technology, and how they affect the research, development, and regulatory policies of nations. Crosslisted with INTA 6753.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6760",
+      "courseId": "PUBP 6760",
+      "title": "Negotiation and Conflict Management",
+      "description": "Practical and theoretical instruction on techniques of negotiation and consensus building using training exercises and case studies.  Emphasizes environmental, policy, planning, and development disputes.  Crosslisted with CP 6760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6777",
+      "courseId": "PUBP 6777",
+      "title": "Analysis of Emerging Technologies",
+      "description": "This course develops skills in the use of selected methods for technology monitoring, forecasting, and assessment. Also examines current status and prospects in selected emerging technology domains.  Crosslisted with ISYE 6777.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "6801",
+      "courseId": "PUBP 6801",
+      "title": "Research Paper",
+      "description": "Either a professional policy research paper or a team research project including a co-authored policy research monograph prepared for a government or public affairs client.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "7000",
+      "courseId": "PUBP 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8101",
+      "courseId": "PUBP 8101",
+      "title": "Workshop on Policy Research I",
+      "description": "Course provides an overview of research and professional socialization. It presents topics partially satisfying GT RCR policy for in-person training. Student will brainstorm dissertation topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8102",
+      "courseId": "PUBP 8102",
+      "title": "Workshop on Policy Research II",
+      "description": "Course provides an overview of public policy research and professional socialization. It completes the sequence of topics satisfying GT RCR policy for in-person training.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8200",
+      "courseId": "PUBP 8200",
+      "title": "Advanced Research Methods I",
+      "description": "The course will cover advanced policy analysis and modeling methods, including regression models, and other topics as time permits.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8205",
+      "courseId": "PUBP 8205",
+      "title": "Advanced Research Methods II",
+      "description": "Building on Advanced Research Methods I, the course will cover advanced policy analysis and modeling methods, for example, panel data and nonparametric regression. Other policy research methods may be explored as time permits.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8211",
+      "courseId": "PUBP 8211",
+      "title": "Microeconomic Theory and Applications",
+      "description": "Extensions of microeconomic theory-consumer theory, firm theory, and markets-to situations involving many periods and uncertainty.  Introduces students to general equilibrium, externality, and welfare economics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8500",
+      "courseId": "PUBP 8500",
+      "title": "Research Seminar in Public Policy",
+      "description": "Exploration of the purpose of and approaches used in public policy research.  Requires development of original empirical research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8510",
+      "courseId": "PUBP 8510",
+      "title": "Logic of Policy Inquiry",
+      "description": "An examination of the role of knowledge claims in policy formulation and analysis. Policy formulations have embedded knowledge claims and the course will prepare students to assess the validity of arguments, the relevance and quality of evidence in policy knowledge claims and the role and merits of their assumptions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8520",
+      "courseId": "PUBP 8520",
+      "title": "Scope and Theory of Public Policy",
+      "description": "Overview of core literature of public policy including theories of public policy, the history of public policy studies, the institutional structure of policy analysis, the profession of policy research, and the intellectual bases of public policy studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8530",
+      "courseId": "PUBP 8530",
+      "title": "Advanced Science and Technology Policy",
+      "description": "Overview of core literature of technology and science policy, theories of innovation, intellectual foundations of technology and science policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8540",
+      "courseId": "PUBP 8540",
+      "title": "Advanced Environmental Policy",
+      "description": "Overview of core literature of environmental policy, theories of environmental policy, intellectual foundations of environmental policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8550",
+      "courseId": "PUBP 8550",
+      "title": "Advanced Urban and Regional Economic Development Policy",
+      "description": "Overview of core literature of economic development policy, theories of economic development in urban and regional settings, intellectual foundations of economic development policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8590",
+      "courseId": "PUBP 8590",
+      "title": "Dissertation Colloquium",
+      "description": "Seminar focusing on dissertation research preparation, culminates in public colloquium in which students present preliminary dissertation proposal.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8751",
+      "courseId": "PUBP 8751",
+      "title": "Big Data and Public Policy",
+      "description": "Introduces fundamentals of big data and quantitative methods for public policy and social science applications. Topics for applications vary by semester.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8801",
+      "courseId": "PUBP 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8802",
+      "courseId": "PUBP 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8803",
+      "courseId": "PUBP 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8811",
+      "courseId": "PUBP 8811",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8812",
+      "courseId": "PUBP 8812",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8813",
+      "courseId": "PUBP 8813",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8821",
+      "courseId": "PUBP 8821",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8822",
+      "courseId": "PUBP 8822",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8823",
+      "courseId": "PUBP 8823",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8831",
+      "courseId": "PUBP 8831",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8832",
+      "courseId": "PUBP 8832",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8833",
+      "courseId": "PUBP 8833",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8900",
+      "courseId": "PUBP 8900",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8910",
+      "courseId": "PUBP 8910",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8920",
+      "courseId": "PUBP 8920",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8930",
+      "courseId": "PUBP 8930",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8940",
+      "courseId": "PUBP 8940",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8950",
+      "courseId": "PUBP 8950",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8997",
+      "courseId": "PUBP 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding a teaching assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8998",
+      "courseId": "PUBP 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding a research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "8999",
+      "courseId": "PUBP 8999",
+      "title": "Preparation for the Doctoral Qualifying Examination",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PUBP",
+      "courseNumber": "9000",
+      "courseId": "PUBP 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 171,
+  "scrapedAt": "2025-08-16T02:00:49.065Z"
+}

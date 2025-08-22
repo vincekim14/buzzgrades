@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "FREN",
+  "courseNumber": "1001",
+  "courseId": "FREN 1001",
+  "title": "Elementary French I",
+  "description": "Introduction to listening, speaking, reading, and writing in French and to the culture of French-speaking regions. Some aspects of everyday life in the French speaking world will also be introduced. Humanities credit awarded for FREN 1001 upon successful completion of FREN 1002 or FREN 2001.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:33.721Z"
+}

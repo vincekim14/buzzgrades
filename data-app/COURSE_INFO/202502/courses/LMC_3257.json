@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "3257",
+  "courseId": "LMC 3257",
+  "title": "Japanese Cinema",
+  "description": "This course examines selected movements, styles, and trends in world cinema, emphasizing how contemporary film's global nature affects cultural representation.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of C and (LMC 2000 Undergraduate Semester Minimum Grade of C or LMC 2500 Undergraduate Semester Minimum Grade of C or LMC 2400 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:41:06.114Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CP",
+  "courseNumber": "6581",
+  "courseId": "CP 6581",
+  "title": "Programming For GIS",
+  "description": "This course teaches fundamental programming skills for geoprocessing and data presentation in a geographic information system environment. The primary languages used are Python and Javascript.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CP 4510 Undergraduate Semester Minimum Grade of D or CP 6514 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:44.283Z"
+}

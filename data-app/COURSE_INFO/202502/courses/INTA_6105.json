@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "6105",
+  "courseId": "INTA 6105",
+  "title": "Intl Institutional Dsgn",
+  "description": "This course examines international institutions and their effect on foreign policy decision makers. Specific topics include: the theoretical study of cooperation; supranatural organizations and informal institutions.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:10.901Z"
+}

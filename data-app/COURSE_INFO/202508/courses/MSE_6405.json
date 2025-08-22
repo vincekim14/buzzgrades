@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "6405",
+  "courseId": "MSE 6405",
+  "title": "Advanced Nanomaterials",
+  "description": "Topics include the synthesis and growth processes controlling quantum dot formation, nanowires, and three- dimensional self-assembled nanostructures.  Additional characterization techniques and emerging applications are presented.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:50.874Z"
+}

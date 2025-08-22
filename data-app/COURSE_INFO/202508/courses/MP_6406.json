@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MP",
+  "courseNumber": "6406",
+  "courseId": "MP 6406",
+  "title": "Radiation Dosim &amp; Prot",
+  "description": "Introduction to the calculation of radiation dose, dosimetry, and health physics.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:46.195Z"
+}

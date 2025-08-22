@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4052",
+  "courseId": "MGT 4052",
+  "title": "Systems Analysis&amp; Design",
+  "description": "An introductory course on the development life cycle of business information systems. It covers analysis and design tools and methodology.  Credit not allowed for both MGT 4052 and CS 4052.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 4058 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:41:28.589Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "3743",
+  "courseId": "MGT 3743",
+  "title": "Emerging Technologies",
+  "description": "Analysis of emerging technologies and their impacts for firm practice, market practice, policy, and society.  Credit not allowed for both MGT 3743 and ME 3743 or CS 3743.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:16.404Z"
+}

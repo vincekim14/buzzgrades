@@ -1,0 +1,1177 @@
+{
+  "subject": "MSE",
+  "subjectName": "Materials Science & Engr (MSE)",
+  "url": "https://catalog.gatech.edu/coursesaz/mse/",
+  "courses": [
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "1111",
+      "courseId": "MSE 1111",
+      "title": "Introduction to Materials Science and Engineering",
+      "description": "A general introduction to the field of Materials Science and Engineering and the MSE curriculum at Georgia Tech.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "1750",
+      "courseId": "MSE 1750",
+      "title": "Introduction to Bioengineering",
+      "description": "An introduction to the field of bioengineering, including the application of engineering principles and methods to problems in biology and medicine, the integration of engineering with biology, and the emerging industrial opportunities. Crosslisted with AE, BMED, CHE, ECE, and ME 1750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "1801",
+      "courseId": "MSE 1801",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "1802",
+      "courseId": "MSE 1802",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "1803",
+      "courseId": "MSE 1803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "2001",
+      "courseId": "MSE 2001",
+      "title": "Principles and Applications of Engineering Materials",
+      "description": "The structure-property-processing-performance relationships of engineering materials are described. Materials selection is treated as a part of engineering design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "2021",
+      "courseId": "MSE 2021",
+      "title": "Materials Characterization",
+      "description": "The fundamentals of basic microstructural and compositional materials characterization techniques are presented with an emphasis on tools using electromagnetic radiation and electrons as stimuli.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "2698",
+      "courseId": "MSE 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "2699",
+      "courseId": "MSE 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "2801",
+      "courseId": "MSE 2801",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "2802",
+      "courseId": "MSE 2802",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "2803",
+      "courseId": "MSE 2803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3001",
+      "courseId": "MSE 3001",
+      "title": "Chemical Thermodynamics of Materials",
+      "description": "Principles and applications of thermodynamics to materials science and engineering.  Phase equilibria and the concepts necessary to interpret phase diagrams.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3002",
+      "courseId": "MSE 3002",
+      "title": "Structural Transformations in Metallic, Ceramic, and Polymeric Systems",
+      "description": "Principles that govern the important structural transformations that occur in engineering materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3005",
+      "courseId": "MSE 3005",
+      "title": "Mechanical Behavior of Materials",
+      "description": "The correlation of mechanical properties with atomic bonding, microstructure, and micromechanics, for applications relevant to materials selection and design, mechanical forming, and failure of materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3012",
+      "courseId": "MSE 3012",
+      "title": "Thermal and Transport Properties of Materials",
+      "description": "The thermophysical and transport properties of solids and fluids, i.e. heat capacity, expansion, viscosity, conduction, convection, and radiation are discussed, along with thermal analysis instrumentation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3015",
+      "courseId": "MSE 3015",
+      "title": "Electrical, Optical, and Magnetic Properties",
+      "description": "Introduction to quantum mechanics and the band theory of solids to describe semiconducting, superconducting, dielectric, optical, and magnetic properties of nano- and micro-structured materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3021",
+      "courseId": "MSE 3021",
+      "title": "Materials Laboratory I",
+      "description": "Characterization of engineering properties of materials through hands-on experiments.   Instruction on basic laboratory skills, safety, statistical analysis of data, use of laboratory notebooks and technical report writing.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3025",
+      "courseId": "MSE 3025",
+      "title": "Statistics and Numerical Methods in Materials Science and Engineering",
+      "description": "Concepts of computational modeling and statistics, with examples based on materials science and engineering applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3210",
+      "courseId": "MSE 3210",
+      "title": "Transport Phenomena",
+      "description": "An introduction to transport emphasizing applications to materials.  Credit not allowed for MSE 3210.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3220",
+      "courseId": "MSE 3220",
+      "title": "Operations and Management Methods",
+      "description": "Principles and applications of production and operations management to the manufacturing enterprise, including process flow analysis, production planning and scheduling, optimization, quality management and facilities planning. Restricted to MSE majors.  Credit not allowed for MSE 3220.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3225",
+      "courseId": "MSE 3225",
+      "title": "Rheology",
+      "description": "Introduction to non-Newtonian fluid mechanics and rheology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3230",
+      "courseId": "MSE 3230",
+      "title": "Polymer and Fiber Processing",
+      "description": "Discussion of the principles of fiber formation from polymers including rheology, mechanics, energetics, phase transition, and polymer structure. High-performing fiber processing, and plastics processing.  Credit not allowed for both MSE 3230 and PTFE 3230.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3300",
+      "courseId": "MSE 3300",
+      "title": "Materials Science & Engineering of Sports",
+      "description": "The structure-property-performance relationships of engineered materials are described as it relates to past, present, and future use in sports.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3720",
+      "courseId": "MSE 3720",
+      "title": "Introduction to Polymer/Fiber Enterprise",
+      "description": "Approaches the manufacture of engineered fibrous structures from a manager's viewpoint and gives a working knowledge and understanding of various processes used in producing polymers/fibers/fiber products.  Restricted to non-MSE majors.  Credit not allowed for MSE 3720.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3801",
+      "courseId": "MSE 3801",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3802",
+      "courseId": "MSE 3802",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "3803",
+      "courseId": "MSE 3803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4002",
+      "courseId": "MSE 4002",
+      "title": "Ceramic Materials: Properties, Processing, Applications",
+      "description": "Properties, processing, and applications of the industrially and technically important ceramic materials. Traditional and oxide ceramics in addition to glass and nonoxide ceramics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4004",
+      "courseId": "MSE 4004",
+      "title": "Materials in Electronic Applications",
+      "description": "Basics of photolithography, screen printing, and tape casting.  Requirements for fuel cells, magnetic nanocomposites, flat-panel displays, gas sensors, piezoelectric acutators, photonic crystals, etc.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4006",
+      "courseId": "MSE 4006",
+      "title": "Processing and Applications of Engineering Alloys",
+      "description": "Solidification, deformation, and powder processing of metals and alloy;, microstructural design at nano- and meso-length scales; and structure-property correlations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4010",
+      "courseId": "MSE 4010",
+      "title": "Environmental Degradation",
+      "description": "Theory of environmental degradation of metals, ceramics, polymers, and biomaterials.  Emphasis on the scientific principles of corrosion and physical degradation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4022",
+      "courseId": "MSE 4022",
+      "title": "Materials Laboratory II",
+      "description": "Processing, structure, properties relationships are explored through a series of hands-on experiments. Instruction on basic laboratory skills, safety, statistical analysis of data, use of laboratory notebooks and technical report writing.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4025",
+      "courseId": "MSE 4025",
+      "title": "Fiber Product Manufacturing",
+      "description": "The manufacture of fiber products and their process- structure-property relationships are detailed, covering fibers, yarns, fabrics, nonwovens, carpets, composites, and related materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4026",
+      "courseId": "MSE 4026",
+      "title": "Testing and Evaluation of Polymer and Fiber Products",
+      "description": "Properties influencing the end use performance of fiber and polymer products including that of plastic materials will be tested using standard ASTM, AATC and federal test methods.  Standard statistical tools will be used to analyze and interpret the test data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4100",
+      "courseId": "MSE 4100",
+      "title": "Chemical Applications to Fiber Materials",
+      "description": "The chemical, thermal, and mechanical processes used in the preparation, coloration, printing and finishing of polymeric fiber materials are explored.  Credit not allowed for MSE 4100.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4105",
+      "courseId": "MSE 4105",
+      "title": "Deformation and Fracture of Materials",
+      "description": "Deformation and fracture of metals, ceramics, polymers and composites for applications relevant to material selection and design, mechanical forming processes, and analysis of engineering failures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4122",
+      "courseId": "MSE 4122",
+      "title": "Fiber Chemistry Lab",
+      "description": "Laboratory course in preparation, coloration and finishing of fiber materials.  Credit not allowed for MSE 4122.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4140",
+      "courseId": "MSE 4140",
+      "title": "Polymer Physics",
+      "description": "Physical chemistry of polymer solutions, polymer miscibility, adsorptions, sorptions, plasticization, molecular weights, molecular weight distributions. Study of polymer surfaces.  Credit not allowed for MSE 4140.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4230",
+      "courseId": "MSE 4230",
+      "title": "Industrial Ctrls In MFG",
+      "description": "Introduction to industrial controls in manufacturing, process modeling, control of continuous-variable processes, digital control, discrete control, and control of manufacturing systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4315",
+      "courseId": "MSE 4315",
+      "title": "Nondestructive Evaluation",
+      "description": "Principles and theory of industrial nondestructive evaluation methods are covered.  Emphasis is on testing the soundness and reliability of primary and secondary engineering structures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4320",
+      "courseId": "MSE 4320",
+      "title": "Electronic Packaging and Design",
+      "description": "Electronic packaging design, covering properties of materials, fabrication and assembly processes, thermal-mechanical considerations, practical concerns regarding interconnection and processing issues, and reliability assessment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4325",
+      "courseId": "MSE 4325",
+      "title": "Thin Film Materials Science",
+      "description": "Introduction to principal vapor deposition processes and vacuum technology. The fundamentals of the formation, characterization, and properties of inorganic nano- to micro-scale thin films.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4330",
+      "courseId": "MSE 4330",
+      "title": "Fundamentals of Nanomaterials and Nanostructures",
+      "description": "Introduction to nanotechnology.  Description of various nanomaterials, their applications and synthesis methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4335",
+      "courseId": "MSE 4335",
+      "title": "Soft Nano and Bio Materials",
+      "description": "Introduction soft nanomaterials and nanostructures that have been discovered and synthesized for prospective applications in nanotechnology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4410",
+      "courseId": "MSE 4410",
+      "title": "Capstone Engineering Design I",
+      "description": "A capstone engineering design course covering the principles of concurrent product/process design and development.  Team-based projects will explore product/process design and development.  Credit not allowed for MSE 4410.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4420",
+      "courseId": "MSE 4420",
+      "title": "Capstone Engineering Design II",
+      "description": "A team problem-solving approach is used to work on a project developed in cooperation with industry.  Weekly communications, both oral and written, are required.   Credit not allowed for MSE 4420.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4698",
+      "courseId": "MSE 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4699",
+      "courseId": "MSE 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4723",
+      "courseId": "MSE 4723",
+      "title": "Interdisciplinary Capstone Design",
+      "description": "Seniors will work in teams to apply a systematic design process to real multi-disciplinary problems. Problems selected from a broad spectrum of interest areas, including biomedical, environmental, mechanical, industrial design, electrical and thermal/fluids. Projects must be based on the knowledge and skills acquired in earlier course work, and incorporate appropriate engineering standards and multiple realistic constraints. Emphasis is placed on the design process, the technical aspects of the design, and on reducing the proposed design to practice.  The course consists of faculty and guest lectures, prototyping in design studios, and a multi-disciplinary design project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4740",
+      "courseId": "MSE 4740",
+      "title": "Biologically Inspired Design",
+      "description": "We examine evolutionary adaptation as a source for engineering design inspiration, utilizing principles of scaling, adaptability, and robust multifunctionality that characterize biological systems.  Credit not allowed for both MSE 4740 and (BIOL 4740 or ISYE 4740 or ME 4740).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4751",
+      "courseId": "MSE 4751",
+      "title": "Introduction to Biomaterials",
+      "description": "Introduction to different classes of biomaterials (polymers, metals, ceramics) and physiological responses to biomaterial implantation. Topics include material properties, host response, and biomaterial characterization techniques. Crosslisted with BMED 4751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4754",
+      "courseId": "MSE 4754",
+      "title": "Electronics Packaging Assembly, Reliability, Thermal Management, and Test",
+      "description": "The course provides hands-on instruction in electronics packaging, including assembly, reliability, thermal management, and test of next-generation microsystems. Crosslisted with ECE and ME 4754.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4755",
+      "courseId": "MSE 4755",
+      "title": "Electronic Packaging Substrate Fabrication",
+      "description": "This course provides students with hands-on instruction in basic SOP concepts and techniques, including interconnect design, substrate material selection and properties, photodielectric deposition, via formation and photolithography, copper metallization, and finally, substrate testing. Laboratory instructions are augmented by an interactive multimedia educational presentation that makes the course work material remotely accessible via the internet.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4759",
+      "courseId": "MSE 4759",
+      "title": "Electrochemical Energy Storage and Conversion",
+      "description": "An elective class for senior-level students interested in electrochemical storage and conversion, including the fundamentals of electrochemistry and practical battery and fueld cells. Cross-listed with ChBE and ME 4759.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4761",
+      "courseId": "MSE 4761",
+      "title": "Industrial Controls and Manufacturing",
+      "description": "Students are introduced to industrial controls and the fundamentals of manufacturing with hands-on experience based on lab projects using industry software and hardware for communications and control. Credit not allowed for MSE 4761.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4766",
+      "courseId": "MSE 4766",
+      "title": "Fabrication and Properties of Nanoscale Devices",
+      "description": "Fundamental properties at the nanoscale for photonics and sensors.  Nanoscale fabrication methods including thin films, ion beam, lithography, electroplating, and example case studies in NEMS/MEMS and photonics.  Credit not allowed for both MSE 4766 and ME 4766.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4775",
+      "courseId": "MSE 4775",
+      "title": "Polymer Science and Engineering I: Formation and Properties",
+      "description": "An introduction to the chemistry, structure, and formation of polymers, physical states and transitions, physical and mechanical properties of polymer fluids and solids. Crosslisted with CHE, CHEM, and ME 4775.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4776",
+      "courseId": "MSE 4776",
+      "title": "Polymer Science and Engineering II: Analysis, Processing, and Laboratory",
+      "description": "Polymer fabrication processes and methods of characterization and identification of polymers are presented. Experiments in polymerization, processing, and property evaluation of polymers. Crosslisted with CHE, CHEM, ME, and TFE 4776.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4790",
+      "courseId": "MSE 4790",
+      "title": "Materials Selection and Design",
+      "description": "Principles of selecting materials and processes for engineering applications.  Methodologies for designing new materials and conceiving hybrid solutions.  Credit not allowed for both MSE 4790 and ME 4213 (or ME 4790).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4791",
+      "courseId": "MSE 4791",
+      "title": "Mechanical Behavior of Composites",
+      "description": "Introduction to properties and structures of common matrix and reinforcing materials, mechanics of fiber-reinforced composites, lamina and laminate analysis, and mechanical performance. Crosslisted with AE, CEE, CHE, and ME 4791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4793",
+      "courseId": "MSE 4793",
+      "title": "Composite Materials and Processing",
+      "description": "Basic principles of selecting component materials and manufacturing composites are presented.  Polymeric, metallic, and ceramic systems are considered. Crosslisted with AE, CEE, CHE, and ME 4793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4794",
+      "courseId": "MSE 4794",
+      "title": "Composite Materials and Manufacturing",
+      "description": "Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with AE, CEE, CHE, and ME 4794.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4795",
+      "courseId": "MSE 4795",
+      "title": "Fundamental Elements of Nuclear Reactor Materials",
+      "description": "Introduction to fundamentals of nuclear reactor materials.  Topics covered are basics of radiation damage, defect creation and evolution, microstructure-property correlations in cladding and fuel of nuclear materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4801",
+      "courseId": "MSE 4801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4802",
+      "courseId": "MSE 4802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4803",
+      "courseId": "MSE 4803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4901",
+      "courseId": "MSE 4901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "4902",
+      "courseId": "MSE 4902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6001",
+      "courseId": "MSE 6001",
+      "title": "Written and Visual Communications",
+      "description": "Writing and editing engineering documents; designing and explaining visuals; creating electronic presentations. May not be used for duplicate credit with MSE 6754.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6010",
+      "courseId": "MSE 6010",
+      "title": "Fundamentals of Functional Materials",
+      "description": "This course focuses on the effects of defects on physical properties; charge/mass transport; semiconductors, heterojunctions, electrical and magnetic polarization, interaction processes between various physical properties; electrical characterization techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6105",
+      "courseId": "MSE 6105",
+      "title": "Diffraction Studies",
+      "description": "Principles and theory of crystallography and diffraction analysis of materials are covered, emphasizing X-ray diffraction, including electron diffraction and diffraction-based imaging.  Reciprocal lattice concepts are emphasized.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6110",
+      "courseId": "MSE 6110",
+      "title": "Transmission Electron Microscopy",
+      "description": "Introduction to the kinematical electron scattering theory, optics in TEM, diffraction contrast imaging of defects, dynamical electron diffraction effects; and chemical microanalysis using EDS.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6120",
+      "courseId": "MSE 6120",
+      "title": "Quantitative Characterization of Microstructures",
+      "description": "Application of statistically unbiased methods for estimating geometrical attributes of microstructures and nonplanar fracture surfaces from plane sections and projections, digital image analysis, and computer simulations of microstructures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6130",
+      "courseId": "MSE 6130",
+      "title": "Surface Analysis",
+      "description": "Introduction to vacuum science and technology; structure of solid surfaces; electron and ion energy analyzers, electron spectroscopies (e.g., AES and XPS); ion-based techniques (e.g., SIMS and RBS); depth profiling; ion channeling.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6140",
+      "courseId": "MSE 6140",
+      "title": "Computational Materials Science and Engineering",
+      "description": "This course aims to provide a broad understanding of a spectrum of modern state-of-the-art computational methods used in materials science and engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6210",
+      "courseId": "MSE 6210",
+      "title": "Defects",
+      "description": "Emphasis on the origin and character of point, line, and surface defects in crystalline materials and their influence on mechanical, chemical, magnetic, optical, and electronic properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6310",
+      "courseId": "MSE 6310",
+      "title": "Thermodynamics and Kinetics of Transformations",
+      "description": "Classical thermodynamics and phase equlibria with applications to chemical reactions, control of phase transformations via reduction of chemical-free energy, strain energy, and interfacial energy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6334",
+      "courseId": "MSE 6334",
+      "title": "Materials for Energy Storage and Conversion",
+      "description": "Scientific principles concerning the transfer, capture, and storage of energy harnessed from various sources, including solar, wind, geothermal, and biomass.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6335",
+      "courseId": "MSE 6335",
+      "title": "Fundamentals of Soft Nanomaterials and Nanostructures",
+      "description": "Fundamentals and applications of soft (polymer and biological) nanomaterials such as colloidal assemblies, self-assembled structures, energy devices, photonic materials, drug delivery, flexible electronics, soft robotics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6401",
+      "courseId": "MSE 6401",
+      "title": "Thermodynamics of Materials",
+      "description": "To examine the principles of thermodynamics as applied to equilibria associated with solutions, mixtures, chemical reactions, and interfaces in materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6402",
+      "courseId": "MSE 6402",
+      "title": "Crystallography, Structure and Defects",
+      "description": "Provides students with a fundamental understanding of crystal structures, symmetry, origin, character, defects in crystalline materials, and the influence of these defects on different properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6403",
+      "courseId": "MSE 6403",
+      "title": "Kinetics of Phase Transformations",
+      "description": "To introduce the fundamentals of thermodynamics and mathematics to the kinetics of diffusional and non-diffusional phase transformation in engineering materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6404",
+      "courseId": "MSE 6404",
+      "title": "Scattering Theory",
+      "description": "A general introduction to the scattering/diffraction of electromagnetic radiation from solids.  The kinematical formalism is developed emphasizing x-ray scattering as a characterization tool.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6405",
+      "courseId": "MSE 6405",
+      "title": "Advanced Nanomaterials",
+      "description": "Topics include the synthesis and growth processes controlling quantum dot formation, nanowires, and three- dimensional self-assembled nanostructures.  Additional characterization techniques and emerging applications are presented.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6406",
+      "courseId": "MSE 6406",
+      "title": "Corrosion of Materials",
+      "description": "To introduce students to the basic kinetic mechanisms associated with the interactions of materials with liquids and gases.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6407",
+      "courseId": "MSE 6407",
+      "title": "Biological Properties",
+      "description": "Addresses structure-property relationship of cellular components.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6408",
+      "courseId": "MSE 6408",
+      "title": "Quantum Mechanics - MSE",
+      "description": "Fundamental of quantum mechanics of atoms, molecules and solids necessary for engineers to understand the electronic, optical and thermal properties of inorganic and organic materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6409",
+      "courseId": "MSE 6409",
+      "title": "Fundamentals of Corrosion",
+      "description": "Course covers thermodynamics, and kinetics of metallic corrosion in electrolytes and high-temperature oxidation. Different forms of corrosion, their mechanisms, and corrosion control methods are discussed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6411",
+      "courseId": "MSE 6411",
+      "title": "Thermodynamics of Materials",
+      "description": "This course introduces structural features of materials, including point/space groups, representative crystal structures, quasi-crystals, amorphous and rubbery state, liquid crystals, colloids, solutions, and effect of symmetry on properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6412",
+      "courseId": "MSE 6412",
+      "title": "Structure of Materials",
+      "description": "This course introduces structural features of materials, including point/space groups, representative crystal structures, quasi-crystals, amorphous and rubbery state, liquid crystals, colloids, solutions, and effect of symmetry on properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6500",
+      "courseId": "MSE 6500",
+      "title": "Thermodynamics of Materials",
+      "description": "To examine the principles of thermodynamics as applied to equilibria associated with solutions, mixtures, chemical reactions, and interfaces in materials.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6501",
+      "courseId": "MSE 6501",
+      "title": "Phase Equilibria",
+      "description": "The object of this course is to review the concepts of phase equilibria in ceramic and metallic systems and develop the methodology to calculate phase diagrams in these systems.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6502",
+      "courseId": "MSE 6502",
+      "title": "Thermo Analysis",
+      "description": "To examine the principles of thermodynamics as applied to equilibria associated with mixtures and solutions.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6510",
+      "courseId": "MSE 6510",
+      "title": "Polymers for Electronic and Photonic Applications I",
+      "description": "Review of fundamentals and principles of polymers used in electronics and photonics;  relationships between the advances of semiconductor technology and the importance of polymers and their applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6600",
+      "courseId": "MSE 6600",
+      "title": "Advanced Polymer Processing",
+      "description": "Common polymer processing techniques and recent advancement; Modeling of polymer processing focusing on how to build a sound model; Computer aided engineering for polymer processing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6601",
+      "courseId": "MSE 6601",
+      "title": "Carbon Nanotubes, Graphene, and Nanocomposites",
+      "description": "Synthesis, characterization, and properties of carbon nanotubes and graphene.  Carbon nanotube and graphene dispersion in various media.  Carbon nanotube and graphene nano-composites processing and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6602",
+      "courseId": "MSE 6602",
+      "title": "Tensor Analysis and Mathematical Techniques for Materials",
+      "description": "Introduction to tensor analysis and mathematical techniques for solving problems enountered in materials physics, processing and characterization, particularily involving polymeric fluids and solids.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6603",
+      "courseId": "MSE 6603",
+      "title": "Natural Polymers",
+      "description": "The structures and properties of natural products are presented.  Production of cellulose and proteins in discussed.  Credit not allowed for both MSE 6603 and PTFE 6301.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6610",
+      "courseId": "MSE 6610",
+      "title": "Biomaterials",
+      "description": "The course will emphasize the interaction between the human body environment and synthetic materials. Materials for both medical implants and dental restoration and appliances will be covered.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6620",
+      "courseId": "MSE 6620",
+      "title": "Advanced Corrosion",
+      "description": "The emphasis will be on electrochemical corrosion and dry oxidation of metals and alloys.  In the laboratory, the student will be introduced to the methodology of corrosion testing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6730",
+      "courseId": "MSE 6730",
+      "title": "Materials Science of Cellular Components",
+      "description": "Addresses structure-property relationship of cellular components.  Credit not allowed for both MSE 6730 and BMED 6730.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6750",
+      "courseId": "MSE 6750",
+      "title": "Preparation & Reactions of Polymers",
+      "description": "A detailed treatment of the reactions involved in the synthesis of both human-made and natural polymers, including preparation and degradative reactions of polymer systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6751",
+      "courseId": "MSE 6751",
+      "title": "Physical Chemistry of Polymer Solutions",
+      "description": "Study of polymer solutions, polymer miscibility, adsorption, sorptions, plasticization, molecular weights, molecular weight distribution, and interfacial phenomena using thermodynamics and statistical mechanics. Crosslisted with CHEM, CHE, and PTFE 6751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6752",
+      "courseId": "MSE 6752",
+      "title": "Polymer Characterization",
+      "description": "This course introduces the student to surface, near-surface and structural methods of polymer characterization. Specialized techniques critical to physical structure are emphasized. Crosslisted with CHEM, CHE, and PTFE 6752.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6754",
+      "courseId": "MSE 6754",
+      "title": "Engineering Communication",
+      "description": "Writing and editing engineering documents; designing and explaining visuals; creating and delivering electronic presentations. Crosslisted with CEE 6754.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6755",
+      "courseId": "MSE 6755",
+      "title": "Theoretical Chemistry of Polymers",
+      "description": "Thermodynamics and microscopic dynamics of polymers. Fundamental concepts, including scaling concepts, governing anisotropy of polarizability, phase transitions, morphology, time-dependent correlations, etc. are discussed. Crosslisted with CHEM and PTFE 6755.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6757",
+      "courseId": "MSE 6757",
+      "title": "Advanced Polymer Chemistry",
+      "description": "Advanced topics in synthetic polymerization methodology, polymer structure, and polymer properties in solution and the solid state.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6759",
+      "courseId": "MSE 6759",
+      "title": "Materials in Environmentally Conscious Design and Manufacturing",
+      "description": "Covers the environmental impact of materials choices and quantitative measure of life-cycle assessment and environmental burden.  The Natural Step philosophy will be used as a model for the overall approach. Crosslisted with ME and PTFE 6759.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6768",
+      "courseId": "MSE 6768",
+      "title": "Polymer Structure, Physical Properties, and Characterization",
+      "description": "Formulations and analysis of molecular and phenomenological models of elastic and viscoelastic behavior, development and description of structure, and fundamental aspects of structure-property relations.  Crosslisted with TFE, CHE, and ME 6768.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6774",
+      "courseId": "MSE 6774",
+      "title": "Biomaterials: Structure and Function",
+      "description": "Structure-function relationships of biomaterials and biomaterial characterization will be covered. Materials for medical implants, tissue engineering, biosensing, imaging, and drug delivery will be covered. Crosslisted with BMED, CHE, and ME 6774.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6775",
+      "courseId": "MSE 6775",
+      "title": "Polymer Communications",
+      "description": "Oral and written presentation of modern polymer topics, with an emphasis on constructive and ethical critical thinking in a group setting.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6776",
+      "courseId": "MSE 6776",
+      "title": "Integrated Low-cost Microelectronics Systems Packaging",
+      "description": "Broad overview of system-level, cross-disciplinary microelectronics packaging technologies, including design, test, thermal, reliability, optoelectronics, and RF integration.  Comparison of system-to-chip and system-to-package. Crosslisted with ECE and ME 6776.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6777",
+      "courseId": "MSE 6777",
+      "title": "Advanced Biomaterials",
+      "description": "Advanced topics of biomaterials performance and engineering, including biointerfaces, host reactions to materials, and bio-inspired/smart-materials strategies. Crosslisted with BMED, CHE, and ME 6777.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6795",
+      "courseId": "MSE 6795",
+      "title": "Mathematical, Statistical, and Computational Techniques in Materials Science",
+      "description": "Fundamental physical, analytical, and mathematical techniques encountered in materials engineering including stress and strain, crystallographic and orientation transformations, X-ray, TEM, and solid-state concepts are emphasized. Crosslisted with ME and PTFE 6795.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6796",
+      "courseId": "MSE 6796",
+      "title": "Structure-Property Relationships in Materials",
+      "description": "Introduction to the multi-scale structure effects on material properties.  Course will prepare students for future in-depth courses.  Crosslisted with PTFE and ME 6796.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "6797",
+      "courseId": "MSE 6797",
+      "title": "Thermodynamics and Kinetics of Microstructural Evolution",
+      "description": "The reduction of chemical-free, strain, and interfacial energies control of the kinetics of diffusional transformations. These factors are explored from the viewpoint of processing and stability of microstructure during service. Crosslisted with PTFE and ME 6797.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7000",
+      "courseId": "MSE 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7010",
+      "courseId": "MSE 7010",
+      "title": "Electroceramics",
+      "description": "Defects chemistry; electrochemical and electrophysical behavior of metallic/semiconducting ceramics, dielectrics, and ferrites; device applications of various electronic ceramics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7110",
+      "courseId": "MSE 7110",
+      "title": "Advanced Transmission Electron Microscopy",
+      "description": "Introduction to theory, techniques, and applications of high-resolution transmission electron microscopy (HRTEM) in materials research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7140",
+      "courseId": "MSE 7140",
+      "title": "Impedance and Dielectric Spectroscopy",
+      "description": "The basic theory of how current, voltage, and phase angle measurements over a wide frequency range (typically mHz-MHz) can provide information about microstructural features at all length scales.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7210",
+      "courseId": "MSE 7210",
+      "title": "Dislocation and Deformation Mechanics",
+      "description": "Emphasis on interactions of dislocations with other defects, dislocation dynamics, and their correlation with mechanical properties under different rates of loading.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7420",
+      "courseId": "MSE 7420",
+      "title": "Solidification Processing",
+      "description": "Fundamentals of thermodynamics, kinetics, mass transport, and physical materials are applied to the development of microstructure during solidification.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7510",
+      "courseId": "MSE 7510",
+      "title": "Polymers for Electronic and Photonic Applications II",
+      "description": "Review of fundamentals and principles of polymers used in electronics and photonics. The relationship between the recent advances of semiconductor technology and the importance of polymers will be discussed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7757",
+      "courseId": "MSE 7757",
+      "title": "Teaching Practicum",
+      "description": "Students will learn about what it takes to be a faculty through sills needed for “delivery of lecture” via the practice of teaching.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7771",
+      "courseId": "MSE 7771",
+      "title": "Mechanics of Polymer Solids and Fluids",
+      "description": "Continuum mechanics of solids and fluids; mechanics of deformation of anisotropic polymers; yield, breaking and fatigue; non-Newtonian vioscous and viscoelastic behavior of polymer fluids. Crosslisted with CHE, ME and PTFE 7771.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7772",
+      "courseId": "MSE 7772",
+      "title": "Fundamentals of Fracture Mechanics",
+      "description": "Advanced study of failure of structural materials under load, mechanics of fracture, and microscopic and macroscopic aspects of the fracture of engineering materials. Crosslisted with AE, CEE, CHE, and ME 7772.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7773",
+      "courseId": "MSE 7773",
+      "title": "Advanced Fracture Mechanics",
+      "description": "Nonlinear fracture mechanics including elastic-plastic and time-dependent fracture, advanced test methods, J-integral theory, and extensions. Crosslisted with AE, CEE, CHE, and ME 7773.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7774",
+      "courseId": "MSE 7774",
+      "title": "Fatigue of Materials and Structures",
+      "description": "Mechanical and microstructural aspects of nucleation and growth of cracks under cyclic loading conditions, notch effects, cumulative damage, multiaxial loading, and fatigue crack propagation.  Crosslisted with AE, CEE, CHE, and ME 7774.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7775",
+      "courseId": "MSE 7775",
+      "title": "Topics in Fracture and Fatigue of Metallic and Composite Structures",
+      "description": "Brittle and ductile failure criteria. Failure prediction in composite structures. Free-edge and internal delamination. Anisotropic cracks. Fatigue behavior of composites and comparison with metal fatigue. Crosslisted with AE, CHE, and ME 7775.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7791",
+      "courseId": "MSE 7791",
+      "title": "Damage, Failure, and Durability of Composite Material",
+      "description": "Analysis and failure of fiber-reinforced composite material systems.  Mechanisms of toughening, multiple cracking mechanisms.  Failure in woven fabric, braided, and special geometry composites.  Crosslisted with AE, CHE, CEE, ME, and PTFE 7791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7792",
+      "courseId": "MSE 7792",
+      "title": "Advanced Mechanics of Composites",
+      "description": "Anisotropic elasticity, hygrothermal behavior, stress analysis of laminated composites including 3-D effects, stress concentrations, free-edge effects, thick laminates, adhesive and mechanical connections, fracture of composites. Crosslisted with AE, CHE, CEE, ME, and PTFE 7792.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "7793",
+      "courseId": "MSE 7793",
+      "title": "Manufacturing of Composites",
+      "description": "Major manufacturing techniques for metal, ceramic, and polymer composites. Modeling of processes with emphasis on fundamental mechanisms and effects.  Crosslisted with AE, CHE, CEE, ME, and PTFE 7793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8001",
+      "courseId": "MSE 8001",
+      "title": "Seminar",
+      "description": "The latest advances in research and development will be presented by the enrolled students from articles in recent issues of recognized periodicals.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8200",
+      "courseId": "MSE 8200",
+      "title": "Advanced Presentation Skills",
+      "description": "Designing and explaining visuals; creating and delivering scientific electronic presentations; learning to speak and present to a variety of audiences.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8801",
+      "courseId": "MSE 8801",
+      "title": "Special Topics",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8802",
+      "courseId": "MSE 8802",
+      "title": "Special Topics",
+      "description": "Special topic offering of current interest not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8803",
+      "courseId": "MSE 8803",
+      "title": "Special Topics",
+      "description": "Special topic offering of current interest not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8813",
+      "courseId": "MSE 8813",
+      "title": "Special Topics",
+      "description": "Special Topics in MSE.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8901",
+      "courseId": "MSE 8901",
+      "title": "Special Problems",
+      "description": "Lectures, laboratory, and library work on special topics of current interest in materials suitable for a master's degree candidate.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8902",
+      "courseId": "MSE 8902",
+      "title": "Special Problems",
+      "description": "Lectures, laboratory, and library work on special topics of current interest in materials suitable for a master's degree candidate.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8903",
+      "courseId": "MSE 8903",
+      "title": "Special Problems",
+      "description": "Lectures, laboratory, and library work on special topics of current interest in materials suitable for a master's degree candidate.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8997",
+      "courseId": "MSE 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "8998",
+      "courseId": "MSE 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding a research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "9000",
+      "courseId": "MSE 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MSE",
+      "courseNumber": "9999",
+      "courseId": "MSE 9999",
+      "title": "GT-PKU",
+      "description": "For GT-PKU students during terms when they are not taking other GT courses.  Placeholder course.",
+      "creditHours": "12"
+    }
+  ],
+  "totalCourses": 146,
+  "scrapedAt": "2025-08-16T02:00:45.907Z"
+}

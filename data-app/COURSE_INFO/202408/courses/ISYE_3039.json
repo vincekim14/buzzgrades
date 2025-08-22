@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "3039",
+  "courseId": "ISYE 3039",
+  "title": "Methods-Quality Improve",
+  "description": "Topics include quality system requirements, designed experiments, process capability analysis, measurement capability, statistical process control, and acceptance sampling plans. Credit will not be awarded for both ISYE 3039 and ISYE 6382.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3030 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:54.318Z"
+}

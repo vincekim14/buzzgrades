@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "3201",
+  "courseId": "PUBP 3201",
+  "title": "Intro To Social Policy",
+  "description": "A survey of public policies directed toward social problems in America and their evolution and reform. Development of role of government in addressing issues related to poverty and social welfare.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:08.890Z"
+}

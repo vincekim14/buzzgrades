@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BC",
+  "courseNumber": "3620",
+  "courseId": "BC 3620",
+  "title": "Real Est&amp;Cnst Fin&amp;Acct",
+  "description": "General introduction to the financing of construction and real estate development projects. Emphasis on financing requirements, activities, sources, and uses.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 2620 Undergraduate Semester Minimum Grade of D and BC 2630 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:09.151Z"
+}

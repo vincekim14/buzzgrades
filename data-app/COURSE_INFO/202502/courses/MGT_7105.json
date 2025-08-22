@@ -1,0 +1,20 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "7105",
+  "courseId": "MGT 7105",
+  "title": "Individual Behav In Orgs",
+  "description": "This Ph.D. course is designed to investigate organizational behavior research topics at the individual level of analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)",
+    "__HEADER_2__Must be enrolled in one of the following Classes:",
+    "__DETAIL_2__Ph.D. (DR)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:50.910Z"
+}

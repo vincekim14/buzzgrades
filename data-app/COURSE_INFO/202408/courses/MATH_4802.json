@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "4802",
+  "courseId": "MATH 4802",
+  "title": "Mathematical Problem Solving",
+  "description": "Courses on special topics of current interest in mathematics.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:33.800Z"
+}

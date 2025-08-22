@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "6130",
+  "courseId": "ECE 6130",
+  "title": "Adv VLSI Systems",
+  "description": "An advanced treatment of VLSI systems analysis, design, and testing with emphasis on complex systems and how they are incorporated into a silicon environment.  Credit is not allowed for both ECE 4130 and ECE 6130.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3150 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:44.948Z"
+}

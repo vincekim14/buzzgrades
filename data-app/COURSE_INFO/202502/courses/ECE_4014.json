@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4014",
+  "courseId": "ECE 4014",
+  "title": "ECE Culminating Design 2",
+  "description": "Second course in a culminating design sequence.  Student teams design, build, test, document, demonstrate prototype system reflective of knowledge gained as an undergraduate engineering student.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 4013 Undergraduate Semester Minimum Grade of C) and ((ECE 3025 Undergraduate Semester Minimum Grade of C and ECE 3040 Undergraduate Semester Minimum Grade of C) or (ECE 3058 Undergraduate Semester Minimum Grade of C))",
+  "lastUpdated": "2025-08-20T02:38:40.978Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "AE",
+  "courseNumber": "4610",
+  "courseId": "AE 4610",
+  "title": "Dynamics &amp; Control Lab",
+  "description": "Experiments in dynamics and control related to aerospace engineering topics.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 2610 Undergraduate Semester Minimum Grade of D and AE 2010 Undergraduate Semester Minimum Grade of D and AE 3531 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:58.981Z"
+}

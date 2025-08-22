@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BC",
+  "courseNumber": "4050",
+  "courseId": "BC 4050",
+  "title": "Building Info Modeling",
+  "description": "This course introduces students to BIM and the changes it has been causing to the traditional design, planning, management, construction, facility management, and contracting practices.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:09.371Z"
+}

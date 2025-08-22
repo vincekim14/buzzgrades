@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MUSI",
+  "courseNumber": "7100",
+  "courseId": "MUSI 7100",
+  "title": "Music Tech Research Lab",
+  "description": "Advisor guided research and creative work in music technology. Investigation of novel technological and artistic concepts. Design and develop new hardware, software, and musical artifacts.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:25.195Z"
+}

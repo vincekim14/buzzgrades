@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CEE",
+  "courseNumber": "4620",
+  "courseId": "CEE 4620",
+  "title": "Environ Impact Assess",
+  "description": "Key policy, planning, and methodological issues in the environmental impact assessment of engineering systems including the regulatory framework and analytical techniques.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:01.153Z"
+}

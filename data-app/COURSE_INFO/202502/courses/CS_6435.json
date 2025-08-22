@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "6435",
+  "courseId": "CS 6435",
+  "title": "Digital Health Equity",
+  "description": "This course introduces individual, interpersonal, and societal influences on health; how these create health disparities, and how digital health technologies can help achieve health equity.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:48.042Z"
+}

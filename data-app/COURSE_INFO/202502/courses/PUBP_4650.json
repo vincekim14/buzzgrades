@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "4650",
+  "courseId": "PUBP 4650",
+  "title": "Internet Law",
+  "description": "Covers issues including copyright (including music/video file sharing), privacy; freedom of speech (including defamation and obscenity), jurisdiction, regulation, and crimes as applied to the Internet.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:53.433Z"
+}

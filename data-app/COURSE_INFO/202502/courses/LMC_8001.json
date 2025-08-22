@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "8001",
+  "courseId": "LMC 8001",
+  "title": "Digital Media Studies",
+  "description": "Advanced work in production and critique of new media forms. Students cannot receive credit for LMC 8001 and LCC 8001.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:17.610Z"
+}

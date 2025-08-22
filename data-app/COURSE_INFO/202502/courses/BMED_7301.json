@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "7301",
+  "courseId": "BMED 7301",
+  "title": "Adv Sem-Cellular&amp;Biomole",
+  "description": "This seminar course illustrates the development of micro- and nano-scale engineering approaches for studies of biomolecules and cells and their applications to medicine.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 6782 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:03.894Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "4470",
+  "courseId": "CS 4470",
+  "title": "User Interface Software",
+  "description": "Concepts, techniques, structures, and strategies for implementation of interactive software. Credit not awarded for both CS 4470 and CS 6456.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2340 Undergraduate Semester Minimum Grade of C and (CS 3750 Undergraduate Semester Minimum Grade of C or PSYC 3750 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:39:13.953Z"
+}

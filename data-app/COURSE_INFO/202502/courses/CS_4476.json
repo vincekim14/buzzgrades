@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4476",
+  "courseId": "CS 4476",
+  "title": "Intro to Computer Vision",
+  "description": "Introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, stereo, motion estimation and tracking, image classification and scene understanding. Credit will not be awarded for both CS 4476 and CS 4495 or CS 6476.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2605 Undergraduate Semester Minimum Grade of D or MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 24X1 Undergraduate Semester Minimum Grade of T or MATH 2411 Undergraduate Semester Minimum Grade of D or MATH 2550 Undergraduate Semester Minimum Grade of D or MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2561 Undergraduate Semester Minimum Grade of D or MATH 2X51 Undergraduate Semester Minimum Grade of T) and (MATH 1553 Undergraduate Semester Minimum Grade of D or MATH 1X54 Undergraduate Semester Minimum Grade of T or MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1564 Undergraduate Semester Minimum Grade of D) and ((CS 2110 Undergraduate Semester Minimum Grade of C or CS 2261 Undergraduate Semester Minimum Grade of C) or (ECE 2020 Undergraduate Semester Minimum Grade of C and ECE 2035 Undergraduate Semester Minimum Grade of C)) and (CS 3510 Undergraduate Semester Minimum Grade of C or CS 3511 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:37:37.245Z"
+}

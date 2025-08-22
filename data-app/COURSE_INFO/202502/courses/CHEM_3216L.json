@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "3216L",
+  "courseId": "CHEM 3216L",
+  "title": "Analytical Chem Lab",
+  "description": "Introduction to the practice of modern chemical analysis.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "CHEM 3216",
+  "prerequisites": "CHEM 2211 Undergraduate Semester Minimum Grade of D or CHEM 2214 Undergraduate Semester Minimum Grade of D or (CHEM 2216L Undergraduate Semester Minimum Grade of D and CHEM 2216 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:36:32.860Z"
+}

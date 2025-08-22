@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "6777",
+  "courseId": "MSE 6777",
+  "title": "Advanced Biomaterials",
+  "description": "Advanced topics of biomaterials performance and engineering, including biointerfaces, host reactions to materials, and bio-inspired/smart-materials strategies. Crosslisted with BMED, CHE, and ME 6777.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 6776 Graduate Semester Minimum Grade of D or CHBE 6776 Graduate Semester Minimum Grade of D or ME 6776 Graduate Semester Minimum Grade of D or MSE 6776 Graduate Semester Minimum Grade of D or PTFE 6776 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:03.085Z"
+}

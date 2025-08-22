@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "PSYC",
+  "courseNumber": "4601",
+  "courseId": "PSYC 4601",
+  "title": "Senior Thesis II",
+  "description": "The second of a two course sequence in which selected students conduct original work under the direction of a faculty member.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 4600 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:42:22.437Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MGT",
+  "courseNumber": "2255",
+  "courseId": "MGT 2255",
+  "title": "Quant. Anlys. for Bus.",
+  "description": "This course focuses on the problem-solving and decision-making processes that use quantitative management science concepts and techniques. Credit will not be awarded for both MGT 2255 and MGT 2251.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 2250 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:28.463Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "3120",
+  "courseId": "PUBP 3120",
+  "title": "Stat Analysis-Pub Policy",
+  "description": "Introduction to probability, descriptive statistics, inferential statistics and analysis, and spreadsheets. Emphasis application of basic statistical concepts to public policy and administration problems.  Credit not allowed for both PUBP 3120 and PUBP 4113.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:50.202Z"
+}

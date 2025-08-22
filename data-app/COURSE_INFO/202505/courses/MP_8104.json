@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MP",
+  "courseNumber": "8104",
+  "courseId": "MP 8104",
+  "title": "Clinic Rotation-Med Phys",
+  "description": "Four hundred supervised contact hours of clinical internship in diagnostic imaging, nuclear medicine, and radiation oncology at the affiliated clinical facilities.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:06.417Z"
+}

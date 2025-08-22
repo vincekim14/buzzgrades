@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ID",
+  "courseNumber": "3031",
+  "courseId": "ID 3031",
+  "title": "Health Des Studio 1",
+  "description": "The application of systematic user-centered design methods and research to projects focused on the design development of new and/or improved health-related products with an emphasis on inclusive design.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 2024 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:14.596Z"
+}

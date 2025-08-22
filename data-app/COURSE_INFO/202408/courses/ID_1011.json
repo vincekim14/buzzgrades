@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ID",
+  "courseNumber": "1011",
+  "courseId": "ID 1011",
+  "title": "Ind Des Fundamentals 1",
+  "description": "Art and design theory and practice in Industrial Design including an introduction to process, methodology, ergonomics, research tools and user research. Focus is on fundamental design principles based on design history and practice.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ID 1101 and ID 1401 and ID 1418",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:11.503Z"
+}

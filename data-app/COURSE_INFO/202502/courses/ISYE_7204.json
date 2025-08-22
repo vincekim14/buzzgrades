@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "7204",
+  "courseId": "ISYE 7204",
+  "title": "Info Prod &amp; Ser Sys",
+  "description": "A course covers integration of statistics, signal processing and control for variability reduction (modeling, analysis, diagnosis, control) for complex systems in a data rich environment.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6405 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:44.753Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "4706",
+  "courseId": "MUSI 4706",
+  "title": "Music Tech Capstone II",
+  "description": "Students will implement their broad theoretical and practical knowledge and understanding of music technology in a hands on project, culminating in a public and industry presentation.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MUSI 4705 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:03.365Z"
+}

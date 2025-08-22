@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CETL",
+  "courseNumber": "8797",
+  "courseId": "CETL 8797",
+  "title": "Oral Comm Intl Grads",
+  "description": "In this class, students work on fluency, pronunciation clarity, and appropriateness in spoken communication to prepare for effective and confident participation in their academic communities. Credit will not be awarded for both CETL 8797 and CETL 8793.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:10.084Z"
+}

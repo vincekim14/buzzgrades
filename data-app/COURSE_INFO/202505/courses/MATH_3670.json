@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "MATH",
+  "courseNumber": "3670",
+  "courseId": "MATH 3670",
+  "title": "Statistics and Applns",
+  "description": "Introduction to probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression and analysis of variance. Students cannot receive credit for both MATH 3670 and MATH 3770 or ISYE 3770 or CEE 3770.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 2411 Undergraduate Semester Minimum Grade of D or MATH 24X1 Undergraduate Semester Minimum Grade of T or MATH 2605 Undergraduate Semester Minimum Grade of D or MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2561 Undergraduate Semester Minimum Grade of D or MATH 2550 Undergraduate Semester Minimum Grade of D or MATH 2X51 Undergraduate Semester Minimum Grade of T",
+  "lastUpdated": "2025-08-20T02:41:49.052Z"
+}

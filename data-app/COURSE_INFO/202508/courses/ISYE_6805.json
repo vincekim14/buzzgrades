@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ISYE",
+  "courseNumber": "6805",
+  "courseId": "ISYE 6805",
+  "title": "Reliability Engineering",
+  "description": "Topics include hazard functions, life distributions, censoring, life tables, nonparametric and parametric estimation and inference, accelerated life testing, structure functions, reliability and maintenance systems, replacement theory.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 2027 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:09.404Z"
+}

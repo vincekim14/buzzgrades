@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "3237",
+  "courseId": "CS 3237",
+  "title": "Human Dimension Cybersec",
+  "description": "This course will illuminate the human dimension of cybersecurity, and explore the attitudes, behaviors and perceptions associated with different stakeholders in cybersecurity.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1301 Undergraduate Semester Minimum Grade of C or CS 1315 Undergraduate Semester Minimum Grade of C or CS 1371 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:29.934Z"
+}

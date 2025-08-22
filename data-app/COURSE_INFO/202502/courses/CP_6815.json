@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CP",
+  "courseNumber": "6815",
+  "courseId": "CP 6815",
+  "title": "Cinema City",
+  "description": "Explores people's response to cities, augmenting the empirical analysis that is urban studies domain with the subjective perspectives of cinematic artists.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:53.710Z"
+}

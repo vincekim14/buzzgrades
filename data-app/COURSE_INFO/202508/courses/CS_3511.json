@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "3511",
+  "courseId": "CS 3511",
+  "title": "Algorithms Honors",
+  "description": "Techniques of design and analysis of efficient algorithms for standard computational problems.  NP-Completeness Project.  Credit not allowed for both CS 3511 and CS 3510.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 2050 Undergraduate Semester Minimum Grade of C or CS 2051 Undergraduate Semester Minimum Grade of C or MATH 2106 Undergraduate Semester Minimum Grade of C) and (CS 1332 Undergraduate Semester Minimum Grade of C or MATH 3012 Undergraduate Semester Minimum Grade of D or MATH 3022 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:38:22.615Z"
+}

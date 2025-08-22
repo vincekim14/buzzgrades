@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "6344",
+  "courseId": "AE 6344",
+  "title": "Aircraft Design II",
+  "description": "Students work together on this application to complete the preliminary design stage of a specific aircraft or missile. Participants are exposed to disciplinary and interdisciplinary issues.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 6343 Graduate Semester Minimum Grade of D and AE 6383 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:13.837Z"
+}

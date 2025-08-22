@@ -1,0 +1,393 @@
+{
+  "subject": "NEUR",
+  "subjectName": "Neuroscience (NEUR)",
+  "url": "https://catalog.gatech.edu/coursesaz/neur/",
+  "courses": [
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2000",
+      "courseId": "NEUR 2000",
+      "title": "Principles of Neuroscience for non-majors",
+      "description": "Students will learn fundamental principles and methods in neuroscience from problem-based study of the neural substrates of animal behavior. For Non-Neuroscience Majors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2000R",
+      "courseId": "NEUR 2000R",
+      "title": "NEUR 2000 Recitation",
+      "description": "Recitation for NEUR 2000.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2001",
+      "courseId": "NEUR 2001",
+      "title": "Principles in Neuroscience",
+      "description": "Students will learn fundamental principles and methods in neuroscience from problem-based study of te neural subtrates of animal behavior.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2001R",
+      "courseId": "NEUR 2001R",
+      "title": "Introduction to Neuroscience Recitation",
+      "description": "Recitation for NEUR 2001.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2010",
+      "courseId": "NEUR 2010",
+      "title": "Principles of Neuroscience for Majors",
+      "description": "Students will learn fundamental principles and methods in neuroscience through problem-based study of the neural substrates of animal behavior. For Non-Neuroscience Majors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2010L",
+      "courseId": "NEUR 2010L",
+      "title": "Principles of Neuroscience Lab",
+      "description": "Students will learn fundamental techniques and methods in neuroscience from activities, experiments, and problem-based study of the neural substrates of animal behavior. For Neuroscience Majors.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2010R",
+      "courseId": "NEUR 2010R",
+      "title": "NEUR 2010 Recitation",
+      "description": "Recitation for NEUR 2010.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2698",
+      "courseId": "NEUR 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2699",
+      "courseId": "NEUR 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2801",
+      "courseId": "NEUR 2801",
+      "title": "Special Topics in Neuroscience",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2802",
+      "courseId": "NEUR 2802",
+      "title": "Special Topics in Neuroscience",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2803",
+      "courseId": "NEUR 2803",
+      "title": "Special Topics in Neuroscience",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2804",
+      "courseId": "NEUR 2804",
+      "title": "Special Topics in Neuroscience",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "2901",
+      "courseId": "NEUR 2901",
+      "title": "Special Problems",
+      "description": "Special Problems.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "3001",
+      "courseId": "NEUR 3001",
+      "title": "Cell and Molecular Neuroscience",
+      "description": "An overview of principles and techniques in cell and molecular neuroscience: neuron excitability, synaptic transmission, learning and memory to basic mechanisms of neurological diseases.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "3002",
+      "courseId": "NEUR 3002",
+      "title": "Neural Systems, Networks, and Behavior",
+      "description": "This course explores how animal behaviors emerge from neuronal networks and systems, with a specific focus on principles of network operation and computational applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "3003",
+      "courseId": "NEUR 3003",
+      "title": "Neuroscience of Behavior",
+      "description": "This course examines the biological basis of psychology. Behavioral Neuroscience is an interdisciplinary science that aims to investigate the interaction between brain and behavior. Credit will not be awarded for PSYC 4020 and NEUR 3003.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "3010",
+      "courseId": "NEUR 3010",
+      "title": "Methods in Neuroscience",
+      "description": "The course is focused on understanding how information about brain and nervous system function can be determined from a wide range of experimental and data analysis techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "3231",
+      "courseId": "NEUR 3231",
+      "title": "Introduction to Neuroengineering",
+      "description": "An introduction to the intersection between neuroscience and neurotechnology, including identification of key aspects of the nervous system as the basis for measurement and intervention.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "3801",
+      "courseId": "NEUR 3801",
+      "title": "Special Topics in Neuroscience",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "3802",
+      "courseId": "NEUR 3802",
+      "title": "Special Topics in Neuroscience",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "3803",
+      "courseId": "NEUR 3803",
+      "title": "Special Topics in Neuroscience",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "3804",
+      "courseId": "NEUR 3804",
+      "title": "Special Topics in Neuroscience",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4001",
+      "courseId": "NEUR 4001",
+      "title": "Neuroscience Research Project",
+      "description": "Focused on multidisciplinary perspectives in neuroscience, this course requires that students utilize and apply the skills and knowledge developed over the course of their major.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4100",
+      "courseId": "NEUR 4100",
+      "title": "Neurodevelopment",
+      "description": "An introduction to the principles of developmental biology of the nervous system, more specifically how neurons and born and connect to one another to form a nervous system.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4200",
+      "courseId": "NEUR 4200",
+      "title": "Functional Neuroanatomy",
+      "description": "The purpose of this course is to learn the functional organization of nervous systems with an emphasis on mammalian central and peripheral neuroanatomy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4238",
+      "courseId": "NEUR 4238",
+      "title": "Ion Channels in Health and Disease",
+      "description": "We will examine the role of ion channels in diverse human diseases and learn basic biophysical properties, structure, normal physiology and pharmacology of ion channels.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4300",
+      "courseId": "NEUR 4300",
+      "title": "Neuroscience of Memory",
+      "description": "How does the nervous system support learning and memory? How does memory guide behavior and decisions? Course emphasizes mammalian brain, but students consider fundamental mechanisms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4400",
+      "courseId": "NEUR 4400",
+      "title": "Neuroendocrinology",
+      "description": "An introduction to study of the interactions of the nervous and endocrine systems, specifically covering how the brain regulates the hormonal activity in the body.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4601",
+      "courseId": "NEUR 4601",
+      "title": "Neuroscience Thesis Research",
+      "description": "A course in which selected students conduct original research under the direction of a faculty member.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4696",
+      "courseId": "NEUR 4696",
+      "title": "Undergraduate Teaching Assistantship",
+      "description": "Neuroscience teaching assistantship for pay under the guidance of a faculty member. Permit only.\nNote: This course cannot count toward Neuroscience Electives or Free Electives.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4697",
+      "courseId": "NEUR 4697",
+      "title": "Undergraduate Teaching Experience",
+      "description": "An introduction to teaching neuroscience for undergraduate teaching assistants, with a focus on effective teaching, active engagement of students, and development of innovative classroom activities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4698",
+      "courseId": "NEUR 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4699",
+      "courseId": "NEUR 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4740",
+      "courseId": "NEUR 4740",
+      "title": "Neuroethics",
+      "description": "This course considers the implications of neuroscience research on culture, society, the legal system, and on how individuals conceive of their nature as human beings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4801",
+      "courseId": "NEUR 4801",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4802",
+      "courseId": "NEUR 4802",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4803",
+      "courseId": "NEUR 4803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4804",
+      "courseId": "NEUR 4804",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4805",
+      "courseId": "NEUR 4805",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4806",
+      "courseId": "NEUR 4806",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4808",
+      "courseId": "NEUR 4808",
+      "title": "Special Topics",
+      "description": "Special Topics in Neuroscience.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4814",
+      "courseId": "NEUR 4814",
+      "title": "Special Topics",
+      "description": "Topics of current interest not included in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "4901",
+      "courseId": "NEUR 4901",
+      "title": "Special Problems",
+      "description": "Special Problems.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "6001",
+      "courseId": "NEUR 6001",
+      "title": "Principles of Neuroscience and Neurotechnology",
+      "description": "This course provides an overview of the underlying biological processes that give rise to neural activity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "6002",
+      "courseId": "NEUR 6002",
+      "title": "Neurophysiology",
+      "description": "The course will focus on function and adaptations of muscular and neural systems. Interactions among the various systems and their plasticity will be emphasized.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "6003",
+      "courseId": "NEUR 6003",
+      "title": "Cognitive Neuroscience",
+      "description": "This course examines the foundations of Cognitive Neuroscience, including the biological mechanisms underlying cognition, the dominant theories, and the experimental techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NEUR",
+      "courseNumber": "9000",
+      "courseId": "NEUR 9000",
+      "title": "Doctoral Research",
+      "description": "Doctoral research.",
+      "creditHours": "1"
+    }
+  ],
+  "totalCourses": 48,
+  "scrapedAt": "2025-08-16T02:00:46.502Z"
+}

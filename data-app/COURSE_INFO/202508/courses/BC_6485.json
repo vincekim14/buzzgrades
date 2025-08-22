@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BC",
+  "courseNumber": "6485",
+  "courseId": "BC 6485",
+  "title": "MGMT of Precon as Owner",
+  "description": "This course covers the management and oversight activities of the owner and program manager conducted during the pre-design and design phases of a construction project.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:05.500Z"
+}

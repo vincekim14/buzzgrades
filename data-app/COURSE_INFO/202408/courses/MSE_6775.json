@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MSE",
+  "courseNumber": "6775",
+  "courseId": "MSE 6775",
+  "title": "Polymer Communications",
+  "description": "Oral and written presentation of modern polymer topics, with an emphasis on constructive and ethical critical thinking in a group setting.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:20.459Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MUSI",
+  "courseNumber": "6201",
+  "courseId": "MUSI 6201",
+  "title": "Audio Content Analysis",
+  "description": "This class addresses theory and techniques of Music Information Retrieval (MIR). Topics include computational analysis of audio signals, symbolic representations, and pattern recognition techniques. Credit will not be awarded for both MUSI 6201 and MUSI 4457.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:56.926Z"
+}

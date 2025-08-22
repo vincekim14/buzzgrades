@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "6317",
+  "courseId": "LMC 6317",
+  "title": "Interactive Fiction",
+  "description": "Students create interactive fictions in a variety of formats including intersecting story worlds, interactive characters, simulations, and replay worlds. Students cannot receive credit for LMC 6317 and LCC 6317, LMC 6317 and LCC 4720, or LMC 6317 and LMC 4720.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:13.797Z"
+}

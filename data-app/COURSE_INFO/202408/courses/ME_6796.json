@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "6796",
+  "courseId": "ME 6796",
+  "title": "Struct-Property Relation",
+  "description": "Introduction to the multi-scale structure effects on material properties.  For MSE students, this course will prepare students for future in-depth courses. For non-MSE students, the course will provide a background in materials and may serve as part of the program of study for a minor in materials.  Crosslisted with MSE and PTFE 6796.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:00.838Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CSE",
+  "courseNumber": "6010",
+  "courseId": "CSE 6010",
+  "title": "Computational Prob Solv",
+  "description": "Computing principles, computer architecture, algorithms and data structure; software development, parallelism. No credit for graduate students or undergraduates in Computer Science or Computational Media.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1371 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:40.431Z"
+}

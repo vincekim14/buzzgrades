@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "4535",
+  "courseId": "CHBE 4535",
+  "title": "Chemical Product Design",
+  "description": "Chemical engineering principles applied to the design of products.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHEM 2312 Undergraduate Semester Minimum Grade of D or CHEM 2313 Undergraduate Semester Minimum Grade of D) or CHBE 3120 Undergraduate Semester Minimum Grade of D or MSE 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:15.026Z"
+}

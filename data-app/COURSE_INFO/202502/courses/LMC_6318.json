@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "6318",
+  "courseId": "LMC 6318",
+  "title": "Experimental Media",
+  "description": "Students will develop the critical, intellectual, and creative tools necessary to understand, work with, and reimagine design at the developmental stages of emerging technologies. Students cannot receive credit for LMC 6318 and LCC 6318.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:14.051Z"
+}

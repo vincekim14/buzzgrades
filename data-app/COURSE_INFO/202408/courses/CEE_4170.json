@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4170",
+  "courseId": "CEE 4170",
+  "title": "Construction Law",
+  "description": "Overview includes legal concepts, the mechanics of the judicial system, professional liability and other legal issues as they pertain to construction engineers.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 4100 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:22.148Z"
+}

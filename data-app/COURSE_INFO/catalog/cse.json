@@ -1,0 +1,369 @@
+{
+  "subject": "CSE",
+  "subjectName": "Computational Science & Engr (CSE)",
+  "url": "https://catalog.gatech.edu/coursesaz/cse/",
+  "courses": [
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6001",
+      "courseId": "CSE 6001",
+      "title": "Introduction to Computational Science and Engineering",
+      "description": "This course will introduce students to major research areas in computational science and engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6010",
+      "courseId": "CSE 6010",
+      "title": "Computational Problem Solving for Scientists and Engineers",
+      "description": "Computing principles, computer architecture, algorithms and data structure; software development, parallelism. No credit for graduate students or undergraduates in Computer Science or Computational Media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6040",
+      "courseId": "CSE 6040",
+      "title": "Computing for Data Analysis: Methods and Tools",
+      "description": "Computational techniques needed for data analysis; programming, accessing databases, multidimensional arrays, basic numerical computing, and visualization; hands-on applications and case studies. Credit is will not be awarded for both CSE 6040 and CX 4240.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6140",
+      "courseId": "CSE 6140",
+      "title": "Computational Science and Engineering Algorithms",
+      "description": "This course will introduce students to designing high-performance and scalable algorithms for computational science and engineering applications. The course focuses on algorithms design, complexity analysis, experimentation, and optimization, for important science and engineering applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6141",
+      "courseId": "CSE 6141",
+      "title": "Massive Graph Analysis",
+      "description": "Algorithms and data structures for massive graphs; programming, parallelism; principles, challenges, opportunities in graph analysis; hands-on application, case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6220",
+      "courseId": "CSE 6220",
+      "title": "High Performance Computing",
+      "description": "This course will introduce students to the design, analysis, and implementation of high performance computational science and engineering applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6221",
+      "courseId": "CSE 6221",
+      "title": "Multicore Computing: Concurrency and Parallelism on the Desktop",
+      "description": "This course will introduce students to the design and analysis of real-world algorithms on multicore computers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6230",
+      "courseId": "CSE 6230",
+      "title": "High Performance Parallel Computing: Tools and Applications",
+      "description": "Introduction to MIMD parallel computation, using textbook excerpts, resesarch papers, and projects on multiple parallel machines. Emphasizes practical issues in high-performance computing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6236",
+      "courseId": "CSE 6236",
+      "title": "Parallel and Distributed Simulation",
+      "description": "Algorithms and techniques used in parallel/distributed discrete event simulation systems. Synchronization algorithms, data distribution, applications to high performance analytic simulations and distributed virtual environments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6240",
+      "courseId": "CSE 6240",
+      "title": "Web Search and Text Mining",
+      "description": "Basic and advanced methods for Web information retrieval and text mining: indexing and crawling, IR models, link and click data, social search, text classification and clustering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6241",
+      "courseId": "CSE 6241",
+      "title": "Pattern Matching Algorithms",
+      "description": "Foundations and algorithms underlying the development and application of tools for the efficient searching, matching and discovery of discrete.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6242",
+      "courseId": "CSE 6242",
+      "title": "Data and Visual Analytics",
+      "description": "The course introduces students to analysis and visualization of complex high dimensional data.  Both theory and applications will be covered including several practical case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6243",
+      "courseId": "CSE 6243",
+      "title": "Advanced Topics in Machine Learning",
+      "description": "Advanced machine learning topics including graphical models, kernel methods, boosting, bagging, semi-supervised and active learning, and tensor approach to data analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6250",
+      "courseId": "CSE 6250",
+      "title": "Big Data Analytics for Healthcare",
+      "description": "Big data systems, scalable machine learning algorithms, health analytic applications, electronic health records.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6301",
+      "courseId": "CSE 6301",
+      "title": "Algorithms for Bioinformatics and Computational Biology",
+      "description": "Foundations and algorithms underlying the development and application of tools for the efficient management and processing of biomolecular data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6643",
+      "courseId": "CSE 6643",
+      "title": "Numerical Linear Algebra",
+      "description": "Introduction to numerical solutions of the classical problems of linear algebra including linear systems, least squares, singular value decomposition, and eigen value problems. Crosslisted with MATH 6643.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6644",
+      "courseId": "CSE 6644",
+      "title": "Iterative Methods for Systems of Equations",
+      "description": "Iterative methods for linear and nonlinear systems of equations including Jacobi, G-S, SOR, CG, multigrid, Newton, quasi-Newton, updating, and gradient based methods. Crosslisted with MATH 6644.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6710",
+      "courseId": "CSE 6710",
+      "title": "Numerical Methods in Computational Science and Engineering I",
+      "description": "Introduction to numerical algorithms widely used in computational science and engineering. Numerical linear algebra, linear programming, and applications. Crosslisted with MATH 6710.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6711",
+      "courseId": "CSE 6711",
+      "title": "Numerical Methods in Computational Science and Engineering II",
+      "description": "Efficient numerical techniques for solving partial differential equations and large-scale systems of equations arising from discretization of partial differential equations or variational problems in applications in science and engineering. Crosslisted with MATH 6711.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6730",
+      "courseId": "CSE 6730",
+      "title": "Modeling and Simulation: Foundations and Implementation",
+      "description": "Foundations and algorithms concerning the development of conceptual models for systems, and their realization in the form of computer software; discrete and continuous models. Crosslisted with ECE 6730.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6740",
+      "courseId": "CSE 6740",
+      "title": "Computational Data Analysis: Learning, Mining, and Computation",
+      "description": "Theoretical/computational foundations of analyzing large/complex modern datasets, including the fundamental concepts of machine learning and data mining needed for both resesarch and practice. Crosslisted with ISYE 6740. Credit not awarded for both CSE 6740 and CS 4641/7641/ISYE 6740.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6742",
+      "courseId": "CSE 6742",
+      "title": "Modeling, Simulation and Military Gaming",
+      "description": "Focuses on the creation and use of modeling and simulation tools to analyze and train students regarding strategic events in international relations. Crosslisted with INTA 6742.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "6748",
+      "courseId": "CSE 6748",
+      "title": "Applied Analytics Practicum",
+      "description": "Practical analytics project experience applying ideas from the classroom to a significant project of interest to a business, government agency, or other organization.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "7000",
+      "courseId": "CSE 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "7750",
+      "courseId": "CSE 7750",
+      "title": "Mathematical Foundations of Machine Learning",
+      "description": "Provides the mathematical background for two of the pillars of modern data science: linear algebra and applied probability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "7751",
+      "courseId": "CSE 7751",
+      "title": "Probabilistic Graphical Models in Machine Learning",
+      "description": "The course provides an introduction to theory and practice of graphical models in machine learning. It covers three main aspects; representation, probabilistic inference, and learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "7850",
+      "courseId": "CSE 7850",
+      "title": "Machine learning in computational biology",
+      "description": "Introduction to modern machine learning techniques in computational biology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "7999",
+      "courseId": "CSE 7999",
+      "title": "Preparation for Doctoral Qualifying Examination",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8001",
+      "courseId": "CSE 8001",
+      "title": "Computational Science and Engineering Seminar",
+      "description": "Group discussion concerning advanced topics in Computational Science and Engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8002",
+      "courseId": "CSE 8002",
+      "title": "Computational Science and Engineering Seminar",
+      "description": "Group discussion concerning advanced topics in Computational Science and Engineering.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8003",
+      "courseId": "CSE 8003",
+      "title": "Computational Science and Engineering Seminar",
+      "description": "Group discussion concerning advanced topics in Computational Science and Engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8004",
+      "courseId": "CSE 8004",
+      "title": "Computational Science and Engineering Seminar",
+      "description": "Group discussion concerning advanced topics in Computational Science and Engineering.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8005",
+      "courseId": "CSE 8005",
+      "title": "Computational Science and Engineering Seminar",
+      "description": "Group discussion concerning advanced topics in Computational Science and Engineering.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8801",
+      "courseId": "CSE 8801",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Computational Science and Engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8802",
+      "courseId": "CSE 8802",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Computational Science and Engineering.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8803",
+      "courseId": "CSE 8803",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Computational Science and Engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8804",
+      "courseId": "CSE 8804",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Computational Science and Engineering.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8805",
+      "courseId": "CSE 8805",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Computational Science and Engineering.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8901",
+      "courseId": "CSE 8901",
+      "title": "Special Problems",
+      "description": "Small-group or individual investigation of advanced topics with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8902",
+      "courseId": "CSE 8902",
+      "title": "Special Problems",
+      "description": "Small-group or individual investigation of advanced topics with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8903",
+      "courseId": "CSE 8903",
+      "title": "Special Problems",
+      "description": "Small-group or individual investigation of advanced topics with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8997",
+      "courseId": "CSE 8997",
+      "title": "Teaching Assistantship",
+      "description": "For students holding graduate teaching assistantships.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8998",
+      "courseId": "CSE 8998",
+      "title": "Research Assistantship",
+      "description": "For students holding graduate research assistantships.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "8999",
+      "courseId": "CSE 8999",
+      "title": "Doctoral Thesis Preparation",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CSE",
+      "courseNumber": "9000",
+      "courseId": "CSE 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 45,
+  "scrapedAt": "2025-08-16T02:00:35.751Z"
+}

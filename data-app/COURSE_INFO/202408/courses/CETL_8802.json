@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CETL",
+  "courseNumber": "8802",
+  "courseId": "CETL 8802",
+  "title": "TA Development",
+  "description": "No course description is available.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:37.628Z"
+}

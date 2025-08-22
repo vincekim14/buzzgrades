@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "HTS",
+  "courseNumber": "3055",
+  "courseId": "HTS 3055",
+  "title": "Globalization Modern Era",
+  "description": "This course examines the process of globalization and global change in the twentieth century.  Also offers a critical examination of various theories of globalization.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:25.276Z"
+}

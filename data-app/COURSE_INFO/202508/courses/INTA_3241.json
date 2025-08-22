@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "INTA",
+  "courseNumber": "3241",
+  "courseId": "INTA 3241",
+  "title": "Latin American Politics",
+  "description": "Surveys the government and politics of Latin America.  The course begins with an overview of the region's geography and history, and then explains why demographic government has had a tenuous existence in this area.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:33.323Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "6790",
+  "courseId": "CEE 6790",
+  "title": "Air Pollution:Phys&amp;Chem",
+  "description": "Introduction to physical and chemical processes affecting dynamics and fate of air pollutants at local, regional, and global scales;  emphasis on tropospheric pollutant chemistry and transport. Crosslisted with EAS 6790.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:11.783Z"
+}

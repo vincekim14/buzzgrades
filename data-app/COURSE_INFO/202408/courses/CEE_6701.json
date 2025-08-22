@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "6701",
+  "courseId": "CEE 6701",
+  "title": "Urban Trans Planning",
+  "description": "An overview course on the history, finance, operations, modeling, politics, environmental impacts, and planning of urban transportation systems in the United States.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:33.474Z"
+}

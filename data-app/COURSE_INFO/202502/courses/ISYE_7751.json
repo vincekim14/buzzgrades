@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "7751",
+  "courseId": "ISYE 7751",
+  "title": "Graphical Models in ML",
+  "description": "The course provides an introduction to theory and practice of graphical models in machine learning. It covers three main aspects; representation, probabilistic inference, and learning.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:45.629Z"
+}

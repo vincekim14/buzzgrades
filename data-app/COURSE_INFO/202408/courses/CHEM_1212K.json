@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CHEM",
+  "courseNumber": "1212K",
+  "courseId": "CHEM 1212K",
+  "title": "Chemical Principles II",
+  "description": "Second course in a two-semester sequence covering the fundamental principles and applications of chemistry designed for science majors. Laboratory exercises supplement the lecture material.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 1211K Undergraduate Semester Minimum Grade of D or CHEM 1310 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:50.158Z"
+}

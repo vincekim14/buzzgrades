@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MUSI",
+  "courseNumber": "6204",
+  "courseId": "MUSI 6204",
+  "title": "Comp Mus Symbolic",
+  "description": "Introduction to computational music analysis for symbolic-music data, covering the main aspects of symbolic data representations, softwares and toolkits, and common methodologies in computational musicology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:24.767Z"
+}

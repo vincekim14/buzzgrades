@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "NEUR",
+  "courseNumber": "4801",
+  "courseId": "NEUR 4801",
+  "title": "Research Practices in Neur",
+  "description": "Topics of current interest not included in the regular course offerings.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:11.434Z"
+}

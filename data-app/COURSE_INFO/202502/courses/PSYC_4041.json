@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "4041",
+  "courseId": "PSYC 4041",
+  "title": "Human Sensation &amp; Percep",
+  "description": "An examination of human sensory systems and perceptual processes. Credit will not be awarded for both PSYC 4041 and PSYC 3041.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 2015 Undergraduate Semester Minimum Grade of C and PSYC 1101 Undergraduate Semester Minimum Grade of C and PSYC 2020 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:43:38.465Z"
+}

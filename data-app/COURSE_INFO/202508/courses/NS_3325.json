@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "NS",
+  "courseNumber": "3325",
+  "courseId": "NS 3325",
+  "title": "Naval Weapons Systems",
+  "description": "This course develops and broadens the student's understanding of basic engineering concepts and principles as applied to naval weapon systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:59.957Z"
+}

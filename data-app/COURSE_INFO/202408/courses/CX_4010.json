@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CX",
+  "courseNumber": "4010",
+  "courseId": "CX 4010",
+  "title": "Computational Prob Solv",
+  "description": "Computing principles, computer archietecture, algorithms and data structures; software development, parallelism. No credit for graduate students or undergraduates in Computer Science or Computational Media.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1371 Undergraduate Semester Minimum Grade of C or CS 1301 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:38.503Z"
+}

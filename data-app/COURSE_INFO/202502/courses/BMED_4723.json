@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "4723",
+  "courseId": "BMED 4723",
+  "title": "Interdis Capstone Design",
+  "description": "Interdisciplinary Capstone Design, Industry projects or CREATE-X section.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 2310 Undergraduate Semester Minimum Grade of D or BMED 3110 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:57.360Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "NEUR",
+  "courseNumber": "4300",
+  "courseId": "NEUR 4300",
+  "title": "Neuroscience of Memory",
+  "description": "How does the nervous system support learning and memory? How does memory guide behavior and decisions? Course emphasizes mammalian brain, but students consider fundamental mechanisms.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "NEUR 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:30.078Z"
+}

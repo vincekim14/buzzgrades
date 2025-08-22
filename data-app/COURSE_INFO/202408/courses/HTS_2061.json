@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "2061",
+  "courseId": "HTS 2061",
+  "title": "Traditional Asia",
+  "description": "Civilizations of East Asia up to 1850, emphasizing traditional cultures in China and Japan, including religion, science, formation of empires, social life, and commerce.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:45.607Z"
+}

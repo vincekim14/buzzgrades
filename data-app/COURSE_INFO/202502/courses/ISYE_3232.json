@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "3232",
+  "courseId": "ISYE 3232",
+  "title": "Stochastic Mfg&amp;Serv Sys",
+  "description": "Methods for describing stochastic movements of material in manufacturing facilities, supply chain, and equipment maintenance networks. Includes analysis of congestion, delays, and inventory ordering policies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 2027 Undergraduate Semester Minimum Grade of D or MATH 3215 Undergraduate Semester Minimum Grade of C or MATH 3225 Undergraduate Semester Minimum Grade of C or MATH 3235 Undergraduate Semester Minimum Grade of C or MATH 3236 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:32.146Z"
+}

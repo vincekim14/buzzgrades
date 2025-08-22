@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "4496",
+  "courseId": "CS 4496",
+  "title": "Computer Animation",
+  "description": "Motion techniques for computer animation and interactive games (keyframing, procedural methods, motion capture, and simulation) and principles for storytelling, composition, lighting, and interactivity.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3451 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:59.259Z"
+}

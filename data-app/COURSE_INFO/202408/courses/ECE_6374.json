@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "6374",
+  "courseId": "ECE 6374",
+  "title": "CYB Phys Elec Energy Sys",
+  "description": "This course provides an introduction to cyber-physical infrastructure for protection and control of electric energy systems, communication protocols, standardization and practices for cyber security.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:17.856Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "8500",
+  "courseId": "PUBP 8500",
+  "title": "Research Seminar",
+  "description": "Exploration of the purpose of and approaches used in public policy research.  Requires development of original empirical research.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PUBP 8205 Graduate Semester Minimum Grade of D and PUBP 8520",
+  "lastUpdated": "2025-08-20T02:44:22.597Z"
+}

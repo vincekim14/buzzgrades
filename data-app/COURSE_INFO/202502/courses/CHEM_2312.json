@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "2312",
+  "courseId": "CHEM 2312",
+  "title": "Organic Chemistry II",
+  "description": "The second course in the series dealing with the structure and reactivity of organic molecules. Credit not awarded for both CHEM 2312 and CHEM 2313.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 2311 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:30.442Z"
+}

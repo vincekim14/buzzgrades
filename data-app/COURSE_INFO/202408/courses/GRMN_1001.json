@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "GRMN",
+  "courseNumber": "1001",
+  "courseId": "GRMN 1001",
+  "title": "Elementary German I",
+  "description": "An introduction to the German language and the culture of the German-speaking world. Beginning of a survey of basic German grammar and the grammar and the development of the four language skills of listening, speaking, reading, and writing German. Some aspects of everyday life in the German-speaking world will also be introduced. Humanities credit awarded for GRMN 1001 upon successful completion of GRMN 1002 or 2001.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:41.488Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BC",
+  "courseNumber": "4710",
+  "courseId": "BC 4710",
+  "title": "Green Construction",
+  "description": "This course focuses on the means, methods, strategies, and technologies to improve the energy efficiency and performance of buildings, and to reduce the environmental impact of buildings.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 3231",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:30.439Z"
+}

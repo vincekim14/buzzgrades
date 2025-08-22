@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BC",
+  "courseNumber": "3630",
+  "courseId": "BC 3630",
+  "title": "Project Management I",
+  "description": "This course will offer construction planning and management techniques for project design and construction with a focus on different scheduling methods and their use.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 2631 Undergraduate Semester Minimum Grade of D and BC 2632 Undergraduate Semester Minimum Grade of D and BC 2634 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:02.669Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MGT",
+  "courseNumber": "6727",
+  "courseId": "MGT 6727",
+  "title": "Privacy for Professionals",
+  "description": "This course takes a multi-disciplinary approach to the study of privacy––a current topic of international interest for those in technology, policy, law, and/or business.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:38.513Z"
+}

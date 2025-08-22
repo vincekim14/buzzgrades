@@ -1,0 +1,1433 @@
+{
+  "subject": "LMC",
+  "subjectName": "Literature, Media & Comm (LMC)",
+  "url": "https://catalog.gatech.edu/coursesaz/lmc/",
+  "courses": [
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2000",
+      "courseId": "LMC 2000",
+      "title": "Introduction to Literature, Media, and Communication",
+      "description": "An the introductory course to LMC, this course introduces students to key texts and modes of analysis associated with the study of literature, film, digital media, and communication.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2050",
+      "courseId": "LMC 2050",
+      "title": "Seminar in Literature, Media, and Communication",
+      "description": "This course introduces second-semester majors to the intellectual movements, interpretive frameworks, and research skills central to the disciplines represented in LMC.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2060",
+      "courseId": "LMC 2060",
+      "title": "Introduction to Literary Studies",
+      "description": "Students will study literary and cultural texts, methods, and critical movements from a variety of perspectives and historical periods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2100",
+      "courseId": "LMC 2100",
+      "title": "Introduction to Science, Technology and Culture",
+      "description": "Relation to other courses, programs and curricula: As the introductory course to the LMC Science, Technology and Culture thread, this course explores the way in which disciplines construct and represent the knowledge they generate.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2200",
+      "courseId": "LMC 2200",
+      "title": "Introduction to Gender Studies",
+      "description": "This course introduces the cultural concept of gender, examining topics such as biology and gender, social constructions of gender, and the psychology of sexual roles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2350",
+      "courseId": "LMC 2350",
+      "title": "Introduction to Social Justice",
+      "description": "Introduces students to the work and theory of social justice through readings from various disciplines, including literature, history, anthropology, philosophy, science, policy, and law.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2400",
+      "courseId": "LMC 2400",
+      "title": "Introduction to Media Studies",
+      "description": "This course offers an introduction to the historical development and cultural impact of various forms of media print, radio, television, film, and interactive electronic applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2410",
+      "courseId": "LMC 2410",
+      "title": "Introduction to Game Studies",
+      "description": "Introduction to the games studies and game designs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2450",
+      "courseId": "LMC 2450",
+      "title": "Introduction to Black Media Studies",
+      "description": "Introduces scholarship in Black Media Studies (BMS), which studies the relationships among media, culture, and racial politics by and about people of African descent.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2500",
+      "courseId": "LMC 2500",
+      "title": "Introduction to Film",
+      "description": "Introduces film techniques and vocabulary in an historical and cultural context. Written texts are supplemented by viewings of specific shots, scenes, and films.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2500R",
+      "courseId": "LMC 2500R",
+      "title": "LMC 2500 Recitation",
+      "description": "Film Screening for Introduction to Film.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2600",
+      "courseId": "LMC 2600",
+      "title": "Introduction to Performance Studies",
+      "description": "An examination of the origins of the field of performance studies in literary study of theatre and drama, anthropological investigations of ritual, and sociological analyses of performance in everyday life.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2661",
+      "courseId": "LMC 2661",
+      "title": "Theatre Production I",
+      "description": "In this hands-on course, students learn theatrical construction and painting techniques while building scenery for DramaTech productions.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2662",
+      "courseId": "LMC 2662",
+      "title": "Theatre Production II",
+      "description": "In this hands-on course, students create the lighting, property, and costume effects for two DramaTech Theatre productions.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2698",
+      "courseId": "LMC 2698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2699",
+      "courseId": "LMC 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2700",
+      "courseId": "LMC 2700",
+      "title": "Introduction to Computational Media",
+      "description": "Introduction to key concepts, methods, and achievements in computational media, and the convergence of digital technology with cultural traditions of representation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2720",
+      "courseId": "LMC 2720",
+      "title": "Principles of Visual Design",
+      "description": "Studio-based course that provides students with basic skills needed to create digital visual images and to analyze designs from historical and theoretical perspectives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2730",
+      "courseId": "LMC 2730",
+      "title": "Constructing the Moving Image",
+      "description": "Provides the student with the conceptual, formal, aesthetic, and technical approaches to reconsider film, videos, and animation within the context of emerging digital forms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "2823",
+      "courseId": "LMC 2823",
+      "title": "Special Topics in Literature and Culture",
+      "description": "Examination of one or more topics of current interest in literary and cultural studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3062",
+      "courseId": "LMC 3062",
+      "title": "Film Acting Workshop",
+      "description": "A workshop-based introduction to screen acting and the acting profession for the student who is interested in participating in the film and television industries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3102",
+      "courseId": "LMC 3102",
+      "title": "Science, Technology, and the Classical Tradition",
+      "description": "Explores the definition and transmission of science and technology within Greek, Arabic, and medieval Latin contexts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3104",
+      "courseId": "LMC 3104",
+      "title": "The Age of Scientific Discovery",
+      "description": "Examines the relationships among texts representing the literary, artistic, and scientific thought of the fifteenth and sixteenth centuries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3106",
+      "courseId": "LMC 3106",
+      "title": "The Age of Scientific Revolution",
+      "description": "Examines interrelation of technological, literary, artistic, and philosophical thought in the late sixteenth and seventeenth centuries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3112",
+      "courseId": "LMC 3112",
+      "title": "Evolution and the Industrial Age",
+      "description": "Connects later nineteenth century scientific and technological concepts and discoveries, particularly theories of evolution, to the literature and culture of the industrial age.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3202",
+      "courseId": "LMC 3202",
+      "title": "Studies in Fiction",
+      "description": "Examines the elements of fiction and what has made fiction, especially the novel, distinctive, popular, and enduring. Readings may include formal, cultural, and historical theories.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3204",
+      "courseId": "LMC 3204",
+      "title": "Poetry and Poetics",
+      "description": "A study of traditions of poetic practice and poetic theory in English through intensive line by line readings of poems from different periods in literary history.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3206",
+      "courseId": "LMC 3206",
+      "title": "Communication & Culture",
+      "description": "Examines ways in which forms and media of communication create and are created by other cultural constructs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3208",
+      "courseId": "LMC 3208",
+      "title": "African American Literature and Culture",
+      "description": "Explores the works of African American writers from the Colonial period to the present and examines a variety of cultural constructs that have fundamentally shaped the African American literary tradition.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3209",
+      "courseId": "LMC 3209",
+      "title": "Asian American Literature & Culture",
+      "description": "Explores Asian American literary and cultural contributions since the nineteenth century through the lens of migration histories and global events foundational to Asian American experience.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3210",
+      "courseId": "LMC 3210",
+      "title": "Ethnicity in American Culture",
+      "description": "Explores literary and historical works considering ethnic issues in American culture, including immigration, social assimilation, \"double consciousness\", the development of ethnic identity/pride, and multiculturalism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3212",
+      "courseId": "LMC 3212",
+      "title": "Women, Literature, and Culture",
+      "description": "Students in this course will analyze writings by women and examine feminist and other relevant cultural critiques of literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3214",
+      "courseId": "LMC 3214",
+      "title": "Science Fiction",
+      "description": "Examines science fiction texts from the last 200 years to show how they reflect ambigous reactions to change.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3215",
+      "courseId": "LMC 3215",
+      "title": "Science Fiction Film and Television",
+      "description": "This course investigates science fiction as the genre developed during film history and has become one of the most popular forms of television narrative.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3215R",
+      "courseId": "LMC 3215R",
+      "title": "LMC 3215 Recitation",
+      "description": "Film Screening for Science Fiction Film & Television.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3219",
+      "courseId": "LMC 3219",
+      "title": "Literature and Medicine",
+      "description": "This course examines works of literature dealing overtly with illness and healing, works about or by physicians and other caregivers, and works that raise questions about ethical behavior in the face of sickness.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3225",
+      "courseId": "LMC 3225",
+      "title": "Gender Studies in the Disciplines",
+      "description": "This course explores the concept of gender and its usefulness as a theoretical category in a variety of disciplines. It includes cultural studies of literature, communication media, cultural anthropology, sociology, history, and science.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3226",
+      "courseId": "LMC 3226",
+      "title": "Major Authors",
+      "description": "An examination of the works and career of a major author in historical and cultural context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3228",
+      "courseId": "LMC 3228",
+      "title": "Shakespeare",
+      "description": "An examination of Shakespeare's works with attention to generic conventions, historical context, and the relationship of text and performance. Major works of Shakespeare's contemporaries are studied as appropriate.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3234",
+      "courseId": "LMC 3234",
+      "title": "Creative Writing",
+      "description": "This course explores a range of creative literary genres, and combines study and analysis of existing modes of one or more forms in order to establish a basis for original creative work by class members.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3236",
+      "courseId": "LMC 3236",
+      "title": "Writing for the Stage and Screen",
+      "description": "Basic principles of generating creative concepts, dramatic structure, character and dialogue development, and formatting for stage and screenplays.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3252",
+      "courseId": "LMC 3252",
+      "title": "Studies in Film and Television",
+      "description": "Explores in depth a theoretical issue central to film and/or television. Among its concerns are authorship, genre history, spectatorship, ideology, narrative theory, and the relationship between these media and social history.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3252R",
+      "courseId": "LMC 3252R",
+      "title": "LMC 3252 Recitation",
+      "description": "Film Screening for Studies in Film & Television.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3253",
+      "courseId": "LMC 3253",
+      "title": "Animation",
+      "description": "This course examines animation from its earliest days as a \"cinema of attractions' to its current development as a predominantly digital practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3253R",
+      "courseId": "LMC 3253R",
+      "title": "LMC 3253 Recitation",
+      "description": "Film Screening for Animation.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3254",
+      "courseId": "LMC 3254",
+      "title": "Film History",
+      "description": "Surveys the history of film from its machine origins to its present digital developments. It focuses on various movements, figures, and narrative developments in world cinema.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3254R",
+      "courseId": "LMC 3254R",
+      "title": "LMC 3254 Recitation",
+      "description": "Film Screening for Film History.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3255",
+      "courseId": "LMC 3255",
+      "title": "Cinema and Digital Culture",
+      "description": "This course examines the impact of digital technologies on contemporary cinema as well as the influence of different cinematic traditions on new digital media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3255R",
+      "courseId": "LMC 3255R",
+      "title": "LMC 3255 Recitation",
+      "description": "Film Screening for Cinema and Digital Culture.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3256",
+      "courseId": "LMC 3256",
+      "title": "Major Filmmakers",
+      "description": "Traces in depth an individual artist's career and affords students the opportunity to immerse themselves in the works of an important figure in the world of film.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3256R",
+      "courseId": "LMC 3256R",
+      "title": "LMC 3256 Recitation",
+      "description": "Film Screening for Major Filmmakers.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3257",
+      "courseId": "LMC 3257",
+      "title": "Global Cinema",
+      "description": "This course examines selected movements, styles, and trends in world cinema, emphasizing how contemporary film's global nature affects cultural representation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3257R",
+      "courseId": "LMC 3257R",
+      "title": "LMC 3257 Recitation",
+      "description": "Film Screening for Global Cinema.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3258",
+      "courseId": "LMC 3258",
+      "title": "Documentary Film",
+      "description": "This course examines significant movements, styles, and trends in fact-based film, emphasizing its cultural implications and formal strategies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3258R",
+      "courseId": "LMC 3258R",
+      "title": "LMC 3258 Recitation",
+      "description": "Film Screening for Documentary Film.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3259",
+      "courseId": "LMC 3259",
+      "title": "Experimental Film",
+      "description": "This course examines the history and trends in experimental film and video, emphasizing the relationship to avant-garde art movements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3259R",
+      "courseId": "LMC 3259R",
+      "title": "LMC 3259 Recitation",
+      "description": "Experimental Film—Recitation.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3262",
+      "courseId": "LMC 3262",
+      "title": "Performance Studies",
+      "description": "An examination of cultural theories of performance and their application to the analysis of specific performative events.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3263",
+      "courseId": "LMC 3263",
+      "title": "Music, Culture, and Society",
+      "description": "Origins and development of contemporary popular music, including rock, trap, hip-hop, and other emerging and established forms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3302",
+      "courseId": "LMC 3302",
+      "title": "Science, Technology, and Ideology",
+      "description": "Examines specific scientific, philosophical, and literary/cultural texts in order to determine the role ideology plays in the construction of culture, especially scientific and technological culture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3304",
+      "courseId": "LMC 3304",
+      "title": "Science, Technology, and Gender",
+      "description": "Examines specific philosophical, scientific, and cultural texts to determine the role that gender has played in the scientific and technological knowledge, currently and historically.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3306",
+      "courseId": "LMC 3306",
+      "title": "Science, Technology, and Race",
+      "description": "Examines specific historical and contemporary construction of race, within the prevailing scientific theories and ideologies in order to determine the role played by \"race\" in scientific and technological culture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3308",
+      "courseId": "LMC 3308",
+      "title": "Environmentalism and Ecocriticism",
+      "description": "Surveys the emergence of ecocriticism as an analytical framework for interpreting the verbal and visual rhetorics of environmentalism in both western and nonwestern cultures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3310",
+      "courseId": "LMC 3310",
+      "title": "The Rhetoric of Scientific Inquiry",
+      "description": "This course takes as its subject the ways in which argumentative and persuasive discourse is used to create and disseminate scientific knowledge.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3314",
+      "courseId": "LMC 3314",
+      "title": "Technologies of Representation",
+      "description": "Explores historical, cultural, and theoretical issues related by technologies of representation, including written, spoken, and gestural languages; print, painting and illustration; still and moving photography; recorded sound; and computer mediated communications and interactive digital media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3316",
+      "courseId": "LMC 3316",
+      "title": "Science, Technology, and Postcolonialism",
+      "description": "Studies in the development of Postcolonial literary theory and historiography in order to analyze the interdependent discourses and practices of post-Enlightenment science/technology and European imperialism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3318",
+      "courseId": "LMC 3318",
+      "title": "Biomedicine and Culture",
+      "description": "Discuss the history of biology and medicine; popular representations of health, disease, and the medical establishment; and the cultural implications of medical imaging technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3352",
+      "courseId": "LMC 3352",
+      "title": "Film and/as Technology",
+      "description": "Examines the development of film technology and the implications of that technology for cinema's treatment of technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3352R",
+      "courseId": "LMC 3352R",
+      "title": "LMC 3352 Recitation",
+      "description": "Film Screening for Film And/As Technology.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3402",
+      "courseId": "LMC 3402",
+      "title": "Graphic and Visual Design",
+      "description": "Introduction to fundamentals of graphic and visual design of print and digital media. Familiarity with use of the World Wide Web, page layout, and computer graphic software recommended.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3403",
+      "courseId": "LMC 3403",
+      "title": "Technical Communication, Theory and Practice",
+      "description": "This course introduces students to workplace document genres to develop visual and verbal skills in critical analysis and document development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3404",
+      "courseId": "LMC 3404",
+      "title": "Social Media",
+      "description": "Students learn the cultural history, theory, and practice of social media in a variety of settings, and its impact on personal, professional, and political life.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3405",
+      "courseId": "LMC 3405",
+      "title": "Media, Culture, and Society",
+      "description": "Examines the transformative impact of various kinds of media on culture, politics, communication, and education.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3406",
+      "courseId": "LMC 3406",
+      "title": "Video Production",
+      "description": "An introduction to video production including basic skills in storyboarding, scripting, filming, editing, and sound.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3407",
+      "courseId": "LMC 3407",
+      "title": "Advanced Video Production",
+      "description": "This production course teaches students to create visually compelling and emotionally powerful images through shot design and the use of lights, cameras and prime lenses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3408",
+      "courseId": "LMC 3408",
+      "title": "The Rhetoric of Technical Narratives",
+      "description": "Focuses on the rhetorical problems posed by such narrative documents as technical proposals, recommendations reports, grant proposals, and marketing studies. Emphasis on document design, graphics, navigation systems, and editing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3410",
+      "courseId": "LMC 3410",
+      "title": "The Rhetoric of Nonlinear Documents",
+      "description": "Focuses on the rhetorical problems posed by hypertext documents. Emphasis in designing for multiple audiences, page and document design, and navigation in a nonlinear environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3411",
+      "courseId": "LMC 3411",
+      "title": "The Rhetoric of Visual Communication",
+      "description": "Focuses on contexts, audiences, arguements, and design in creating and critiquing visuals. Emphasizes topics such as information design, technical visuals, and photography.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3412",
+      "courseId": "LMC 3412",
+      "title": "Communicating Science and Technology to the Public",
+      "description": "Examines both the theoretical and practical issues involved in communicating scientific and/or technological material to a variety of lay audiences.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3415",
+      "courseId": "LMC 3415",
+      "title": "Content Strategy",
+      "description": "Theory and professional communication practice of substance, workflow, structure, and governance of digital content for websites and social media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3431",
+      "courseId": "LMC 3431",
+      "title": "Technical Communication Approaches",
+      "description": "Part of a multi-semester sequence that students take in tandem with major-specific classes to develop professional written, visual, oral, and analytic strategies.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3432",
+      "courseId": "LMC 3432",
+      "title": "Technical Communication Strategies",
+      "description": "Part of a multi-semester sequence that students take in tandem with major-specific classes to develop professional written, visual, oral, and analytic strategies.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3450",
+      "courseId": "LMC 3450",
+      "title": "Blackness, Media, and Meaning-Making",
+      "description": "Considers the significance of Blackness in print, broadcast, and digital media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3451",
+      "courseId": "LMC 3451",
+      "title": "Race, Gender, and Digital Media",
+      "description": "Explores issues of race, ethnicity, and gender + the politics of technology (technoculture) in digital venues, social media, artificial intelligence, algorithms, and mundane digital phenomena.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3452",
+      "courseId": "LMC 3452",
+      "title": "Introduction to Black Cultural Production",
+      "description": "Examines the communicative and cultural practices of Black mediated narratives across the Diaspora.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3453",
+      "courseId": "LMC 3453",
+      "title": "Afrofuturism",
+      "description": "Students study Black cultural producers melding art and technology in science fiction and fantasy that reflect the complicated politics of envisioning the future.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3454",
+      "courseId": "LMC 3454",
+      "title": "Producing Black Documentary Film and Podcasts",
+      "description": "Connects building healthy Black communities and Black economic empowerment within the framework of contemporary documentary filmmaking. Students will write, produce, edit, and distribute a mini-documentary.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3455",
+      "courseId": "LMC 3455",
+      "title": "Major Topics in Black Media Studies",
+      "description": "Surveys the origins, development, and considers conventions through an investigation of major topics \nof black media and music.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3456",
+      "courseId": "LMC 3456",
+      "title": "Technoculture",
+      "description": "Grounded in a critical race and cultural theoretic framework, the course explores systems and practices of scientific inquiry as mediated by Whiteness, imperialism, and modernity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3457",
+      "courseId": "LMC 3457",
+      "title": "Black Cultural Politics and the Southern Experience",
+      "description": "Investigate racial politics, social justice, and technocultural innovation across  Atlanta and the American South.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3459",
+      "courseId": "LMC 3459",
+      "title": "Afrofuturism and the Anthropocene",
+      "description": "Explores history and current status of Afrofuturism, a cultural movement, an epistemology, and an aesthetic centering Blackness and technology with visions for the future considering the Anthropocene.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3502",
+      "courseId": "LMC 3502",
+      "title": "Ancient and Medieval Literature and Culture",
+      "description": "Introduction to Greece, Rome, and Medieval Europe through an examination of one or a few major culture conflicts expressed in the literary genres and periods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3504",
+      "courseId": "LMC 3504",
+      "title": "Renaissance Literature and Culture",
+      "description": "An examination of literature and culture from 1450 to 1650 with an emphasis on both major achievements and divergent voices.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3506",
+      "courseId": "LMC 3506",
+      "title": "Enlightenment and Culture",
+      "description": "Examines the nature of the age from an intial boldness, optimism, and faith in reason to a recognition of its limits.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3511",
+      "courseId": "LMC 3511",
+      "title": "American Literature & Culture",
+      "description": "Introduces students to American literature and culture broadly construed, examining foundational works of critical and historical significance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3512",
+      "courseId": "LMC 3512",
+      "title": "British and Continental Romanticism",
+      "description": "Examines British and Continental Romanticism as it appeared during the latter part of the eighteenth century and the first half of the nineteenth century.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3514",
+      "courseId": "LMC 3514",
+      "title": "Victorian Literature and Culture",
+      "description": "Investigates the period 1830 - 1901 in English literature and culture, focusing on how that period defined key questions, especially ones about human nature, society, and the relation of religion to science.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3516",
+      "courseId": "LMC 3516",
+      "title": "Literary and Cultural Modernism",
+      "description": "A partial investigation of the aesthetic ferment that characterizes English-language cultural production from the turn of the century to the end of World War II.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3518",
+      "courseId": "LMC 3518",
+      "title": "Literary and Cultural Postmodernism",
+      "description": "A survey of major themes, representational techniques, and social and cultural concerns of postmodern art and literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3520",
+      "courseId": "LMC 3520",
+      "title": "Contemporary Issues in Literature & Culture",
+      "description": "This course will cover a range of possible critical areas of global concern in contemporary literature and culture. Focus will vary each semester.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3661",
+      "courseId": "LMC 3661",
+      "title": "Theatre Production III: Management",
+      "description": "In this \"hands-on\" course, students will create and execute a publicity campaign and operate the box office for DramaTech Theatre productions.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3662",
+      "courseId": "LMC 3662",
+      "title": "Theatre Production IV: Acting",
+      "description": "This course providess students an opportunity to perform onstage in a production at DramaTech Theatre. Auditions are required.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3705",
+      "courseId": "LMC 3705",
+      "title": "Principles of Information Design",
+      "description": "Presents principles and practices guiding the development of emerging digital genres. Emphasis on maximizing the affordances of the computer in organizing and communicating complex information.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3710",
+      "courseId": "LMC 3710",
+      "title": "Principles of Interaction Design",
+      "description": "Examines principles of design for shaping the procedural and participatory affordances of digital environments, emphasizing the role of cultural context and media transitions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "3813",
+      "courseId": "LMC 3813",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4000",
+      "courseId": "LMC 4000",
+      "title": "Senior Seminar in Literature, Media, and Communication",
+      "description": "Capstone seminar that asks majors to draw upon their training to engage in closer analysis, research, and/or production in topical area. Topic varies by instructor.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4102",
+      "courseId": "LMC 4102",
+      "title": "Senior Thesis",
+      "description": "Preparation for and writing of a thesis through faculty-directed independent study.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4204",
+      "courseId": "LMC 4204",
+      "title": "Poetry and Poetics II",
+      "description": "Advanced study of the traditions of poetic theory and practice with a special emphasis on processes of poetic conception and revision.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4406",
+      "courseId": "LMC 4406",
+      "title": "Contemporary Issues in Professional Communication",
+      "description": "Intended primarily for students planning careers in professional communication, this course will alternate among a number of issues including property law, integrating print and electronic media, and cultural studies of corporate environments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4407",
+      "courseId": "LMC 4407",
+      "title": "Video Editing and Postproduction",
+      "description": "Introduction to Editing and Post Production develops the skills and knowledge of digital film post-production, concentrating on editing, editing theory, narrative editing, and post-production workflow.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4500",
+      "courseId": "LMC 4500",
+      "title": "Seminar in Film Studies",
+      "description": "An in-depth investigation of a major movement, theory, period, or technological development in film studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4500R",
+      "courseId": "LMC 4500R",
+      "title": "LMC 4500 Recitation",
+      "description": "Film Screening for Seminar in Film.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4602",
+      "courseId": "LMC 4602",
+      "title": "Performance Practicum",
+      "description": "Practical experience and theoretical investigations in theatre and performance making including acting, directing, designing, playwriting, performance art, performance and new media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4698",
+      "courseId": "LMC 4698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4699",
+      "courseId": "LMC 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4701",
+      "courseId": "LMC 4701",
+      "title": "Undergraduate Research Proposal Writing",
+      "description": "This course is intended to guide undergraduate students from all disciplines through the stages of writing a proposal for their research option project and thesis.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4702",
+      "courseId": "LMC 4702",
+      "title": "Undergraduate Research Thesis Writing",
+      "description": "This course is intended to guide undergraduate students from all disciplines through the stages of writing their undergraduate thesis.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4710",
+      "courseId": "LMC 4710",
+      "title": "Game Studio",
+      "description": "Project-based course in designing and implementing video games.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4720",
+      "courseId": "LMC 4720",
+      "title": "Interactive Narrative",
+      "description": "Examines significant examples of this emerging genre, including its roots ini experimental uses of older media, and engages students in creating their own interactive narrative.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4725",
+      "courseId": "LMC 4725",
+      "title": "Games Design as a Cultural Practice",
+      "description": "Emphasis is on the design elements common to games and the expressive possibilities and cultural concerns specific to digital games.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4730",
+      "courseId": "LMC 4730",
+      "title": "Experimental Digital Art",
+      "description": "Provides students with key conceptual, formal, aesthetic and technical elements needed in creating artifacts in areas ranging from augmented and mixed reality to scientific visualization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4731",
+      "courseId": "LMC 4731",
+      "title": "Game AI",
+      "description": "Examines expressive possibilities of artificial intelligence techniques in computer games.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4733",
+      "courseId": "LMC 4733",
+      "title": "Mixed Reality Experience Design",
+      "description": "Project-based course in designing implementing experiences using the technologies of Augmented, Mixed, and Virtual Reality. Credit not awarded for both LMC 4733 and CS 4770/6770/LMC 6340.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4811",
+      "courseId": "LMC 4811",
+      "title": "Special Topics",
+      "description": "Topic of current interest not covered in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4812",
+      "courseId": "LMC 4812",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4813",
+      "courseId": "LMC 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4814",
+      "courseId": "LMC 4814",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4815",
+      "courseId": "LMC 4815",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "4904",
+      "courseId": "LMC 4904",
+      "title": "Internship",
+      "description": "Offers students a workplace-based learning experience that stresses application of principles and skills gained in other STAC classes.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6213",
+      "courseId": "LMC 6213",
+      "title": "Edu Applications New",
+      "description": "This course introduces students to a variety of perspectives on learning as they apply to work in educational technology. Students cannot receive credit for LMC 6213 and LCC 6213.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6215",
+      "courseId": "LMC 6215",
+      "title": "Issues in Media Studies",
+      "description": "This course focuses on the study of mass media from historical, theoretical, and cultural perspectives. Students cannot receive credit for LMC 6215 and LCC 6215.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6310",
+      "courseId": "LMC 6310",
+      "title": "The Computer as an \"Expressive Medium\"",
+      "description": "Explores the development of the representational power of the computer and the interplay between digital technology and culture. Students cannot receive credit for LMC 6310 and LCC 6310.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6311",
+      "courseId": "LMC 6311",
+      "title": "Visual Culture and Design",
+      "description": "Explores visual media through a mutually instructive and integrated interplay between critical analyses and the creation of digital artifacts. Students cannot receive credit for LMC 6311 and LCC 6311.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6312",
+      "courseId": "LMC 6312",
+      "title": "Design, Technology & Representation",
+      "description": "Explores historical, cultural, and theoretical issues raised by technologies of representation through critical analyses and the creation of digital artifacts. Students cannot receive credit for LMC 6312 and LCC 6312.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6313",
+      "courseId": "LMC 6313",
+      "title": "Principles of Interaction Design",
+      "description": "Explores visual media through a mutually instructive and integrated interplay between critical analyses and the creation of digital artifacts. Students cannot receive credit for LMC 6313 and LCC 6313.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6314",
+      "courseId": "LMC 6314",
+      "title": "Design of Networked Media",
+      "description": "Issues in hypertextual and multimedia design in networked environments, including the World Wide Web, interactive television, and wireless applications. Students cannot receive credit for LMC 6314 and LCC 6314.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6315",
+      "courseId": "LMC 6315",
+      "title": "Product Production",
+      "description": "Focuses on defining user and client needs, analysis of competing products, budgeting, scheduling and management of the production process, and the design of the testing process. Students cannot receive credit for LMC 6315 and LCC 6315.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6316",
+      "courseId": "LMC 6316",
+      "title": "Historical Approaches to Digital Media",
+      "description": "Examines digital media in the context of earlier media, such as handwriting and printing as well as photography, radio, film, and television. Students cannot receive credit for LMC 6316 and LCC 6316.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6317",
+      "courseId": "LMC 6317",
+      "title": "Interactive Narrative/Fiction",
+      "description": "Students create interactive fictions in a variety of formats including intersecting story worlds, interactive characters, simulations, and replay worlds. Students cannot receive credit for LMC 6317 and LCC 6317, LMC 6317 and LCC 4720, or LMC 6317 and LMC 4720.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6318",
+      "courseId": "LMC 6318",
+      "title": "Experimental Media",
+      "description": "Students will develop the critical, intellectual, and creative tools necessary to understand, work with, and reimagine design at the developmental stages of emerging technologies. Students cannot receive credit for LMC 6318 and LCC 6318.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6319",
+      "courseId": "LMC 6319",
+      "title": "Intellectual Property Policy and Law",
+      "description": "Students examine constitutionally informed policy and pragmatic legal issues in intellectual property law, focusing on the effects of power structures and information digitization. Students cannot receive credit for LMC 6319 and LCC 6319.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6320",
+      "courseId": "LMC 6320",
+      "title": "Globalization and New Media",
+      "description": "Historical and theoretical approach to the connections between modes of global integration and modes of representing information. Students cannot receive credit for LMC 6320 and LCC 6320.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6321",
+      "courseId": "LMC 6321",
+      "title": "Architecture of Responsive Spaces",
+      "description": "Historical and theoretical approach to the connections between modes of global integration and modes of representing information. Students cannot receive credit for LMC 6321 and LCC 6321.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6322",
+      "courseId": "LMC 6322",
+      "title": "Global Intellectual Property Policy and Law",
+      "description": "This course requires that students gain facility with intellectual property statutory and treaty law and understand US and global policies that affect power and access.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6325",
+      "courseId": "LMC 6325",
+      "title": "Game Design and Analysis",
+      "description": "Focused topics in the theory and practice of game design, theory, and analysis, including issues of creation, and reception, such as a single sub-genre, procedural technique, or media tradition. Students cannot receive credit for LMC 6325 and LCC 6325, LMC 6325 and LCC 4725, or LMC 6325 and LMC 4725.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6330",
+      "courseId": "LMC 6330",
+      "title": "Expressive Virtual Space",
+      "description": "Practical and theoretical investigation of virtual space in real-time 3D environments with a focus on meditation and functionality. Students cannot receive credit for LMC 6330 and LCC 6330.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6340",
+      "courseId": "LMC 6340",
+      "title": "Mixed Reality Experience Design",
+      "description": "This course introduces students to the design of digital experienced for education and entertainment using Augmented Reality, Tangible Computing, or other forms of Mixed Reality. Students cannot receive credit for LMC 6340 and LCC 6340/LMC 4733/CS 6770/4770.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6350",
+      "courseId": "LMC 6350",
+      "title": "The spatial construction of meaning: Design formulation and design cognition",
+      "description": "Study of the way in which space is manipulated to construct meaning in design formulation. Emphasis on logical structure, geometry, and experiential correlates. Students cannot receive credit for LMC 6350 and LCC 6350.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6360",
+      "courseId": "LMC 6360",
+      "title": "Global Ethnographies and Communication Practices",
+      "description": "This course employs ethnographic methods to examine how the creation of visual, textual and digita; artifacts can be understood as practices of intercultural communication.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6362",
+      "courseId": "LMC 6362",
+      "title": "Transnational Networks",
+      "description": "In this course, we will look at the historical and theoretical implications of the networked construction of the Atlantic World, and the legacies it has left for contemporary global protest and liberation movements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6363",
+      "courseId": "LMC 6363",
+      "title": "Cultures of Empire",
+      "description": "This course focuses upon empires of the nineteenth-century and contemporary post-colonial responses to European colonization. Central issues include immigration, globalization, nationalism, imperial subjectivity, and belonging.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6366",
+      "courseId": "LMC 6366",
+      "title": "Global Science Fiction",
+      "description": "Explores how authors and critics across the globe use science fiction to communicate experiences with science and technology across centuries, continents, and cultures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6367",
+      "courseId": "LMC 6367",
+      "title": "Literary and Cultural Theory",
+      "description": "Concentration on a single literary or cultural theorist and/or major school of literary or cultural theory, including, among others, Materialist, Feminist, Structuralist, Post-Structuralistm Cultural Studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6368",
+      "courseId": "LMC 6368",
+      "title": "Global Cinema",
+      "description": "This course examines significant movements, styles, and trends in world cinema, with an emphasis on how the global nature of contemporary film affects cultural representation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6399",
+      "courseId": "LMC 6399",
+      "title": "Discovery & Invention",
+      "description": "Required course for all DM majors. The purpose of this course is to give students a suite of methods they can use in professional settings to discover opportunities for inventive new computational products and services. It complements the design and production skills developed in 6310 and 6313 with applied research skills. For students in the MS DM and MS HCI programs it will also help them in the development of their MS proposals. Students cannot receive credit for LMC 6399 and LCC 6399.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6650",
+      "courseId": "LMC 6650",
+      "title": "Project Studio",
+      "description": "This course offers students the opportunity to work on focused research within existing long-term projects of the New Media(NM) Center.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6743",
+      "courseId": "LMC 6743",
+      "title": "STS Core Seminar",
+      "description": "This survey course covers key works Science, Technology & Society, and guest lectures introduce students to faculty doing STS-related research across the Ivan Allen College. Students cannot receive credit for LMC 6743 and LCC 6743, LMC 6743 and HTS 6743, or LMC 6743 and PUBP 6743.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6748",
+      "courseId": "LMC 6748",
+      "title": "Social Justice, Critical Theory, and Philosophy of Design",
+      "description": "Focuses on social justice from a Science, Technology, and Society(STS) point of view that is informed by critical theory and philosophy of design. Students cannot receive credit for LMC 6748 and LCC 6748 or LMC 6748 and PUBP 6748.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6749",
+      "courseId": "LMC 6749",
+      "title": "Feminist Theory and STS",
+      "description": "This course is an advanced science, technology and society (STS) seminar in feminist theory. Students cannot receive credit for LMC 6749 and LCC 6749 or LMC 6749 and PUBP 6749.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6753",
+      "courseId": "LMC 6753",
+      "title": "Human-Computer Interaction Professional Preparation and Practice",
+      "description": "Preparation for a professional career in HCI. Hands-on workshops in resume and portfolio building, interviewing, public speaking, team work. HCI career choices and trajectories.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6770",
+      "courseId": "LMC 6770",
+      "title": "Mixed Reality Design",
+      "description": "This course introduces students to mixed reality design and prototyping with a focus on Augmented Reality. Students cannot receive credit for LMC 6770 and CS 4770.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6800",
+      "courseId": "LMC 6800",
+      "title": "Digital Media Master's Project",
+      "description": "Final project course in Digital Media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "6998",
+      "courseId": "LMC 6998",
+      "title": "HCI Master's Project",
+      "description": "Final project for students completing a Human-Computer Interaction master's degree in the Digital Media track. Repeatable for multi-semester projects.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "7000",
+      "courseId": "LMC 7000",
+      "title": "Digital Media Master's Thesis",
+      "description": "Final Thesis course in Digital Media.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "7999",
+      "courseId": "LMC 7999",
+      "title": "PhD Qualifying Prep",
+      "description": "Preparation for Ph.D. Qualifying exam.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8000",
+      "courseId": "LMC 8000",
+      "title": "Proseminar in Media Theory",
+      "description": "Key traditions of media theory that contribute to the study of Digital Media. Students cannot receive credit for LMC 8000 and LCC 8000.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8001",
+      "courseId": "LMC 8001",
+      "title": "Proseminar in Digital Media Studies",
+      "description": "Advanced work in production and critique of new media forms. Students cannot receive credit for LMC 8001 and LCC 8001.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8801",
+      "courseId": "LMC 8801",
+      "title": "Special Topics",
+      "description": "Topic of current interest not covered in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8803",
+      "courseId": "LMC 8803",
+      "title": "Special Topics in Digital Media",
+      "description": "Special Topics in Digital Media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8813",
+      "courseId": "LMC 8813",
+      "title": "Advanced Issues in Interactive Narrative",
+      "description": "Advanced Issues in Interactive Narrative.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8823",
+      "courseId": "LMC 8823",
+      "title": "Special Topics in Game Design and Analysis",
+      "description": "Advanced topics in the theory and practice of game design, theory, and analysis, including creation, reception, procedural technique, and tradition.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8831",
+      "courseId": "LMC 8831",
+      "title": "Special Topics in Technologies of Representation",
+      "description": "Special Topics in Technologies of Representation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8903",
+      "courseId": "LMC 8903",
+      "title": "Special Problems in Human-Computer Interaction",
+      "description": "Small-group of individual investigation of advanced topics in human-computer interaction. Guided study and research.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8910",
+      "courseId": "LMC 8910",
+      "title": "Special Problems in Information Design and Technology",
+      "description": "An independent study course.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8997",
+      "courseId": "LMC 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8998",
+      "courseId": "LMC 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "8999",
+      "courseId": "LMC 8999",
+      "title": "PhD Doctoral Prep",
+      "description": "Doctoral Thesis Prep in Digital Media.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "LMC",
+      "courseNumber": "9000",
+      "courseId": "LMC 9000",
+      "title": "Doctoral dissertation in Digital Media",
+      "description": "Doctoral Dissertation.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 178,
+  "scrapedAt": "2025-08-16T02:00:42.986Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "4004",
+  "courseId": "MSE 4004",
+  "title": "Materials-Electronic App",
+  "description": "Basics of photolithography, screen printing, and tape casting.  Requirements for fuel cells, magnetic nanocomposites, flat-panel displays, gas sensors, piezoelectric acutators, photonic crystals, etc.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 3015 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:45.848Z"
+}

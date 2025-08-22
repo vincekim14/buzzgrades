@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOL",
+  "courseNumber": "8560",
+  "courseId": "BIOL 8560",
+  "title": "RNA Biology and Bitechnology",
+  "description": "The purpose of this course is to introduce students (graduate and upper level undergraduate) to the fundamental concepts of RNA biology and to state-of-the-art biotechnologies that use RNA for medical and industrial applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:09.781Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "4370",
+  "courseId": "ECE 4370",
+  "title": "Antenna Engineering",
+  "description": "Basic theory, application, and design of a broad range of antennas.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3025 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:37.865Z"
+}

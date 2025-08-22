@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PHIL",
+  "courseNumber": "3115",
+  "courseId": "PHIL 3115",
+  "title": "Philosophy of Science",
+  "description": "Examination of the nature and processes of scientific inquiry, including the status of scientific knowledge, identification of pseudoscientific claims, and the role of values in generating and using scientific knowledge. Credit not allowed for both PHIL 3115 and PST 3115.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:36.881Z"
+}

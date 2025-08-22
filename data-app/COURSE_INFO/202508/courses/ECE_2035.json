@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "2035",
+  "courseId": "ECE 2035",
+  "title": "Programming HW/SW System",
+  "description": "Creation of complex execution and storage mechanisms, based on instruction set architecture, for software design including high-level programming languages and operating systems.  Programming design projects.  Credit not allowed for both ECE 2035 and ECE 3035.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2020 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:26.550Z"
+}

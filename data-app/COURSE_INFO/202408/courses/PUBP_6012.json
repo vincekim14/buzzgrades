@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "6012",
+  "courseId": "PUBP 6012",
+  "title": "Fund of Policy Processes",
+  "description": "The political and governmental context of policy is presented, from agenda setting to evaluation. Examines constitutional and federal contexts of policy, the role of various input mechanisms in shaping policy decisions, the processes by which government institutions make decisions (and the interactions among these institutions), and approaches for understanding and anticipating policy decision making.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:16.747Z"
+}

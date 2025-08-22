@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "APPH",
+  "courseNumber": "6241",
+  "courseId": "APPH 6241",
+  "title": "Neuromotor Physiology",
+  "description": "The course will focus on function and adaptations of the skeletal, muscular and neural systems. Interactions among various systems and their plasticity will be emphasized.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:22.156Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BMED",
+  "courseNumber": "4784",
+  "courseId": "BMED 4784",
+  "title": "Engr Electrophysiology",
+  "description": "Basic concepts of electrophysiology from an engineering perspective. Functionality of relevant organs and systems; instrumentation tools which monitor electrophysiology function. Crosslisted with ECE 4784.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3040 Undergraduate Semester Minimum Grade of D or ECE 3510 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:51.300Z"
+}

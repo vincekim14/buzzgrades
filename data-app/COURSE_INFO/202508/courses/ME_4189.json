@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "4189",
+  "courseId": "ME 4189",
+  "title": "Mechanical Vibrations",
+  "description": "Single and multi-degree-of-freedom systems as well as continuous systems are analyzed for their vibrational response characteristics using both exact and approximate methods.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ME 2202 Undergraduate Semester Minimum Grade of D or AE 2220 Undergraduate Semester Minimum Grade of D) and (MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T or MATH 2562 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:43:20.647Z"
+}

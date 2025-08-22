@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4460",
+  "courseId": "BIOS 4460",
+  "title": "Comm Biologicl Research",
+  "description": "Students learn to convey the importance of research findings in the biological sciences and to critically evaluate research results through discussions and scientific presentations.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOL 4590 Undergraduate Semester Minimum Grade of D or BIOL 4690 Undergraduate Semester Minimum Grade of D or BIOL 4910 Undergraduate Semester Minimum Grade of D or BIOS 4690 Undergraduate Semester Minimum Grade of D or BIOS 4590 Undergraduate Semester Minimum Grade of D or BIOS 4691 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:45.004Z"
+}

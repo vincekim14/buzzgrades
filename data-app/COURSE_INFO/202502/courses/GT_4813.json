@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "GT",
+  "courseNumber": "4813",
+  "courseId": "GT 4813",
+  "title": "Proj In Energy Systems",
+  "description": "Multidisciplinary project in the area of energy systems.  Open to students completing the minor in Energy Systems.  Students must have completed or be on track to complete all requriements for the energy systems minor except this course.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:12.792Z"
+}

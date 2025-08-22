@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "6020",
+  "courseId": "ARCH 6020",
+  "title": "Media + Modeling 2",
+  "description": "Intermediate approaches to two dimensional modeling and representation in architecture using both manual and digital media techniques.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 6029",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:48.717Z"
+}

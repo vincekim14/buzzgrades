@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOS",
+  "courseNumber": "4340",
+  "courseId": "BIOS 4340",
+  "title": "Medical Microbiology",
+  "description": "Advanced study of bacteria, protozoa, fungi, and viruses that cause human diseases; emphasis on epidemiology, mechanisms of disease causation, prevention, and treatment.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOL 3380 Undergraduate Semester Minimum Grade of D or BIOS 3380 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:02.530Z"
+}

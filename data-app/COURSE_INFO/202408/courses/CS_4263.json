@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "4263",
+  "courseId": "CS 4263",
+  "title": "Psychol of Cybersecurity",
+  "description": "This course will explore psychological processes relevant to cybersecurity. Students will gain an appreciation for psychological influence factors inherent in the current cyberspace environment.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:56.660Z"
+}

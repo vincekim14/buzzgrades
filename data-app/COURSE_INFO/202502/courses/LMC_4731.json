@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "4731",
+  "courseId": "LMC 4731",
+  "title": "Game AI",
+  "description": "Examines expressive possibilities of artificial intelligence techniques in computer games.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3600 Undergraduate Semester Minimum Grade of C and (LCC 2100 Undergraduate Semester Minimum Grade of C or LCC 2700 Undergraduate Semester Minimum Grade of C or LMC 2700 Undergraduate Semester Minimum Grade of C or LMC 2000 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:41:12.259Z"
+}

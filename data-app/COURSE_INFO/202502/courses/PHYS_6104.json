@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PHYS",
+  "courseNumber": "6104",
+  "courseId": "PHYS 6104",
+  "title": "Electromagnetism II",
+  "description": "Theory of generation of electromagnetic waves, their propagation, scattering, and diffraction.  Covariant formulation of electrodynamics and application to radiation from charged particles.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 6103 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:28.439Z"
+}

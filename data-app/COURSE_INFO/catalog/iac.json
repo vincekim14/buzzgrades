@@ -1,0 +1,89 @@
+{
+  "subject": "IAC",
+  "subjectName": "Ivan Allen College (IAC)",
+  "url": "https://catalog.gatech.edu/coursesaz/iac/",
+  "courses": [
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "2001",
+      "courseId": "IAC 2001",
+      "title": "Global Religions and Community Engagement",
+      "description": "This course prepares students for leadership in a multi-faith society through the study of global religions and active engagement with diverse religious communities of Atlanta.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "2002",
+      "courseId": "IAC 2002",
+      "title": "Science, Engineering, and Religion: An Interfaith Dialogue",
+      "description": "This course gathers diverse students serious about faith to explore topics at the intersection of science, engineering, and religion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "2801",
+      "courseId": "IAC 2801",
+      "title": "Special Topics in IAC",
+      "description": "Special Topics in IAC.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "2803",
+      "courseId": "IAC 2803",
+      "title": "Special Topics in IAC",
+      "description": "Special Topics courses for IAC.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "2813",
+      "courseId": "IAC 2813",
+      "title": "Special Topics in IAC",
+      "description": "Special Topics courses in IAC.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "3803",
+      "courseId": "IAC 3803",
+      "title": "Special Topics in IAC",
+      "description": "Special Topics courses in IAC.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "3813",
+      "courseId": "IAC 3813",
+      "title": "Special Topics in IAC",
+      "description": "Special Topics courses in IAC.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "4803",
+      "courseId": "IAC 4803",
+      "title": "Special Topics in IAC",
+      "description": "Special Topics courses in IAC.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "4811",
+      "courseId": "IAC 4811",
+      "title": "Special Topics in IAC",
+      "description": "Special Topics in IAC.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IAC",
+      "courseNumber": "4813",
+      "courseId": "IAC 4813",
+      "title": "Special Topics in IAC",
+      "description": "Special Topics courses in IAC.",
+      "creditHours": "3"
+    }
+  ],
+  "totalCourses": 10,
+  "scrapedAt": "2025-08-16T02:00:40.048Z"
+}

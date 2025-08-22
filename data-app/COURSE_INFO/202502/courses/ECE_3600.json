@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "3600",
+  "courseId": "ECE 3600",
+  "title": "Computer Communications",
+  "description": "Basic concepts of computer communication network protocols.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2020 Undergraduate Semester Minimum Grade of C and ECE 2026 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:38.765Z"
+}

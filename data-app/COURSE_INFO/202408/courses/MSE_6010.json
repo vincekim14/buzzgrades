@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MSE",
+  "courseNumber": "6010",
+  "courseId": "MSE 6010",
+  "title": "Functional Materials",
+  "description": "This course focuses on the effects of defects on physical properties; charge/mass transport; semiconductors, heterojunctions, electrical and magnetic polarization, interaction processes between various physical properties; electrical characterization techniques.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:18.680Z"
+}

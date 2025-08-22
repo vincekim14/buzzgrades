@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "GRMN",
+  "courseNumber": "3026",
+  "courseId": "GRMN 3026",
+  "title": "Stylistics",
+  "description": "This course introduces students to stylistic difference and idiomatic usages of German, expands vocabulary, and enlarges upon grammatical and syntactic structures.  Taught in German.  Credit not allowed for both GRMN 3026 and GRMN 3026.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:17.451Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CHIN",
+  "courseNumber": "3691",
+  "courseId": "CHIN 3691",
+  "title": "Chinese Current Events",
+  "description": "Reading, discussion and analysis of intermediate/advanced current events texts and authentic media. Part of the intensive summer Chinese language program (LBAT). Admission by application only.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:52.932Z"
+}

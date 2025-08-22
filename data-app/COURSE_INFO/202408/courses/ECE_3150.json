@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "3150",
+  "courseId": "ECE 3150",
+  "title": "VLSI &amp; Adv Digital Dsgn",
+  "description": "Advanced digital design issues in the context of VLSI systems. Introduction to a design methodolgy that encompasses the range from architectural models to circuit simulation. Credit not awarded for ECE 3150 and ECE 3060.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2031 Undergraduate Semester Minimum Grade of C and ECE 2040 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:02.080Z"
+}

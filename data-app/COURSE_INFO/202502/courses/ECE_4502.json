@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4502",
+  "courseId": "ECE 4502",
+  "title": "Optical Fiber Comm",
+  "description": "Combined lecture-laboratory exploration of the technology of fiber optics, with emphasis on optical fiber communication systems. Credit will not be awarded for ECE 4502 and ECE 4501.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3025 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:45.948Z"
+}

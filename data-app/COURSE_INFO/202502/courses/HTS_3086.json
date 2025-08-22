@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "HTS",
+  "courseNumber": "3086",
+  "courseId": "HTS 3086",
+  "title": "Soc of Medicine &amp; Health",
+  "description": "Relationship between health and society, including health care problems in the United States and culture's role in defining health and sickness and in determining appropriate therapies.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:25.913Z"
+}

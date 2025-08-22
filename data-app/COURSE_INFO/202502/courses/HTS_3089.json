@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "HTS",
+  "courseNumber": "3089",
+  "courseId": "HTS 3089",
+  "title": "Science Tech &amp; Sports",
+  "description": "This course examines what constitutes a \"sport,\" debates on the role of social inequality in sports, and the intersection of science, technology and sport.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:26.338Z"
+}

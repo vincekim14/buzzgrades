@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BMEM",
+  "courseNumber": "6001",
+  "courseId": "BMEM 6001",
+  "title": "BMED Eng-Joint w/Emory",
+  "description": "No course description is available.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:00.557Z"
+}

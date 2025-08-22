@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "1402",
+  "courseId": "ID 1402",
+  "title": "Intro Graphic Comm 2",
+  "description": "Introduction to graphic design history and practice, composition, layout, color, typography, photography, social media & videography. This second course in the sequence will emphasize digital skill development.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ID 1012 and ID 1102 and ID 1419",
+  "prerequisites": "ID 1401 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:48.842Z"
+}

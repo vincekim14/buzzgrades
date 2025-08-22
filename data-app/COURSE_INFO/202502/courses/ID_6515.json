@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "6515",
+  "courseId": "ID 6515",
+  "title": "Interface Prototyping",
+  "description": "This course focuses on interface prototypes, how these are used throughout the design process and the varity of ways they can be created with different technologies.  Through interface prototypes, students learn how to express their research, receive user feedback, explore user perceptions, and improve their designs.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:58.968Z"
+}

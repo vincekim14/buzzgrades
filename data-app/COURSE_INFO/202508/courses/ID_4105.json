@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "4105",
+  "courseId": "ID 4105",
+  "title": "Adv Modeling Concepts",
+  "description": "The Advance Modeling Concepts Course explores concepts, tools and theories used to model and validate complex forms encountered in the product design process.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 3104 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:21.067Z"
+}

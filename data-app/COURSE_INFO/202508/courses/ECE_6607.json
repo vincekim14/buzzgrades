@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "6607",
+  "courseId": "ECE 6607",
+  "title": "Computer Comm Networks",
+  "description": "Fundamental concepts of computer network architecture and protocols.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:50.681Z"
+}

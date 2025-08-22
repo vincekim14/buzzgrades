@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PSYC",
+  "courseNumber": "4260",
+  "courseId": "PSYC 4260",
+  "title": "Psychology of Aging",
+  "description": "Survey of research concerned with the nature and causes of adult age differences in behavior.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:56.092Z"
+}

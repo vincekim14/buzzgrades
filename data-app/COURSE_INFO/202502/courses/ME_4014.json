@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4014",
+  "courseId": "ME 4014",
+  "title": "Intro to Automotive Engr",
+  "description": "Introduction to automotive engineering from a systems perspective. Major automotive systems and subsystems are described together with appropriate engineering models necessary for analysis and design.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 2202 Undergraduate Semester Minimum Grade of D and ME 3322 Undergraduate Semester Minimum Grade of D and ECE 3710 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:29.451Z"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "7000",
+  "courseId": "ECE 7000",
+  "title": "Master&#39;s Thesis",
+  "description": "No course description is available.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__Bioengineering (BIOE)",
+    "__DETAIL_1__Electrical & Computer Engr (ECE)",
+    "__DETAIL_1__Machine Learning (MLRN)",
+    "__DETAIL_1__Robotics (ROBO)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:52.912Z"
+}

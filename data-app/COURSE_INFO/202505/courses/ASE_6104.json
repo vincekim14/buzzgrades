@@ -1,0 +1,20 @@
+{
+  "term": "202505",
+  "subjectCode": "ASE",
+  "courseNumber": "6104",
+  "courseId": "ASE 6104",
+  "title": "Capstone Complex Systems",
+  "description": "Student teams apply methods and techniques taught throughout the program to conduct complex system Conceptual Design based on requirements provided in a Request for Proposal.",
+  "creditHours": "0 to 3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__Applied Systems Engineering (ASE)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ASE 6103 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:17.954Z"
+}

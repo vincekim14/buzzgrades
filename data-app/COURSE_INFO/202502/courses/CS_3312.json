@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "3312",
+  "courseId": "CS 3312",
+  "title": "Project Implementation",
+  "description": "The second part of a 2 semester project design and implementation sequence conjoined with Technical Communications. Implement a project designed in CS 3311. Credit will not be awarded for CS 3312 and CS 4911.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "LMC 3431",
+  "prerequisites": "CS 2340 Undergraduate Semester Minimum Grade of C and LMC 3432 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:30.514Z"
+}

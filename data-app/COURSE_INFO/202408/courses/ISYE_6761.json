@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "6761",
+  "courseId": "ISYE 6761",
+  "title": "Stochastic Processes I",
+  "description": "Discrete time Markov chains, Poisson and renewal processes; transient and limiting behavior; average cost and utility measures of systems. Intended for Ph.D students. Crosslisted with MATH 6761.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 2027 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:06.520Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "SPAN",
+  "courseNumber": "4251",
+  "courseId": "SPAN 4251",
+  "title": "Hispanic Internship",
+  "description": "Students complete inernships with agencies, organizations, and businesses serving Atlanta Hispanics, using their Spanish language skills in a professional work environment. Conducted in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:36.850Z"
+}

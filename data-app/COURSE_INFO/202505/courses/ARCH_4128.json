@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ARCH",
+  "courseNumber": "4128",
+  "courseId": "ARCH 4128",
+  "title": "Barcelona Architecture",
+  "description": "Architectural history of the city of Barcelona and its public spaces, with a focus on the major urban and architectural projects since 1850.  Offered through the Studies Abroad Program.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech Studies Abroad (7)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:21.038Z"
+}

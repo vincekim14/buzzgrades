@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CP",
+  "courseNumber": "6541",
+  "courseId": "CP 6541",
+  "title": "Environmental GIS",
+  "description": "This course focuses on the application of geographic information systems (GIS) to environmental problems. It highlights the types and sources of data appropriate to those applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CP 6514 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:51.974Z"
+}

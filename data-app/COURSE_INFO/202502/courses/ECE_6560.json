@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6560",
+  "courseId": "ECE 6560",
+  "title": "PDEs Image Proc &amp; Vision",
+  "description": "Mathematical foundations and numerical aspects of partial-differential equation techniques used in computer vision. Topics inculde image smoothing and enhancement, edge detection, morphology, and image reconstruction.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 6550 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:56.216Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "4220",
+  "courseId": "AE 4220",
+  "title": "Aeroelasticity",
+  "description": "Structural dynamics of one-dimensional systems. Analysis of static aeroelastic phenomena, unsteady aerodynamics, and flutter.  Equations of motion for complete aeroelastic systems; solution techniques.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 3125 Undergraduate Semester Minimum Grade of D and AE 3515 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:08.008Z"
+}

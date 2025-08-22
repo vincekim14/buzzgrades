@@ -1,0 +1,22 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "3078",
+  "courseId": "MGT 3078",
+  "title": "Finance &amp; Investments",
+  "description": "An introduction to finance and to the securities markets. Topics include: time value of money, risk and return, capital budgeting, security analysis and portfolio management of stocks, bonds, and derivatives. No credit allowed for MGT majors. Credit not allowed for MGT 3078 and MGT 3062.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Majors:",
+    "__DETAIL_0__Management (MGT)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)",
+    "__HEADER_2__Cannot be enrolled in one of the following Classes:",
+    "__DETAIL_2__Freshman (FR)",
+    "__DETAIL_2__JEPHS (JH)",
+    "__DETAIL_2__Sophomore (SO)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:44.999Z"
+}

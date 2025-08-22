@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "4311",
+  "courseId": "ISYE 4311",
+  "title": "Capital Invest Analysis",
+  "description": "Students learn core concepts and techniques for economic decision and analysis of complex capital investment problems that involve dimensions of time, uncertainty and strategy.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3025 Undergraduate Semester Minimum Grade of D and ISYE 3232 Undergraduate Semester Minimum Grade of D and ISYE 3133 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:58.211Z"
+}

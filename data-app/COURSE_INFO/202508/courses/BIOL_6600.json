@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "BIOL",
+  "courseNumber": "6600",
+  "courseId": "BIOL 6600",
+  "title": "Evolution",
+  "description": "An introduction to evolutionary patterns and processes, including the history of life, phylogenetics, population genetics, quantitative genetics, molecular evolution, and other important topics in evolutionary biology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOL 2335 Undergraduate Semester Minimum Grade of D and BIOL 2344 Undergraduate Semester Minimum Grade of D and BIOL 2345 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:40.680Z"
+}

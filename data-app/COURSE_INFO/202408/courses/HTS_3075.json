@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "3075",
+  "courseId": "HTS 3075",
+  "title": "Foundations Sports Stds",
+  "description": "Offers case studies of the multidisciplinary study of sports using the lenses of history, sociology, economics, science and technology to understand sports practices and controversies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:49.383Z"
+}

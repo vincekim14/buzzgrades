@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "4012",
+  "courseId": "ME 4012",
+  "title": "Motion Systems",
+  "description": "Motion systems consisting of mechanical, fluid and electrical components are analyzed, modeled, and controlled. Alternatives are considered for system optimization.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3015 Undergraduate Semester Minimum Grade of D or ME 3017 Undergraduate Semester Minimum Grade of D or AE 3515 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:19.692Z"
+}

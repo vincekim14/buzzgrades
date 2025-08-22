@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "VIP",
+  "courseNumber": "4603",
+  "courseId": "VIP 4603",
+  "title": "VIP Project Team: SR III",
+  "description": "Multidisciplinary, project-based, team-based course supporting faculty research. Students can participate multiple semesters. 4000-level students will: have strong foundations within their disciplines; further pursue needed knowledge/skills; make meaningful contributions; take on significant responsibilities in technical areas and/or team leadership.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:45:13.100Z"
+}

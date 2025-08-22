@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CSE",
+  "courseNumber": "6250",
+  "courseId": "CSE 6250",
+  "title": "Big Data Health",
+  "description": "Big data systems, scalable machine learning algorithms, health analytic applications, electronic health records.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 7641 Undergraduate Semester Minimum Grade of D or CSE 6740 Undergraduate Semester Minimum Grade of D or CS 7646 Undergraduate Semester Minimum Grade of D or CSE 6242 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:41.733Z"
+}

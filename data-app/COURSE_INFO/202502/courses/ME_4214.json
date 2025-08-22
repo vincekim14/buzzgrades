@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4214",
+  "courseId": "ME 4214",
+  "title": "Mech Behavior-Materials",
+  "description": "Problems involving resistance of materials to plastic deformation, fracture, fatigue, and creep; mechanical testing; computer-based methods; case studies of failure.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:30.695Z"
+}

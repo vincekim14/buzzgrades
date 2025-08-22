@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "HTS",
+  "courseNumber": "3032",
+  "courseId": "HTS 3032",
+  "title": "Europe Intellectual Hist",
+  "description": "Introduction to intellectual problems and trends in modern Europe, including loss of faith in progress, evil and ethics, post-colonialism, feminism, linguistics, and psycho-analytic thought.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:10.681Z"
+}

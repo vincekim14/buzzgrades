@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CETL",
+  "courseNumber": "8713",
+  "courseId": "CETL 8713",
+  "title": "Teach&amp;Learn-Higher Edu",
+  "description": "This course explores how to apply evidence-based teaching practices in higher education including principles of learning, student development, inclusive teaching, and instructional strategies..",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:36.345Z"
+}

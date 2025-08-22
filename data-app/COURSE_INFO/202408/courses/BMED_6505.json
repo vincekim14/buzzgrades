@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "BMED",
+  "courseNumber": "6505",
+  "courseId": "BMED 6505",
+  "title": "Prod Plan &amp; Project Mgt",
+  "description": "Strategy and analysis techniques to evaluate and manage new product innovations, product improvements and product line extensions in context of an entity's mission and goals.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 6504 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:21.289Z"
+}

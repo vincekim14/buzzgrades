@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MSL",
+  "courseNumber": "2001",
+  "courseId": "MSL 2001",
+  "title": "Innovative Team Leadrshp",
+  "description": "Explores the dimensions of creative and innovative tactical leadership strategies and styles by examining team dynamics and two historical leadership theories that form the basis of the Army leadership framework (trait and behavior theories). Cadets practice aspects of personal motivation and team building in the context of planning, executing, and assessing team exercises and participating in leadership labs. Focus is on continued development of the knowledge of leadership values and attributes through an understanding of Army rank, structure, duties and basic aspects of land navigation and squad tactics. Case studies provide tangible context for learning the Soldier's Creed and Warrior Ethos as they apply in the contemporary operating environment (COE).",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSL 1002 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:16.256Z"
+}

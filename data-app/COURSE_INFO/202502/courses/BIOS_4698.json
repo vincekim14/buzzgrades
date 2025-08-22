@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4698",
+  "courseId": "BIOS 4698",
+  "title": "Research Assistantship",
+  "description": "Undergraduate research under the guidance of a faculty member for juniors and seniors.",
+  "creditHours": "1 to 12",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:48.520Z"
+}

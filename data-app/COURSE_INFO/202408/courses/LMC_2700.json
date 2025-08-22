@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "2700",
+  "courseId": "LMC 2700",
+  "title": "Intr-Computational Media",
+  "description": "Introduction to key concepts, methods, and achievements in computational media, and the convergence of digital technology with cultural traditions of representation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of C and (CS 1315 Undergraduate Semester Minimum Grade of C or CS 1316 Undergraduate Semester Minimum Grade of C or CS 1301 Undergraduate Semester Minimum Grade of C or CS 1321 Undergraduate Semester Minimum Grade of C or CS 1371 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:41:26.661Z"
+}

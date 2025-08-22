@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CP",
+  "courseNumber": "6834",
+  "courseId": "CP 6834",
+  "title": "Urban Design Policy",
+  "description": "Urban design policy making and its implementation including an analysis of the behavioral basis for policies that promote quality in built form.  Credit not allowed for both CP 6834 and ARCH 6303.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CP 6832 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:45.345Z"
+}

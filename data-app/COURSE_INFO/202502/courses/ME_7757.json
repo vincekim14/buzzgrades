@@ -1,0 +1,20 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "7757",
+  "courseId": "ME 7757",
+  "title": "Teaching Practicum",
+  "description": "Supervised teaching for doctoral students.  Teaching techniques, course and curriculum design, student evaluation methods and criteria.  Students may, in some instances, prepare and present lectures.  Crosslisted with NRE, HP, and CHBE 7757.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)",
+    "__HEADER_2__Must be enrolled in one of the following Classes:",
+    "__DETAIL_2__Ph.D. (DR)"
+  ],
+  "corequisites": "ME 9000",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:43.851Z"
+}

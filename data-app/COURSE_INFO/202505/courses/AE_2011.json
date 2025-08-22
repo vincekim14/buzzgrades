@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "AE",
+  "courseNumber": "2011",
+  "courseId": "AE 2011",
+  "title": "Fluids Fundamentals",
+  "description": "Flowfield concepts, fluid properties, conservation equations for flows, isentropic flow, shocks and expansions, introduction to flows with friction and heat transfer. Applications to aerospace devices.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3322 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:09.132Z"
+}

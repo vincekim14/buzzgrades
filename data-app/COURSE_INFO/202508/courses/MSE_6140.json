@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "6140",
+  "courseId": "MSE 6140",
+  "title": "Computational Mat Sci",
+  "description": "This course aims to provide a broad understanding of a spectrum of modern state-of-the-art computational methods used in materials science and engineering.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:50.422Z"
+}

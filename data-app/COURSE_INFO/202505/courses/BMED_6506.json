@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "BMED",
+  "courseNumber": "6506",
+  "courseId": "BMED 6506",
+  "title": "Prof Communication BioID",
+  "description": "Techniques and practice of effective oral presentations project/grant proposal writing, technical and project report writing to support medical device engineering, design and business.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:36.353Z"
+}

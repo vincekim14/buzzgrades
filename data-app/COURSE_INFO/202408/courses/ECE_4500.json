@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4500",
+  "courseId": "ECE 4500",
+  "title": "Optical Engineering",
+  "description": "Introduction to applications of geometric, physical optics to engineering, including optical measurements, matrix methods, instruments, interference, holography, beam optics, Fourier optics, and diffraction.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3025 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:10.416Z"
+}

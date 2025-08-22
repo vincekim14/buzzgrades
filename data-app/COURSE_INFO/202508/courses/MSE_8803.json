@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "8803",
+  "courseId": "MSE 8803",
+  "title": "Special Topics",
+  "description": "Special topic offering of current interest not included in regular courses.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:53.771Z"
+}

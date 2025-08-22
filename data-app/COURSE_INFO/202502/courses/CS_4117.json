@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4117",
+  "courseId": "CS 4117",
+  "title": "Intro Malware Rev Eng",
+  "description": "This course exposes students to an immersive, hands-on experience in the dissection and analysis of the code, structure, and functionality of malicious software.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2035 Undergraduate Semester Minimum Grade of C or ECE 2036 Undergraduate Semester Minimum Grade of C or CS 2200 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:32.968Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BC",
+  "courseNumber": "4600",
+  "courseId": "BC 4600",
+  "title": "Project Management II",
+  "description": "This course covers practical project management, technology, and tools for this approach and the  required management skills for successful execution of projects.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 3630 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:09.787Z"
+}

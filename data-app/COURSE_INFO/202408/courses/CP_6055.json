@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CP",
+  "courseNumber": "6055",
+  "courseId": "CP 6055",
+  "title": "Planning Studio",
+  "description": "Analysis and preparation of alternatives for an existing neighborhood, community, or region. Emphasis on application of planning skills in a real-world situation.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:10.127Z"
+}

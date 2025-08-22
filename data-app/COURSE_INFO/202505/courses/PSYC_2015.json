@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "PSYC",
+  "courseNumber": "2015",
+  "courseId": "PSYC 2015",
+  "title": "Research Methods",
+  "description": "Introduction to methods used in conducting research on human behavior. Experimental research emphasized, but course covers other methods and some statistics.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D and (PSYC 2020 Undergraduate Semester Minimum Grade of D or MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or CEE 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or ISYE 2028 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:42:19.461Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "4034",
+  "courseId": "ISYE 4034",
+  "title": "Decision and Data Analytics",
+  "description": "This course integrates decision and data analytics to solve real-world business problems.  It includes hands-on system modeling, data collection and analysis, and reporting writing projects.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3133 Undergraduate Semester Minimum Grade of D and CS 4400 Undergraduate Semester Minimum Grade of D and ISYE 4031 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:33.095Z"
+}

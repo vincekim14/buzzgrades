@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "SPAN",
+  "courseNumber": "3101",
+  "courseId": "SPAN 3101",
+  "title": "Conversation I",
+  "description": "Development of communicative ability and cross-cultural awareness through discussion of contemporary issues in the Hispanic world. Conducted in Spanish. No native speakers allowed.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:27.713Z"
+}

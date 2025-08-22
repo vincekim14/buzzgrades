@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "4580",
+  "courseId": "MATH 4580",
+  "title": "Linear Programming",
+  "description": "A study of linear programming problems, including the simplex method, duality, and sensitivity analysis with applications to matrix games, interger programming, and networks.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or (MATH 15X2 Undergraduate Semester Minimum Grade of D and MATH 1522 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:42:14.268Z"
+}

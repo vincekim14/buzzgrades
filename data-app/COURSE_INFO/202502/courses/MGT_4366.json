@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4366",
+  "courseId": "MGT 4366",
+  "title": "Service Operations Mgt",
+  "description": "This course analyzes operational performance for the service and for service-support functions of manufacturers. Industries include information services, health care, parking, transportation, distribution, and retail.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3501 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:33.573Z"
+}

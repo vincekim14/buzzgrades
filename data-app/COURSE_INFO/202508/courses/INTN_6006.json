@@ -1,0 +1,21 @@
+{
+  "term": "202508",
+  "subjectCode": "INTN",
+  "courseNumber": "6006",
+  "courseId": "INTN 6006",
+  "title": "Grad Int Prog Hit",
+  "description": "Supervised work experience for Master’s and Ph.D. student interns working 16 - 20 hours per week in their field of study for a semester.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)",
+    "__HEADER_2__Must be enrolled in one of the following Classes:",
+    "__DETAIL_2__Ph.D. (DR)",
+    "__DETAIL_2__Masters (MS)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:45.293Z"
+}

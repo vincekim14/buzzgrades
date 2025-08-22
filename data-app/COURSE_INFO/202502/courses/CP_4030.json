@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CP",
+  "courseNumber": "4030",
+  "courseId": "CP 4030",
+  "title": "City and Technology",
+  "description": "This course places urban infrastructure technology within the larger context of planning and development. The social and economic aspects of these systems are highlighted.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:47.286Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "1355",
+  "courseId": "AE 1355",
+  "title": "Design Competition I",
+  "description": "Team-oriented aerospace systems design project directed by a faculty advisor.  Typically a national student competition in aircraft, rotorcraft, or spacecraft design. Technical role commensurate with freshman standing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:18.964Z"
+}

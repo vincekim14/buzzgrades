@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CSE",
+  "courseNumber": "6742",
+  "courseId": "CSE 6742",
+  "title": "Mod, Sim&amp;Military Gaming",
+  "description": "Focuses on the creation and use of modeling and simulation tools to analyze and train students regarding strategic events in international relations. Crosslisted with INTA 6742.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:21.317Z"
+}

@@ -1,0 +1,777 @@
+{
+  "subject": "BIOS",
+  "subjectName": "Biological Sciences (BIOS)",
+  "url": "https://catalog.gatech.edu/coursesaz/bios/",
+  "courses": [
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1107",
+      "courseId": "BIOS 1107",
+      "title": "Principles of Biology I",
+      "description": "Lecture part of a sequence designed for science majors. An introduction to biological principles, including biomacromolecules, bioenergetics, cell structure, genetics, evolution, and ecological relationships for STEM majors and prehealth students.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1107L",
+      "courseId": "BIOS 1107L",
+      "title": "Principles of Biology I Laboratory",
+      "description": "Laboratory exercises supplement the lecture material of BIOL 1107. A laboratory-based introduction to biological principles, including biomacromolecules, bioenergetics, cell structure, genetics, evolution, and ecological relationships for STEM majors and prehealth students.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1107R",
+      "courseId": "BIOS 1107R",
+      "title": "BIOS 1107 Recitation",
+      "description": "Recitation for BIOS 1107.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1108",
+      "courseId": "BIOS 1108",
+      "title": "Principles of Biology II",
+      "description": "Lecture part of a sequence designed for science majors. An introduction to organ and organismal biology, emphasizing physiological processes, growth/development, and biodiversity from an evolutionary perspective for STEM majors and prehealth students.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1108L",
+      "courseId": "BIOS 1108L",
+      "title": "Principles of Biology II Laboratory",
+      "description": "Laboratory exercises supplement the lecture material of BIOL 1108. A laboratory-based introduction to organ and organismal biology, emphasizing physiological processes, growth/development, and biodiversity from an evolutionary perspective for STEM majors and prehealth students.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1108R",
+      "courseId": "BIOS 1108R",
+      "title": "BIOS 1108 Recitation",
+      "description": "Recitation for BIOS 1108.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1207",
+      "courseId": "BIOS 1207",
+      "title": "Biological Principles for Majors",
+      "description": "An introduction to the basic principles of modern biology, including biomacromolecules, bioenergetics, cell structure, genetics, evolution, and ecological relationships.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1207L",
+      "courseId": "BIOS 1207L",
+      "title": "Biological Principles Project Laboratory",
+      "description": "A project-based laboratory introduction to the basic principles of modern biology, including biomacromolecules, bioenergetics, cell structure, genetics, evolution, and ecological relationships,",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1207R",
+      "courseId": "BIOS 1207R",
+      "title": "BIOS 1207 Recitation",
+      "description": "Recitation for BIOS 1207.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1208",
+      "courseId": "BIOS 1208",
+      "title": "Organismal Biology for Majors",
+      "description": "An introduction to biology at the organ and organismal level, with emphasis on physiological processes, integration of growth and development, and biodiversity from an evolutionary perspective.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1208L",
+      "courseId": "BIOS 1208L",
+      "title": "Organismal Biology Project Laboratory",
+      "description": "A project-based laboratory introduction to biology at the organ and organismal level, with emphasis on physiological processes, integration of growth and development, and biodiversity from an evolutionary perspective.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1208R",
+      "courseId": "BIOS 1208R",
+      "title": "BIOS 1208 Recitation",
+      "description": "Recitation for BIOS 1208.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1220",
+      "courseId": "BIOS 1220",
+      "title": "Biology of Sex & Death",
+      "description": "Students learn biology through the lens of the formation and collapse of biological systems, organized around questions pertaining to life, sex, and death.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "1220R",
+      "courseId": "BIOS 1220R",
+      "title": "Biology of Sex and Death Recitation",
+      "description": "A recitation period for BIOS 1220, an introduction to biology and scientific methodology organized around questions pertaining to life, sex, and death.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2300",
+      "courseId": "BIOS 2300",
+      "title": "Ecology",
+      "description": "Introduction to ecological processes at individual, population, and community levels that occur in plant, animal, and microbial taxa, and their relevance to current environmental problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2301",
+      "courseId": "BIOS 2301",
+      "title": "Ecology Laboratory",
+      "description": "The companion laboratory for BIOS 2300 (Ecology). This course stresses understanding ecological concepts through a combination of lab and field experiments, and computer simulations.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2310",
+      "courseId": "BIOS 2310",
+      "title": "Problems in Ecology",
+      "description": "Problem-based learning approach to modern ecology from populations to communities, stressing independent analysis, scientific thinking, communication and projects in local communities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2311",
+      "courseId": "BIOS 2311",
+      "title": "Problems in Ecology Laboratory",
+      "description": "Companion lab to Problems in Ecology. Problem-based learning approach to modern ecology, stressing independent analysis, scientific thinking, communication and projects in local communities.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2400",
+      "courseId": "BIOS 2400",
+      "title": "Math Models in Biology",
+      "description": "Introductory probability and deterministic models in biology, including discrete and continuous probability distributions and dynamic models from molecular and cellular biology to ecology and epidemiology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2500",
+      "courseId": "BIOS 2500",
+      "title": "Introduction to Sport Science",
+      "description": "Students will apply scientific principles to human performance related to sport and movement across an array of topics (e.g., rehabilitation, exercise physiology, locomotion biomechanics, prosthetics).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2600",
+      "courseId": "BIOS 2600",
+      "title": "Genetics",
+      "description": "Mendelian and molecular genetics: principles of inheritance, gene structure and function, foundations of recombinant DNA technology, genetic basis of variation and evolution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2601",
+      "courseId": "BIOS 2601",
+      "title": "Genetics Laboratory",
+      "description": "A laboratory course in fundamental techniques of genetic analysis.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2610",
+      "courseId": "BIOS 2610",
+      "title": "Integrative Genetics",
+      "description": "Rigorous in-depth integrated coverage of rules and molecular basis of inheritance, incorporating primary literature and capitalizing on excellent prior knowledge of fundamentals of biology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2611",
+      "courseId": "BIOS 2611",
+      "title": "Integrative Genetics Lab",
+      "description": "Hands-on introduction to practical techniques, critical thinking, and important concepts in genetics.  Students carry out laboratory experiments that explore transmission, population, and molecular genetics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2694",
+      "courseId": "BIOS 2694",
+      "title": "Biology Intern Assistantship",
+      "description": "Biology Undergraduate Internship for pay for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Biological Sciences.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2695",
+      "courseId": "BIOS 2695",
+      "title": "Biology Internship",
+      "description": "Biology Undergraduate Internship for credit for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Biological Sciences.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2698",
+      "courseId": "BIOS 2698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.\n\nUndergraduate research under the guidance of a faculty member for first years and sophomores, or for students with no previous undergraduate-level research experience.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2699",
+      "courseId": "BIOS 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.\n\nUndergraduate research under the guidance of a faculty member for first years and sophomores, or for students with no previous undergraduate-level research experience.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "2801",
+      "courseId": "BIOS 2801",
+      "title": "Special Topics",
+      "description": "Lecture course in current special topics in biological sciences. Topics will vary from year to year.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3380",
+      "courseId": "BIOS 3380",
+      "title": "Microbiology",
+      "description": "Basic biology of bacteria, fungi, algae, and viruses, with emphasis on bacteriology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3381",
+      "courseId": "BIOS 3381",
+      "title": "Microbiology Lab",
+      "description": "Fundamental laboratory techniques in microbiology.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3400",
+      "courseId": "BIOS 3400",
+      "title": "Mathematical Models in Biology",
+      "description": "Probability and deterministic models in biology, including discrete and continuous probability distributions and dynamic models from molecular and cellular biology to ecology and epidemiology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3450",
+      "courseId": "BIOS 3450",
+      "title": "Cell and Molecular Biology",
+      "description": "An introduction to the structure and function of cells and their organelles with emphasis on eucaryotic cellular and molecular processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3451",
+      "courseId": "BIOS 3451",
+      "title": "Cell and Molecular Biology Lab",
+      "description": "An introduction to experimental methods of cell and molecular biology research that will cover some fundamental topics of cell biology.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3600",
+      "courseId": "BIOS 3600",
+      "title": "Evolutionary Biology",
+      "description": "A comprehensive overview of evolutionary biology, including processes (e.g., natural selection, genetic drift) and resulting patterns (e.g., genome organization, phylogeny, and the fossil record).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3753",
+      "courseId": "BIOS 3753",
+      "title": "Human Anatomy",
+      "description": "Detailed study of human body structures using a regional and systems approach.  Emphasis is placed on structural relationships and the integration of body systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3754",
+      "courseId": "BIOS 3754",
+      "title": "Laboratory in Human Anatomy",
+      "description": "A detailed hands-on study of human structure using high resolution models, specialized specimens and dissection of selected mammalian organs and tissues.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3755",
+      "courseId": "BIOS 3755",
+      "title": "Human Physiology",
+      "description": "Students will explore the function and adaptation of the human body emphasizing neuromuscular, cardio-respiratory, gastrointestinal, endocrine, and urinary systems to maintain homeostasis and human health.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3756",
+      "courseId": "BIOS 3756",
+      "title": "Physiology Laboratory",
+      "description": "Course focuses on non-invasive human experiments supplemented with in vitro tissues experiments to explore fundamental physiological concepts and learn basic methods of physiological measurements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3801",
+      "courseId": "BIOS 3801",
+      "title": "Special Topics",
+      "description": "Lecture course in current special topics in biological sciences. Topics will vary from year to year.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "3835",
+      "courseId": "BIOS 3835",
+      "title": "Special Topics",
+      "description": "Special Topics course in the School of Biological Sciences.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4012",
+      "courseId": "BIOS 4012",
+      "title": "Protein Biology",
+      "description": "Biological view of proteins, including protein biosynthesis, processing, modification, folding, trafficking, interactions, degradation, natural and directed evolution, assembly diseases, amyloids, prions and protein-based inheritance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4015",
+      "courseId": "BIOS 4015",
+      "title": "Cancer Biology and Biotechnology",
+      "description": "This course covers basic concepts of cancer biology and new technologies that are being developed to understand, detect, treat and prevent cancer.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4100",
+      "courseId": "BIOS 4100",
+      "title": "Exercise Physiology",
+      "description": "Physiology of human movement with emphasis on metabolic, cardiorespiratory, and musculoskeletal aspects; associated topics include body composition, thermoregulation, and ergogenic aids.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4150",
+      "courseId": "BIOS 4150",
+      "title": "Genomics and Applied Bioinformatics",
+      "description": "Retrieval and analysis of biological sequence, gene expression, and proteomics data from public databases and other sources; applying standard bioinformatics tools to investigate biological questions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4200",
+      "courseId": "BIOS 4200",
+      "title": "Kinesiological Basis of Human Movement",
+      "description": "This course teaches principles related to the biomechanics, energetics and motor control of movement as it applies to human and animal movement, rehabilitation, and sports performance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4221",
+      "courseId": "BIOS 4221",
+      "title": "Biological Oceanography",
+      "description": "An introduction to the major biological processes in the ocean including primary production, elemental cycling, food webs, and fisheries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4225",
+      "courseId": "BIOS 4225",
+      "title": "Molecular Evolution",
+      "description": "Evolutionary processes at molecular level, organization of genomes and genetic systems. Students will read and present up-to-date research articles in various topics in molecular evolution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4238",
+      "courseId": "BIOS 4238",
+      "title": "Ion Channels in Health and Disease",
+      "description": "We will examine the basic biophysical properties, structure-function relationships, physiological regulation, pathology and pharmacological manipulation of ion channels with heavy reliance on recent literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4340",
+      "courseId": "BIOS 4340",
+      "title": "Medical Microbiology",
+      "description": "Advanced study of bacteria, protozoa, fungi, and viruses that cause human diseases; emphasis on epidemiology, mechanisms of disease causation, prevention, and treatment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4400",
+      "courseId": "BIOS 4400",
+      "title": "Human Neuroanatomy",
+      "description": "The purpose of this course is to learn the anatomical makeup of the human nervous system.  In this course we will closely examine details of central and peripheral neuroanatomy with links to function.  As well, comparisons with non-human vertebrate neuroanatomy will be made.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4401",
+      "courseId": "BIOS 4401",
+      "title": "Experimental Design and Statistical Methods in Biological Sciences",
+      "description": "Introductory course on experimental design, hypothesis testing and basic statistical techniques commonly applied in biosciences research. Exercises based on statistical software packages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4410",
+      "courseId": "BIOS 4410",
+      "title": "Microbial Ecology",
+      "description": "Advanced studies of microbial ecosystems, the specific roles of bacteria in maintaining ecological balance, and the evolution of the ecosystem in response to changing environments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4417",
+      "courseId": "BIOS 4417",
+      "title": "Marine Ecology",
+      "description": "An overview of the physical forces and biotic interactions structuring marine communities and of the major threats to these communities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4418",
+      "courseId": "BIOS 4418",
+      "title": "Microbial Physiology",
+      "description": "Study of the physiology of growth and metabolic activities of microorganisms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4428",
+      "courseId": "BIOS 4428",
+      "title": "Population Dynamics",
+      "description": "Students will examine the ecological factors that affect dynamics, regulation, and evolution of natural populations, emphasizing the connections with mathematical models, genetics, and ecology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4432",
+      "courseId": "BIOS 4432",
+      "title": "Conservation Biology",
+      "description": "This course explores the broad diversity of disciplines in conservation, with emphasis on biological phenomena. Analyzes contemporary issues affecting biodiversity, extinction risk, and policymaking.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4440",
+      "courseId": "BIOS 4440",
+      "title": "Human Pathology",
+      "description": "The course provides a comprehensive overview of clinical human anatomic pathology. The course will focus on select diseases and their etiologies, pathogenesis, morphological changes, and clinical manifestations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4460",
+      "courseId": "BIOS 4460",
+      "title": "Communicating Biological Research",
+      "description": "Students learn to convey the importance of research findings in the biological sciences and to critically evaluate research results through discussions and scientific presentations.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4464",
+      "courseId": "BIOS 4464",
+      "title": "Developmental Biology",
+      "description": "Investigation of cell differentiation and development, using the tools of molecular genetics and cell biology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4471",
+      "courseId": "BIOS 4471",
+      "title": "Behavioral Biology",
+      "description": "An introduction to the study of the principles of behavior of all kinds of organisms, from microbes to mammals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4480",
+      "courseId": "BIOS 4480",
+      "title": "Evolutionary Developmental Biology – How to Build an Organism",
+      "description": "This course teaches students how the process of development from embryo to adult impacts evolutionary diversity and human health.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4500",
+      "courseId": "BIOS 4500",
+      "title": "Drug Discovery",
+      "description": "You will learn about the drug discovery process by identifying a disease and disease target,  and then design a therapy to treat the disease.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4505",
+      "courseId": "BIOS 4505",
+      "title": "Programming in Biological and Life Sciences",
+      "description": "This course introduces students to the basics of coding, applied to fundamental biological and medical questions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4510",
+      "courseId": "BIOS 4510",
+      "title": "Epigenetics,  Stem Cells, and Development",
+      "description": "This course will introduce the basic concepts and mechanisms in epigenetics, covering topics ranging from stem cell reprogramming, organismal development, social behaviors, to human diseases.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4515",
+      "courseId": "BIOS 4515",
+      "title": "Community Ecology",
+      "description": "An advanced ecology course that covers classic and contemporary concepts, patterns, and processes in the field of community ecology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4520",
+      "courseId": "BIOS 4520",
+      "title": "Health Genes Society",
+      "description": "Capstone project based investigation of the roles that genes and culture play in shaping health, including an introduction to personalized medicine.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4530",
+      "courseId": "BIOS 4530",
+      "title": "Human Evolutionary Genomics",
+      "description": "An advanced course where students will discuss primary literature and use computational tools to investigate how evolution has shaped global patterns of human genetic variation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4540",
+      "courseId": "BIOS 4540",
+      "title": "Human Motor Control",
+      "description": "Course provides in-depth review of biomechanics and neurophysiology of human motion and discusses how human movements are planned, executed and corrected by the nervous system.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4545",
+      "courseId": "BIOS 4545",
+      "title": "Genetics of Complex Human Traits and Diseases",
+      "description": "Introduction to the genetics and evolution of complex human traits, focusing on contemporary approaches to understanding susceptibility to malignant, metabolic, immune and psychological diseases.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4550",
+      "courseId": "BIOS 4550",
+      "title": "Origin of complex life: from cells to societies",
+      "description": "This course examines the evolutionary origins of complex life. We will examine the history of life on Earth and evolutionary process through which complexity arises.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4560",
+      "courseId": "BIOS 4560",
+      "title": "RNA Biology and Biotechnology",
+      "description": "This course covers fundamental concepts of RNA biology as well as state-of-the-art biotechnologies that make use of RNA.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4565",
+      "courseId": "BIOS 4565",
+      "title": "Chromosome Biology and Human Diseases",
+      "description": "This course explores the fundamental mechanisms governing metabolism of eukaryotic chromosomes and human diseases resulting from malfunctioning of chromosomal maintenance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4570",
+      "courseId": "BIOS 4570",
+      "title": "Immunology",
+      "description": "A survey of modern immunology and its applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4590",
+      "courseId": "BIOS 4590",
+      "title": "Research Project Lab",
+      "description": "Experience in designing, implementing, and communicating a biology research project, and practical training in modern approaches for biological research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4607",
+      "courseId": "BIOS 4607",
+      "title": "Molecular Biology of Microbes: Disease, Nature, and Biotechnology",
+      "description": "Molecular genetics of bacteria with an emphasis on experimental approaches, regulatory mechanisms on disease-causing and environmental bacteria, and biotechnology applications derived from microbes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4620",
+      "courseId": "BIOS 4620",
+      "title": "Aquatic Chemical Ecology",
+      "description": "The course focuses on understanding the chemical mechanisms of aquatic signaling and the cascading effects on population regulation, community organization, and ecosystem function.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4651",
+      "courseId": "BIOS 4651",
+      "title": "Bioethics",
+      "description": "This course examines important bioethical issues in research, policy, medicine, and the environment in light of ethical theory and the process of scientific inquiry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4690",
+      "courseId": "BIOS 4690",
+      "title": "Independent Research Project",
+      "description": "Independent research with proposal and manuscript writing, conducted with the guidance of a faculty member.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4691",
+      "courseId": "BIOS 4691",
+      "title": "Research Thesis",
+      "description": "Writing and submission of an Undergraduate Research Thesis describing research accomplishments with a Georgia Tech faculty member.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4694",
+      "courseId": "BIOS 4694",
+      "title": "Biology Intern Assistantship",
+      "description": "Biology Undergraduate Internship for pay for juniors and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Biology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4695",
+      "courseId": "BIOS 4695",
+      "title": "Biology Internship",
+      "description": "Biology Undergraduate Internship for credit for juniors and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Biology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4696",
+      "courseId": "BIOS 4696",
+      "title": "Biology Undergraduate Teaching Assistantship",
+      "description": "Biology teaching carried out under the guidance of a faculty member.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4697",
+      "courseId": "BIOS 4697",
+      "title": "Biology Undergraduate Teaching Experience",
+      "description": "An introduction to teaching biology for undergraduate teaching assistants, with a focus on effective teaching, active engagement of students, and development of innovative classroom activities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4698",
+      "courseId": "BIOS 4698",
+      "title": "Research Assistantship",
+      "description": "Undergraduate research under the guidance of a faculty member for juniors and seniors.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4699",
+      "courseId": "BIOS 4699",
+      "title": "Undergraduate Research",
+      "description": "Undergraduate research under the guidance of a faculty member for juniors and seniors.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4740",
+      "courseId": "BIOS 4740",
+      "title": "Biologically-Inspired Design",
+      "description": "We examine evolutionary adaptation as a source for engineering design inspiration, utilizing principles of scaling, adaptability, and robust multifunctionality that characterize biological systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4744",
+      "courseId": "BIOS 4744",
+      "title": "Microbial Symbiosis & Microbiomes",
+      "description": "This course explores how symbiotic interactions with microbes affect the biology of other organisms, focusing extensively on the beneficial microbes native to the human body.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4746",
+      "courseId": "BIOS 4746",
+      "title": "Signaling Molecules",
+      "description": "The diversity of chemical signals between organisms and their structural specifications will be presented along with chemical and biological methods for isolating signaling molecules.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4801",
+      "courseId": "BIOS 4801",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4802",
+      "courseId": "BIOS 4802",
+      "title": "Special Topics",
+      "description": "Special Topics in the School of Biological Sciences.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4803",
+      "courseId": "BIOS 4803",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4813",
+      "courseId": "BIOS 4813",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4814",
+      "courseId": "BIOS 4814",
+      "title": "Special Topics",
+      "description": "This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological science.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "4835",
+      "courseId": "BIOS 4835",
+      "title": "Special Topics",
+      "description": "Special Topics offered by the School of Biological Sciences.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOS",
+      "courseNumber": "8802",
+      "courseId": "BIOS 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    }
+  ],
+  "totalCourses": 96,
+  "scrapedAt": "2025-08-16T02:00:32.270Z"
+}

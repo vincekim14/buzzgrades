@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3325",
+  "courseId": "MGT 3325",
+  "title": "Product Planning",
+  "description": "Overviews issues inherent in product development and product management. These include product strategy, idea generation, market development, product positioning, test marketing, launch, and brand management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3300 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:24.163Z"
+}

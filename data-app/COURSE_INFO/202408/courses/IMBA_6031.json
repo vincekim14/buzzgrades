@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "IMBA",
+  "courseNumber": "6031",
+  "courseId": "IMBA 6031",
+  "title": "Leadershp &amp; Org Behavior",
+  "description": "This course focuses on the challenges in leading teams and organizations in increasingly complex, global, and dynamic business environments.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:14.711Z"
+}

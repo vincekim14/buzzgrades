@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PHYS",
+  "courseNumber": "4142",
+  "courseId": "PHYS 4142",
+  "title": "Statistical Mechanics",
+  "description": "The statistical basis of thermodynamics is developed. Topics include entropy and the second law, partition functions and free energy, systems of variable particle number, and quantum statistics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 3141 Undergraduate Semester Minimum Grade of D and PHYS 3143 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:24.916Z"
+}

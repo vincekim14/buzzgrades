@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PUBP",
+  "courseNumber": "4440",
+  "courseId": "PUBP 4440",
+  "title": "Sci Tech &amp; Regulation",
+  "description": "Examines historical, legal, economic, and political rationales for regulation.  Survey of administrative law and processes, risk analysis/management, expertise and public, and current topical issues.   Credit not allowed for both PUBP 4440 and PUBP 6440.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "POL 1101 Undergraduate Semester Minimum Grade of D or INTA 1200 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:44:52.166Z"
+}

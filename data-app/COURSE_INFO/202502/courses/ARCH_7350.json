@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "7350",
+  "courseId": "ARCH 7350",
+  "title": "Found of Arch Theory",
+  "description": "Reviews thought and attitudes guiding architecture since the modern movement, their philosophical sources, and their relationship with architectural production. Defines architectural theory.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:34.758Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "4803",
+  "courseId": "PSYC 4803",
+  "title": "Teams",
+  "description": "Special topics or courses of an experimental nature.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:37.434Z"
+}

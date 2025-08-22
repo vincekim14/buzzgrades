@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "6421",
+  "courseId": "CEE 6421",
+  "title": "Lab Charact-Geomaterials",
+  "description": "Instruction in the procedures, methods of interpretation and apparatus limitations and influences for geotechnical laboratory index, strength, deformation, and permeability tests.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 4400 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:30.704Z"
+}

@@ -1,0 +1,21 @@
+{
+  "term": "202508",
+  "subjectCode": "NRE",
+  "courseNumber": "4610",
+  "courseId": "NRE 4610",
+  "title": "Plasma Phys&amp; Fusion Engr",
+  "description": "A first course in plasma physics and magnetic confinement fusion: basic plasma physics, magnetic confinement concepts, fusion engineering, and a review of the current status of fusion research.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Colleges:",
+    "__DETAIL_0__College of Engineering (E)",
+    "__DETAIL_0__College of Sciences (S)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)",
+    "__HEADER_2__Must be enrolled in one of the following Classes:",
+    "__DETAIL_2__Senior (SR)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:08.900Z"
+}

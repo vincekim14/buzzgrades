@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "KOR",
+  "courseNumber": "4002",
+  "courseId": "KOR 4002",
+  "title": "Select Rdngs of Mod Kor",
+  "description": "This course aims to enhance students' Korean skills through advanced reading and comprehension, translation, grammar, and writing practice.  Taught in Korean.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:59.393Z"
+}

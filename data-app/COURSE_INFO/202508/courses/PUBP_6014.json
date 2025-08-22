@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "PUBP",
+  "courseNumber": "6014",
+  "courseId": "PUBP 6014",
+  "title": "Organization Theory",
+  "description": "A broad overview of the theoretical issues pertaining to the management of organizations.  The course explores both \"macro\" (i.e. external relations, strategies, and structures) organizational issues. While this is a survey course, we will be concentrating much of our attention on current challenges to bureaucracy as a form of organization. In particular, we will be using theories to examine trends toward re-engineering corporations or re-inventing government agencies.  Satisfies policy implementation, management, and organization theory requirement.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:56.013Z"
+}

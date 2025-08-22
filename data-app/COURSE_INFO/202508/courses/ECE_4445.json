@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "4445",
+  "courseId": "ECE 4445",
+  "title": "Audio Engineering",
+  "description": "Concepts of acoustics and electroacoustic modeling for the analysis and design of microphones, loudspeakers, and crossover networks. Methods of analysis and design of audio power amplifiers.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 3040 Undergraduate Semester Minimum Grade of C or ECE 3741 Undergraduate Semester Minimum Grade of D) and ECE 3084 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:38.748Z"
+}

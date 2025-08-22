@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "6449",
+  "courseId": "ME 6449",
+  "title": "Transducers &amp; Signals",
+  "description": "Acoustic instrumentation and methods of signal analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 6760 Undergraduate Semester Minimum Grade of D or ME 6760 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:30.271Z"
+}

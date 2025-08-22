@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "RUSS",
+  "courseNumber": "4692",
+  "courseId": "RUSS 4692",
+  "title": "Intens Adv Russian II",
+  "description": "Russian LBAT summer program. Reading on and discussion of contemporary Russian and global issues. Advanced grammar and syntax. Stylistics of written discourses. Taught in Russian.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:33.051Z"
+}

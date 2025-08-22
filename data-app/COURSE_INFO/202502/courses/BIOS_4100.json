@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "4100",
+  "courseId": "BIOS 4100",
+  "title": "Exercise Physiology",
+  "description": "Physiology of human movement with emphasis on metabolic, cardiorespiratory, and musculoskeletal aspects; associated topics include body composition, thermoregulation, and ergogenic aids.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "APPH 3755 Undergraduate Semester Minimum Grade of D or BIOL 3755 Undergraduate Semester Minimum Grade of D or BIOS 3755 Undergraduate Semester Minimum Grade of D or BMED 3100 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:43.212Z"
+}

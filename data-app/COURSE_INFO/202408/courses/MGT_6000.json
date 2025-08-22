@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "6000",
+  "courseId": "MGT 6000",
+  "title": "Financial &amp; Mgrl Acct I",
+  "description": "A foundation course in measuring and reporting the financial performance and status of the firm through financial reports and their construction, as well as basic concepts in cost and managerial accounting, valuation of assets, and revenue recognition..",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:56.815Z"
+}

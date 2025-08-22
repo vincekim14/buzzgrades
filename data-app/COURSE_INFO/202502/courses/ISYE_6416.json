@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "6416",
+  "courseId": "ISYE 6416",
+  "title": "Computational Statistics",
+  "description": "This class describes the available knowledge regarding statistical computing. Topics include random deviates generation, importance sampling, Monte Carlo Markov chain (MCMC), EM algorithms, bootstrapping, model selection criteria, (e.g. C-p, AIC, etc.) splines, wavelets, and Fourier transform.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2028 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:40.214Z"
+}

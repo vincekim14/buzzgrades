@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "UCGA",
+  "courseNumber": "6004",
+  "courseId": "UCGA 6004",
+  "title": "Cross Enrol-AU Morehouse",
+  "description": "CROSS ENROLL-AU MOREHOUS",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Quarter (UG)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:03.510Z"
+}

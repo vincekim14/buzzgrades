@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CHEM",
+  "courseNumber": "3511",
+  "courseId": "CHEM 3511",
+  "title": "Survey of Biochemistry",
+  "description": "Introductory course in biochemistry dealing with the chemistry and biochemistry of proteins, lipids, carbohydrates, nucleic acids, and other biomolecules. Credit not awarded for both CHEM 3511 and (CHEM 4511 or CHEM 3521).",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 1315 Undergraduate Semester Minimum Grade of D or CHEM 2312 Undergraduate Semester Minimum Grade of D or CHEM 2313 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:54.951Z"
+}

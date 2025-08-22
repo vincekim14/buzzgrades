@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "7012",
+  "courseId": "MATH 7012",
+  "title": "Enumerative Combinatoric",
+  "description": "Fundamental methods of enumeration and asymptotic analysis, including the use of inclusion/exclusion, generating functions, and recurrence relations.  Applications to strings over a finite alphabet and graphs.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4032 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:39.517Z"
+}

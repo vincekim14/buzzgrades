@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "4140",
+  "courseId": "PUBP 4140",
+  "title": "Foundations Leadership",
+  "description": "This course offers a comprehensive review of contemporary issues and perspectives on leadership, including multi-disciplinary and systems-oriented approaches as well as classic theory, moving to the examination of evolving contemporary beliefs.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:52.364Z"
+}

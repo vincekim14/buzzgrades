@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "HTS",
+  "courseNumber": "3048",
+  "courseId": "HTS 3048",
+  "title": "Modern Russian Hist &amp; Soc",
+  "description": "Provides an overview of Russian history during the 20th Century.  Special emphasis will be on the Soviet period of Russian history from 1917-1991.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:24.834Z"
+}

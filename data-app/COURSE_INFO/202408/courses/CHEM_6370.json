@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CHEM",
+  "courseNumber": "6370",
+  "courseId": "CHEM 6370",
+  "title": "Organic React Mechanism",
+  "description": "Reaction mechanisms in organic chemistry, including the concepts of physical organic chemistry, reactive intermediates, and complex functional group transformations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:59.702Z"
+}

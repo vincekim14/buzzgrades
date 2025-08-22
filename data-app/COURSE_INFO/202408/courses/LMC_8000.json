@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "8000",
+  "courseId": "LMC 8000",
+  "title": "Media Theory",
+  "description": "Key traditions of media theory that contribute to the study of Digital Media. Students cannot receive credit for LMC 8000 and LCC 8000.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:40.817Z"
+}

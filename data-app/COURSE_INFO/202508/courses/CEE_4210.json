@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "4210",
+  "courseId": "CEE 4210",
+  "title": "Hydrology",
+  "description": "Global circulation and the hydrologic cycle, precipitation mechanisms and analysis, evaporation and other losses, streamflow, hydrographs, river and reservoir routing, and frequency analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3040 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:54.284Z"
+}

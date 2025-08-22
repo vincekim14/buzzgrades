@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MUSI",
+  "courseNumber": "4456",
+  "courseId": "MUSI 4456",
+  "title": "Mus Tech Hist&amp;Repertoire",
+  "description": "Overview of the history, aesthetics, and technology of electronic and computer music over the past century through selected readings, musical analysis, and individual research projects. Credit will not be awarded for both MUSI 4456 and MUSI 6003.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MUSI 2013 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:22.592Z"
+}

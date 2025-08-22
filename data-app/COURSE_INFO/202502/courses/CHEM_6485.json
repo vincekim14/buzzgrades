@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "6485",
+  "courseId": "CHEM 6485",
+  "title": "Computational Chemistry",
+  "description": "Introductory course in computational chemistry, discussing electronic structure theory, semiemphirical methods, molecular mechanics, transistion-state searching, and computation of thermodynamic quantities.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:40.167Z"
+}

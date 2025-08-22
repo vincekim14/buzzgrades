@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "4357",
+  "courseId": "ECON 4357",
+  "title": "Law&amp;Econ-Global Trading",
+  "description": "This course takes an interdisciplinary approach, examining the economics, law, and political economy of the global trading system and its rules and practices. The course reviews the main economic theories behind the existence of tariffs, quotas, subsidies, non-tariff barriers to trade, strategic trade policies, and discusses the basic rules of GATT and World Trade Organization (WTO). Case-study discussions are used to analyze how multinational enterprises (MNEs) alter their strategies and decision-making structures in response to multilateral rules and enforcement mechanisms embodied in the WTO.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2105 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:19.721Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "4600",
+  "courseId": "PSYC 4600",
+  "title": "Senior Thesis I",
+  "description": "The first of a two course sequence in which selected students conduct original work under the direction of a faculty member. The student will produce a proposal for research that will be undertaken during the second course (PSYC 4601).",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 2015 Undergraduate Semester Minimum Grade of C and PSYC 2020 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:44:35.406Z"
+}

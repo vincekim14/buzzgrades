@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "PHYS",
+  "courseNumber": "4801",
+  "courseId": "PHYS 4801",
+  "title": "Special Topics",
+  "description": "Courses in special topics of current interest in physics are presented from time to time.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:16.897Z"
+}

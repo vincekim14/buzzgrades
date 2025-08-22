@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "NRE",
+  "courseNumber": "6301",
+  "courseId": "NRE 6301",
+  "title": "Reactor Engineering",
+  "description": "Two-phase flow, boiling heat transfer, fast reactor thermal-hydraulics, reactor thermal-hydraulics uncertainty analysis, loss-of-coolant accidents. Reactor thermal- hydraulic accident analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:15.463Z"
+}

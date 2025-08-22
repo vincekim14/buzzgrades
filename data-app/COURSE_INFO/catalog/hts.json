@@ -1,0 +1,1385 @@
+{
+  "subject": "HTS",
+  "subjectName": "History, Technology & Society (HTS)",
+  "url": "https://catalog.gatech.edu/coursesaz/hts/",
+  "courses": [
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "1031",
+      "courseId": "HTS 1031",
+      "title": "Europe Since the Renaissance",
+      "description": "Social, political, economic, and cultural history of Europe since the Renaissance.  Topics include Renaissance; Reformation; political, scientific, and industrial revolutions; nationalism; fascism and communism; decolonization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "1081",
+      "courseId": "HTS 1081",
+      "title": "Engineering in History",
+      "description": "Uses historical case studies to examine the relationship between engineers and the larger society in which they function.  Often taught jointly with engineering faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2001",
+      "courseId": "HTS 2001",
+      "title": "Early American History",
+      "description": "North America to 1763, including native cultures, contacts with European colonizers, settlement strategies and patterns, and foundation of American political and economic institutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2002",
+      "courseId": "HTS 2002",
+      "title": "The American Revolution and Constitution",
+      "description": "The American Revolution as political debate, war, and social upheaval, with attention to the framing and ratification of the Constitution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2006",
+      "courseId": "HTS 2006",
+      "title": "History of the Old South to 1865",
+      "description": "A study of social, political, and economic developments in the South from the colonial period through the Civil War.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2007",
+      "courseId": "HTS 2007",
+      "title": "History of the New South since 1865",
+      "description": "An examination of social, political, and economic developments from the Reconstruction period to the present.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2013",
+      "courseId": "HTS 2013",
+      "title": "Modern America: World War II and After",
+      "description": "Dawning of the atomic age, anticommunism, the Civil Rights Movement, New Frontier and Great Society, Vietnam and the tumultuous 1960s, and end of Cold War.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2015",
+      "courseId": "HTS 2015",
+      "title": "History of Sports in America",
+      "description": "Examines American sport from colonial to contemporary times. Focuses on the rise of organized sports and the influence of race, class, gender, and ethnicity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2016",
+      "courseId": "HTS 2016",
+      "title": "Social Issues and Public Policy",
+      "description": "Draws on sociological theory and research to understand the major economic, social, and cultural issues facing American society today.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2017",
+      "courseId": "HTS 2017",
+      "title": "Environmental Sociology",
+      "description": "This course examines theories about how human society impacts the natural world through economic, political, and social systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2018",
+      "courseId": "HTS 2018",
+      "title": "Food and Society",
+      "description": "Survey of the complex social web of identity, culture, politics, economics, history, and power behind food systems in the U.S. and globally.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2036",
+      "courseId": "HTS 2036",
+      "title": "Revolutionary Europe: 1789-1914",
+      "description": "Industrialization and political revolution, the development of political ideologies and labor activism, modern nation-state building, and imperialism from the French Revolution to World War I.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2037",
+      "courseId": "HTS 2037",
+      "title": "Twentieth Century Europe: 1914 to Present",
+      "description": "Global war and the Bolshevik Revolution, rise and fall of Mussolini and Hitler, Stalinism, the Holocaust, Cold War, decolonization, and the movement toward European integration.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2040",
+      "courseId": "HTS 2040",
+      "title": "History of Islamic Societies",
+      "description": "Survey of Middle East from pre-Islamic times to Ottoman rule, tracing the development of Islamic society and emphasizing the plurality of culture in the region.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2041",
+      "courseId": "HTS 2041",
+      "title": "History of the Modern Middle East",
+      "description": "The transformation of the Middle East in the modern era and the relationship of the \"East\" and \"West\" in the contemporary world.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2051",
+      "courseId": "HTS 2051",
+      "title": "Colonial Latin America and the World",
+      "description": "An exploration of colonial Latin America from the perspective of Global History.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2052",
+      "courseId": "HTS 2052",
+      "title": "North American Borderlands",
+      "description": "Introduction to the history of early Florida, Georgia, Louisiana, Texas, New Mexico, Arizona and California in the Spanish Colonial period.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2053",
+      "courseId": "HTS 2053",
+      "title": "Modern Latin American History",
+      "description": "Introduces students to the socioeconomic, political, cultural, and environmental conditions that have shaped life in Latin America from the 1800s to the present.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2061",
+      "courseId": "HTS 2061",
+      "title": "Traditional Asia and Its Legacy",
+      "description": "Civilizations of East Asia up to 1850, emphasizing traditional cultures in China and Japan, including religion, science, formation of empires, social life, and commerce.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2062",
+      "courseId": "HTS 2062",
+      "title": "Asia in the Modern World",
+      "description": "Civilizations of India, China, and Japan since 1600, emphasizing Western impact and adaptation of these countries' political, economic, and social systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2080",
+      "courseId": "HTS 2080",
+      "title": "Introduction to the History of Disease and Medicine",
+      "description": "Introduction to the history of disease and medicine since the Renaissance focusing on infectious diseases, the rise of germ theory, and evolution of medical training.  Cerdit not allowed for both HTS 2080 and HTS 3087.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2081",
+      "courseId": "HTS 2081",
+      "title": "The Scientific Revolution",
+      "description": "A critical approach to the Scientific Revolution, introducing students to primary documents and images from the period and emphasizing interpretive strategies and methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2082",
+      "courseId": "HTS 2082",
+      "title": "Technology and Science in the Industrial Age",
+      "description": "Surveys major developments in technology and science since 1600 and places them in the broader social context of their times.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2084",
+      "courseId": "HTS 2084",
+      "title": "Technology and Society",
+      "description": "Analyzes social conditions that promote or retard technological activity, emphasizing role of business, the state, and scientific and engineering professions, and the emergence of consumerism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2085",
+      "courseId": "HTS 2085",
+      "title": "Reel History I: US History through Hollywood Films",
+      "description": "Students evaluate films as sources for specific historical events by viewing films, reading historical documents, and applying critical analysis to written assignments and class discussions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2086",
+      "courseId": "HTS 2086",
+      "title": "Semester in the City: Engaging Communities",
+      "description": "Explores how urban neighborhoods work focusing on Westside neighborhoods from a variety of perspectives. Students will work with residents in designing a sustainability project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2100",
+      "courseId": "HTS 2100",
+      "title": "Sci, Tech & Modern World",
+      "description": "An introduction to perspectives on how developments in science and technology at once reflect and influence politics and society on a global scale.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2101",
+      "courseId": "HTS 2101",
+      "title": "Historical and Social Research",
+      "description": "Interdisciplinary survey based on critical readings of the methods historians and social scientists use to generate knowledge about social life.  Students engage in \"hands-on\" research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2694",
+      "courseId": "HTS 2694",
+      "title": "HTS Internship - Paid",
+      "description": "Undergraduate internship for which the student is paid and receives audit credit. Freshmen and sophomores only.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2695",
+      "courseId": "HTS 2695",
+      "title": "HTS Internship-Credit",
+      "description": "Unpaid undergraduate internship for which the student receives pass/fail credit. Freshmen and sophomores only.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2698",
+      "courseId": "HTS 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2699",
+      "courseId": "HTS 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2801",
+      "courseId": "HTS 2801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2803",
+      "courseId": "HTS 2803",
+      "title": "Special Topics",
+      "description": "Allows a group of students and a professor to study topics not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2813",
+      "courseId": "HTS 2813",
+      "title": "Special Topics",
+      "description": "Allows a group of students and a professor to study topics not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2823",
+      "courseId": "HTS 2823",
+      "title": "Special Topics",
+      "description": "Allows a group of students and a professor to study topics not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2927",
+      "courseId": "HTS 2927",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2928",
+      "courseId": "HTS 2928",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "2929",
+      "courseId": "HTS 2929",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3002",
+      "courseId": "HTS 3002",
+      "title": "History of American Business",
+      "description": "Evolution of business institutions from colonial period to present, including entrepreneurship, business-government relations, institutional innovation, and twentieth century managerial capitalism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3003",
+      "courseId": "HTS 3003",
+      "title": "Sociology of Economic Institutions",
+      "description": "Examines links between economic structures-markets, regulatory bodies, and labor relations systems-and the wider structural and cultural context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3005",
+      "courseId": "HTS 3005",
+      "title": "American Environmental History",
+      "description": "Transformation of the North American environment since 1500, including different notions of nature, romantic responses to wilderness during industrialization, rise of conservation movements, and environmental policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3006",
+      "courseId": "HTS 3006",
+      "title": "United States Labor History",
+      "description": "The changing nature of work and labor relations, with focus on unionization and government regulation, and equity issues in the workplace.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3007",
+      "courseId": "HTS 3007",
+      "title": "Sociology of Work, Industry, and Occupations",
+      "description": "Analyzes paid employment as a decisive social attachment, emphasizing work organizations, technological change and authority relations, and social inequality among diverse groups of employees.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3008",
+      "courseId": "HTS 3008",
+      "title": "Class, Power, and Social Inequality",
+      "description": "This course examines how social class and the market economy affect inequality and stratification in the U.S., with additional attention to the roles of race and gender.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3009",
+      "courseId": "HTS 3009",
+      "title": "The American Civil War",
+      "description": "Social, economic, political, and military aspects of the Civil War, including causes of the war, military campaigns, and long-term consequences.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3010",
+      "courseId": "HTS 3010",
+      "title": "Organizing for Social Change",
+      "description": "Students will explore how people organize to amplify their voices, build power, and enact change. They will apply theory and organizing skills to advance change on campus.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3011",
+      "courseId": "HTS 3011",
+      "title": "The City in American History",
+      "description": "Examines the historical background of the American city since colonial times, including city planning, urban technology and services, neighborhoods, and race relations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3012",
+      "courseId": "HTS 3012",
+      "title": "Urban Sociology",
+      "description": "Sociological perspectives on the city, urbanization, and problems of community, evolution of cities and problems of urban life in the United States and Third World.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3015",
+      "courseId": "HTS 3015",
+      "title": "History of the Vietnam War",
+      "description": "Diplomatic, military, and social aspects of America's war in Vietnam, including antiwar protests, the defense industry boom, and the war's enduring impact on American life.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3016",
+      "courseId": "HTS 3016",
+      "title": "Women and Gender in the United States",
+      "description": "Course examines themes and theories of women's and gender history since the colonial period, including work, family, race, sexuality, and politics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3017",
+      "courseId": "HTS 3017",
+      "title": "Sociology of Gender",
+      "description": "Gender as a dimension of social life that shapes and is shaped by the economy, schooling, family, politics, medicine and health, race, and social class.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3018",
+      "courseId": "HTS 3018",
+      "title": "New Religions and Cults in America",
+      "description": "Explores controversial and influential new religious movements and cults in America, focusing on their origin, appeal, and impact.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3019",
+      "courseId": "HTS 3019",
+      "title": "The Family, Sexuality, and Social Change in America",
+      "description": "Changing patterns of family life and sex roles since colonial times, with a focus on mainstream ideals, utopian alternatives, and social criticism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3020",
+      "courseId": "HTS 3020",
+      "title": "Gender and Technology",
+      "description": "Course examines the ways in which the design, development, and application of technologies, as well as cultural responses to them, have been gendered historically.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3021",
+      "courseId": "HTS 3021",
+      "title": "Women in Science and Engineering",
+      "description": "Women in science and engineering and gender differences in participation, location, and status.  Examines education, access, and apprenticeship, culture of science and engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3022",
+      "courseId": "HTS 3022",
+      "title": "Gender and Sports",
+      "description": "Examines how gender norms and beliefs shape sport structures, participation opportunities and experiences in American sport.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3023",
+      "courseId": "HTS 3023",
+      "title": "Slaves without Masters: Free People of Color before 1865",
+      "description": "Free people of color during the era of slavery, including everyday life, political and social philosophies, literature, community development, and movements for social change.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3024",
+      "courseId": "HTS 3024",
+      "title": "African American History to 1865",
+      "description": "The experience of African and African American people in North America from the beginnings of slavery until the era of emancipation in the Civil War.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3025",
+      "courseId": "HTS 3025",
+      "title": "African American History since 1865",
+      "description": "The African American experience since 1865, including Reconstruction, segregation, the African American family, the Harlem Renaissance, the Civil Rights Movement, and Black Power.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3026",
+      "courseId": "HTS 3026",
+      "title": "Sociology of Race and Ethnicity",
+      "description": "Nature and significance of dominant/minority relations, including legacies of colonialism and slavery, roots of residential segregation, and effects of race on American politics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3027",
+      "courseId": "HTS 3027",
+      "title": "The Civil Rights Movement",
+      "description": "Examines why the civil rights movement emerged, how it was successful, and the impact it had on the U.S.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3028",
+      "courseId": "HTS 3028",
+      "title": "Ancient Greece: Gods, Heroes, and RuinS",
+      "description": "Classical Athens and Sparta, myths and legends in historical context. Course ends with Alexander the Great and the rise of Rome.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3029",
+      "courseId": "HTS 3029",
+      "title": "Ancient Rome: From Greatness to Ruins",
+      "description": "Growth of the Republic, antics and follies of the emperors, accomplishments of Rome, and causes of decline. Early Christianity and its impact on Europe included.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3030",
+      "courseId": "HTS 3030",
+      "title": "Medieval Europe: 350 to 1400",
+      "description": "The rise of barbarian kingdoms from Rome's ashes, the explosion of  Islam, the monastic movement, Charlemagne's empire, the blossoming of medieval culture, and developinG European monarchies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3031",
+      "courseId": "HTS 3031",
+      "title": "European Labor History",
+      "description": "The labor movement from 1700s to the present, including an examination of Marx and socialism, unionization, and work conditions, especially in Britain, Germany, and France.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3032",
+      "courseId": "HTS 3032",
+      "title": "Modern European Intellectual History",
+      "description": "Introduction to intellectual problems and trends in modern Europe, including loss of faith in progress, evil and ethics, post-colonialism, feminism, linguistics, and psycho-analytic thought.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3033",
+      "courseId": "HTS 3033",
+      "title": "Medieval England",
+      "description": "Political, economic, and cultural development of England during the Middle Ages (c. 350-1400). Myths and legends of Stonehenge, the Druids, and King Arthur's Camelot explored.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3035",
+      "courseId": "HTS 3035",
+      "title": "Britain from 1815-1914",
+      "description": "Developments in nineteenth-century Britain, including the industrial revolution, the growth of political democracy, imperialism, and movements for Irish Home rule and democratic socialism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3036",
+      "courseId": "HTS 3036",
+      "title": "Britain Since 1914",
+      "description": "Britain's experience of two world wars, the growth of Labour and decline of the Liberals, the Welfare State, Thatcherism, and Tony Blair's \"New Labour\".",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3038",
+      "courseId": "HTS 3038",
+      "title": "The French Revolution",
+      "description": "Economic, intellectual, and cultural causes of the French Revolution, Jacobinism and the Terror, careers of Robespierre and Danton, and rise and fall of Napoleon's empire.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3039",
+      "courseId": "HTS 3039",
+      "title": "Modern France",
+      "description": "France from 1815 to 1968, emphasizing the continuing project of creating France as a powerful nation within the context of global culture and politics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3041",
+      "courseId": "HTS 3041",
+      "title": "Modern Spain",
+      "description": "Resistance to Napoleon, deformed industrialization, Anarchist and fascist experiments form the background for Spain's transition from dictatorship to democracy after Franco's death.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3046",
+      "courseId": "HTS 3046",
+      "title": "Science, Politics, and Culture in Nazi Germany",
+      "description": "Examines the social, political and cultural context of science and technology in Nazi Germany to understand the interaction of science and politics under totalitarian regimes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3048",
+      "courseId": "HTS 3048",
+      "title": "Modern Russian History and Society",
+      "description": "Provides an overview of Russian history during the 20th Century.  Special emphasis will be on the Soviet period of Russian history from 1917-1991.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3051",
+      "courseId": "HTS 3051",
+      "title": "Women and the Politics of Gender in the Middle East",
+      "description": "The role of women in imperial, nationalist, and Islamist political programs in the Middle East and the impact of politics on women's lives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3055",
+      "courseId": "HTS 3055",
+      "title": "Globalization in the Modern Era",
+      "description": "This course examines the process of globalization and global change in the twentieth century.  Also offers a critical examination of various theories of globalization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3061",
+      "courseId": "HTS 3061",
+      "title": "Modern China",
+      "description": "The decline of Confucian order, the impact of the West, changes and continuities of Chinese culture, the Communist revolution, nationalism, and economic reforms since 1978.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3062",
+      "courseId": "HTS 3062",
+      "title": "Modern Japan",
+      "description": "Japan's transformation in one century from a feudal state into an economic superpower and the impact of these changes on the Japanese people.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3064",
+      "courseId": "HTS 3064",
+      "title": "Sociology of Development",
+      "description": "Course examines competing perspectives on international development and surveys some of the crucial issues, including political instability, facing the Third World today.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3065",
+      "courseId": "HTS 3065",
+      "title": "History of Global Societies",
+      "description": "Examines the historical patterns of interaction and inter- dependence between world regions, from approximately the 13th century to global interdependence to the contemporary world.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3066",
+      "courseId": "HTS 3066",
+      "title": "Sociology of Politics and Society",
+      "description": "Political sociology studies the way power is distributed in society. This course takes a comparative and historical approach, focusing on the development of the nation-state.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3067",
+      "courseId": "HTS 3067",
+      "title": "Revolutionary Movements in the Modern World",
+      "description": "Comparative analysis of the origin, development, and impact of major twentieth century revolutionary movements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3068",
+      "courseId": "HTS 3068",
+      "title": "Social Movements",
+      "description": "Why do social movements emerge? Why might they succeed? This course examines how ordinary people challenge powerful segments of society and contribute to social change.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3070",
+      "courseId": "HTS 3070",
+      "title": "Culture and Society",
+      "description": "Covers core issues in the study of culture. Focuses on key sites, social practices, and institutions. Topics include education, medicine, consumption, and the mass media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3071",
+      "courseId": "HTS 3071",
+      "title": "Sociology of Crime",
+      "description": "This course examines the theories and issues such as perceptions of crime and criminals, characteristics of offenders and victims, and how crime is studied.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3072",
+      "courseId": "HTS 3072",
+      "title": "Sociology of Education",
+      "description": "Examines sociological perspectives on how individual, school, and social factors influence students and teachers. Particular attention is paid to gender, race, ethnicity, and social class.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3073",
+      "courseId": "HTS 3073",
+      "title": "Sociology of Sports",
+      "description": "Examines what constitutes \"sports,\" and uses sociological lens to study sports relationship to education, policy, media, deviance, violence as well as gender, race and class.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3075",
+      "courseId": "HTS 3075",
+      "title": "Foundations of Sports Studies",
+      "description": "Offers case studies of the multidisciplinary study of sports using the lenses of history, sociology, economics, science and technology to understand sports practices and controversies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3076",
+      "courseId": "HTS 3076",
+      "title": "History of Intelligence and National Security",
+      "description": "Examines the Cold War’s most important spy cases and operations to better understand the interplay between the world of secrets and intelligence and the world of statecraft and technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3080",
+      "courseId": "HTS 3080",
+      "title": "History of Rocketry",
+      "description": "Examines the history of rocketry, scientists, and organizations in the US, USSR, and Europe during the twentieth century.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3081",
+      "courseId": "HTS 3081",
+      "title": "Technology and the Environment",
+      "description": "Examines how technology affected the environment during the 20th Century, with special attention to issues like industrialization, pollution, overcrowding, and the biotech revolution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3082",
+      "courseId": "HTS 3082",
+      "title": "Sociology of Science",
+      "description": "The growth of science, its social structure; deviance and norms, the social context of scientific knowledge and practice, and science policy.  Credit not allowed for both HTS 3082 and HTS 6115.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3084",
+      "courseId": "HTS 3084",
+      "title": "Culture and Technology",
+      "description": "Modernism and post-modernism: this course investigates culturally creative responses to modern manufacturing, transportation (trains, cars, airplanes), evolving gender ideals, and new communications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3086",
+      "courseId": "HTS 3086",
+      "title": "Sociology of Medicine and Health",
+      "description": "Relationship between health and society, including health care problems in the United States and culture's role in defining health and sickness and in determining appropriate therapies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3087",
+      "courseId": "HTS 3087",
+      "title": "History of Medicine",
+      "description": "An introduction to historical perspectives on the development of medicine, and its relationship to health, illness, and society.  Credit not allowed for both HTS 3087 and HTS 2080.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3088",
+      "courseId": "HTS 3088",
+      "title": "Race, Medicine & Science",
+      "description": "Examines how race is an issue in medicine and science in ways such as education, professions, treatments, experiments, and as a subject of analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3089",
+      "courseId": "HTS 3089",
+      "title": "Science, Technology and Sports",
+      "description": "This course examines what constitutes a \"sport,\" debates on the role of social inequality in sports, and the intersection of science, technology and sport.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3100",
+      "courseId": "HTS 3100",
+      "title": "Introduction to Museum Studies",
+      "description": "Covers theoretical and practical issues in museum studies, including the role of material culture in scholarly work, registration of artifacts, exhibit design, and public relations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3102",
+      "courseId": "HTS 3102",
+      "title": "Social Theory and Social Structure",
+      "description": "Introduction to social theory, providing students with skills for reading theory and examining works of major social theorists, including Marx, Weber, Durkheim, Gilman, and Bourdieu.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3103",
+      "courseId": "HTS 3103",
+      "title": "Honor's Thesis",
+      "description": "This course is designed to allow honor's students to distinguish themselves by producing a significant, original research paper.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3801",
+      "courseId": "HTS 3801",
+      "title": "Special Topics",
+      "description": "Special Topics in HTS.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3803",
+      "courseId": "HTS 3803",
+      "title": "Special Topics",
+      "description": "Allows a group of students and a professor to  study topics not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3813",
+      "courseId": "HTS 3813",
+      "title": "Special Topics",
+      "description": "Allows a group of students and a professor to study topics not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "3823",
+      "courseId": "HTS 3823",
+      "title": "Special Topics",
+      "description": "Allows a group of students and a professor to study topics not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4001",
+      "courseId": "HTS 4001",
+      "title": "Seminar in United States History",
+      "description": "Advanced undergraduate topics in U.S. history. Designed for HTS majors, but open to other students with junior or senior standing.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4011",
+      "courseId": "HTS 4011",
+      "title": "Seminar in Sociology",
+      "description": "Advanced undergraduate topics in sociology. Designed for HTS majors, but open to other students with junior or senior standing.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4031",
+      "courseId": "HTS 4031",
+      "title": "Seminar in European History",
+      "description": "Advanced undergraduate topics in European history. Designed for HTS majors, but open to other students with junior or senior standing.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4081",
+      "courseId": "HTS 4081",
+      "title": "Seminar in History of Technology",
+      "description": "Advanced undergraduate topics in the history of technology. Designed for HTS majors, but open to other students with junior or senior standing.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4086",
+      "courseId": "HTS 4086",
+      "title": "Seminar in Health, Medicine, and Society",
+      "description": "Advanced undergraduate topics in health and medicine.  Designed for HTS majors and HMS minors, but open to other students with junior or senior standing.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4091",
+      "courseId": "HTS 4091",
+      "title": "Seminar in Global Issues",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4694",
+      "courseId": "HTS 4694",
+      "title": "HTS Internship-Paid",
+      "description": "Undergraduate internship for which the student is paid and receives audit credit. Juniors and seniors only.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4695",
+      "courseId": "HTS 4695",
+      "title": "HTS Internship-Credit",
+      "description": "Unpaid undergraduate internship for which the student receives pass/fail credit.  Juniors and seniors only.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4698",
+      "courseId": "HTS 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4699",
+      "courseId": "HTS 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4811",
+      "courseId": "HTS 4811",
+      "title": "Special Topics",
+      "description": "Topics of interest  not covered in the regular course offering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4812",
+      "courseId": "HTS 4812",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4813",
+      "courseId": "HTS 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4814",
+      "courseId": "HTS 4814",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4815",
+      "courseId": "HTS 4815",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4823",
+      "courseId": "HTS 4823",
+      "title": "Special Topics",
+      "description": "Allows a group of students and a professor to study topics not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4833",
+      "courseId": "HTS 4833",
+      "title": "Special Topics",
+      "description": "Allows a group of students and a professor to study topics not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4843",
+      "courseId": "HTS 4843",
+      "title": "Special Topics",
+      "description": "Allows a student and a professor to study topics not included in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4925",
+      "courseId": "HTS 4925",
+      "title": "Special Problems in History, Technology, and Society",
+      "description": "Individual studies of topics of current interest in history, technology, and society.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4926",
+      "courseId": "HTS 4926",
+      "title": "Special Problems in History, Technology, and Society",
+      "description": "Individual studies of topics of current interest in History, Technology, and Society.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4927",
+      "courseId": "HTS 4927",
+      "title": "Special Problems in History, Technology, and Society",
+      "description": "Individual studies of topics of current interest in History, Technology, and Society.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4928",
+      "courseId": "HTS 4928",
+      "title": "Special Problems in History, Technology, and Society",
+      "description": "Individual studies of topics of current interest in History, Technology, and Society.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "4929",
+      "courseId": "HTS 4929",
+      "title": "Special Problems in History, Technology, and Society",
+      "description": "Individual studies of topics of current interest in History, Technology, and Society.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6001",
+      "courseId": "HTS 6001",
+      "title": "Proseminar in Social Theory",
+      "description": "An introduction to key theoretical traditions in modern social theory, including both classical and contemporary works.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6002",
+      "courseId": "HTS 6002",
+      "title": "Proseminar in the History of Technology",
+      "description": "Identifies major areas of interest in the history of technology and introduces a variety of approaches to the discipline.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6003",
+      "courseId": "HTS 6003",
+      "title": "Historical Methods",
+      "description": "An introduction to key historical traditions and methodological approaches.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6101",
+      "courseId": "HTS 6101",
+      "title": "Social and Political History of the United States",
+      "description": "Examines the social experiences of Americans and the political contexts in which they lived.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6102",
+      "courseId": "HTS 6102",
+      "title": "Social and Political History of Europe",
+      "description": "Classic works and debates in European social history, including transition from feudalism to capitalism, French Revolution, rural history and industrialization, and origins of nationalism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6103",
+      "courseId": "HTS 6103",
+      "title": "Social and Political History of the Nonwestern World",
+      "description": "Covers basic empirical and relevant theoretical literature in English on the social and political history of Africa, Asia, and/or Latin America.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6106",
+      "courseId": "HTS 6106",
+      "title": "Business Organizations and Political Economy",
+      "description": "Examines the historical evolution and contemporary operations of business institutions within the larger context of political economy; emphasis on business, government, and technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6110",
+      "courseId": "HTS 6110",
+      "title": "Gender, Science, and Technology",
+      "description": "Examines the ways in which gendered relations shape scientific and technological institutions, careers, artifacts, knowledge, and culture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6111",
+      "courseId": "HTS 6111",
+      "title": "Technology and Modern Culture",
+      "description": "Introduces the complex interplay between technological systems and diffuse systems of consumption, social organization, and culture beyond the act of production.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6112",
+      "courseId": "HTS 6112",
+      "title": "Studies in Science and Engineering",
+      "description": "Empirical investigation of scientific and engineering practice in historical and contemporary settings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6113",
+      "courseId": "HTS 6113",
+      "title": "Development, Technology and Science",
+      "description": "Explores the impact of science and technology on development and modernization.  Credit not allowed for both HTS 6113 and HTS 4011.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6114",
+      "courseId": "HTS 6114",
+      "title": "Topics in the History of Science",
+      "description": "Explores topics in the history of science in their social and political contexts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6115",
+      "courseId": "HTS 6115",
+      "title": "Sociology of Science and Technology",
+      "description": "Explores current debates in the history of the sociology of science and technology.  Credit not allowed for both HTS 6115 and HTS 3082.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6116",
+      "courseId": "HTS 6116",
+      "title": "The Environment in World History",
+      "description": "Surveys the field of global environmental history with examples taken from biology, geography, sociology and anthropology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6117",
+      "courseId": "HTS 6117",
+      "title": "Urbanization",
+      "description": "An intensive introduction to the political, social, and economic forces involved in the process of urbanization.  Credit not allowed for both HTS 6117 and HTS 6105.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6118",
+      "courseId": "HTS 6118",
+      "title": "Science, Technology and the Economy",
+      "description": "Examines how science and technology are related to economic institutions and processes.  Credit not allowed for both HTS 6118 and HTS 6107.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6119",
+      "courseId": "HTS 6119",
+      "title": "Race and Ethnicity",
+      "description": "Examines the structural impact of racism and ethnic discrimination on American society, and the controversies over racial and ethnic identity. Credit not allowed for both HTS 6119 and HTS 6108.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6120",
+      "courseId": "HTS 6120",
+      "title": "Inequality, Science and Technology",
+      "description": "Explores the impacts of science and technology on inequality, as well as how notions of difference have shaped science and technology.  Credit not allowed for both HTS 6120 and HTS 6109.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6121",
+      "courseId": "HTS 6121",
+      "title": "Science, Technology, and National Security",
+      "description": "Topics in the study of the relationship between national security and the scientific-technological enterprise from diverse perspectives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6122",
+      "courseId": "HTS 6122",
+      "title": "History of Medicine",
+      "description": "The impact of disease in history, modern developments in medicine and health focusing on western medicine in a global context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6123",
+      "courseId": "HTS 6123",
+      "title": "Social and Cultural Studies of Biomedicine",
+      "description": "Introduces students to the changing social, political, and corporate worlds of the biological sciences, biotechnology, and biomedicine.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6124",
+      "courseId": "HTS 6124",
+      "title": "Science and Technology Beyond Borders",
+      "description": "Discusses the roles of science and technology as instruments of social control and of social change in development and modernization.  Credit not allowed for both HTS 6124 and HTS 6104.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6125",
+      "courseId": "HTS 6125",
+      "title": "Quantitative Methods in Social Research",
+      "description": "Introduces statistical reasoning and trains students in methods and tools of quantitative research in the humanities and social sciences.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6743",
+      "courseId": "HTS 6743",
+      "title": "Science, Technology & Soceity: Core Seminar",
+      "description": "This survey course covers key works in Science, Technology & Society, and guest lectures introduce students to faculty doing STS-related research across the Ivan Allen College.  Credit not allowed for both HTS 6743 and PUBP 6743 or LCC 6743.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "6801",
+      "courseId": "HTS 6801",
+      "title": "Research Paper",
+      "description": "Under the direct supervision of one or more faculty members, graduate students will complete an original research design and execute that study.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "7001",
+      "courseId": "HTS 7001",
+      "title": "Foundations of Socio-historical Analysis",
+      "description": "Introduces key concepts and methods used in the historical analysis of social phenomena.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "7002",
+      "courseId": "HTS 7002",
+      "title": "Research and Writing Seminar",
+      "description": "Introduces methods of sociohistorical research and writing; requires preparation of an original research paper based on primary sources.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "7999",
+      "courseId": "HTS 7999",
+      "title": "Comprehensive Exam Preparation",
+      "description": "Preparation for comprehensive exam in fields of history or sociology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8001",
+      "courseId": "HTS 8001",
+      "title": "Comparative History of Labor, Industry, Technology, and Society",
+      "description": "An intensive, team-taught reading seminar covering major themes and classic works in these fields.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8801",
+      "courseId": "HTS 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8802",
+      "courseId": "HTS 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8803",
+      "courseId": "HTS 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8804",
+      "courseId": "HTS 8804",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8805",
+      "courseId": "HTS 8805",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8806",
+      "courseId": "HTS 8806",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8901",
+      "courseId": "HTS 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8902",
+      "courseId": "HTS 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8903",
+      "courseId": "HTS 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8904",
+      "courseId": "HTS 8904",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8905",
+      "courseId": "HTS 8905",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8906",
+      "courseId": "HTS 8906",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8997",
+      "courseId": "HTS 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding a teaching assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "8998",
+      "courseId": "HTS 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding a research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "HTS",
+      "courseNumber": "9000",
+      "courseId": "HTS 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 172,
+  "scrapedAt": "2025-08-16T02:00:39.551Z"
+}

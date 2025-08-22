@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ECON",
+  "courseNumber": "6431",
+  "courseId": "ECON 6431",
+  "title": "Global Enterprise",
+  "description": "This course uses economic tools to examine strategic aspects of competition and collaboration in an integrated global market.  Topics include the determinants and changes in the boundaries of global firms, competitive advantage and value creation, the nature of global markets, and strategic positioning in the global market place.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 6100 Graduate Semester Minimum Grade of D or (ECON 6105 Graduate Semester Minimum Grade of D and ECON 6106 Graduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:38:53.997Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "4793",
+  "courseId": "MSE 4793",
+  "title": "Composite Mater&amp; Process",
+  "description": "Basic principles of selecting component materials and manufacturing composites are presented.  Polymeric, metallic, and ceramic systems are considered. Crosslisted with AE, CEE, CHE, and ME 4793.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHEM 1310 Undergraduate Semester Minimum Grade of D or CHEM 1211K Undergraduate Semester Minimum Grade of D) and PHYS 2212 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:00.372Z"
+}

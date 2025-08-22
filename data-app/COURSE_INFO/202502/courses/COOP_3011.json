@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "COOP",
+  "courseNumber": "3011",
+  "courseId": "COOP 3011",
+  "title": "Int&#39;l Co-op",
+  "description": "Undergraduate Co-op students working outside the United States.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Majors:",
+    "__DETAIL_0__General Science/I (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:01.827Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "4261",
+  "courseId": "MATH 4261",
+  "title": "Math Statistics I",
+  "description": "Sampling distributions, Normal, t, chi-square, and f distributions. Moment-generating function methods, Bayesian estimation, and introduction to hypothesis testing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3225 Undergraduate Semester Minimum Grade of D or MATH 3235 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or MATH 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or CEE 3770 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:30.397Z"
+}

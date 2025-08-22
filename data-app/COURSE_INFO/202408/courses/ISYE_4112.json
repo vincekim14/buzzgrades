@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "4112",
+  "courseId": "ISYE 4112",
+  "title": "Workflow Des Mfg/Service",
+  "description": "Introduction to the modeling, analysis and design of workflow systems in manufacturing systems and service systems such as healthcare systems, banks, service centers and warehouses.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3232 Undergraduate Semester Minimum Grade of D and ISYE 3030 Undergraduate Semester Minimum Grade of D and ISYE 3133 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:56.942Z"
+}

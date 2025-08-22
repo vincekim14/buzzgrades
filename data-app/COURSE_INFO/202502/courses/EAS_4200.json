@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "4200",
+  "courseId": "EAS 4200",
+  "title": "Structural Geology",
+  "description": "Structural geology and continuum mechanics for scientists and civil engineers. Stress and strain in rocks; faults, joints, and folds; basic field mapping; laboratory exercises.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "EAS 2600 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:14.299Z"
+}

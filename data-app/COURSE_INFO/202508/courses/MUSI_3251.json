@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MUSI",
+  "courseNumber": "3251",
+  "courseId": "MUSI 3251",
+  "title": "Glee Club",
+  "description": "A non-auditioned male ensemble focused upon the rehearsal, study and performance of choral music. Repertoire varies from various style eras and genres.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:52.364Z"
+}

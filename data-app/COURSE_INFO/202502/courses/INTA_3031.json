@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "3031",
+  "courseId": "INTA 3031",
+  "title": "Human Rights",
+  "description": "Explores how processes of globalization and advances in communication and technology have heightened and shaped human rights as a concern in international politics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:04.259Z"
+}

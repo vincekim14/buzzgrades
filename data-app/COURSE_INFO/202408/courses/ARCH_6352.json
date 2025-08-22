@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "6352",
+  "courseId": "ARCH 6352",
+  "title": "Theory of Architecture 2",
+  "description": "Approaches to architectural form, style, and tectonics from aesthetic, social, and technological perspectives.  Instrumental and symbolic uses of architectural media in design and building production.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 6105 Graduate Semester Minimum Grade of D and ARCH 6106 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:51.193Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "6414",
+  "courseId": "ECE 6414",
+  "title": "Analog Integrate Sys Dgn",
+  "description": "Design of analog systems using CMOS and bipolar technologies. A higher level of design for analog and digital systems is presented.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 4435 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:47.391Z"
+}

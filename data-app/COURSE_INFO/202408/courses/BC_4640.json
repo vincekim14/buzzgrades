@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BC",
+  "courseNumber": "4640",
+  "courseId": "BC 4640",
+  "title": "Construction Marketing",
+  "description": "Methods of construction marketing and business development. Innovative computer applications, verbal skills development, professional strategies, market segmentation, and buyer behavior.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 2630 Undergraduate Semester Minimum Grade of D and BC 3600 Undergraduate Semester Minimum Grade of D and BC 3610 Undergraduate Semester Minimum Grade of D and BC 3620 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:30.230Z"
+}

@@ -1,0 +1,1009 @@
+{
+  "subject": "ECON",
+  "subjectName": "Economics (ECON)",
+  "url": "https://catalog.gatech.edu/coursesaz/econ/",
+  "courses": [
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "1001",
+      "courseId": "ECON 1001",
+      "title": "Ecomics at Work",
+      "description": "Students are introduced to career opportunities in ecnomics and explore/identify how economics is used in different employment contexts.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "2100",
+      "courseId": "ECON 2100",
+      "title": "Economic Analysis and Policy Problems",
+      "description": "Practice in analysis of decision problems of relevance to students in public policy and personal decision areas. Issues relating to individual decisions to produce, consume, invest, and trade will be explored. Analytical approaches will enable students to use and incorporate basic elements of micro- and macro-economic analysis and to appreciate issues regarding testing and measurements. Students can receive credit for either ECON 2100 or ECON 2101, or for ECON 2105/2106.Students cannot receive credit for ECON 2100 and ECON 2101 or for ECON 2100 and ECON 2105/2106 or for ECON 2101 and ECON 2105/2106.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "2101",
+      "courseId": "ECON 2101",
+      "title": "The Global Economy",
+      "description": "Historical and theoretical understanding of global economy, including international trade, finance, investment production; regional economic integration; economic development; environment, using micro and macro economic principles. Students can receive credit for either ECON 2100 or ECON 2101,or for ECON 2105/2106. Students cannot receive credit for ECON 2100 and ECON 2101 or for ECON 2100 and ECON 2105/2106 or for  ECON 2101 and ECON 2105/2106.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "2105",
+      "courseId": "ECON 2105",
+      "title": "Principles of Macroeconomics",
+      "description": "This principles of economics course is intended to introduce students to concepts that will enable them to understand and analyze economic aggregates and evaluate economic policies. Students can receive credit for either ECON 2100 or ECON 2101,or for ECON 2105/2106. Students cannot receive credit for ECON 2100 and ECON 2101 or for ECON 2100 and ECON 2105/2106 or for  ECON 2101 and ECON 2105/2106.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "2106",
+      "courseId": "ECON 2106",
+      "title": "Principles of Microeconomics",
+      "description": "This principles of economics course is intended to introduce students to concepts that will enable them to understand and analyze structure and performance of the market economy. Students can receive credit for either ECON 2100 or ECON 2101,or for ECON 2105/2106. Students cannot receive credit  for ECON 2100 and ECON 2101 or for ECON 2100 and ECON 2105/2106 or for  ECON 2101 and ECON 2105/2106.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "2250",
+      "courseId": "ECON 2250",
+      "title": "Statistics for Economists",
+      "description": "This course provides an introduction to probability theory and statistical inference. Students will explore tools and concepts relevant to the study of economics and gain a familiarity with statistical software widely used by economists.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "2698",
+      "courseId": "ECON 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "2699",
+      "courseId": "ECON 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "2803",
+      "courseId": "ECON 2803",
+      "title": "Special Topics",
+      "description": "Special topic offerings of current interest not included in permanent courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "3110",
+      "courseId": "ECON 3110",
+      "title": "Advanced Microeconomic Analysis",
+      "description": "Review of important mathematical tools and techniques used in advanced microeconomics.  Advanced topics include the estimation of demand and cost functions; the role of government in the economy (externalities, property rights, and public goods); public choice theory; factor markets (especially labor and capital markets); models of monopoly; pricing techniques used by firms with market power (monopolies and oligopolies); and game theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "3120",
+      "courseId": "ECON 3120",
+      "title": "Advanced Macroeconomic Analysis",
+      "description": "Develops theories and models of income and output determination in the open economy. Students explore the impacts of fiscal and monetary policies changes on aggregate economic outcomes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "3150",
+      "courseId": "ECON 3150",
+      "title": "Economic and Financial Modeling",
+      "description": "Develops student ability to model the essential elements of the investment decision through the use of a valuation model and spreadsheet analysis. Expands upon basic knowledge of present value analysis to recognize risk, growth, capital markets, and market valuation of ongoing operations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "3160",
+      "courseId": "ECON 3160",
+      "title": "Introduction to Empirical Economics: Data Visualization, Analysis, and Presentation",
+      "description": "Develops student abilities to logically formulate economic issues; identify and collect data; analyze the data using spreadsheet and presentation software; generate sound and defensible conclusions and recommendations; and make effective presentations of analysis and conclusions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "3161",
+      "courseId": "ECON 3161",
+      "title": "Econometric Analysis",
+      "description": "Econometric techniques and applications in economic and business analysis.  Practical issues involving modeling, estimation, hypothesis testing, and emphasizing computer implementation through econometric software.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "3300",
+      "courseId": "ECON 3300",
+      "title": "Economics of International Energy Markets",
+      "description": "Examines the economics of energy markets, encompassing the full value chain from production to consumption. Covers all major primary energy resources, including fossil fuels, nuclear, hydroelectric, and renewables, as well as electricity and transportation fuel markets. The course highlights health and environmental impacts, regulation and industrial organization, and energy policy at both the state and federal levels.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4002",
+      "courseId": "ECON 4002",
+      "title": "Coding and Data Analysis for Economics II",
+      "description": "This is the second in the series of three courses on data and empirical techniques used in economic analysis. The course focuses on advanced skills that include large data management and manipulation, relational data management, extensive vertical and horizonal summative and remerging techniques to prepare data sets for advanced statistical and econometric analyses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4003",
+      "courseId": "ECON 4003",
+      "title": "Coding and Data Analysis for Economics III",
+      "description": "This is the third in the series of three courses on data and empirical techniques used in economic analysis. The course trains students to routinise their statistical programming and data analysis skills, such as analysis of variance, linear and logistic regression modelling, and evaluating model performance. This course is an ideal complement to Empirical Methods, various thesis-focused and other research-oriented courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4010",
+      "courseId": "ECON 4010",
+      "title": "Career Development Workshop",
+      "description": "This workshop style class for economics majors focuses on strategies and skills for identifying career and graduate school pathways, conducting successful job and internship searches, and advancing in the workplace.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4060",
+      "courseId": "ECON 4060",
+      "title": "Money and Capital Markets",
+      "description": "Examines the role of money in macroeconomic activity and the impacts of monetary institutions and policy strategy on the behavior of financial markets and aggregate economic activity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4160",
+      "courseId": "ECON 4160",
+      "title": "Economic Forecasting",
+      "description": "Surveys modern time series econometrics with topics such as univariate models, vector autoregressions, linear and nonlinear filtering, frequency domain methods, unit roots, structural breaks, empirical process theory asymptotics, and forecasting. The course highlights applications in macroeconomics and finance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4161",
+      "courseId": "ECON 4161",
+      "title": "Machine Learning for Economics",
+      "description": "Introduction to the use of Machine Learning in economic analysis. Students will learn popular Machine Learning techniques and the application of these tools in economics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4170",
+      "courseId": "ECON 4170",
+      "title": "Mathematics for Economic Modeling",
+      "description": "Applies mathematical tools to economic analysis. Topics include the uses of linear algebra, multivariable calculus, comparative-static analysis, and optimization in economics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4180",
+      "courseId": "ECON 4180",
+      "title": "Game Theory I",
+      "description": "Course covers static games of complete information, dynamic games of complete information, static games of incomplete information and dynamic games of incomplete information.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4190",
+      "courseId": "ECON 4190",
+      "title": "Game Theory II",
+      "description": "Students will learn microeconomic theories of strategic decision making by firms and individuals, and how firms and individuals utilize information to interact strategically.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4210",
+      "courseId": "ECON 4210",
+      "title": "The Economics of Climate Change",
+      "description": "This course will explore the economic causes and consequences of climate change and evaluate the suite of policy options to mitigate greenhouse-gas emissions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4232",
+      "courseId": "ECON 4232",
+      "title": "Labor Economics",
+      "description": "Introduces students to labor markets, government regulations, and the incentives and behavior of workers and firms.  Topics include wage discrimination, minimum-wage laws, and unemployment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4301",
+      "courseId": "ECON 4301",
+      "title": "Economics of Information, Transactions Costs, and Contracts",
+      "description": "Builds from analysis of the individual in a trading or transaction situation to study organizations as groups of affiliated individuals.  Assesses the situations when organizations are preferable to markets as forms of organizing economic and social activity.  Institutional economics and transaction cost economics are studied. Analysis of corporate restructuring and privatization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4311",
+      "courseId": "ECON 4311",
+      "title": "Strategic Economics for Global Enterprise",
+      "description": "Examines the strategies, decisions, and operations of multinational enterprises in a fast-changing global environment. The course examines theories of trade, foreign direct investment, competition, firm strategy, and the macroeconomic environment and their implications for location decisions and growth of multinational firms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4321",
+      "courseId": "ECON 4321",
+      "title": "Economics of Technology, Innovation, and Entrepreneurship",
+      "description": "Analyzes the economics of entrepreneurship and innovation. Topics include the business and economic history of entrepreneurship as well as the legal and institutional framework of the entrepreneurial environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4340",
+      "courseId": "ECON 4340",
+      "title": "Economics of Industrial Competition",
+      "description": "This course examines the theory of the firm, the relationship between market structure, practices, and performance, and the determinants of technological change. The role (and ability) of government policy to solve various market failures, via antitrust enforcement, regulation, etc., is also discussed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4345",
+      "courseId": "ECON 4345",
+      "title": "Economic Regulation",
+      "description": "This course examines how government economically regulates private industry, how it might regulate more efficiently, and when it should not regulate at all.  General theories of antitrust enforcement and economic regulation are developed and applied to a variety of industry cases.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4350",
+      "courseId": "ECON 4350",
+      "title": "International Economics",
+      "description": "Covers important topics in trade theory, trade policy, and international finance. The course emphasizes the use of economic tools to analyze a variety of current events in the world economy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4351",
+      "courseId": "ECON 4351",
+      "title": "International Financial Economics",
+      "description": "This course familiarizes students with concepts, models, theories and applications in international markets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4352",
+      "courseId": "ECON 4352",
+      "title": "International Trade Theory and Policy",
+      "description": "This course will develop a theoretical framework to understand international trade. Students will examine the possibility of gains from trade, the nature of comparative advantage, the determination of the pattern of trade, the role of scale economies, imperfect competition, and factor movements. Students will examine trade policy, in particular the effects of protection (tariffs and non-tariff barriers) on prices and domestic consumer and producer economic welfare. Students will not receive credit for ECON 4350 and ECON 4352.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4357",
+      "courseId": "ECON 4357",
+      "title": "Law and Economics of the Global Trading System",
+      "description": "This course takes an interdisciplinary approach, examining the economics, law, and political economy of the global trading system and its rules and practices. The course reviews the main economic theories behind the existence of tariffs, quotas, subsidies, non-tariff barriers to trade, strategic trade policies, and discusses the basic rules of GATT and World Trade Organization (WTO). Case-study discussions are used to analyze how multinational enterprises (MNEs) alter their strategies and decision-making structures in response to multilateral rules and enforcement mechanisms embodied in the WTO.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4360",
+      "courseId": "ECON 4360",
+      "title": "Economics of Telecommunication Networks and E-commerce",
+      "description": "Analyzes the telecommunications sector from the public policy, business strategy, and technology perspectives. The course explores the driving forces behind the radical change in telecommunications regulations and the impact of this regulation on business operations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4370",
+      "courseId": "ECON 4370",
+      "title": "Law and Economics",
+      "description": "To introduce students to economic aspects of legal decision-making and to develop students' ability to critically analyze the purposes and efficiency of legal decision-making from an economic perspective.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4401",
+      "courseId": "ECON 4401",
+      "title": "Behavioral Economics",
+      "description": "Human psychology and the rational choice models of economics are joined to better understand human decision-making.  Students will design and execute their own experiments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4411",
+      "courseId": "ECON 4411",
+      "title": "Economic Development",
+      "description": "Introduces models of economic growth and sustainable development with a focus on inequality and poverty in the national and global context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4412",
+      "courseId": "ECON 4412",
+      "title": "Cost-Benefit Analysis",
+      "description": "Introduces students to the principles, tools, issues, strengths, and limitations of cost-benefit analysis (CBA). The course prepares students to competently review, criticize, and use CBA studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4415",
+      "courseId": "ECON 4415",
+      "title": "Conflict and Security in Developing Countries",
+      "description": "Introduces research on the causes and consequences of contemporary armed conflict as well as economic studies of terrorism.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4421",
+      "courseId": "ECON 4421",
+      "title": "Urban and Regional Economics",
+      "description": "Introduces the economics of regions, cities, and space. Students learn theories of growth and location to analyze the effects of urbanization, agglomeration, and congestion. The course analyzes public policy relating to urban and regional problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4430",
+      "courseId": "ECON 4430",
+      "title": "Economics of Transportation and Communication Systems",
+      "description": "Covers fundamentals of transport demand and supply, markets, infrastructure, and transport-related externalities. Empirical case studies explore current topics in transport sectors (e.g. the airline, rail, and highway sectors).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4440",
+      "courseId": "ECON 4440",
+      "title": "Economics of Natural Resources and the Environment",
+      "description": "Explores how economics can address a variety of environmental issues ranging from climate change to local pollution. Topic areas include externalities and the social costs of pollution, valuation of non-market goods, climate change policy (emissions taxes and cap-and-trade), management of renewable resources (fisheries and forests), extraction of exhaustible resources (minerals and fossil fuels), and more. Focuses on global, regional, and local environmental policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4460",
+      "courseId": "ECON 4460",
+      "title": "Public Economics",
+      "description": "Applies tools of microeconomics to the public sector. Explores the role of the government in the economy, providing an understanding of the reasons for government intervention in markets, the merits of possible government policies, and the response of economic agents to the government’s actions. Topics covered include tax policy, externalities, public goods, and social insurance programs. Emphasis is placed on contemporary policy debates, such as income and wealth inequality, social security reform, climate policy, health care reform, and education policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4510",
+      "courseId": "ECON 4510",
+      "title": "Economics of Health and Health Care",
+      "description": "Surveys theoretical and empirical evidence on current issues in health and health care. The course presents individual-level models of health behaviors and the demand for health and medical insurance. Students analyze the economic behaviors of physicians, hospitals, and insurance companies as well as the possible role of government in encouraging the equitable and efficient performance of health markets. The course emphasizes current debates involving individual health decisions, health care reform, and the diffusion of new medical technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4520",
+      "courseId": "ECON 4520",
+      "title": "Economics of Sports",
+      "description": "Uses economic principles from game theory, labor economics, and econometrics to analyze a wide range of issues in the realms of professional sports and collegiate athletics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4610",
+      "courseId": "ECON 4610",
+      "title": "Seminar in Economic Policy",
+      "description": "The objective of the course is to enable students to interpret current economic problems and policies using the economic models learned in their theory courses.  Students study the current \"Economic Report of the President\" and apply analytical tools to the data included in the text. Each student selects a current issue for detailed examination and report.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4620",
+      "courseId": "ECON 4620",
+      "title": "History of Economic Thought",
+      "description": "This course is concerned with the economists who interpreted and influenced the development of capitalism and socialism over the last two centuries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4698",
+      "courseId": "ECON 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "This course is for students who want to complete a research assistantship.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4699",
+      "courseId": "ECON 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4740",
+      "courseId": "ECON 4740",
+      "title": "Seminar in Political Economy",
+      "description": "Capstone experience in which students apply the tools of political economy to international issues. Crosslisted with INTA 4740.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4741",
+      "courseId": "ECON 4741",
+      "title": "Thesis in Political Economy",
+      "description": "Individual project applying the tools of political economy to international issues.  Crosslisted with INTA 4741.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4803",
+      "courseId": "ECON 4803",
+      "title": "Special Topics in Economics",
+      "description": "Courses designed to permit students and a professor to pursue a specialized interest in an area of economics not extensively treated in the offerings of the School.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4811",
+      "courseId": "ECON 4811",
+      "title": "Special Topics in Economics",
+      "description": "Courses designed to permit students and a professor to pursue a specialized interest in an area of economics not extensively treated in the offerings of the School.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4812",
+      "courseId": "ECON 4812",
+      "title": "Special Topics in Economics",
+      "description": "Courses designed to permit students and a professor to pursue a specialized interest in an area of economics not extensively treated in the offerings of the School.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4813",
+      "courseId": "ECON 4813",
+      "title": "Special Topics in Economics",
+      "description": "Courses designed to permit students and a professor to pursue a specialized interest in an area of economics not extensively treated in the offerings of the School.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4814",
+      "courseId": "ECON 4814",
+      "title": "Special Topics in Economics",
+      "description": "Courses designed to permit students and a professor to pursue a specialized interest in an area of economics not extensively treated in the offerings of the School.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4815",
+      "courseId": "ECON 4815",
+      "title": "Special Topics in Economics",
+      "description": "Courses designed to permit students and a professor to pursue a specialized interest in an area of economics not extensively treated in the offerings of the School.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4901",
+      "courseId": "ECON 4901",
+      "title": "Individual Research in Economics",
+      "description": "Designed to permit independent study with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4910",
+      "courseId": "ECON 4910",
+      "title": "Individual Research in Economics",
+      "description": "Course related to independent student research.  Topics determined by instructor and student.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "4990",
+      "courseId": "ECON 4990",
+      "title": "Internship in Professional Economics",
+      "description": "Course projects related to professional internships.  Topics and requirements to be arranged by student, instructor, and sponsor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6010",
+      "courseId": "ECON 6010",
+      "title": "Career Development Workshop",
+      "description": "This workshop style class for economics majors focuses on strategies and skills for identifying career and graduate school pathways, conducting successful job and internship searches, and advancing in the workplace.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6011",
+      "courseId": "ECON 6011",
+      "title": "Coding and Data Analysis for Economics I",
+      "description": "This is the first in the series of three courses on data and empirical techniques used in economic analysis. Data cleaning, data management, and descriptive statistics methods are presented and applied to a variety of economics problems. The course prepares students for extensive use of statistical software to build data management skills and generate reports used in descriptive and explorative data analyses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6012",
+      "courseId": "ECON 6012",
+      "title": "Coding and Data Analysis for Economics II",
+      "description": "This is the second in the series of three courses on data and empirical techniques used in economic analysis. The course focuses on advanced skills that include large data management and manipulation, relational data management, extensive vertical and horizonal summative and remerging techniques to prepare data sets for advanced statistical and econometric analyses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6013",
+      "courseId": "ECON 6013",
+      "title": "Coding and Data Analysis for Economics III",
+      "description": "This is the third in the series of three courses on data and empirical techniques used in economic analysis. The course trains students to routinise their statistical programming and data analysis skills, such as analysis of variance, linear and logistic regression modelling, and evaluating model performance. This course is an ideal complement to Empirical Methods, various thesis-focused and other research-oriented courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6100",
+      "courseId": "ECON 6100",
+      "title": "Economics and Strategy for Managers",
+      "description": "A survey of microeconomic and macroeconomic concepts essential to the academic preparation of prospective managers.  Economic theory used as a framework for contemporary managerial decision making.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6104",
+      "courseId": "ECON 6104",
+      "title": "Behavioral Economics",
+      "description": "Human psychology and the rational choice models of economics are joined to better understand human decision-making. Students will design and execute their own experiments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6105",
+      "courseId": "ECON 6105",
+      "title": "Macroeconomics",
+      "description": "Macroeconomic theory, including determination of national income, employment, the general price level, and potential for economic growth.  Sources of macroeconomic instability and stabilization policies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6106",
+      "courseId": "ECON 6106",
+      "title": "Microeconomic Analysis",
+      "description": "Microeconomics, resource allocation decisions of households, businesses, and government agencies.  Enables the student to understand and apply economic principles to consumer, business, and government decisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6110",
+      "courseId": "ECON 6110",
+      "title": "Economics of Corporate Strategy",
+      "description": "Applies microeconomic and macroeconomic theory to the development of modern corporate strategy, including organizational boundaries, market structure and competition, industry analysis, and competitive advantage.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6121",
+      "courseId": "ECON 6121",
+      "title": "Research Methods",
+      "description": "Introduces students to issues related to conducting research in economics.  Topics include the derivation of empirical models from theoretical constructs, causality, experimental and non-experimental data, hypothesis testing, and policy analysis.  Students also become familiar with electronic data sources and retrieval and are introduced to several professional software packages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6130",
+      "courseId": "ECON 6130",
+      "title": "Quantitative Methods in Economics",
+      "description": "This course covers fundamental quantitative tools used in economic and econometric analysis, which includes topics in differential calculus, optimization, and linear algebra.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6140",
+      "courseId": "ECON 6140",
+      "title": "Econometrics I",
+      "description": "This course gives students the necessary background for taking courses in the econometrics sequence.  Topics include descriptive statistics, continuous and discrete probability distributions, parameter estimation, one- and two-sample hypothesis testing, and bivariate regression models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6150",
+      "courseId": "ECON 6150",
+      "title": "Cost-Benefit Analysis",
+      "description": "The application of economic, financial, and quantitative reasoning and tools to issues of resource allocation and policy, primarily in the public sector.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6160",
+      "courseId": "ECON 6160",
+      "title": "Econometrics II",
+      "description": "This course introduces advanced econometric methods on estimation and testing, including instrumental variable estimation, panel data analysis, limited dependent variable models, and simultaneous equation system.  The course emphasizes applications of these techniques to real-world problems using professional software packages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6161",
+      "courseId": "ECON 6161",
+      "title": "Econometric Modeling and Forecasting",
+      "description": "This course introduces techniques on economic and business forecasting, focusing on regression analysis and ARIMA models.  Testing for unit roots and cointegration are also discussed.  Professional software packages for forecasting are used in applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6162",
+      "courseId": "ECON 6162",
+      "title": "Discrete Choice Econometrics",
+      "description": "Focuses on econometric methods for which the dependent variable represents an \"either-or\" choice.  Included in the set of topics are binary and multinomial logic, ordered choice, heteroskedastic extreme value, bivariate and multivariate probit, nested logit structures, discrete/continuous, and Poisson models.  The course includes numerous applications using professional software programs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6163",
+      "courseId": "ECON 6163",
+      "title": "Machine Learning for Economics",
+      "description": "Introduction to the use of Machine Learning in economic analysis. Students will learn popular Machine Learning techniques and the application of these tools in economics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6170",
+      "courseId": "ECON 6170",
+      "title": "Mathematical Modeling for Economics",
+      "description": "Applies mathematical tools to economic analysis. Topics include the uses of linear algebra, multivariable calculus, comparative-static analysis, and optimization in economics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6200",
+      "courseId": "ECON 6200",
+      "title": "Money and Capital Markets",
+      "description": "The role of money in the exchange process, Federal Reserve strategy, and the impact of monetary policy on financial markets and aggregate economic activity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6250",
+      "courseId": "ECON 6250",
+      "title": "Corporate Value Chains and Transfer Pricing",
+      "description": "We analyze value chains that firms use to globally produce goods, services, and intangibles and apply microeconomic models to price and analyze value chain components.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6310",
+      "courseId": "ECON 6310",
+      "title": "Public Economics",
+      "description": "An examination of public goods, public decision making, voting, free riders, taxation principles, welfare, the Tiebout Hypothesis, budgeting, and fiscal policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6330",
+      "courseId": "ECON 6330",
+      "title": "Urban and Regional Economics",
+      "description": "Economics of regions, cities, and space.  Theories of growth and location, effects of urbanization, agglomeration, and congestion. Public policy relating to urban and regional problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6341",
+      "courseId": "ECON 6341",
+      "title": "Transportation Economics",
+      "description": "Examines the economics of transportation markets, including resource allocation, economic welfare, government regulation, and public policy. Using an econometric case study approach, the course develops the necessary steps for testing hypotheses, analyzing the finding of recent studies, and exploring implications for the development and implementation of transportation policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6360",
+      "courseId": "ECON 6360",
+      "title": "Development Economics",
+      "description": "Concepts and models of development and growth in Third World countries, emphasizing modeling and testing of recent changes in the Third World . Topics include economic growth, trade and globalization, poverty and inequity, migration, population growth, unemployment, agricultural development, the environment, and the role of the market versus the state.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6380",
+      "courseId": "ECON 6380",
+      "title": "Economics of Natural Resources and the Environment",
+      "description": "Explores how economics can address a variety of environmental issues ranging from climate change to local pollution. Topic areas include externalities and the social costs of pollution, valuation of non-market goods, climate change policy (emissions taxes and cap-and-trade), management of renewable resources (fisheries and forests), extraction of exhaustible resources (minerals and fossil fuels), and more. Focuses on global, regional, and local environmental policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6401",
+      "courseId": "ECON 6401",
+      "title": "Behavioral Economics",
+      "description": "Human psychology and the rational choice models of economics are joined to better understand human decision-making. Students will design and execute their own experiments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6431",
+      "courseId": "ECON 6431",
+      "title": "Strategic Economics for Global Enterprise",
+      "description": "This course uses economic tools to examine strategic aspects of competition and collaboration in an integrated global market.  Topics include the determinants and changes in the boundaries of global firms, competitive advantage and value creation, the nature of global markets, and strategic positioning in the global market place.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6440",
+      "courseId": "ECON 6440",
+      "title": "The Economics of Technology, Innovation, and Entrpreneurship",
+      "description": "This course explores the impact that innovation, technology progress, and R&D activities have upon a firm's pricing and output behavior.  Based upon computer case studies, biotechnology, and telecommunications sectors, the course further analyzes the economic role that firm size and entrepreneurial opportunities play in technological development and innovation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6450",
+      "courseId": "ECON 6450",
+      "title": "Topics in African American Entrepreneurship",
+      "description": "Explores African-American entrepreneurship from the ante-bellum period to the present.  Implications of economic and socio-political developments are given particular attention, including the urbanization of blacks, the rise of benevolent societies following slavery, institutionalization of Jim Crow segregation, desegregation, and affirmative action's role in an emerging class of black entrepreneurs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6460",
+      "courseId": "ECON 6460",
+      "title": "Industrial Organization",
+      "description": "This course examines modern theories of the firm, market power, and competitive strategy.  Game theory is employed throughout the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6510",
+      "courseId": "ECON 6510",
+      "title": "Economics of Health and Health Care",
+      "description": "A critical survey of the current theoretical and empirical issues involving the economics of health and health care.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6610",
+      "courseId": "ECON 6610",
+      "title": "Seminar in Economic Policy",
+      "description": "Interprets current economic problems and policies using fundamental economic principles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6620",
+      "courseId": "ECON 6620",
+      "title": "History of Economic Thought",
+      "description": "Economists who interpreted and influenced the development of capitalism and socialism over the last two centuries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6650",
+      "courseId": "ECON 6650",
+      "title": "International Economics and Policy Analysis",
+      "description": "Explores international economic issues.  The first part examines aspects of international trade, including specialization and exchange, strategy, labor and capital movements, preferential trading arrangements, and economic development.  The second part analyzes international finance, including exchange rates, open economy macro policies, Eurocurrency markets, and the international monetary system.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "6704",
+      "courseId": "ECON 6704",
+      "title": "Introduction to Global Development",
+      "description": "This course introduces students to the goals, theories and key institutional actors involved in the field of Global Development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7000",
+      "courseId": "ECON 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7004",
+      "courseId": "ECON 7004",
+      "title": "Mathematics for Economists",
+      "description": "Topics include matrix algebra, limits and open sets, implicit functions and their derivatives, quadratic forms and definite matrices, unconstrained and constrained static optimization, dynamic optimization and economic applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7012",
+      "courseId": "ECON 7012",
+      "title": "Microeconomic Theory I",
+      "description": "The topics covered in this course are axiomatic theory of consumer behavior, consumer choice, classical demand theory, aggregate demand, choice under uncertainty, producer theory and partial equilibrium analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7013",
+      "courseId": "ECON 7013",
+      "title": "Microeconomic Theory II",
+      "description": "The subject areas in this course are general equilibrium, welfare economics, externalities, public goods, economics of information and inter-temporal dynamic analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7015",
+      "courseId": "ECON 7015",
+      "title": "Game Theory",
+      "description": "Static and dynamic games of complete and incomplete information, and mechanism design.  Economic applications include Cournot, Bertrand and Stackelberg duopolies, voluntary provision of public goods, auctions, procurement contracts and time inconsistency issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7022",
+      "courseId": "ECON 7022",
+      "title": "Econometrics I",
+      "description": "This course is a comprehensive introduction to mathematical statistics principles underlying statistical analyses in economics.  It covers probability theory, expectation, sampling, asymptotic results, the main families of probability distributions studied in economics, estimation and hypothesis testing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7023",
+      "courseId": "ECON 7023",
+      "title": "Econometrics II",
+      "description": "Linear and nonlinear regression analyses, hypothesis testing, ordinary and generalized least squares, instrumental variables estimation, the generalized method of moments, the method of maximum likelihood, methods for stationary time series, unit roots and cointegration, and specification testing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7025",
+      "courseId": "ECON 7025",
+      "title": "Empirical Research Methods",
+      "description": "Topics include up-to-date theory for data analysis, including time series, cross section and panel, and empirical applications using panel data, time series data and cross-sectional data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7026",
+      "courseId": "ECON 7026",
+      "title": "Microeconomet Analysis",
+      "description": "Focus on empirical microeconometric methods, including binary, multinomial, and ordered response models, and event history models.  Topics include sampling, estimation, and model interpretation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7031",
+      "courseId": "ECON 7031",
+      "title": "Microeconomics of Innovation",
+      "description": "Historical evolution of institutions that promote innovation, knowledge as a public good, prizes and intellectual property rights as incentive mechanisms, models of cumulative innovation, patent and copyright enforcement and litigation, private versus public funding, and the effects introduced by network externalities and globalization issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7032",
+      "courseId": "ECON 7032",
+      "title": "Macroeconomics of Innovation",
+      "description": "Macroeconomic factors that lead to technological change, the roles played by technological innovation and knowledge spillovers as promoters of economic growth, and the scope for fiscal and monetary policies to foment research and development and hence economic growth.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7102",
+      "courseId": "ECON 7102",
+      "title": "Environmental Economics I",
+      "description": "Topics include externalities, property rights, incentive design, emission taxes, tradable emission permits, renewable and nonrenewable resources, innovation incentives originating with environmental regulations and globalization, trans-boundary polluntants within and across nations, international environmental agreements, and the globalization impacts on the environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7103",
+      "courseId": "ECON 7103",
+      "title": "Environmental Economics II",
+      "description": "Empirical course, built upon the theoretical topics covered in Environmental Economics I.  Students are given an in-depth coverage of key empirical papers in environmental economics, either papers that have tested several hypotheses derived from theoretical models or papers that are advancing knowledge in the field, generating empirical results for which no theory yet exists.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7111",
+      "courseId": "ECON 7111",
+      "title": "Industrial Organization I",
+      "description": "Topics include market structures and the strategic behavior of firms (monopoly, oligopoly, imperfect competition), research and development, adoption of new technologies, regulations, procurement, antitrust law and competition policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7112",
+      "courseId": "ECON 7112",
+      "title": "Industrial Organization II",
+      "description": "Empirical course that trains students to empirically examine the theoretical issues arising in Industrial Organization I.  Students are taught about  how to use existing data, collect and compile their own datasets and use frontier methods in empirical Industrial Organization to test hypotheses that originate from the theories related to pricing, product and process innovation, among others.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7121",
+      "courseId": "ECON 7121",
+      "title": "International Economics I",
+      "description": "Topics include Ricardian and Hecksher-Ohlin models, extensions to many goods and factors, trade in intermediate inputs and wages, increasing returns, gains from trade and regional agreements, import tariffs and dumping, import quotas and export subsidies, political economy of trade policy and trade and endogenous growth. It also examines the relationship between international trade, foreign direct investment and technological innovation and diffusion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7122",
+      "courseId": "ECON 7122",
+      "title": "International Economics II",
+      "description": "Empirical extension of International Economics I, which surveys the empirical literature and presents the key empirical results related to the topics discussed in the theoretical course.  It also discusses frontier empirical work in the field, empirical studies that go beyond the testable hypotheses originated with theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7130",
+      "courseId": "ECON 7130",
+      "title": "Research Development and Presentation Workshop",
+      "description": "Lecture topics include instructions on writing research papers in Economics and presenting their work.  Contents of presentations and research undertaken by students depend on students' research interests.  Students receive personalized feedback on research and presentations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7131",
+      "courseId": "ECON 7131",
+      "title": "Development Economics I",
+      "description": "This course covers important topics in development economics research and policy such as UN sustainable development goals, human resource investments, poverty and inequality, armed conflict and its impact on well-being and household decision-making. The course introduces students to latest theoretical developments as well as to empirical methods used in the field.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "7132",
+      "courseId": "ECON 7132",
+      "title": "Development Economics II",
+      "description": "This course covers emerging issues in development economics with a focus on the roles of individuals, families, institutions and policies. The class emphasizes a connection between economic modeling of agents’ behavior and relevant empirical methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "8801",
+      "courseId": "ECON 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "8802",
+      "courseId": "ECON 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "8803",
+      "courseId": "ECON 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "8910",
+      "courseId": "ECON 8910",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "8990",
+      "courseId": "ECON 8990",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "8997",
+      "courseId": "ECON 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "8998",
+      "courseId": "ECON 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "ECON",
+      "courseNumber": "9000",
+      "courseId": "ECON 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 125,
+  "scrapedAt": "2025-08-16T02:00:37.088Z"
+}

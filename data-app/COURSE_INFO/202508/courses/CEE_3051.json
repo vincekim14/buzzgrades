@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "3051",
+  "courseId": "CEE 3051",
+  "title": "Intro to Structural Eng",
+  "description": "Concepts in structural engineering related to the analysis and design of various types of structures such that they behave as intended throughout their lifetime.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:51.898Z"
+}

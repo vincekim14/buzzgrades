@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "1419",
+  "courseId": "ID 1419",
+  "title": "Intro Sketch &amp; Model 2",
+  "description": "Introduction to intermediate visual representation techniques that empower designers of products, services and systems through sketching, model making, computer-assisted drawing, rapid prototyping, and other methods.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ID 1012 and ID 1102 and ID 1402",
+  "prerequisites": "ID 1418 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:49.060Z"
+}

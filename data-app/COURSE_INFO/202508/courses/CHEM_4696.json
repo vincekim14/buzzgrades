@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHEM",
+  "courseNumber": "4696",
+  "courseId": "CHEM 4696",
+  "title": "Teaching Assistantship",
+  "description": "Chemistry and biochemistry teaching carried out under the guidance of a faculty member.  Non-Billable for Pay.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CETL 2000 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:29.514Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MSL",
+  "courseNumber": "4901",
+  "courseId": "MSL 4901",
+  "title": "Special Problems",
+  "description": "Permits independent study with a faculty member. Topics and research will pursue areas of military science not extensively treated in any other Military Science class.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:16.906Z"
+}

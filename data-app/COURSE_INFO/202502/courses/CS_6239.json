@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "6239",
+  "courseId": "CS 6239",
+  "title": "Enterprise Cyber Mgt",
+  "description": "The duties and concerns of an enterprise Chief Information Security Officer including strategy, cybersecurity operations, risk management, and governance.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:44.138Z"
+}

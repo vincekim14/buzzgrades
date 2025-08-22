@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "HTS",
+  "courseNumber": "3066",
+  "courseId": "HTS 3066",
+  "title": "Soc-Politics &amp; Society",
+  "description": "Political sociology studies the way power is distributed in society. This course takes a comparative and historical approach, focusing on the development of the nation-state.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:25.708Z"
+}

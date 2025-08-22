@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "6440",
+  "courseId": "CS 6440",
+  "title": "Intro Health Informatics",
+  "description": "A broad review of the US health system and the application of informatics to the clinical practice of medicine, digital imaging, public health and bioinformatics.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:40.066Z"
+}

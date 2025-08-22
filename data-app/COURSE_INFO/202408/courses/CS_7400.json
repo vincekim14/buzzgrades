@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "7400",
+  "courseId": "CS 7400",
+  "title": "Intro Quantum Computing",
+  "description": "Provide background on quantum computing and equip students with the skills to write code and optimize quantum programs on real quantum computers.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:16.400Z"
+}

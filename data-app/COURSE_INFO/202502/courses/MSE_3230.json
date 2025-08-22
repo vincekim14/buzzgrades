@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "3230",
+  "courseId": "MSE 3230",
+  "title": "Polymer &amp; Fiber Process",
+  "description": "Discussion of the principles of fiber formation from polymers including rheology, mechanics, energetics, phase transition, and polymer structure. High-performing fiber processing, and plastics processing.  Credit not allowed for both MSE 3230 and PTFE 3230.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 3225 Undergraduate Semester Minimum Grade of D and MSE 4775 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:57.367Z"
+}

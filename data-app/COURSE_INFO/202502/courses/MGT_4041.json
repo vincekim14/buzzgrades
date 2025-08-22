@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4041",
+  "courseId": "MGT 4041",
+  "title": "Audit&amp;Fin Control Sys",
+  "description": "This course covers professional issues surrounding auditing and financial control systems. Topics include management fraud, legal liability, audit evidence, etc.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3000 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:27.921Z"
+}

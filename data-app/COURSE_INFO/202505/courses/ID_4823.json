@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ID",
+  "courseNumber": "4823",
+  "courseId": "ID 4823",
+  "title": "Advanced Rendering Techniques",
+  "description": "Special topics in information technology not included in the professional curriculum.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:52.259Z"
+}

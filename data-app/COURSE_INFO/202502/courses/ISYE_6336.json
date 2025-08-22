@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "6336",
+  "courseId": "ISYE 6336",
+  "title": "Supply Chain Engrg II",
+  "description": "Transportation: truck-load and less-than-truckload, and package-courier systems; container shipping, including port operations, steamship scheduling; railroad operations, including intermodal; air cargo.  The international freight network and patterns of freight flow.  Management and recirculation of trailers/containers.  Labor issues.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 6335 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:37.301Z"
+}

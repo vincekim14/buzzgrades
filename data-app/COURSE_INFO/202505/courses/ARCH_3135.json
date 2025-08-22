@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ARCH",
+  "courseNumber": "3135",
+  "courseId": "ARCH 3135",
+  "title": "City Literacy",
+  "description": "The course frames the city as material and social space, focusing on everyday experience in exemplary cities to explore how they are conceived and negotiated.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:20.376Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "6500",
+  "courseId": "EAS 6500",
+  "title": "Climate &amp; Global Change",
+  "description": "The physics behind the climate and its potential changes, as well as an introduction to the policy issues in global change.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:13.997Z"
+}

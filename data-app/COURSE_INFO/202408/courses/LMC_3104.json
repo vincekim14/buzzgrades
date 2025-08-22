@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "3104",
+  "courseId": "LMC 3104",
+  "title": "Age Scientific Discovery",
+  "description": "Examines the relationships among texts representing the literary, artistic, and scientific thought of the fifteenth and sixteenth centuries.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:27.597Z"
+}

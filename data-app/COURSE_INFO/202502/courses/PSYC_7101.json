@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "7101",
+  "courseId": "PSYC 7101",
+  "title": "Engineering Psy I",
+  "description": "Basic methods used to study human-machine systems including both system analysis and human performance evaluation techniques. These methods will be applied to specific systems.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:44.159Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "GRMN",
+  "courseNumber": "2001",
+  "courseId": "GRMN 2001",
+  "title": "Intermediate German I",
+  "description": "Review of basic grammatical concepts and vocabulary build-up. Selected readings, audio and video material on the cultural, historical, and intellectual development of Germany. Teaching and class discussion in German.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:41.716Z"
+}

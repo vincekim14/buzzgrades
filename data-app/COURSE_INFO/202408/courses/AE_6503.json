@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "6503",
+  "courseId": "AE 6503",
+  "title": "Helicopter Stability&amp;Ctl",
+  "description": "Helicopter general equations of motion, rotor forces and moments, helicopter stability and control characteristics, handling qualities, flight control system design.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 3515 Undergraduate Semester Minimum Grade of D and AE 4070 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:31.891Z"
+}

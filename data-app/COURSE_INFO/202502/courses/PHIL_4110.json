@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PHIL",
+  "courseNumber": "4110",
+  "courseId": "PHIL 4110",
+  "title": "Theories of Knowledge",
+  "description": "Critical examination of perception, verification, apriori and aposteriori knowledge, meaning and criteria of truth, and cognitive significance of scientific and philosophical propositions.  Evolution of epistemology.  Credit not allowed for both PHIL 4110 and PST 4110.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:19.424Z"
+}

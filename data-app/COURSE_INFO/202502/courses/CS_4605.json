@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4605",
+  "courseId": "CS 4605",
+  "title": "Mobile&amp;Ubiquitous Comp",
+  "description": "Investigates the infrastructure required to develop mobile and ubiquitous computing applications and establishes major research themes and experimental practices.Credit not awarded for both CS 4605 and CS 7470.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2110 Undergraduate Semester Minimum Grade of C or CS 2261 Undergraduate Semester Minimum Grade of C or (ECE 2020 Undergraduate Semester Minimum Grade of C and ECE 2035 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:37:38.192Z"
+}

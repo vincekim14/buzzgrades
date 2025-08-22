@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "4071",
+  "courseId": "ID 4071",
+  "title": "Invention Studio 1",
+  "description": "An interdisciplinary team-based approach to integrate industrial design and engineering competencies in user-centered design development of products and systems with emphasis on corporate-sponsored projects.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 3032 Undergraduate Semester Minimum Grade of C or ID 3042 Undergraduate Semester Minimum Grade of C or ID 3052 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:41:20.379Z"
+}

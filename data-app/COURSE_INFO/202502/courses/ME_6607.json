@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6607",
+  "courseId": "ME 6607",
+  "title": "Interfacial Fluid Mech",
+  "description": "The mechanics of fluid interfaces. Mathematical techniques of scaling and calculus of curved surfaces towards analysis of menisci,bubbles, jets, films, foams, and coatings.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:39.963Z"
+}

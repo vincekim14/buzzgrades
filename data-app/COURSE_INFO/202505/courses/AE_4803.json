@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "AE",
+  "courseNumber": "4803",
+  "courseId": "AE 4803",
+  "title": "Special Topics",
+  "description": "Normally taken by seniors.  Course material devoted to special topics in aerospace engineering.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:14.579Z"
+}

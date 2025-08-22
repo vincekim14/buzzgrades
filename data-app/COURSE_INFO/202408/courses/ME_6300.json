@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "6300",
+  "courseId": "ME 6300",
+  "title": "Intermediate Heat Trnsfr",
+  "description": "Intermediate topics including multidimensional transient conduction, diffusion, boundary layers, internal flows, radiation, phase change, heat exchangers, multimode transfer, and numerical methods with a project-oriented approach.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3345 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:56.762Z"
+}

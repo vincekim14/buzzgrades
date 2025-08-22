@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "SPAN",
+  "courseNumber": "3111",
+  "courseId": "SPAN 3111",
+  "title": "Composition I",
+  "description": "Writings from the Hispanic world used as a springboard for analysis and enrichment of self-expression and development of precision in written communication. Incorporates grammar review. Conducted in Spanish. No native speakers allowed.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:45:07.267Z"
+}

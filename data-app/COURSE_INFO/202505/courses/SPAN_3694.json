@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "SPAN",
+  "courseNumber": "3694",
+  "courseId": "SPAN 3694",
+  "title": "Seminar Abroad",
+  "description": "Field study of technology, economic trends, business firms, financial institutions, and cultural protocols in the Spanish-speaking area. Part of the Spanish intensive summer language program. Admission by application only.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:35.967Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CX",
+  "courseNumber": "4232",
+  "courseId": "CX 4232",
+  "title": "SIM &amp; Military Gaming",
+  "description": "Creation and use of modeling and simulation tools to analyze and train students regarding strategic events in international relations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1331 Undergraduate Semester Minimum Grade of C or CS 1372 Undergraduate Semester Minimum Grade of C or CS 2316 Undergraduate Semester Minimum Grade of C or CX 4010 Undergraduate Semester Minimum Grade of C or ECE 2035 Undergraduate Semester Minimum Grade of C or ECE 2036 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:18.068Z"
+}

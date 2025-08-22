@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PHYS",
+  "courseNumber": "4347",
+  "courseId": "PHYS 4347",
+  "title": "Theoretical Astrophysics",
+  "description": "Theoretical investigation of astrophysical objects and processes, with an emphasis on the interstellar medium, extragalactic astrophysics, gas dynamics, and radiative transfer, and radiation processes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 2213 Undergraduate Semester Minimum Grade of D or PHYS 3021 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:26.686Z"
+}

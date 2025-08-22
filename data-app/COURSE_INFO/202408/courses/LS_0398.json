@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "LS",
+  "courseNumber": "0398",
+  "courseId": "LS 0398",
+  "title": "Mathematical Skills",
+  "description": "Intense review of arithmetic and algebra skills.  Development of mathematics study skills.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:23.279Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MGT",
+  "courseNumber": "6020",
+  "courseId": "MGT 6020",
+  "title": "Fin Reporting &amp; Analy I",
+  "description": "Study of the techniques and concepts surrounding the construction of financial reports, including Intermediate-level treatment of revenue recognition, inventories, contacts, interest capitalization, property and equipment, intangibles, long-term liabilities, and shareholders' equity. Significant emphasis on financial analysis. Credit not allowed for both MGT 4026 and MGT 6020.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6000 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:33.055Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "4833",
+  "courseId": "ID 4833",
+  "title": "ID Mnr Cpstone: Dsgn Simposium",
+  "description": "Application of the design process to advanced multidisciplinary problems by a team. Projects from a range of interest areas:  consumer, industrial products, transportation, furniture.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:23.084Z"
+}

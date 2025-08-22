@@ -1,0 +1,145 @@
+{
+  "subject": "INTN",
+  "subjectName": "Internship (INTN)",
+  "url": "https://catalog.gatech.edu/coursesaz/intn/",
+  "courses": [
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "2000",
+      "courseId": "INTN 2000",
+      "title": "Professional Internship",
+      "description": "Academic related professional work experience.",
+      "creditHours": "12"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "2003",
+      "courseId": "INTN 2003",
+      "title": "P/T Professional Internship",
+      "description": "Supervised professional work experience in the United States for undergraduate freshman or sophomore interns working 10-19 hours a week in their major field of study for a semester.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "2006",
+      "courseId": "INTN 2006",
+      "title": "Supervised Work Experience",
+      "description": "Supervised domestic work experience for freshmen and sophomore interns working 20-29 hours per week in their major field of study for a semester.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "2009",
+      "courseId": "INTN 2009",
+      "title": "Supervised Work Experience",
+      "description": "Supervised domestic work experience for freshmen and sophomore interns working 30 to 35 hours per week in their major field of study for a semester.",
+      "creditHours": "9"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "3011",
+      "courseId": "INTN 3011",
+      "title": "International Internship Experience",
+      "description": "Undergradute interns working outside the United States.",
+      "creditHours": "12"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "3013",
+      "courseId": "INTN 3013",
+      "title": "International Internship",
+      "description": "Supervised professional international experience for undergraduate interns working abroad full-time in their major field of study for approximately 25% of a semester.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "3016",
+      "courseId": "INTN 3016",
+      "title": "International Internship Experience",
+      "description": "Supervised professional international experience for undergraduate interns working abroad full-time in their major field of study for approximately 50% of a semester.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "3019",
+      "courseId": "INTN 3019",
+      "title": "International Internship Experience",
+      "description": "Supervised professional international experience for undergraduate interns working abroad full-time in their major field of study for approximately 75% of a semester.",
+      "creditHours": "9"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "4000",
+      "courseId": "INTN 4000",
+      "title": "Professional Internship",
+      "description": "Academic related professional work experience.",
+      "creditHours": "12"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "4003",
+      "courseId": "INTN 4003",
+      "title": "P/T Professional Internship",
+      "description": "Supervised professional work experience in the United States for undergraduate junior or senior interns working 10-19 hours a week in their major field of study for a semester.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "4006",
+      "courseId": "INTN 4006",
+      "title": "Supervised Work Experience",
+      "description": "Supervised domestic work experience for junior or senior interns working 20-29 hours per week in their major field of study for a semester.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "4009",
+      "courseId": "INTN 4009",
+      "title": "Supervised Work Experience",
+      "description": "Supervised domestic work experience for junior or senior interns working 30-35 hours per week in their major field of study for a semester.",
+      "creditHours": "9"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "6003",
+      "courseId": "INTN 6003",
+      "title": "Graduate Internship Program",
+      "description": "Supervised work experience for Master’s and Ph.D. student interns working 6 - 9 hours per week in their field of study; suitable for part-time GRAs and GTAs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "6004",
+      "courseId": "INTN 6004",
+      "title": "Graduate Internship Program Part Time",
+      "description": "Supervised work experience for Master’s and Ph.D. student interns working 10 - 15 hours per week in their field of study for a semester.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "6006",
+      "courseId": "INTN 6006",
+      "title": "Graduate Internship Program Half-Time",
+      "description": "Supervised work experience for Master’s and Ph.D. student interns working 16 - 20 hours per week in their field of study for a semester.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "6009",
+      "courseId": "INTN 6009",
+      "title": "Graduate Internship Program Less Than Full Time",
+      "description": "Supervised work experience for Master’s and Ph.D. student interns working 21-35 hours per week in their field of study for a semester.",
+      "creditHours": "9"
+    },
+    {
+      "subjectCode": "INTN",
+      "courseNumber": "6012",
+      "courseId": "INTN 6012",
+      "title": "Graduate Internship Program",
+      "description": "Supervised work experience for Master’s and Ph.D. student interns working 36 - 40 hours per week in their field of study for a semester.",
+      "creditHours": "12"
+    }
+  ],
+  "totalCourses": 17,
+  "scrapedAt": "2025-08-16T02:00:41.105Z"
+}

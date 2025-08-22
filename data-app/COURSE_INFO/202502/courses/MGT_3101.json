@@ -1,0 +1,22 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3101",
+  "courseId": "MGT 3101",
+  "title": "Organizational Behavior",
+  "description": "Introduction to how the behavior of individuals, groups, and organizations affects organizational effectiveness.  Credit not allowed for both MGT 3101 and 3150.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Must be enrolled in one of the following Classes:",
+    "__DETAIL_1__Ph.D. (DR)",
+    "__DETAIL_1__Junior (JR)",
+    "__DETAIL_1__Masters (MS)",
+    "__DETAIL_1__Special Graduate (SG)",
+    "__DETAIL_1__Senior (SR)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:22.625Z"
+}

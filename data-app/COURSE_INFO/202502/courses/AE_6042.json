@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "6042",
+  "courseId": "AE 6042",
+  "title": "Computational Fluid Dyn",
+  "description": "Finite-difference, finite volume methods for solution of Navier-Stokes and Euler equations. Classification of equations, stability, grids, boundary conditions, implicit and explicit methods, turbulence modeling.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 3021 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:12.234Z"
+}

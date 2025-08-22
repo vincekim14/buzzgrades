@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4367",
+  "courseId": "MGT 4367",
+  "title": "Revenue Analytics",
+  "description": "This course examines how an organization deploys and manages model and data driven pricing techniques to maximize revenues.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 2255 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:33.783Z"
+}

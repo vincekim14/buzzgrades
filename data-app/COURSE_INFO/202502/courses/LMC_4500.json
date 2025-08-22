@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "4500",
+  "courseId": "LMC 4500",
+  "title": "Seminar in Film Studies",
+  "description": "An in-depth investigation of a major movement, theory, period, or technological development in film studies.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "LMC 2000 Undergraduate Semester Minimum Grade of C or LMC 2400 Undergraduate Semester Minimum Grade of C or LMC 2500 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:41:10.737Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "PSYC",
+  "courseNumber": "4695",
+  "courseId": "PSYC 4695",
+  "title": "Internship",
+  "description": "Psychology Undergraduate Internship for credit for juniors and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Psychology.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:22.657Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "4001",
+  "courseId": "CS 4001",
+  "title": "Computing &amp; Society",
+  "description": "Examines the role and impact of information and communication technology in society, with emphasis on ethical, professional, and public policy issues. Credit not allowed for both CS 4001 and 4002.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:13.091Z"
+}

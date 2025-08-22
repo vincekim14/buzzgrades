@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CP",
+  "courseNumber": "6006",
+  "courseId": "CP 6006",
+  "title": "Visualization for Plan",
+  "description": "Explores visual and representational techniques and methods for physical planning, introducing a common set of computer applications designed to enhance visual representation and communication.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:49.156Z"
+}

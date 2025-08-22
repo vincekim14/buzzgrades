@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "3235",
+  "courseId": "CS 3235",
+  "title": "Intro Infor Security",
+  "description": "Terms/concepts for threats; controls; problem definition; comprehensive information security model; security for operating systems, databases, network/distributed systems; administering security",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2200 Undergraduate Semester Minimum Grade of C or ECE 3057 Undergraduate Semester Minimum Grade of C or ECE 3058 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:29.712Z"
+}

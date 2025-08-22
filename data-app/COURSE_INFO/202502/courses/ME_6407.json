@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6407",
+  "courseId": "ME 6407",
+  "title": "Robotics",
+  "description": "Analysis and design of robotic systems including arms and vehicles. Kinematics and dynamics. Algorithms for describing, planning, commanding, and controlling motion force.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3015 Undergraduate Semester Minimum Grade of D or ECE 3085 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:39.061Z"
+}

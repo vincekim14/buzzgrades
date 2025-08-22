@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "COE",
+  "courseNumber": "3002",
+  "courseId": "COE 3002",
+  "title": "Micro/Nano Revolution",
+  "description": "Introduction to microelectronics and nanotechnology: the communications revolution, Moore's law, semiconductors, transistors, MEMS, photonics, analylsis of common technological objects, global impact on technology and society.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:16.737Z"
+}

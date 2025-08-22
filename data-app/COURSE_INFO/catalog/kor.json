@@ -1,0 +1,481 @@
+{
+  "subject": "KOR",
+  "subjectName": "Korean (KOR)",
+  "url": "https://catalog.gatech.edu/coursesaz/kor/",
+  "courses": [
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "1001",
+      "courseId": "KOR 1001",
+      "title": "Elementary Korean I",
+      "description": "Introduction to listening, speaking, reading, and writing in Korean and to the culture of Korean-speaking regions.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "1002",
+      "courseId": "KOR 1002",
+      "title": "Elementary Korean II",
+      "description": "Continued listening, speaking, reading, and writing in Korean with further study of the culture of Korean-speaking regions.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "1813",
+      "courseId": "KOR 1813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "1814",
+      "courseId": "KOR 1814",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2001",
+      "courseId": "KOR 2001",
+      "title": "Intermediate Korean I",
+      "description": "A rapid review of grammar with continued use of listening, speaking, reading, and writing skills in Korean, all with a cultural emphasis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2002",
+      "courseId": "KOR 2002",
+      "title": "Intermediate Korean II",
+      "description": "This course focuses on listening, speaking, reading, and writing skills in Korean in an introduction to literature and within a cultural context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2691",
+      "courseId": "KOR 2691",
+      "title": "Intensive Intermediate Korean I",
+      "description": "This course teaches students an intermediate level Korean intensively during the summer LBAT study-abroad period in an immersed environment in Korea.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2692",
+      "courseId": "KOR 2692",
+      "title": "Intensive Intermediate Korean II",
+      "description": "This course teaches students an intermediate level Korean intensively during the summer LBAT study-abroad period in an immersed environment in Korea.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2694",
+      "courseId": "KOR 2694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Language.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2695",
+      "courseId": "KOR 2695",
+      "title": "Undergraduate Internship",
+      "description": "Modern Language Undergraduate Internship for credit for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2698",
+      "courseId": "KOR 2698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2699",
+      "courseId": "KOR 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2813",
+      "courseId": "KOR 2813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "2823",
+      "courseId": "KOR 2823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3001",
+      "courseId": "KOR 3001",
+      "title": "Advanced Korean I",
+      "description": "Development of richer perspectives about Korean culture and enhanced skills in reading, writing, and vocabulary. Conducted in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3002",
+      "courseId": "KOR 3002",
+      "title": "Advanced Korean II",
+      "description": "Further development of richer perspectives about Korean culture and enhanced skills in reading, writing, and vocabulary.  Conducted in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3100",
+      "courseId": "KOR 3100",
+      "title": "Korean Conversation  and Culture",
+      "description": "The course will focus on developing students’ conversation skills and grammatical knowledge required for 3000-level courses or higher. Taught in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3410",
+      "courseId": "KOR 3410",
+      "title": "Korean Culture: Old and New",
+      "description": "Comparison and contrast of aspects of the past and present. Topics include politics, music, the family, popular culture, war and many others. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3415",
+      "courseId": "KOR 3415",
+      "title": "Korea in Media: K-Pop, Film, and Drama",
+      "description": "This course addresses key features of Korean society from the 1960s to the present day through K-Pop, film, and drama. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3691",
+      "courseId": "KOR 3691",
+      "title": "Business Korean",
+      "description": "This course aims to improve oral/written communication skills in business situations in Korea.  Taught in Korean; part of Korean intensive summer language program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3692",
+      "courseId": "KOR 3692",
+      "title": "Current Issues and Technology in Korea",
+      "description": "This course introduces key terms and discusses advances in technology and science in Korea today.  Taught in Korean; part of Korean intensive summer language program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3693",
+      "courseId": "KOR 3693",
+      "title": "Exploring Modern Korea",
+      "description": "This course equips students to understand contemporary Korea through reading and discussion about contemporary topics.  Taught in Korean; part of Korean intensive summer language program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3811",
+      "courseId": "KOR 3811",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3812",
+      "courseId": "KOR 3812",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3813",
+      "courseId": "KOR 3813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3823",
+      "courseId": "KOR 3823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3833",
+      "courseId": "KOR 3833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "3843",
+      "courseId": "KOR 3843",
+      "title": "Special Topics",
+      "description": "Topics of current interest in the Korean languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4001",
+      "courseId": "KOR 4001",
+      "title": "Contemporary Korean",
+      "description": "This course aims to further the students' knowledge by exposing them to accurate and contemporary expressions in text and multimedia materials.  Taught in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4002",
+      "courseId": "KOR 4002",
+      "title": "Selected Readings Of Modern Korean",
+      "description": "This course aims to enhance students' Korean skills through advanced reading and comprehension, translation, grammar, and writing practice.  Taught in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4060",
+      "courseId": "KOR 4060",
+      "title": "Media and Public Culture",
+      "description": "This is a debating course designed for students who have completed advanced Korean or have demonstrated an equivalent proficiency level. Taught in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4150",
+      "courseId": "KOR 4150",
+      "title": "Korean Service-Learning in the Korean Community",
+      "description": "This class combines classroom discussion with community service projects to allow students to study Korean cultures and practice Korean with native speakers. Conducted in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4500",
+      "courseId": "KOR 4500",
+      "title": "Intercultural Seminar",
+      "description": "Enhancement of students' skills and understanding of intercultural communication, skills, and behaviors for globalized business, research, and politics related to South Korea. Taught in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4691",
+      "courseId": "KOR 4691",
+      "title": "Korean Society",
+      "description": "This course aims to develop students’ understanding of Korean society and culture through lectures, discussion, cultural site visits, and field work activities.  Taught in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4692",
+      "courseId": "KOR 4692",
+      "title": "Korean Industry",
+      "description": "This intensive course is designed to enhance students’ intercultural understanding of Korean industry and cultural influence. Taught in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4694",
+      "courseId": "KOR 4694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for junior and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4695",
+      "courseId": "KOR 4695",
+      "title": "Korean Internship",
+      "description": "Professional experience with a business/organization in which students enhance their language skills and cultural knowledge in German in relation to the practical goals/objectives of the entity.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4698",
+      "courseId": "KOR 4698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4699",
+      "courseId": "KOR 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4813",
+      "courseId": "KOR 4813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4823",
+      "courseId": "KOR 4823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4833",
+      "courseId": "KOR 4833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4901",
+      "courseId": "KOR 4901",
+      "title": "Special Problems",
+      "description": "Special problems course for advanced students. Topics to be arranged with instructor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "4902",
+      "courseId": "KOR 4902",
+      "title": "Special Problems",
+      "description": "Special problems for advanced students. Topics to be arranged with instructor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "6001",
+      "courseId": "KOR 6001",
+      "title": "Contemporary Korean",
+      "description": "This course aims to further the students' knowledge by exposing them to contemporary expressions in text and multimedia materials in Korean. Taught in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "6060",
+      "courseId": "KOR 6060",
+      "title": "Media and Public Culture Korean",
+      "description": "The course focuses on analysis of Korean media. Offered in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "6252",
+      "courseId": "KOR 6252",
+      "title": "DOM Internship Korean",
+      "description": "Student completes domestic internship. Conducted in Korean. Online course.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "6500",
+      "courseId": "KOR 6500",
+      "title": "Intercultural Seminar Korean",
+      "description": "This course aims to develop student’s cultural fluency, communication skills and competences required in a globalized context of business, research, and politics. Taught in Korean.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "6510",
+      "courseId": "KOR 6510",
+      "title": "Language Practicum Korean",
+      "description": "Students will serve as researchers, student aides and apprentice instructors for a 3000- or 4000-level undergraduate course approved by their adviser.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "6511",
+      "courseId": "KOR 6511",
+      "title": "Language Practicum Abroad Korean",
+      "description": "Students will serve as researchers, student aides and apprentice instructors for a 3000- or 4000-level undergraduate course approved by their adviser and the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "6695",
+      "courseId": "KOR 6695",
+      "title": "Internship Abroad Korean A",
+      "description": "Student completes internships in Korea.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "6696",
+      "courseId": "KOR 6696",
+      "title": "Internship Abroad Korean B",
+      "description": "Student completes internships in Korea.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "6998",
+      "courseId": "KOR 6998",
+      "title": "Master's Project",
+      "description": "Optional project course.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "7000",
+      "courseId": "KOR 7000",
+      "title": "Master's Thesis",
+      "description": "Optional thesis course.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "8803",
+      "courseId": "KOR 8803",
+      "title": "Special Topics",
+      "description": "Special Topics in Korean Language and Literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "8804",
+      "courseId": "KOR 8804",
+      "title": "Special Topics",
+      "description": "Special Topics in Korean.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "8901",
+      "courseId": "KOR 8901",
+      "title": "Special Problems in Korean",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "8902",
+      "courseId": "KOR 8902",
+      "title": "Special Problems in Korean",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "KOR",
+      "courseNumber": "8903",
+      "courseId": "KOR 8903",
+      "title": "Special Programs in Korean",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 59,
+  "scrapedAt": "2025-08-16T02:00:41.913Z"
+}

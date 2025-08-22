@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "4031",
+  "courseId": "ISYE 4031",
+  "title": "Regression/Forecasting",
+  "description": "Regression analysis: multiple linear regression, diagnostics, and variable selection.  Forecasting: exponential smoothing techniques and autoregressive moving average models.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3030 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:56.090Z"
+}

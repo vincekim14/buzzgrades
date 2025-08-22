@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "6776",
+  "courseId": "ME 6776",
+  "title": "Microelec Sys Packaging",
+  "description": "Broad overview of system-level, cross-disciplinary microelectronics packaging technologies, including design, test, thermal, reliability, optoelectronics, and RF integration.  Comparison of system-on-chip and system-on-package. Crosslisted with ECE and MSE 6776.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:33.114Z"
+}

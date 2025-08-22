@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "FREN",
+  "courseNumber": "4500",
+  "courseId": "FREN 4500",
+  "title": "Intercultural Seminar",
+  "description": "Integrates cross-cultural research and reflection into discussion of current issues in the French-speaking world.  Intended for students who have some study-abroad experience in a French-speaking country.  Conducted in French.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:08.302Z"
+}

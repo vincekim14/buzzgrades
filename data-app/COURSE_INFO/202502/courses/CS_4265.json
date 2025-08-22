@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4265",
+  "courseId": "CS 4265",
+  "title": "Intro to Blockchain",
+  "description": "Undergraduate Introduction to Blockchain and cryptocurrencies, building on formal crypto and distributed systems.  Cover fundamental and practical aspects.  Includes programming projects and a report.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 3510 Undergraduate Semester Minimum Grade of C or CS 3511 Undergraduate Semester Minimum Grade of C) and (CS 2110 Undergraduate Semester Minimum Grade of C or CS 2261 Undergraduate Semester Minimum Grade of C or CS 2340 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:37:35.261Z"
+}

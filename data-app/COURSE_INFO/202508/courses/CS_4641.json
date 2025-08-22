@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4641",
+  "courseId": "CS 4641",
+  "title": "Machine Learning",
+  "description": "Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications. Credit not awarded for both CS 4641 and CS 7641/CSE 6740/ISYE 6740/ECE 4252.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 1332 Undergraduate Semester Minimum Grade of C or ISYE 3133 Undergraduate Semester Minimum Grade of C) and (MATH 1553 Undergraduate Semester Minimum Grade of D or MATH 1X53 Undergraduate Semester Minimum Grade of T or MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1X54 Undergraduate Semester Minimum Grade of T or MATH 1564 Undergraduate Semester Minimum Grade of D) and (MATH 1551 Undergraduate Semester Minimum Grade of D or MATH 1X51 Undergraduate Semester Minimum Grade of T)",
+  "lastUpdated": "2025-08-20T02:38:30.732Z"
+}

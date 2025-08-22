@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "6310",
+  "courseId": "LMC 6310",
+  "title": "The Computer Expressive",
+  "description": "Explores the development of the representational power of the computer and the interplay between digital technology and culture. Students cannot receive credit for LMC 6310 and LCC 6310.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:38.433Z"
+}

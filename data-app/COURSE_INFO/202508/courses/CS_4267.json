@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4267",
+  "courseId": "CS 4267",
+  "title": "Critical Infrastructures",
+  "description": "Critical infrastructures are large cyber-physical networks essential to the well-being of the societies they serve. We study their resilience and security against a range of disruptions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:26.702Z"
+}

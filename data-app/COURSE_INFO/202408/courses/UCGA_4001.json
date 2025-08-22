@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "UCGA",
+  "courseNumber": "4001",
+  "courseId": "UCGA 4001",
+  "title": "Cross Enroll-Agnes Scott",
+  "description": "CROSS ENROLL-AGNES SCOTT",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:30.871Z"
+}

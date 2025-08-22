@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CHBE",
+  "courseNumber": "4320",
+  "courseId": "CHBE 4320",
+  "title": "Reactor Design",
+  "description": "The basic principles of reactor design are introduced, including material and energy balances for homogeneous and heterogeneous\nsystems.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 2140 Undergraduate Semester Minimum Grade of C and CHBE 3215 Undergraduate Semester Minimum Grade of C and CHBE 3300 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:44.225Z"
+}

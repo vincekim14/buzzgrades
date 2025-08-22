@@ -1,0 +1,1345 @@
+{
+  "subject": "PSYC",
+  "subjectName": "Psychology (PSYC)",
+  "url": "https://catalog.gatech.edu/coursesaz/psyc/",
+  "courses": [
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "1101",
+      "courseId": "PSYC 1101",
+      "title": "Introduction to General Psychology",
+      "description": "A broad survey of the major topics in psychology including, but not limited to, research methodology, biological and social factors influencing behavior, development, learning, memory, personality, and abnormal.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2005",
+      "courseId": "PSYC 2005",
+      "title": "Exploring Multicultural Identities",
+      "description": "This course explores multicultural identities and key multicultural competencies needed to succeed in a global and international society.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2012",
+      "courseId": "PSYC 2012",
+      "title": "Introduction to Research Methods",
+      "description": "Introduction to methods used in conducting research on human behavior. Experimental research emphasized, but course covers other methods and some statistics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2015",
+      "courseId": "PSYC 2015",
+      "title": "Research Methods",
+      "description": "Introduction to methods used in conducting research on human behavior. Experimental research emphasized, but course covers other methods and some statistics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2020",
+      "courseId": "PSYC 2020",
+      "title": "Psychological Statistics",
+      "description": "Introduction to probability and statistics as applied to psychological data.  Tests for means, variances, correlation, ANVOA, and regression.  Credit not allowed for both PSYC 2020 and PSYC 6022.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2103",
+      "courseId": "PSYC 2103",
+      "title": "Human Development Over the Life Span",
+      "description": "An introductory, non-laboratory based examination of human development across the lifespan with an emphasis on typical patterns of physical, cognitive, and social development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2130",
+      "courseId": "PSYC 2130",
+      "title": "Introduction to Educational Psychology",
+      "description": "Introduction to Educational Psychology applies the basic principles of child and adolescent development to the study of teaching and learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2210",
+      "courseId": "PSYC 2210",
+      "title": "Social Psychology",
+      "description": "Consideration of the behavior of individuals in social contexts, including interpersonal and group settings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2220",
+      "courseId": "PSYC 2220",
+      "title": "Industrial/Organizational Psychology",
+      "description": "An introduction to industrial/organizational psychology providing an overview of behavior in the workplace and psychology applied in industrial and organizational settings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2230",
+      "courseId": "PSYC 2230",
+      "title": "Abnormal Psychology",
+      "description": "This course surveys the spectrum of psychiatric disorders (symptoms, epidemiology, etiology, and treatment) and provides a perspective on adaptive functioning and psychological resilience.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2240",
+      "courseId": "PSYC 2240",
+      "title": "Personality Theory",
+      "description": "Introduction to major approaches to personality theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2250",
+      "courseId": "PSYC 2250",
+      "title": "Cross-Cultural Psychology",
+      "description": "This course provides students with an opportunity to learn about the similarities and differences in human behavior across cultures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2270",
+      "courseId": "PSYC 2270",
+      "title": "Introduction to Engineering Psychology",
+      "description": "Engineering psychology presented as an integral component in the design and evaluation of human-machine systems. Applied problems and general methodological questions are examined.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2280",
+      "courseId": "PSYC 2280",
+      "title": "Psychology of Creativity and Art",
+      "description": "Evolutionary theories of art production and consumption; the psychology of aesthetics; psychological correlates of creative and artistic behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2595",
+      "courseId": "PSYC 2595",
+      "title": "Internship",
+      "description": "Psychology Undergraduate Internship for credit for freshman or sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Psychology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2695",
+      "courseId": "PSYC 2695",
+      "title": "Internship",
+      "description": "Psychology Undergraduate Internship for credit for freshman or sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Psychology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2698",
+      "courseId": "PSYC 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of the faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2699",
+      "courseId": "PSYC 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2760",
+      "courseId": "PSYC 2760",
+      "title": "Human Language Processing",
+      "description": "Theories and research in psychlinguistics: how people comprehend and speak human languages. Includes speech perception, word recognition, parsing, sentence interpretation, word production, and sentence generation. Crosslisted with LING 2760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2801",
+      "courseId": "PSYC 2801",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2802",
+      "courseId": "PSYC 2802",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2803",
+      "courseId": "PSYC 2803",
+      "title": "Special Topics",
+      "description": "Special topics of current interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2901",
+      "courseId": "PSYC 2901",
+      "title": "Special Problems",
+      "description": "Special problems of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2902",
+      "courseId": "PSYC 2902",
+      "title": "Special Problems",
+      "description": "Special problems of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "2903",
+      "courseId": "PSYC 2903",
+      "title": "Special Problems",
+      "description": "Special problems of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3000",
+      "courseId": "PSYC 3000",
+      "title": "Science of Stress, Anxiety, and Happiness",
+      "description": "This course will cover the psychological and neuroscientific mechanisms underlying happiness and its relation to subjective health and well-being.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3005",
+      "courseId": "PSYC 3005",
+      "title": "Mindfulness: Science and Practice",
+      "description": "This experiential course is an introduction to mindfulness where students will study the theory of mind-body awareness and apply principles to daily life.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3009",
+      "courseId": "PSYC 3009",
+      "title": "Health Psychology",
+      "description": "This course is designed to provide a broad overview of the psychological influences on health and illness in our society.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3011",
+      "courseId": "PSYC 3011",
+      "title": "Cognitive Psychology",
+      "description": "Exploration of the central aspects of human cognition including pattern recognition, attention, memory, language, categorization, problem solving, and decision making; phenomena and methods are stressed.  Credit not allowed for both PSYC 3011 and PSYC 3012.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3012",
+      "courseId": "PSYC 3012",
+      "title": "Introduction to Cognitive Psychology",
+      "description": "Examines the foundations of Cognitive Psychology including methods, analysis techniques and psychological theories involved in perception, attention, memory, problem solving, decision making, and language.  Credit not allowed for both PSYC 3012 and PSYC 3011.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3020",
+      "courseId": "PSYC 3020",
+      "title": "Biopsychology",
+      "description": "Neurophysiological, endocrinological, and biochemical bases of sensory and motor functioning, motivation, learning, memory, and behavior dysfunction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3031",
+      "courseId": "PSYC 3031",
+      "title": "Experimental Analysis of Behavior",
+      "description": "History, theory, and methods of behavior analysis. Topics include shaping, stimulus-stimulus and response-consequence contingencies, stimulus control, and choice.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3040",
+      "courseId": "PSYC 3040",
+      "title": "Sensation and Perception",
+      "description": "An examination of how sensations and perceptions are processed by humans.  Topics covered will include vision, hearing, the skin senses, taste, smell, and the vestibular senses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3041",
+      "courseId": "PSYC 3041",
+      "title": "Human Sensation and Perception",
+      "description": "An examination of human sensory systems and perceptual processes. For Psychology majors only.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3100",
+      "courseId": "PSYC 3100",
+      "title": "Neuroscience of Mental Health",
+      "description": "This course will introduce the science of well-being and provide an in-depth examination of the neural mechanisms underlying well-being and various character strengths.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3750",
+      "courseId": "PSYC 3750",
+      "title": "Human Computer Interface Design and Evaluation",
+      "description": "Human computer interface is considered in terms of user-system compatibility. Concepts in human factors and interface design are covered in relation to capabilities of both humans and computers. Crosslisted with CS 3750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3751",
+      "courseId": "PSYC 3751",
+      "title": "Introduction to User Interface Design",
+      "description": "Describes the characteristics of interaction between humans and computers and demonstrates techniques for the design and evaluation of user interfaces and computational systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3790",
+      "courseId": "PSYC 3790",
+      "title": "Introduction to Cognitive Science",
+      "description": "Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action. Crosslisted with CS, PST, and ISYE 3790.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3803",
+      "courseId": "PSYC 3803",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "3873",
+      "courseId": "PSYC 3873",
+      "title": "Special Topics",
+      "description": "Special Topics in Psychology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4010",
+      "courseId": "PSYC 4010",
+      "title": "Human Abilities",
+      "description": "Introduction to differential psychology providing an overview of differences in humans. Topics such as abilities, temperament, and group differences (e.g., gender) are addressed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4011",
+      "courseId": "PSYC 4011",
+      "title": "Cognitive Psychology",
+      "description": "Exploration of the central aspects of human cognition including pattern recognition, attention, memory, language, categorization, problem solving, and decision making; phenomena and methods are stressed. Credit will not be awarded for both PSYC 4011 and PSYC 3011.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4020",
+      "courseId": "PSYC 4020",
+      "title": "Biopsychology",
+      "description": "Neurophysiological, endocrinological, and biochemical bases of sensory and motor functioning, motivation, learning, memory, and behavior dysfunction. Credit will not be awarded for both PSYC 4020 and PSYC 3020 or PSYC 4020 and NEUR 3003.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4025",
+      "courseId": "PSYC 4025",
+      "title": "Learning and Memory",
+      "description": "Research and applications concerning acqusition of new behavior and knowledge, including accounts based on classical and instrumental conditioning and information-processing models of memory and learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4031",
+      "courseId": "PSYC 4031",
+      "title": "Psychology Capstone",
+      "description": "Consideration of the applications of methods and data of experimental psychology.  Understanding of human capabilities and limitations is applied to design of technology and environments.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4041",
+      "courseId": "PSYC 4041",
+      "title": "Human Sensation and Perception",
+      "description": "An examination of human sensory systems and perceptual processes. Credit will not be awarded for both PSYC 4041 and PSYC 3041.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4050",
+      "courseId": "PSYC 4050",
+      "title": "History and Systems",
+      "description": "A survey of the history, methods, and content of modern psychological theory, research, and application. Schools of psychology (e.g., structuralism, functionalism, behaviorism, gestalt psychology) and central theories of psychology will be reviewed in their historical and philosophical context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4090",
+      "courseId": "PSYC 4090",
+      "title": "Cognitive Neuroscience",
+      "description": "Examination of the neural basis of cognitive function. Basic anatomy and methods are covered. Primary focus is on contemporary problems in the neurocognitive study of perception, memory, language, and attention, as well as disorders in these domains.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4100",
+      "courseId": "PSYC 4100",
+      "title": "Behavioral Pharmacology",
+      "description": "An analysis of drug-behavior interactions with emphasis on basic pharmacology, role of contingencies in drug effects, mechanisms of drug dependency, drugs as stimuli, and basic neuropharmacology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4200",
+      "courseId": "PSYC 4200",
+      "title": "Advanced Topics in Cognitive Psychology",
+      "description": "An advanced survey in various topics in cognitive psychology.  Topics will vary over time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4260",
+      "courseId": "PSYC 4260",
+      "title": "Psychology of Aging",
+      "description": "Survey of research concerned with the nature and causes of adult age differences in behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4270",
+      "courseId": "PSYC 4270",
+      "title": "Psychological Testing",
+      "description": "Fundamentals of psychological test construction (reliability and validity) and applications of intelligence, personality, and interest assessment.  Topics will include theoretical, practical, ethical, and legal issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4600",
+      "courseId": "PSYC 4600",
+      "title": "Senior Thesis I",
+      "description": "The first of a two course sequence in which selected students conduct original work under the direction of a faculty member. The student will produce a proposal for research that will be undertaken during the second course (PSYC 4601).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4601",
+      "courseId": "PSYC 4601",
+      "title": "Senior Thesis II",
+      "description": "The second of a two course sequence in which selected students conduct original work under the direction of a faculty member.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4690",
+      "courseId": "PSYC 4690",
+      "title": "Neuro AI Models of the Brain and Mind",
+      "description": "Explore advanced models of human brain and behavior, review the field's progress, and assess current approaches' strengths and limitations. Engage in hands-on group projects developing computational models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4695",
+      "courseId": "PSYC 4695",
+      "title": "Internship",
+      "description": "Psychology Undergraduate Internship for credit for juniors and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Psychology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4696",
+      "courseId": "PSYC 4696",
+      "title": "Undergraduate Teaching Assistantship",
+      "description": "Psychology teaching assistantship for pay under the guidance of a faculty member. Permit only.\nNote: This course cannot count toward Psychology Electives or Free Electives.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4697",
+      "courseId": "PSYC 4697",
+      "title": "Psychology Undergraduate Teaching Experience",
+      "description": "An introduction to teaching biology for undergraduate teaching assistants, with a focus on effective teaching, active engagement of students, and development of innovative classroom activities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4698",
+      "courseId": "PSYC 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4699",
+      "courseId": "PSYC 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4740",
+      "courseId": "PSYC 4740",
+      "title": "Neuroethics",
+      "description": "This course considers the implications of neuroscience research on culture, society, the legal system, and on how individuals conceive of their nature as human beings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4745",
+      "courseId": "PSYC 4745",
+      "title": "Physics of Cognition",
+      "description": "The course delves into perception, memory, and learning through physical principles. Students study cognition's physical basis, modern neural recording, and data interpretation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4790",
+      "courseId": "PSYC 4790",
+      "title": "Seminar in Cognitive Science",
+      "description": "A seminar-type course in cognitive science focusing on integrating and deepening students' cognitive science knowledge and skills.  Topics include memory, language, problem solving, learning, perception, and action. Crosslisted with CS, PST, and ISYE 4790.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4791",
+      "courseId": "PSYC 4791",
+      "title": "Integrative Project in Cognitive Science",
+      "description": "An integrative course in cognitive science focusing on the integration and use of concepts and skills from cognitive science.  A different integrative project or set of projects will be taken on each semester; students will contribute on the basis of their background and skills.  Crosslisted with CS, ISYE, and PST 4791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4792",
+      "courseId": "PSYC 4792",
+      "title": "Design Project in Cognitive Science",
+      "description": "Individual project with a cognitive science faculty member, designed as a supplement to the student's senior design project or thesis in their major area. Crosslisted with CS, ISYE, and PST 4792.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4803",
+      "courseId": "PSYC 4803",
+      "title": "Special Topics",
+      "description": "Special topics or courses of an experimental nature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4808",
+      "courseId": "PSYC 4808",
+      "title": "Special Topics",
+      "description": "Special Topics in Psychology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4813",
+      "courseId": "PSYC 4813",
+      "title": "Special Topics",
+      "description": "Special topics or courses of an experimental nature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4823",
+      "courseId": "PSYC 4823",
+      "title": "Special Topics",
+      "description": "Special topics or courses of an experimental nature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4833",
+      "courseId": "PSYC 4833",
+      "title": "Special Topics",
+      "description": "Special topics or courses of an experimental nature,",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4873",
+      "courseId": "PSYC 4873",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4900",
+      "courseId": "PSYC 4900",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4901",
+      "courseId": "PSYC 4901",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4902",
+      "courseId": "PSYC 4902",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4903",
+      "courseId": "PSYC 4903",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4904",
+      "courseId": "PSYC 4904",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4905",
+      "courseId": "PSYC 4905",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4906",
+      "courseId": "PSYC 4906",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4907",
+      "courseId": "PSYC 4907",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4908",
+      "courseId": "PSYC 4908",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4909",
+      "courseId": "PSYC 4909",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "4910",
+      "courseId": "PSYC 4910",
+      "title": "Special Problems",
+      "description": "Students engage in individual and group projects under the direction of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6000",
+      "courseId": "PSYC 6000",
+      "title": "Responsible Conduct of Research (RCR)",
+      "description": "Topics include research misconduct, data management, use of animal and human subjects, conflicts of interest and commitment, authorship, publication, peer review , and collaboration and mentoring.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6011",
+      "courseId": "PSYC 6011",
+      "title": "Cognitive Psychology",
+      "description": "Survey course on human cognition including pattern recognition, attention, memory, categorization, problem solving, consciousness, decision making, intention, and the relation between mind and brain.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6012",
+      "courseId": "PSYC 6012",
+      "title": "Social Psychology",
+      "description": "Fundamental theory and research in social behavior including social perception/cognition, attitude formation and change, social influences, and group processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6013",
+      "courseId": "PSYC 6013",
+      "title": "Biopsychology",
+      "description": "Neurophysiological, endocrinological, and biochemical bases of sensory and motor functioning, motivation, learning, memory, and behavior dysfunction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6014",
+      "courseId": "PSYC 6014",
+      "title": "Sensation and Perception",
+      "description": "This course examines how sensations and perceptions of the outside world are processed by humans, including physiological, psychophysical, ecological, and computational perspectives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6015",
+      "courseId": "PSYC 6015",
+      "title": "Developmental Psychology",
+      "description": "Overview of concepts, assumptions, methods, theories, and research in human development across the life span including cognitive, emotional, and social behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6016",
+      "courseId": "PSYC 6016",
+      "title": "Experimental Analysis of Behavior",
+      "description": "Conceptual, methodological, and theoretical issues in the experimental analysis of behavior with special emphasis on classical and operant conditioning as foundations for complex behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6017",
+      "courseId": "PSYC 6017",
+      "title": "Human Abilities",
+      "description": "Theory, methods, and applications of research on human abilities, including intelligence, aptitude, achievement, learning, aptitude treatment interactions, information processing correlates, and measurement issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6018",
+      "courseId": "PSYC 6018",
+      "title": "Principles of Research Design",
+      "description": "Introduction to basic principles and practices of empirical research in psychology.  Covers both experimental and correlational methods and designs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6019",
+      "courseId": "PSYC 6019",
+      "title": "Statistical Analysis of Psychological Data I",
+      "description": "Introductory treatment of descriptive and inferential statistics as applied to psychological research.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6020",
+      "courseId": "PSYC 6020",
+      "title": "Statistical Analysis of Psychological Data II",
+      "description": "Introductory treatment of inferential statistics, especially the general linear model, as applied to psychological research.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6021",
+      "courseId": "PSYC 6021",
+      "title": "Personality Theories",
+      "description": "Survey of personality theories, research, and methods of assessment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6022",
+      "courseId": "PSYC 6022",
+      "title": "Psychological Statistics for HCI",
+      "description": "Introduction to statistical methods as applied to psychological data within the HCI domain.  Credit not allowed for both PSYC 6022 and PSYC 2020.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6023",
+      "courseId": "PSYC 6023",
+      "title": "Psychological Research Methods for HCI",
+      "description": "Introduction to psychological research methods within the HCI domain. Credit not allowed for both PSYC 6023 and PSYC 2020.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6031",
+      "courseId": "PSYC 6031",
+      "title": "Engineering Psychology: Analysis Techniques",
+      "description": "This course covers the basic analysis techniques used to investigate human-machine systems and human performance.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6032",
+      "courseId": "PSYC 6032",
+      "title": "Engineering Psychology: Environmental Stressors and Performance",
+      "description": "This course covers environmental stressors and their influence on human performance.  Emphasis will be placed onnoise, lighting, micro-gravity and atmospheric conditions.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6033",
+      "courseId": "PSYC 6033",
+      "title": "Engineering Psyc: Cognitive Ergonomics",
+      "description": "This course applies the research findings from cognitive psychology to the design of products and systems that involve people.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6034",
+      "courseId": "PSYC 6034",
+      "title": "Engineering Psyc: Displays",
+      "description": "This course covers the basic human factors principles involved in display formatting.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6035",
+      "courseId": "PSYC 6035",
+      "title": "Engineering Psyc: Controls and Workspace",
+      "description": "This course covers the basic human factors principles involved in controls and workspace layout.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6040",
+      "courseId": "PSYC 6040",
+      "title": "Current Topics in Cognition and Brain Sciences",
+      "description": "This course presents current research topics in cognition and brain science.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6041",
+      "courseId": "PSYC 6041",
+      "title": "Current Topics in Cognitive Aging",
+      "description": "This course presents current research topics in cognitive aging.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6042",
+      "courseId": "PSYC 6042",
+      "title": "Neuroimaging: From Image to Inference",
+      "description": "This course details the potential and limits of fMRI and critically evaluates the inferences that can be drawn from fMRI studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6043",
+      "courseId": "PSYC 6043",
+      "title": "Engineering Psychology Research Seminar",
+      "description": "This course presents current research topics in engineering psychology.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6060",
+      "courseId": "PSYC 6060",
+      "title": "Psychology of Aging",
+      "description": "A survey covering psychological aspects of aging, mind, and behavior (perception, cognition, emotion, mental health) and topics relevant to adulthood (e.g. caregiving and retirement).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6090",
+      "courseId": "PSYC 6090",
+      "title": "Cognitive Neuroscience",
+      "description": "Examines the foundations of Cognitive Neuroscience, including the biological mechanisms underlying cognition, the dominant theories, and the experimental techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6270",
+      "courseId": "PSYC 6270",
+      "title": "Psychological Testing",
+      "description": "Fundamentals of psychological testing. Topics include test construction and application issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6690",
+      "courseId": "PSYC 6690",
+      "title": "Neuro AI Models of the Brain and Mind",
+      "description": "Explore advanced models of human brain and behavior, review the field's progress, and assess current approaches' strengths and limitations. Engage in hands-on group projects developing computational models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6745",
+      "courseId": "PSYC 6745",
+      "title": "Neuro AI Models of the Brain and Mind",
+      "description": "The course delves into perception, memory, and learning through physical principles. Students study cognition's physical basis, modern neural recording, and data interpretation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6750",
+      "courseId": "PSYC 6750",
+      "title": "Human-Computer Interface",
+      "description": "Describes the characteristics of interaction between humans and computers and demonstrates techniques for the evaluation of user-centered systems. Crosslisted with CS 6750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6753",
+      "courseId": "PSYC 6753",
+      "title": "Human-Computer Interaction-Professional Preparation and Practice",
+      "description": "Preparation for a professional career in HCI. Hands-on workshops in resume and portfolio building, interviewing, public speaking, team work. HCI career choices and trajectories.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6755",
+      "courseId": "PSYC 6755",
+      "title": "Human-Computer Interaction Foundations",
+      "description": "Describes the theory and practice of designing effective and efficient interactions between people and technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6795",
+      "courseId": "PSYC 6795",
+      "title": "Introduction to Cognitive Science",
+      "description": "Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action. Crosslisted with CS and ISYE 6795.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "6998",
+      "courseId": "PSYC 6998",
+      "title": "HCI Master's Project",
+      "description": "Final project for students completing a Human-Computer Interaction master's degree.  Repeatable for multi-semester projects.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7000",
+      "courseId": "PSYC 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7020",
+      "courseId": "PSYC 7020",
+      "title": "Survey of Cognitive Aging",
+      "description": "Introduction to theory and research on adult cognitive development, including intelligence, attention, memory, and problem solving.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7101",
+      "courseId": "PSYC 7101",
+      "title": "Engineering Psychology I: Methods",
+      "description": "Basic methods used to study human-machine systems including both system analysis and human performance evaluation techniques. These methods will be applied to specific systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7102",
+      "courseId": "PSYC 7102",
+      "title": "Engineering Psychology II: Displays, Controls, and Workspace",
+      "description": "Basic principles of human factors for the design, evaluation, and use of displays, controls, and workspace layouts including new technologies and associated human factors problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7103",
+      "courseId": "PSYC 7103",
+      "title": "Engineering Psychology III: Environmental Stressors and Human Performance",
+      "description": "Environmental stressors and their influences on human performance, physiological function, and emotional responses including work/rest cycles, jetlag, noise, vibration, glare, weightlessness, etc.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7104",
+      "courseId": "PSYC 7104",
+      "title": "Psychomotor and Cognitive Skill Learning and Performance",
+      "description": "Human capabilities and limitations for learning and performing psychomotor and cognitive skills are studied.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7105",
+      "courseId": "PSYC 7105",
+      "title": "First-year Research Project I",
+      "description": "First year graduate students will initiate a research project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7106",
+      "courseId": "PSYC 7106",
+      "title": "First-year Research Project II",
+      "description": "First year graduate students will complete a research project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7201",
+      "courseId": "PSYC 7201",
+      "title": "Industrial/Organizational Psychology",
+      "description": "This course introduces an overview of issues relevant to behavior in the workplace and psychology applied in industrial and organizational settings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7202",
+      "courseId": "PSYC 7202",
+      "title": "Employee Selection",
+      "description": "The course provides a conceptual framework for personnel selection guided by scientific principles, research, and theory as well as by professional, legal, and technical guidelines.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7203",
+      "courseId": "PSYC 7203",
+      "title": "Motivation and Job Attitudes",
+      "description": "Examines theory and pragmatics in description, prediction, and measurement of work-related behavior and associated evaluations. Includes theoretical and methodological problems in field and laboratory contexts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7204",
+      "courseId": "PSYC 7204",
+      "title": "Training and Development",
+      "description": "This course will focus on theory, principles, techniques, and practices relevant to training and developing human resources. Research and professional literature will be examined.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7301",
+      "courseId": "PSYC 7301",
+      "title": "Introduction to Multivariate Statistics",
+      "description": "Foundations for multivariate analysis including properties of linear composite variables, multiple regression, multiple and partial correlation, MANOVA, factor analysis, multiple discriminant analysis, canonical correlation, etc.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7302",
+      "courseId": "PSYC 7302",
+      "title": "Structural Equation Modeling",
+      "description": "Methods of causal modeling to study causal relations including issues of causality, establishing causality, fundamentals of linear structural equation modeling with latent variables, fitting models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7303",
+      "courseId": "PSYC 7303",
+      "title": "Psychometric Theory",
+      "description": "Preparation of students in statistical theory and techniques relevant to becoming professionally involved in construction, analysis, and evaluation of psychology and personnel tests.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7304",
+      "courseId": "PSYC 7304",
+      "title": "Multilevel Modeling",
+      "description": "Foundations of multilevel modeling are taught by extending knowledge of regression analysis to designs involving a nested data structure that violates the independence assumption.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7700",
+      "courseId": "PSYC 7700",
+      "title": "Professional Problems",
+      "description": "Discussion of issues faced by professional psychologists in the areas of teaching, research, and professional practice. Ethical issues in all of these areas are emphasized.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7701",
+      "courseId": "PSYC 7701",
+      "title": "Teaching Practicum",
+      "description": "Supervised college teaching including techniques, course and curriculum design, evaluation. Students will prepare and present lectures with direct observations and video taping for discussion.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7790",
+      "courseId": "PSYC 7790",
+      "title": "Cognitive Modeling",
+      "description": "A hands-on course covering a range of cognitive modeling methodologies. It explores the analysis, development, construction, and evaluation of models of cognitive processing. Crosslisted with CS and ISYE 7790.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "7999",
+      "courseId": "PSYC 7999",
+      "title": "Preparation for Doctoral Qualifying Exam",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8000",
+      "courseId": "PSYC 8000",
+      "title": "Seminar in Experimental Psychology",
+      "description": "Critical examination of current problems in a selected area of general experimental psychology. Areas to be discussed may vary each time course is offered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8010",
+      "courseId": "PSYC 8010",
+      "title": "Seminar in Cognitive Psychology",
+      "description": "Critical examination of current problems in a selected area of cognitive psychology.  Areas to be discussed may vary each time course is offered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8020",
+      "courseId": "PSYC 8020",
+      "title": "Seminar in Cognitive Aging",
+      "description": "Critical examination of current problems in a selected area of cognitive aging. Areas to be discussed may vary each time course is offered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8030",
+      "courseId": "PSYC 8030",
+      "title": "Seminar in Comparative Psychology",
+      "description": "Critical examination of current problems in a selected area of comparative psychology.  Areas to be discussed may vary each time course is offered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8040",
+      "courseId": "PSYC 8040",
+      "title": "Seminar in Engineering Psychology",
+      "description": "Critical examination of current problems in a selected area of engineering psychology.  Areas to be discussed may vary each time course is offered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8050",
+      "courseId": "PSYC 8050",
+      "title": "Seminar in Industrial/Organizational Psychology",
+      "description": "Critical examination of current problems in a selected area of industrial/organizational psychology.  Areas to be discussed may vary each time course is offered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8060",
+      "courseId": "PSYC 8060",
+      "title": "Seminar in Quantitative Psychology",
+      "description": "Presentation and discussion of quantitative approaches to psychology.  Topics will vary, but might include neural networks, measurement theory, behavioral ecology, modeling, system dynamics, etc.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8070",
+      "courseId": "PSYC 8070",
+      "title": "Seminar in Cognitive Neuroscience",
+      "description": "Critical examination of current problems in selected areas of cognitive neuroscience.  Areas to be discussed vary each time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8080",
+      "courseId": "PSYC 8080",
+      "title": "Seminar in Cognition and Brain Science",
+      "description": "Critical examination of current problems in selected areas of cognition and brain sciences.  Areas to be discussed may vary each time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8795",
+      "courseId": "PSYC 8795",
+      "title": "Colloquium in Cognitive Science",
+      "description": "Reading of research papers by leading cognitive scientists, attendance at their colloquia, and meeting with them to discuss research. Crosslisted with CS and ISYE 8795.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8802",
+      "courseId": "PSYC 8802",
+      "title": "Topics in CogNeuro",
+      "description": "Covers current issues and recent advances in cognitive neuroscience.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8803",
+      "courseId": "PSYC 8803",
+      "title": "Special Topics in Applied Statistics",
+      "description": "Covers current issues and recent advances in the application of statistical methods to research in psychology.  Instructors select the specific focus for a given term.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8804",
+      "courseId": "PSYC 8804",
+      "title": "Special Topics in Cognitive Aging",
+      "description": "Covers current issues and recent advances in cognitive aging.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8805",
+      "courseId": "PSYC 8805",
+      "title": "Special Topics in Cognitive Neuroscience",
+      "description": "Covers current issues and recent advances in cognitive neuroscience.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8806",
+      "courseId": "PSYC 8806",
+      "title": "Special Topics in Cognitive Psychology",
+      "description": "Covers current issues and recent advances in cognitive psychology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8807",
+      "courseId": "PSYC 8807",
+      "title": "Special Topics in Engineering Psychology",
+      "description": "Covers current issues and recent advances in Engineering Psychology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8808",
+      "courseId": "PSYC 8808",
+      "title": "Special Topics",
+      "description": "Special Topics in Psychology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8811",
+      "courseId": "PSYC 8811",
+      "title": "Special Topics",
+      "description": "Special topics that cover current issues and recent advances in Psychology.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8812",
+      "courseId": "PSYC 8812",
+      "title": "Special Topics",
+      "description": "Special topics that cover current issues and recent advances in Psychology.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8890",
+      "courseId": "PSYC 8890",
+      "title": "Special Topics in Cognitive Science",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8900",
+      "courseId": "PSYC 8900",
+      "title": "Special Problems in Experimental Psychology",
+      "description": "Students conduct research under direction of a faculty member on problems in the general area of experimental psychology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8901",
+      "courseId": "PSYC 8901",
+      "title": "Special Problems in Engineering Psychology",
+      "description": "Students conduct research under the direction of a faculty member on problems in the general area of engineering psychology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8902",
+      "courseId": "PSYC 8902",
+      "title": "Special Problems in Industrial/Organizational Psychology",
+      "description": "Students conduct research under the direction of a faculty member on problems investigating some psychological aspect of industrial/organizational problems.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8903",
+      "courseId": "PSYC 8903",
+      "title": "Special Problems in Human-Computer Interaction",
+      "description": "Students conduct research under the direction of a faculty member on problems in the general area of human-computer interaction.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8904",
+      "courseId": "PSYC 8904",
+      "title": "Special Problems in Cognitive Aging",
+      "description": "Students conduct research under the direction of a faculty member on problems in cognitive aging.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8905",
+      "courseId": "PSYC 8905",
+      "title": "Special Problems in Cognitive Neuroscience",
+      "description": "Students conduct research under the direction of a faculty member on problems in cognitive neuroscience.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8906",
+      "courseId": "PSYC 8906",
+      "title": "Special Problems in Cognitive Psychology",
+      "description": "Students conduct research under the direction of a faculty member on problems in cognitive psychology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8907",
+      "courseId": "PSYC 8907",
+      "title": "Special Problems in Cognition & Brain Science",
+      "description": "Students conduct research under the direction of a faculty member on problems in cognition and brain sciences.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8908",
+      "courseId": "PSYC 8908",
+      "title": "Special Problems in Quantitative Psychology",
+      "description": "Students conduct research under the direction of a faculty member on problems in quantitative psychology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8997",
+      "courseId": "PSYC 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding a teaching assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "8998",
+      "courseId": "PSYC 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding a research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "PSYC",
+      "courseNumber": "9000",
+      "courseId": "PSYC 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 167,
+  "scrapedAt": "2025-08-16T02:00:48.306Z"
+}

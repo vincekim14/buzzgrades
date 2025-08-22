@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "2020",
+  "courseId": "ARCH 2020",
+  "title": "Media + Modeling 2",
+  "description": "Advanced approaches to two and three dimensional modeling and representation in architecture using both manual and digital media and techniques.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 2016",
+  "prerequisites": "ARCH 1020 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:35:43.915Z"
+}

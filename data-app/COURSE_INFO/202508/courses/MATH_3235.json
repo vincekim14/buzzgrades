@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "3235",
+  "courseId": "MATH 3235",
+  "title": "Probability Theory",
+  "description": "This course is a mathematical introduction to probability theory, covering random variables, moments, multivariable distributions, law of large numbers, central limit theorem, and large deviations. Credit not awarded for both MATH 3235 and MATH 3215 or 3225 or 3670.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2X51 Undergraduate Semester Minimum Grade of T or MATH 2561 Undergraduate Semester Minimum Grade of D or MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 24X1 Undergraduate Semester Minimum Grade of T or MATH 2411 Undergraduate Semester Minimum Grade of D or MATH 2605 Undergraduate Semester Minimum Grade of D or MATH 2550 Undergraduate Semester Minimum Grade of D) and (MATH 2106 Undergraduate Semester Minimum Grade of D or MATH 3012 Undergraduate Semester Minimum Grade of D or CS 2051 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:42:59.831Z"
+}

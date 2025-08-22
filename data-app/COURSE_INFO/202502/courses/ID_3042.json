@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "3042",
+  "courseId": "ID 3042",
+  "title": "Product Dev Studio 2",
+  "description": "The application of systematic user-centered design methods to projects focused on the design development of 'real-world' products, services, interfaces & systems in collaboration with external sponsors.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 2022 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:51.228Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "RUSS",
+  "courseNumber": "3001",
+  "courseId": "RUSS 3001",
+  "title": "Advanced Russian I",
+  "description": "First half of advanced courses in Russian conversation and composition. Discussion of controversial issues with the goal of self-expression in coherent paragraphs. Advanced grammar topics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:45:05.350Z"
+}

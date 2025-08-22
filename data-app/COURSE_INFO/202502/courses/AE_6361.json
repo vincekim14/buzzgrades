@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "6361",
+  "courseId": "AE 6361",
+  "title": "Propulsion Sys Design I",
+  "description": "Air breathing propulsion design with emphasis on multidisciplinary design issues related to system integration, cycle selection, performance, cost, reliability, maintainability, etc.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1321 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:14.508Z"
+}

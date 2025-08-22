@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PHIL",
+  "courseNumber": "3113",
+  "courseId": "PHIL 3113",
+  "title": "Logic&amp; Critical Thinking",
+  "description": "Symbolic logic and applications of logic in critical reading and thinking by exploring modern systems of symbolic logic and their implications for science.  Emphasizes skills in critical thinking and writing based on the principles of logic.   Credit not allowed for both PST 3113 and PHIL 3113.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:36.669Z"
+}

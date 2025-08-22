@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECON",
+  "courseNumber": "3300",
+  "courseId": "ECON 3300",
+  "title": "Intl Energy Markets",
+  "description": "Examines the economics of energy markets, encompassing the full value chain from production to consumption. Covers all major primary energy resources, including fossil fuels, nuclear, hydroelectric, and renewables, as well as electricity and transportation fuel markets. The course highlights health and environmental impacts, regulation and industrial organization, and energy policy at both the state and federal levels.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:49.399Z"
+}

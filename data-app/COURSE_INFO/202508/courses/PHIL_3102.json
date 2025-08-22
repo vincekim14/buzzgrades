@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PHIL",
+  "courseNumber": "3102",
+  "courseId": "PHIL 3102",
+  "title": "Ancient Philosophy",
+  "description": "Development of philosophy in the classical works of Ancient Greek philosophy.  Credit not allowed for both PHIL 3102 and PST 3102.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:12.957Z"
+}

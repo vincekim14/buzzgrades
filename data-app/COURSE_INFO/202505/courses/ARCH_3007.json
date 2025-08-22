@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ARCH",
+  "courseNumber": "3007",
+  "courseId": "ARCH 3007",
+  "title": "Art and Arch in Greece",
+  "description": "An intensive on-site investigation of the role that the arts and architecture have played in the development of classical Greek civilization",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 3008 and Architecture 3009 and Architecture 4921",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:19.492Z"
+}

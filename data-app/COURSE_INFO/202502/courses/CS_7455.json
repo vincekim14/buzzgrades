@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "7455",
+  "courseId": "CS 7455",
+  "title": "Issues/Human-Center Comp",
+  "description": "In-depth focus on theoretical, methodological, conceptual, and technical issues across the HCC disciplines associated with humans (cognitive, biological, socio-cultural); design; ethics; and analysis and evaluation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 6452 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:54.677Z"
+}

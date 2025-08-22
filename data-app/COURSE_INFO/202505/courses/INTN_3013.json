@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "INTN",
+  "courseNumber": "3013",
+  "courseId": "INTN 3013",
+  "title": "INTL Internship",
+  "description": "Supervised professional international experience for undergraduate interns working abroad full-time in their major field of study for approximately 25% of a semester.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:09.961Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECE",
+  "courseNumber": "4391",
+  "courseId": "ECE 4391",
+  "title": "Electromag Compatibility",
+  "description": "To study electromagnetic interference and susceptibility of electrical systems, with application to analog and digital circuits.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3025 Undergraduate Semester Minimum Grade of C and ECE 3040 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:53.693Z"
+}

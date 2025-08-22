@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "8200",
+  "courseId": "MSE 8200",
+  "title": "Adv Presentation Skills",
+  "description": "Designing and explaining visuals; creating and delivering scientific electronic presentations; learning to speak and present to a variety of audiences.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:53.335Z"
+}

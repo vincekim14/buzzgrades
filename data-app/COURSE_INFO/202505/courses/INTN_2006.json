@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "INTN",
+  "courseNumber": "2006",
+  "courseId": "INTN 2006",
+  "title": "P/T Professional Internship",
+  "description": "Supervised domestic work experience for freshmen and sophomore interns working 20-29 hours per week in their major field of study for a semester.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:09.310Z"
+}

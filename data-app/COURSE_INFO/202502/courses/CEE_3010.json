@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "3010",
+  "courseId": "CEE 3010",
+  "title": "Geomatics",
+  "description": "Spatial data collection methods including surveying, photogrammetry, remote sensing, and global positioning systems; management, manipulation, and analysis of spatial and associated attribute data.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:58.643Z"
+}

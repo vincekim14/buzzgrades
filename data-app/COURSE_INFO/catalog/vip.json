@@ -1,0 +1,161 @@
+{
+  "subject": "VIP",
+  "subjectName": "Vertically Integrated Project (VIP)",
+  "url": "https://catalog.gatech.edu/coursesaz/vip/",
+  "courses": [
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "2600",
+      "courseId": "VIP 2600",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, sophomore level",
+      "description": "Zero-credit course for students receiving pay/stipends for participation in VIP courses.  Students held to same grading standards as VIP 2601/2602; can participate multiple semesters; no volunteers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "2601",
+      "courseId": "VIP 2601",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, sophomore level",
+      "description": "Multidisciplinary course supporting faculty research. Can participate multiple semesters. Students will familiarize themselves with project, gain knowledge/skills, and begin making meaningful contributions.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "2602",
+      "courseId": "VIP 2602",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, sophomore level",
+      "description": "Multidisciplinary course supporting faculty research. Can participate multiple semesters. Students will familiarize themselves with project, gain knowledge/skills, and begin making meaningful contributions.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "2603",
+      "courseId": "VIP 2603",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, sophomore participation",
+      "description": "Multidisciplinary, project-based, team-based course supporting faculty research. Students can participate multiple semesters.  2000-level students will: familiarize themselves with project, gain knowledge/skills, and begin making meaningful contributions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "2698",
+      "courseId": "VIP 2698",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, sophomore level research",
+      "description": "Course for students participating in VIP as part of a paid undergraduate research program.  Students held to same standards as in VIP 2601/2602.  No volunteers.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "3600",
+      "courseId": "VIP 3600",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, junior level",
+      "description": "Zero-credit course for students receiving pay/stipends for participation in VIP courses.  Students held to same grading standards as VIP 3601/3602; can participate multiple semesters; no volunteers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "3601",
+      "courseId": "VIP 3601",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, junior level",
+      "description": "Multidisciplinary course supporting faculty research.  Can participate multiple semesters. Students will have foundations within discipline, pursue needed knowledge/skills, make meaningful contributions, and assume technical/leadership responsibilities.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "3602",
+      "courseId": "VIP 3602",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, junior level",
+      "description": "Multidisciplinary course supporting faculty research.  Can participate multiple semesters. Students will have foundations within discipline, pursue needed knowledge/skills, make meaningful contributions, and assume technical/leadership responsibilities.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "3603",
+      "courseId": "VIP 3603",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, junior level",
+      "description": "Multidisciplinary course supporting faculty research.  Can participate multiple semesters. Students will have foundations within discipline, pursue needed knowledge/skills, make meaningful contributions, and assume technical/leadership responsibilities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "4600",
+      "courseId": "VIP 4600",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, senior level",
+      "description": "Zero-credit course for students receiving pay/stipends for participation in VIP courses.  Students held to same grading standards as VIP 4601/4602; can participate multiple semesters; no volunteers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "4601",
+      "courseId": "VIP 4601",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, senior level",
+      "description": "Multidisciplinary course supporting faculty research. Can participate multiple semesters. Students will have strong foundations within discipline, pursue further knowledge/skills, make meaningful contributions, and assume significant technical/leadership responsibilities.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "4602",
+      "courseId": "VIP 4602",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, senior participation",
+      "description": "Multidisciplinary, project-based, team-based course supporting faculty research. Students can participate multiple semesters.  4000-level students will: have strong foundations within their disciplines; further pursue needed knowledge/skills; make meaningful contributions; take on significant responsibilities in technical areas and/or team leadership.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "4603",
+      "courseId": "VIP 4603",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, senior participation",
+      "description": "Multidisciplinary, project-based, team-based course supporting faculty research. Students can participate multiple semesters. 4000-level students will: have strong foundations within their disciplines; further pursue needed knowledge/skills; make meaningful contributions; take on significant responsibilities in technical areas and/or team leadership.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "4698",
+      "courseId": "VIP 4698",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, senior level research",
+      "description": "Course for students participating in VIP as part of a paid undergraduate research program.  Students held to same standards as in VIP 4601/4602.  No volunteers.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "4983",
+      "courseId": "VIP 4983",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, capstone",
+      "description": "Multidisciplinary course supporting faculty research.  Restricted to students using VIP to fulfill junior or culminating design requirements, as permitted by degree program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "6600",
+      "courseId": "VIP 6600",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, graduate level",
+      "description": "Zero-credit course for graduate students receiving pay/stipends for participation in VIP projects. Students can participate multiple semesters. Volunteers are not permitted.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "6601",
+      "courseId": "VIP 6601",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, graduate level",
+      "description": "Multidisciplinary course supporting faculty research. Students can participate multiple semesters.  Graduate students will pursue needed knowledge/skills; make meaningful contributions; provide leadership in technical areas/team management.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "6602",
+      "courseId": "VIP 6602",
+      "title": "Vertically Integrated Project: Multidisciplinary project-based team, graduate level",
+      "description": "Multidisciplinary course supporting faculty research. Students can participate multiple semesters.  Graduate students will pursue needed knowledge/skills; make meaningful contributions; provide leadership in technical areas/team management.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "VIP",
+      "courseNumber": "6603",
+      "courseId": "VIP 6603",
+      "title": "Vertically Integrated Project:Multidisciplinary project-based team, graduate level",
+      "description": "Multidisciplinary course supporting faculty research. Students can participate multiple semesters. Graduate students will pursue needed knowledge/skills; make meaningful contributions; provide leadership in technical areas/team management.",
+      "creditHours": "3"
+    }
+  ],
+  "totalCourses": 19,
+  "scrapedAt": "2025-08-16T02:00:51.940Z"
+}

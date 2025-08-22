@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "NEUR",
+  "courseNumber": "3002",
+  "courseId": "NEUR 3002",
+  "title": "Systems Neuroscience",
+  "description": "This course explores how animal behaviors emerge from neuronal networks and systems, with a specific focus on principles of network operation and computational applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(NEUR 2001 Undergraduate Semester Minimum Grade of C or NEUR 2000 Undergraduate Semester Minimum Grade of C or NEUR 2010 Undergraduate Semester Minimum Grade of C) or BMED 3100 Undergraduate Semester Minimum Grade of D and MATH 1552 Undergraduate Semester Minimum Grade of D and (MATH 1553 Undergraduate Semester Minimum Grade of D or MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1564 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:44:02.413Z"
+}

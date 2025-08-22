@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "6775",
+  "courseId": "BMED 6775",
+  "title": "Trans Microsystems",
+  "description": "Learn how to design biomedical microsystems ready for clinical and biomedical translation. Course blends theory with examples of successful biomedical research, clinical translation, and case studies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 3310 Undergraduate Semester Minimum Grade of D and BMED 3600 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:01.276Z"
+}

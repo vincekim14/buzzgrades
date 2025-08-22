@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "3017",
+  "courseId": "ARCH 3017",
+  "title": "Architecture Studio 5",
+  "description": "Intermediate architectural design projects exploring the inter-relationships of various programmatic models, normative building types, and technological themes within specific physical, urban and cultural contexts.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 3016 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:35:25.738Z"
+}

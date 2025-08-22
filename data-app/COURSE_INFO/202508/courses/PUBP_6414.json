@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "PUBP",
+  "courseNumber": "6414",
+  "courseId": "PUBP 6414",
+  "title": "Tech Innovation&amp;Gov Plcy",
+  "description": "Federal and state policies to stimulate innovation; sources and stimuli for innovation; role of universities and industry consortia; comparative innovation policy; evaluation of technology policy.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:58.685Z"
+}

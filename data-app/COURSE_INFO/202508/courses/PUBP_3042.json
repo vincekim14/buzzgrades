@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PUBP",
+  "courseNumber": "3042",
+  "courseId": "PUBP 3042",
+  "title": "Data Science for Policy",
+  "description": "Introduces fundamentals of data science, tools, and quantitative methodologies and ethical implications for public and social applications. Topics for policy applications vary by semester.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:48.938Z"
+}

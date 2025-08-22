@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CHEM",
+  "courseNumber": "2311",
+  "courseId": "CHEM 2311",
+  "title": "Organic Chemistry I",
+  "description": "An introduction to structure and reactivity of organic molecules. Credit not awarded for both CHEM 2311 and CHEM 1315.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 1311 Undergraduate Semester Minimum Grade of D or CHEM 1212K Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:23.846Z"
+}

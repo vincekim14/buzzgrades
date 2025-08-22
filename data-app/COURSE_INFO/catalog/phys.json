@@ -1,0 +1,1169 @@
+{
+  "subject": "PHYS",
+  "subjectName": "Physics (PHYS)",
+  "url": "https://catalog.gatech.edu/coursesaz/phys/",
+  "courses": [
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "1000",
+      "courseId": "PHYS 1000",
+      "title": "Physics Orientation",
+      "description": "Guest lectures will describe career opportunities in physics; the role physicists play in education, government, and industrial laboratories; and programs available to physics majors.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "1111K",
+      "courseId": "PHYS 1111K",
+      "title": "Introductory Physics I",
+      "description": "An introductory course which will include mechanics (kinematics, dynamics, work and energy, momentum and collisions, and rotational motion and statics), and will include thermodynamics and waves. Elementary algebra and trigonometry will be used.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "1804",
+      "courseId": "PHYS 1804",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2021",
+      "courseId": "PHYS 2021",
+      "title": "The Solar System",
+      "description": "This course covers Ancient and Renaissance astronomy, gravity, sky phenomena, telescopes, and the solar system.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2022",
+      "courseId": "PHYS 2022",
+      "title": "Stars, Galaxies, and the Universe",
+      "description": "This course covers optics, telescopes, stellar characteristics and evolution, galaxies, the universe, and the big bang.  Physics topics include mechanics, optics, atomic physics, nuclear physics, and relativity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2030",
+      "courseId": "PHYS 2030",
+      "title": "Physics Of Music",
+      "description": "An introduction to the physical principles underlying the production, transmission, and detection of musical sounds.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2210",
+      "courseId": "PHYS 2210",
+      "title": "Introduction to Astrophysics",
+      "description": "This course provides an overview of modern astrophysics including stars, galaxies, black holes and other dense stellar remnants, and the physics of the expanding Universe.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2211",
+      "courseId": "PHYS 2211",
+      "title": "Principles of Physics I",
+      "description": "An introductory course which will include mechanics (kinematics, dynamics, work and energy, momentum and collisions, and rotational motion and statics), and may also include oscillations and computational methods. This is a calculus-based course.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2212",
+      "courseId": "PHYS 2212",
+      "title": "Principles of Physics II",
+      "description": "An introductory course which will include electrostatics, electric current and circuits,  electromagnetism, and may also include light and computational methods. This is a calculus-based course.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2213",
+      "courseId": "PHYS 2213",
+      "title": "Introduction to Modern Physics",
+      "description": "A survey of twentieth century physics.  Developments of several branches of physics up to their present frontiers, including historical and philosophical perspectives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2231",
+      "courseId": "PHYS 2231",
+      "title": "Honors Physics I",
+      "description": "Parallels introductory Physics I (PHYS 2211). Some topics treated in more depth or more extensively. A rigorous physics foundation requiring demonstrated competence in mathematics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2232",
+      "courseId": "PHYS 2232",
+      "title": "Honors Physics II",
+      "description": "Parallels introductory Physics II (PHYS 2212). Some topics treated in more depth or more extensively.  No modern physics content. A rigorous physics foundation requiring demonstrated competence in mathematics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2698",
+      "courseId": "PHYS 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2699",
+      "courseId": "PHYS 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2750",
+      "courseId": "PHYS 2750",
+      "title": "Physics of the Weather",
+      "description": "An introductory treatment applying basic physical laws to understanding weather phenomena.  Crosslisted with EAS 2750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2801",
+      "courseId": "PHYS 2801",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2802",
+      "courseId": "PHYS 2802",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2803",
+      "courseId": "PHYS 2803",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2804",
+      "courseId": "PHYS 2804",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2814",
+      "courseId": "PHYS 2814",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2900",
+      "courseId": "PHYS 2900",
+      "title": "Special Problems",
+      "description": "Course involving special problems in physics are offered from time to time.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2901",
+      "courseId": "PHYS 2901",
+      "title": "Special Problems",
+      "description": "Courses involving special problems in physics are offered from time to time.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "2902",
+      "courseId": "PHYS 2902",
+      "title": "Special Problems",
+      "description": "Courses involving special problems in physics are offered from time to time.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3022",
+      "courseId": "PHYS 3022",
+      "title": "Stars and Planets",
+      "description": "This course covers stellar atmospheres, interiors and evolution, as well as the formation and physical properties of planetary systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3120",
+      "courseId": "PHYS 3120",
+      "title": "Computational Physics",
+      "description": "Introduction to computational methods in physics, including numerical integration and solving ordinary and partial differential equations. Applications to a range of physics problems are presented.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3122",
+      "courseId": "PHYS 3122",
+      "title": "Electrostatics and Magnetostatics",
+      "description": "First of two courses on the physics of electromagnetism. Topics include Coulomb's Law, Ampere's Law, scalar and vector potentials,Laplace's equation and electric and magnetic fields in matter.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3123",
+      "courseId": "PHYS 3123",
+      "title": "Electrodynamics",
+      "description": "Second of two courses on the physics of electromagnetism. Topics include time-dependent phenomena including Faraday's Law, the Maxwell equations, electromagnetic radiation, and electromagnetic waves.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3141",
+      "courseId": "PHYS 3141",
+      "title": "Thermodynamics",
+      "description": "Introduction to the basic concepts of thermodynamics. Thermodynamic laws will be developed with an emphasis on the macroscopic point of view.  Applications of the basic principles will be considered briefly.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3143",
+      "courseId": "PHYS 3143",
+      "title": "Quantum Mechanics I",
+      "description": "First of two courses that develop the principles of quantum mechanics.  Topics include the state vector concept. Heisenberg and Schrodinger pictures, uncertainty relations, and exact solvable models in one dimension.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3151",
+      "courseId": "PHYS 3151",
+      "title": "Mathematical Physics",
+      "description": "A review of the mathematical techniques required for the description of physical systems encountered in mechanics, electromagnetism, thermal physics, and quantum mechanics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3201",
+      "courseId": "PHYS 3201",
+      "title": "Classical Mechanics I",
+      "description": "Fundamental topics in classical mechanics including oscillations, planetary motion, and Lagrangian and Hamiltonian techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3202",
+      "courseId": "PHYS 3202",
+      "title": "Classical Mechanics II",
+      "description": "A continuation of PHYS 3201. Topics include many body mechanics, rotation of rigid bodies and collisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3207",
+      "courseId": "PHYS 3207",
+      "title": "Living Systems Laboratory",
+      "description": "Introduces students to the field of Physics of Living Systems via experimental studies of diverse biological systems, including molecular nanomachines, organism locomotion and ecological dynamics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3208",
+      "courseId": "PHYS 3208",
+      "title": "Modern Optics Laboratory",
+      "description": "Measurement of parameters of optical surfaces, lenses, and systems using a variety of modern optics techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3209",
+      "courseId": "PHYS 3209",
+      "title": "Electronics I",
+      "description": "A first course in both theoretical and applied electronics that is based on a thorough grounding in circuit as well as device physics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3210",
+      "courseId": "PHYS 3210",
+      "title": "Astronomy & Astrophysics Lab",
+      "description": "An introduction to astronomical and astrophysical data reduction and analysis, drawing on instrumentation and telescopes from across modern astrophysics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3232",
+      "courseId": "PHYS 3232",
+      "title": "Optics I",
+      "description": "Optics principles, including waves, reflection, refraction, absorption, scattering, group velocity, lasers, polarization geometrical optics, the Fourier transform, coherence, interference, and diffraction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3250",
+      "courseId": "PHYS 3250",
+      "title": "Principles of the Physics of Living Systems",
+      "description": "Hands-on lecture/lab undergraduate survey course enabling discovery of principles of Physics of Living Systems across scales.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3801",
+      "courseId": "PHYS 3801",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3802",
+      "courseId": "PHYS 3802",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3803",
+      "courseId": "PHYS 3803",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3804",
+      "courseId": "PHYS 3804",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3806",
+      "courseId": "PHYS 3806",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3807",
+      "courseId": "PHYS 3807",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3814",
+      "courseId": "PHYS 3814",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3900",
+      "courseId": "PHYS 3900",
+      "title": "Special Problems",
+      "description": "Courses involving special problems in physics are offered from time to time.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3901",
+      "courseId": "PHYS 3901",
+      "title": "Special Problems",
+      "description": "Courses involving special problems in physics are offered from time to time.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "3902",
+      "courseId": "PHYS 3902",
+      "title": "Special Problems",
+      "description": "Courses involving special problems in physics are offered from time to time.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4142",
+      "courseId": "PHYS 4142",
+      "title": "Statistical Mechanics",
+      "description": "The statistical basis of thermodynamics is developed. Topics include entropy and the second law, partition functions and free energy, systems of variable particle number, and quantum statistics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4143",
+      "courseId": "PHYS 4143",
+      "title": "Quantum Mechanics II",
+      "description": "Second of two courses that develop the principles of quantum mechanics.  Topics include angular momentum, hydrogen atom, variation methods, perturbation theory, matter-radiation interactions, identical particles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4147",
+      "courseId": "PHYS 4147",
+      "title": "Relativity",
+      "description": "The course provides an introduction to the special and general theories of relativity that govern gravitational physics including experimental tests, astrophysical applications, black holes and gravitational waves.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4206",
+      "courseId": "PHYS 4206",
+      "title": "Electronics II",
+      "description": "A course in electronic instrumentation with an emphasis on signal processing, both analog and digital, and computer interfacing.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4247",
+      "courseId": "PHYS 4247",
+      "title": "Cosmology and Galaxies",
+      "description": "Modern cosmology of the universe, with the emphasis on the origin and evolution of galaxies and clusters of galaxies, inflation, the cosmic microwave background, dark matter and dark energy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4250",
+      "courseId": "PHYS 4250",
+      "title": "Neurophysics",
+      "description": "Hands-on lecture/lab undergraduate course connecting theory and experiment to understand principles of neuron, brain, and heart function. Draws upon nonlinear dynamics, basic electrostatics, and electrophysiology.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4251",
+      "courseId": "PHYS 4251",
+      "title": "Biophysics",
+      "description": "Physical principles applied to molecular and cellular biology. Topics include chemiosmosis, self-assembly, protein biosynthesis, and the mechanisms of muscle and nerve function.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4260",
+      "courseId": "PHYS 4260",
+      "title": "Quantum Technologies",
+      "description": "Introduction to quantum information systems, with an emphasis on the physics (superconductivity, ion and atom trapping, quantum dots) behind the leading candidate platforms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4261",
+      "courseId": "PHYS 4261",
+      "title": "Atomic Physics",
+      "description": "Course provides an introduction to the fundamentals of atomic physics, the structure of atoms, and their interaction with static and radiation fields.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4262",
+      "courseId": "PHYS 4262",
+      "title": "Solid-state Physics",
+      "description": "A first course in the physics of crystalline solids.  Core topics include crystal lattices, diffraction, bonding, elastic properties, band theory, as well as others.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4263",
+      "courseId": "PHYS 4263",
+      "title": "Nuclei, Particles, and Fields",
+      "description": "An introduction to nuclear and subnuclear systems. Topics include nuclear models, radioactive decay, nuclear reactions, quarks, accelerators, reactors, and stellar nucleosynthesis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4267",
+      "courseId": "PHYS 4267",
+      "title": "Nonlinear Dynamics and Chaos",
+      "description": "A modern introduction to nonlinear phenomena.  Topics include driven oscillators, entrainment, bifurcation, fractals, and control of chaos.  Examples are drawn from physical systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4301",
+      "courseId": "PHYS 4301",
+      "title": "Cell and Tissue Biophysics",
+      "description": "The physical principles that govern cell biological phenomena such as cell sensing, cell mechanics, migration, phase separation in cells, and bacterial navigation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4321",
+      "courseId": "PHYS 4321",
+      "title": "Advanced Laboratory I",
+      "description": "Experiments are conducted that demonstrate basic principles from various fields of physics.  An emphasis is placed on contemporary concepts in modern physics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4322",
+      "courseId": "PHYS 4322",
+      "title": "Advanced Laboratory II",
+      "description": "A continuation of PHYS 4321.  Experiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4347",
+      "courseId": "PHYS 4347",
+      "title": "Theoretical Astrophysics",
+      "description": "Theoretical investigation of astrophysical objects and processes, with an emphasis on the interstellar medium, extragalactic astrophysics, gas dynamics, and radiative transfer, and radiation processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4421",
+      "courseId": "PHYS 4421",
+      "title": "Introduction to Continuum Physics",
+      "description": "A modern introduction to continuum physics.  Topics include elastic theory, dislocations and waves, fluid mechanics and dynamics, and instabilities in fluids.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4601",
+      "courseId": "PHYS 4601",
+      "title": "Senior Seminar I",
+      "description": "Representative research programs in the School are described by advanced graduate students, post-doctoral fellows and faculty members.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4602",
+      "courseId": "PHYS 4602",
+      "title": "Senior Seminar II",
+      "description": "Representative research programs in the school are described by advanced graduate students, post-doctoral fellows, and faculty members.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4604",
+      "courseId": "PHYS 4604",
+      "title": "Professional Development",
+      "description": "Professional development for physics undergraduate students. Topics include writing a resume, writing a proposal, applying for jobs, and choosing a graduate school.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4605",
+      "courseId": "PHYS 4605",
+      "title": "Scientific Communication",
+      "description": "Scientific communication for physics undergraduate students, with a particular focus on the development of oral communication skills.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4655",
+      "courseId": "PHYS 4655",
+      "title": "Introductory Diffraction Studies",
+      "description": "Introductory theory and practice of x-ray and neutron diffraction techniques, including single crystals and powders.  Laboratory work is strongly correlated with principles developed in the lectures.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4698",
+      "courseId": "PHYS 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4699",
+      "courseId": "PHYS 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4740",
+      "courseId": "PHYS 4740",
+      "title": "Estimation and Approximation in Physics",
+      "description": "Applications of order-of-magnitude estimates, dimensional analysis, scaling arguments, and perturbation theory in different areas of physics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4745",
+      "courseId": "PHYS 4745",
+      "title": "Physics of Cognition",
+      "description": "The course delves into perception, memory, and learning through physical principles. Students study cognition's physical basis, modern neural recording, and data interpretation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4751",
+      "courseId": "PHYS 4751",
+      "title": "Laser Theory and Applications",
+      "description": "Provides an introduction to the theory and applications of laser principles and related instrumentation. Emphasis is on the fundamental principles underlying laser action. Crosslisted with ECE 4751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4782",
+      "courseId": "PHYS 4782",
+      "title": "Quantum Information and Quantum Computing",
+      "description": "Introduction to quantum computing and quantum information theory, formalism of quantum mechanics, quantum gates, algorithms, measurements, coding, and information.  Physical realizations and experiments. Crosslisted with MATH 4782.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4801",
+      "courseId": "PHYS 4801",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4802",
+      "courseId": "PHYS 4802",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4803",
+      "courseId": "PHYS 4803",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4804",
+      "courseId": "PHYS 4804",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4813",
+      "courseId": "PHYS 4813",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4823",
+      "courseId": "PHYS 4823",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4833",
+      "courseId": "PHYS 4833",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4854",
+      "courseId": "PHYS 4854",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4900",
+      "courseId": "PHYS 4900",
+      "title": "Special Problems",
+      "description": "Courses involving special problems in physics are offered from time to time.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4901",
+      "courseId": "PHYS 4901",
+      "title": "Special Problems",
+      "description": "Courses involving special problems in physics are offered from time to time.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "4902",
+      "courseId": "PHYS 4902",
+      "title": "Special Problems",
+      "description": "Courses involving special problems in physics are offered from time to time.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6101",
+      "courseId": "PHYS 6101",
+      "title": "Classical Mechanics I",
+      "description": "Newtonian mechanics, Hamilton's variational principle, Lagrangian and Hamiltonian mechanics, central forces, rigid body motion, and small oscillations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6103",
+      "courseId": "PHYS 6103",
+      "title": "Electromagnetism",
+      "description": "An advanced treatment of electromagnetism. Topics include boundary value problems in electrostatics and magnetostatics, Maxwell’s equations, and radiation from charged particles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6104",
+      "courseId": "PHYS 6104",
+      "title": "Electromagnetism II",
+      "description": "Theory of generation of electromagnetic waves, their propagation, scattering, and diffraction.  Covariant formulation of electrodynamics and application to radiation from charged particles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6105",
+      "courseId": "PHYS 6105",
+      "title": "Quantum Mechanics I",
+      "description": "An axiomatic development of quantum mechanics. Topics include linear vector spaces, linear operators, infinitesimal transformations, function space, representation and transformation groups.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6106",
+      "courseId": "PHYS 6106",
+      "title": "Quantum Mechanics II",
+      "description": "Applications of quantum mechanics.  Topics include systems with spin and angular momentum, atomic structure, time-dependent phenomena, scattering, and various methods of modeling and approximations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6107",
+      "courseId": "PHYS 6107",
+      "title": "Statistical Mechanics I",
+      "description": "Equilibrium statistical mechanics for closed and open systems. Probability distribution for classical and quantum systems.  Partition functions and associated thermodynamical potentials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6124",
+      "courseId": "PHYS 6124",
+      "title": "Mathematical Methods of Physics I",
+      "description": "First of two courses on mathematical methods used in classical mechanics, electromagnetism, quantum mechanics, and statistical physics.  Topics include complex analysis, vectors and matrices, and Sturm-Liouville theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6205",
+      "courseId": "PHYS 6205",
+      "title": "Soft Matter Physics",
+      "description": "Introduction to the properties and physical description of soft matter systems including polymers, colloids and interfaces.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6210",
+      "courseId": "PHYS 6210",
+      "title": "Condensed Matter Physics I",
+      "description": "Introduction to condensed matter physics. Crystal structure, electronic and thermal properties, response to external electric and magnetic fields.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6211",
+      "courseId": "PHYS 6211",
+      "title": "Condensed Matter Physics II",
+      "description": "Collective and many-electron properties in condensed matter systems.  Topics include second quantization, magnetism, phase transitions, and superconductivity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6240",
+      "courseId": "PHYS 6240",
+      "title": "Astrophysical Radiative Processes",
+      "description": "Radiation emission, absorption and scattering processes in astrophysical systems, including bremsstrahlung and synchrotron radiation. An introduction to radiation transfer. Determining physical quantities from observations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6250",
+      "courseId": "PHYS 6250",
+      "title": "Biophysics",
+      "description": "Introduction to physical concepts connect to the workings of biological systems at a molecular level. Topics include polymer theory of proteins, diffusion, and bioelectricity.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6260",
+      "courseId": "PHYS 6260",
+      "title": "Computational Physics",
+      "description": "Applications of numerical methods and computer programming to condensed matter; astrophysical hydrodynamics, gravitational physics, black holes and cosmology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6262",
+      "courseId": "PHYS 6262",
+      "title": "Data Science for Physicists",
+      "description": "Introduction to probability theory, classical statistics and machine learning, and their application to physics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6265",
+      "courseId": "PHYS 6265",
+      "title": "Atomic Physics I",
+      "description": "This course provides a detailed description of atomic structures and interactions.  It contains applications of advanced quantum mechanics to problems in modern atomic physics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6267",
+      "courseId": "PHYS 6267",
+      "title": "Atomic Physics II",
+      "description": "This course will provide detailed descriptions of non-relativistic atomic/molecular scattering/reaction processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6268",
+      "courseId": "PHYS 6268",
+      "title": "Nonlinear Dynamics and Chaos",
+      "description": "A modern introduction to nonlinear phenomena. Topics include driven oscillators, entrainment, bifurcation, fractals, and control of chaos. Examples are drawn from physical systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6567",
+      "courseId": "PHYS 6567",
+      "title": "Ultrafast Optics",
+      "description": "A modern introduction to ultrafast optical phenomena. Topics include the generation, amplification, measurement, nonlinear optics, propagation, focusing, shaping and applications of ultrashort laser pulses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6740",
+      "courseId": "PHYS 6740",
+      "title": "Estimation and Approximation in Physics",
+      "description": "Applications of order-of-magnitude estimates, dimensional analysis, scaling arguments, and perturbation theory in different areas of physics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6750",
+      "courseId": "PHYS 6750",
+      "title": "Foundations of Quantitative Biosciences",
+      "description": "Introduction to quantitative methods and logic that enable key advances in understanding living systems, spanning molecules, cells, organisms, and biomes.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6771",
+      "courseId": "PHYS 6771",
+      "title": "Optoelectronics: Materials, Processes, Devices",
+      "description": "Optoelectronic materials, physical processes, and devices. Includes compound semiconductor materials, excitation, recombination, gain, and modulation processes, and devices such as emitters, detectors, and modulators. Crosslisted with ECE 6771.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6801",
+      "courseId": "PHYS 6801",
+      "title": "Grant Writing and Navigating the Scientific Landscape",
+      "description": "An introduction to the skills of a professional scientist both within academia and beyond, focusing on preparing grants and proposals, scientific communication and career preparation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "6803",
+      "courseId": "PHYS 6803",
+      "title": "Physics GTA Preparation",
+      "description": "An introduction to learner-centered teaching methods and best practices for new physics graduate teaching assistants.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7000",
+      "courseId": "PHYS 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7123",
+      "courseId": "PHYS 7123",
+      "title": "Statistical Mechanics II",
+      "description": "Principles of nonequilibrium statistical mechanics, both classical and quantal.  Emphasis is on the dynamics of fluctuations, their measurement, and their relationship to transport properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7125",
+      "courseId": "PHYS 7125",
+      "title": "Introduction to Relativity",
+      "description": "The theory of gravity, describing how matter curves spacetime and spacetime guides matter, with its experimental and theoretical applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7127",
+      "courseId": "PHYS 7127",
+      "title": "Cosmology & Galaxies",
+      "description": "Overview of the relevant physics that govern cosmological processes, and galaxy formation and evolution. Topics include inflation, gravitational collapse, large-scale clustering, and galaxy mergers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7129",
+      "courseId": "PHYS 7129",
+      "title": "High-Energy Astrophysics",
+      "description": "Introduction to high-energy astrophysical processes and environments, including astrophysical fluid dynamics (e.g., shocks and blast waves), accretion onto compact objects, and clusters of galaxies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7141",
+      "courseId": "PHYS 7141",
+      "title": "Many-Particle Quantum Mechanics",
+      "description": "Quantum mechanics of interacting Fermi and Bose particles. Topics include second quantization, diagrammatic purturbation theory, variational methods, and path integrals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7143",
+      "courseId": "PHYS 7143",
+      "title": "Group Theory and Quantum Mechanics",
+      "description": "Foundations of group representation theory with applications in atomic, molecular, nuclear, and solid state physics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7147",
+      "courseId": "PHYS 7147",
+      "title": "Quantum Field Theory",
+      "description": "Introduction to quantum field theory, with an emphasis in quantum electrodynamics.  Second quantization, Dirac equation, Feynman diagrams, quantum electrodynamics, electro-weak interactions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7222",
+      "courseId": "PHYS 7222",
+      "title": "Quantum Optics I",
+      "description": "Basic course on the interaction of light with matter, based on quantum theory.  Applications to the laser and to the study of coherence properties of light.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7223",
+      "courseId": "PHYS 7223",
+      "title": "Quantum Optics II",
+      "description": "Advanced treatment of the interaction of light with matter using modern methods of open quantum systems.  Applications to current research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7224",
+      "courseId": "PHYS 7224",
+      "title": "Nonlinear Hamiltonian Dynamics and Chaos",
+      "description": "A course on nonlinear dissipative dynamical systems, with an emphasis in aspects relevant to physicists.  Topics include bifurcation theory, attractors, renormalization group techniques, and pattern formation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7268",
+      "courseId": "PHYS 7268",
+      "title": "Spatio-Temporal Dynamics and Pattern Formation",
+      "description": "A theoretical description of dynamics and pattern formation in physical, chemical and biological systems driven out of equilibrium. Topics include linear and weakly nonlinear analysis of patterns, bifurcation theory and amplitude equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7741",
+      "courseId": "PHYS 7741",
+      "title": "Robotics Professional Preparation",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Program introduction. Technical resume preparation. GT Robotics labs & resources.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7742",
+      "courseId": "PHYS 7742",
+      "title": "Robotics Professional Preparation 2",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Selecting and applying for Internship. Developing capstone project proposal. Public speaking practice and preparation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "7743",
+      "courseId": "PHYS 7743",
+      "title": "Robotics Professional Preparation 3",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Interview preparation & career search. Technical report writing and presentation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8001",
+      "courseId": "PHYS 8001",
+      "title": "Seminar",
+      "description": "Representative research programs in the School are described by advanced graduate students, post-doctoral fellows, and faculty members. The experimental basis of physics is illustrated through accounts of great experiments of importance to contemporary research.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8002",
+      "courseId": "PHYS 8002",
+      "title": "Graduate Student Seminar",
+      "description": "Representative research programs in the School are described by advanced graduate students, post-doctoral fellows, and faculty members. The experimental basis of physics is illustrated through accounts of great experiments of importance to contemporary research.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8740",
+      "courseId": "PHYS 8740",
+      "title": "Robotics Internship",
+      "description": "Graduate Internship at a partner company, GTRI or a GT Robotics lab.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8741",
+      "courseId": "PHYS 8741",
+      "title": "Robotics Capstone Project",
+      "description": "Teams or individuals apply the knowledge and skills acquired throughout the MS program to a faculty supervised robotics project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8801",
+      "courseId": "PHYS 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8802",
+      "courseId": "PHYS 8802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8803",
+      "courseId": "PHYS 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8804",
+      "courseId": "PHYS 8804",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8805",
+      "courseId": "PHYS 8805",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8813",
+      "courseId": "PHYS 8813",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8814",
+      "courseId": "PHYS 8814",
+      "title": "Special Topics",
+      "description": "Special Topics for Physics (lecture + supervised lab).",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8823",
+      "courseId": "PHYS 8823",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8833",
+      "courseId": "PHYS 8833",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest in physics are presented from time to time.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8901",
+      "courseId": "PHYS 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8991",
+      "courseId": "PHYS 8991",
+      "title": "Master's Practicum",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8992",
+      "courseId": "PHYS 8992",
+      "title": "Master's Practicum",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8993",
+      "courseId": "PHYS 8993",
+      "title": "Master's Practicum",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8997",
+      "courseId": "PHYS 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding a graduate teaching assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "8998",
+      "courseId": "PHYS 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding a graduate research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "PHYS",
+      "courseNumber": "9000",
+      "courseId": "PHYS 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 145,
+  "scrapedAt": "2025-08-16T02:00:47.558Z"
+}

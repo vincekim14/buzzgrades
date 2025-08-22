@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "6130",
+  "courseId": "MSE 6130",
+  "title": "Surface Analysis",
+  "description": "Introduction to vacuum science and technology; structure of solid surfaces; electron and ion energy analyzers, electron spectroscopies (e.g., AES and XPS); ion-based techniques (e.g., SIMS and RBS); depth profiling; ion channeling.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:01.039Z"
+}

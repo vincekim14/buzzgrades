@@ -1,0 +1,473 @@
+{
+  "subject": "BIOL",
+  "subjectName": "Biology (BIOL)",
+  "url": "https://catalog.gatech.edu/coursesaz/biol/",
+  "courses": [
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "2100",
+      "courseId": "BIOL 2100",
+      "title": "Island Biogeography of New Zealand",
+      "description": "Introduction to theory of island biogeography focused on New Zealand's geological history and unique biota.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6150",
+      "courseId": "BIOL 6150",
+      "title": "Genomics and Applied Bioinformatics",
+      "description": "Retrieval and analysis of biological sequence, gene expression, and proteomics data from public databases and other sources; applying standard bioinformatics tools to investigate biological questions.  Credit not allowed for both BIOL 6150 and BIOL 4150.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6221",
+      "courseId": "BIOL 6221",
+      "title": "Biological Oceanography",
+      "description": "An introduction to the major biological processes in the ocean, including primary production, elemental cycling, food webs, and fisheries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6410",
+      "courseId": "BIOL 6410",
+      "title": "Microbial Ecology",
+      "description": "Advanced studies of microbial ecosystems, the specific roles of bacteria in maintaining ecological balance, and the evolution of the ecosystem in response to changing environments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6417",
+      "courseId": "BIOL 6417",
+      "title": "Marine Ecology",
+      "description": "An overview of the ecological and evolutionary patterns, processes, and mechanisms affecting the organization, structure, and function of a broad variety of marine communities.  Credit not allowed for both BIOL 6417 and BIOL 4417.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6418",
+      "courseId": "BIOL 6418",
+      "title": "Microbial Physiology",
+      "description": "Study of the physiology of growth and metabolic activities of microorganisms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6428",
+      "courseId": "BIOL 6428",
+      "title": "Population Dynamics",
+      "description": "Students will examine the ecological factors that affect dynamics, regulation, and evolution of natural populations, emphasizing the connections with mathematical models, genetics, and ecology. Credit will not be awarded for both BIOL 6428 and BIOL 4428.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6432",
+      "courseId": "BIOL 6432",
+      "title": "Conservation Biology",
+      "description": "This course explores the broad diversity of disciplines in conservation, with emphasis on biological phenomena. Analyzes contemporary issues affecting biodiversity, extinction risk, and policymaking.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6478",
+      "courseId": "BIOL 6478",
+      "title": "Methods in Molecular Biophysics",
+      "description": "An introduction to biophysical methods that are employed to study biological macromolecules and their interaction to gain understanding of how they function.  Credit not allowed for both BIOL 6478 and BIOL 4478.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6505",
+      "courseId": "BIOL 6505",
+      "title": "Programming in Biological and Health Sciences",
+      "description": "This course introduces students to the basics of coding, applied to fundamental biological and medical questions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6570",
+      "courseId": "BIOL 6570",
+      "title": "Immunology",
+      "description": "A survey of modern immunology and its applications, with emphasis on immunological methods used in molecular and cell biological research.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6600",
+      "courseId": "BIOL 6600",
+      "title": "Evolution",
+      "description": "An introduction to evolutionary patterns and processes, including the history of life, phylogenetics, population genetics, quantitative genetics, molecular evolution, and other important topics in evolutionary biology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6607",
+      "courseId": "BIOL 6607",
+      "title": "Molecular Biology of Microbes: Disease, Nature, and Biotechnology",
+      "description": "Molecular genetics of bacteria with an emphasis on experimental approaches, regulatory mechanisms in disease-causing and environmental bacteria, and biotechnology applications derived from microbes. Credit will not be awarded for both BIOL 6607 and BIOL 4607, BIOL 4608, or BIOL 6608.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6611",
+      "courseId": "BIOL 6611",
+      "title": "Advanced Microbial Physiology",
+      "description": "Advanced studies of selected aspects of the physiololgy of prokaryotic and eukaryotic microorganisms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6620",
+      "courseId": "BIOL 6620",
+      "title": "Aquatic Chemical Ecology",
+      "description": "The course focuses on understanding the chemical mechanisms of aquatic signaling and the cascading effects on population regulation, community organization, and ecosystem function.  Credit not allowed for both BIOL 6620 and BIOL 4620.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6720",
+      "courseId": "BIOL 6720",
+      "title": "Environmental Microbial Genomics",
+      "description": "To introduce advanced concepts and principles of contemporary environmental microbiological research and assosciated bioinformatics techniques through representative examples from recent literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6750",
+      "courseId": "BIOL 6750",
+      "title": "Foundations of Quantitative Biosciences",
+      "description": "Introduction to quantitative methods and logic that enable key advances in understanding living systems, spanning molecules, cells, organisms, and biomes.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6756",
+      "courseId": "BIOL 6756",
+      "title": "Discovery of Signaling Molecules",
+      "description": "The diversity of chemical signals between organisms and their structural specificities will be presented along with chemical and biological methods for isolating signaling molecules.  Crosslisted with CEE 6756 and CHEM 6756.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "6765",
+      "courseId": "BIOL 6765",
+      "title": "Geomicrobiology",
+      "description": "Interactions between microorganisms and the geosphere, microbial energetics and genetics; geochemical controls on microbial diversity and activity.  Crosslisted with EAS 6765.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7000",
+      "courseId": "BIOL 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7001",
+      "courseId": "BIOL 7001",
+      "title": "Foundations in Molecular and Cell Biology",
+      "description": "The goal of this course is to provide new students with fundamental knowledge in the general areas of prokaryotic and eukaryotic molecular biology, biochemistry, structural biology, and bioinformatics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7010",
+      "courseId": "BIOL 7010",
+      "title": "Advanced Cell Biology",
+      "description": "Current topics in eukarytotic cell biology including membrane functions, intracellular sorting and compartmentalization, cell signaling, cell cycle, cytoskeleton, cell adhesion, motility, and current experimental approaches.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7015",
+      "courseId": "BIOL 7015",
+      "title": "Cancer Biology and Technology",
+      "description": "This course covers the major concepts of cancer biology as well as to state-of-the-art technologies that are being applied to cancer research, detection and treatment.  Credit not allowed for both BIOL 7015 and BIOL 4015.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7111",
+      "courseId": "BIOL 7111",
+      "title": "Molecular Evolution",
+      "description": "Evolutionary processes at the molecular level, organizations of genomes and genetic systems. Students will read and present up-to-date research articles in various topics in molecular evolution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7200",
+      "courseId": "BIOL 7200",
+      "title": "Programming for Bioinformatics",
+      "description": "This active-learning, project-based course provides a rigorous introduction to scientific computing for bioinformatics, including Linux utilities, shell scripting and bioinformatics programming.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7210",
+      "courseId": "BIOL 7210",
+      "title": "Computational Genomics",
+      "description": "In this active learning class, students will learn to convert sequence information into knowledge through the use of computational genomics tools, applications and databases.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7914",
+      "courseId": "BIOL 7914",
+      "title": "Advances in Bacteriology",
+      "description": "Topics of current interest in the physiology and ecology of bacteria and applications to practical problems.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7923",
+      "courseId": "BIOL 7923",
+      "title": "Advances in Ecology",
+      "description": "Topics of current interest in the general areas of population growth and limitation, and the structure and stability of ecosystems.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7924",
+      "courseId": "BIOL 7924",
+      "title": "Advances in Environmental Biology",
+      "description": "Topics of current interest in environmental biology.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7963",
+      "courseId": "BIOL 7963",
+      "title": "Advances in Molecular Biology",
+      "description": "Topics of current interest in molecular biology.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "7964",
+      "courseId": "BIOL 7964",
+      "title": "Advances in Genetics",
+      "description": "Topics of current interest in genetics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8002",
+      "courseId": "BIOL 8002",
+      "title": "Seminar",
+      "description": "Weekly seminars on current research presented by various scientists in the field of biology.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8003",
+      "courseId": "BIOL 8003",
+      "title": "Seminar",
+      "description": "Weekly seminars on current research presented by various scientists in the field of biology.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8050",
+      "courseId": "BIOL 8050",
+      "title": "Professional development in quantitative biosciences",
+      "description": "Enhance the professional development of Quantitative Biosciences PhD students in preparing and submitting fellowships and in organizing scientific workshops and events.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8060",
+      "courseId": "BIOL 8060",
+      "title": "Seminar in Quantitative Biosciences",
+      "description": "This course will introduce QBioS to QBioS Program Faculty, allowing them to learn about QBioS faculty members’ research and academic history.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8061",
+      "courseId": "BIOL 8061",
+      "title": "Current Research in the Quantitative Biosciences",
+      "description": "The overall objective of the course is to enable QBioS PhD students to attend seminars on advances across all areas of the life sciences, including those by 4th year QBioS students.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8106",
+      "courseId": "BIOL 8106",
+      "title": "Tools of Science Seminar",
+      "description": "This course addresses issues important to all successful scientists and engineers such as: research ethics; collaborations between industry, academics, and government; women and minorities in science; balancing research, teaching and service; writing, editing, and reviewing, presentations; job interviews; time management; speaking to the public and media; and scientific and university politics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8510",
+      "courseId": "BIOL 8510",
+      "title": "Epigenetics",
+      "description": "This course will introduce the basic concepts and mechanisms in epigenetics, covering topics ranging from stem cell reprogramming, organismal development, social behaviors, to human diseases.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8515",
+      "courseId": "BIOL 8515",
+      "title": "Community Ecology",
+      "description": "An advanced ecology course that covers classic and contemporary concepts, patterns, and processes in the field of community ecology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8530",
+      "courseId": "BIOL 8530",
+      "title": "Human Evolutionary Genomics",
+      "description": "An advanced course where students will discuss primary literature and use computational tools to investigate how evolution has shaped global patterns of human genetic variation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8550",
+      "courseId": "BIOL 8550",
+      "title": "Origin of complex life: from cells to societies",
+      "description": "This course examines the evolutionary origins of complex life. We will examine the history of life on Earth and evolutionary process through which complexity arises.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8560",
+      "courseId": "BIOL 8560",
+      "title": "RNA Biology and Bitechnology",
+      "description": "The purpose of this course is to introduce students (graduate and upper level undergraduate) to the fundamental concepts of RNA biology and to state-of-the-art biotechnologies that use RNA for medical and industrial applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8565",
+      "courseId": "BIOL 8565",
+      "title": "Chromosome Biology and Human Diseases",
+      "description": "This course explores the fundamental mechanisms governing metabolism of eukaryotic chromosomes and human diseases resulting from malfunctioning of chromosomal maintenance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8744",
+      "courseId": "BIOL 8744",
+      "title": "Microbial Symbiosis & Microbiomes",
+      "description": "This course explores how symbiotic interactions with microbes affect the biology of other organisms, focusing extensively on the beneficial microbes native to the human body.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8801",
+      "courseId": "BIOL 8801",
+      "title": "Special Topics",
+      "description": "New graduate lecture courses in areas of current interest.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8802",
+      "courseId": "BIOL 8802",
+      "title": "Special Topics",
+      "description": "New graduate lecture courses in areas of current interest.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8803",
+      "courseId": "BIOL 8803",
+      "title": "Special Topics",
+      "description": "New graduate lecture courses in areas of current interest.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8804",
+      "courseId": "BIOL 8804",
+      "title": "Special Topics",
+      "description": "New graduate lecture courses in areas of current interest.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8805",
+      "courseId": "BIOL 8805",
+      "title": "Special Topics",
+      "description": "New graduate lecture courses in areas of current interest.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8813",
+      "courseId": "BIOL 8813",
+      "title": "Special Topics",
+      "description": "Special Topics in Biology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8814",
+      "courseId": "BIOL 8814",
+      "title": "Special Topics",
+      "description": "Special Topics in Biology (lecture + supervised lab).",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8823",
+      "courseId": "BIOL 8823",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8833",
+      "courseId": "BIOL 8833",
+      "title": "Special Topics",
+      "description": "Special Topics in Biological Sciences.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8901",
+      "courseId": "BIOL 8901",
+      "title": "Special Problems",
+      "description": "Research problems in biology under the supervision of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8902",
+      "courseId": "BIOL 8902",
+      "title": "Special Problems",
+      "description": "Research problems in biology under the supervision of a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8997",
+      "courseId": "BIOL 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding a teaching assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "8998",
+      "courseId": "BIOL 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "BIOL",
+      "courseNumber": "9000",
+      "courseId": "BIOL 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 58,
+  "scrapedAt": "2025-08-16T02:00:32.063Z"
+}

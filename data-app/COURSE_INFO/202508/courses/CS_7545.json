@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "7545",
+  "courseId": "CS 7545",
+  "title": "Machine Learning Theory",
+  "description": "This course provides a basic arsenal of powerful mathematical tools for the analysis of learning algorithms, focusing on both statistical and computational aspects.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:47.824Z"
+}

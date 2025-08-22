@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4215",
+  "courseId": "ME 4215",
+  "title": "Mfg Process Analysis",
+  "description": "First principles based modeling and analysis of manufacturing processes. Process design and optimization.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D and ME 3210 Undergraduate Semester Minimum Grade of D and ME 3345 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:30.912Z"
+}

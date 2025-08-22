@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "6047",
+  "courseId": "ARCH 6047",
+  "title": "Adv Arch Studio 1",
+  "description": "Architectural design studio exploring advanced issues in architecture from the perspectives of professional practice, sustainability, technology and urban design.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:21.144Z"
+}

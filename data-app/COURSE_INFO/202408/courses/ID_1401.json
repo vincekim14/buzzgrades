@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ID",
+  "courseNumber": "1401",
+  "courseId": "ID 1401",
+  "title": "Intro Graphic Comm 1",
+  "description": "Introduction to graphic design, composition, layout, color, typography, photography, social media & videography. Emphasis of this first course is on the history and theory of development of basic visual literacies",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ID 1011 and ID 1101 and ID 1418",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:11.945Z"
+}

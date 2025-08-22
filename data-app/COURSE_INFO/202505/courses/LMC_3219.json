@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "LMC",
+  "courseNumber": "3219",
+  "courseId": "LMC 3219",
+  "title": "Literature &amp; Medicine",
+  "description": "This course examines works of literature dealing overtly with illness and healing, works about or by physicians and other caregivers, and works that raise questions about ethical behavior in the face of sickness.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:21.974Z"
+}

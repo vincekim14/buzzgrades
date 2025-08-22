@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "8751",
+  "courseId": "ME 8751",
+  "title": "Robotics Research Fnd II",
+  "description": "Continuation of ME 8751 (Robotics Research Foundation I).",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 8750 Graduate Semester Minimum Grade of D or AE 8750 Graduate Semester Minimum Grade of D or CS 8750 Graduate Semester Minimum Grade of D or ECE 8750 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:05.325Z"
+}

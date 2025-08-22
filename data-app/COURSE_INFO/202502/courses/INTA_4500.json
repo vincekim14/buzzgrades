@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "4500",
+  "courseId": "INTA 4500",
+  "title": "INTA Pro-Seminar",
+  "description": "Capstone experience in which students formulate strategies and policies to cope with international problems.  Themes vary from seminar to seminar.  Credit not allowed for both INTA 4500 and INTA 4400.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:08.090Z"
+}

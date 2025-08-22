@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECE",
+  "courseNumber": "4795",
+  "courseId": "ECE 4795",
+  "title": "GPU Prog For Video Games",
+  "description": "3-D graphics pipelines. Physically-based rendering. Game engine architectures. GPU architectures. Graphics APIs. Vertex and pixel shader programming. Post-processing effects. Deferred rendering.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2035 Undergraduate Semester Minimum Grade of C or ECE 2036 Undergraduate Semester Minimum Grade of C or CS 2110 Undergraduate Semester Minimum Grade of C or CS 2261 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:55.010Z"
+}

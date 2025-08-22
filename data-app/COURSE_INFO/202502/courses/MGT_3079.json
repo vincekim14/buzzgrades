@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "3079",
+  "courseId": "MGT 3079",
+  "title": "Mgt of Fin Institutions",
+  "description": "Introduction to the various risks faced by financial institutions and a detailed analysis of the tools used to manage these risks.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3062 Undergraduate Semester Minimum Grade of D or MGT 3078 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:22.398Z"
+}

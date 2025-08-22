@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHIN",
+  "courseNumber": "3400",
+  "courseId": "CHIN 3400",
+  "title": "China Cultural Odyssey",
+  "description": "Key aspects of culture and highlights of Chinese civilization: philosophy, arts and architecture, belief systems, family relationships, historical periods, social changes, technological innovation. Taught in English.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:37.852Z"
+}

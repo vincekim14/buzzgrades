@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "6304",
+  "courseId": "MUSI 6304",
+  "title": "Comp Music Composition",
+  "description": "Realization of individual composition projects in music technology and consideration of related theory, aesthetics, and repertoire. Credit will not be awarded for both MUSI 6304 and MUSI 4458.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:04.794Z"
+}

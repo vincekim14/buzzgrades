@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6104",
+  "courseId": "ME 6104",
+  "title": "Computer-Aided Design",
+  "description": "Fundamentals of CAD, including geometric and solid modeling, parametric representations, features, and human-machine interactions. Applications to design, analysis, and manufacturing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:37.458Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4744",
+  "courseId": "ME 4744",
+  "title": "Global Develop Capstone",
+  "description": "Teams develop solutions to multidisciplinary problems selected from globalization, food security, infrastructure, health, water, sanitation, hygiene, ecosystem resilience, services, capacity building, and urbanization.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "INTA 2050 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:34.279Z"
+}

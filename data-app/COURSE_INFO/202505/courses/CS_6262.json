@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "6262",
+  "courseId": "CS 6262",
+  "title": "Network Security",
+  "description": "Design principles of secure network protocols and systems, authentication, integrity, confidentiality, privacy, information hiding, digital watermarking, access control, firewall, intrusion detection, and case studies.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 4235 Undergraduate Semester Minimum Grade of D and CS 4251 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:18.325Z"
+}

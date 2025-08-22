@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "3072",
+  "courseId": "ECE 3072",
+  "title": "Elec Energy Systems",
+  "description": "Non-renewable and renewable/sustainable energy sources.  Processes, costs, and environmental impact of conversion into electric energy.  Delivery and control of electric energy, electromechanical systems.  Credit not allowed for both ECE 3072 and ECE 3071.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2040 Undergraduate Semester Minimum Grade of C or ECE 3710 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:37.107Z"
+}

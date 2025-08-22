@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "4420",
+  "courseId": "EAS 4420",
+  "title": "Environmental Field Meth",
+  "description": "Semester-long focus on single environmental project in the local area.  Chemical and physical techniques for parameterizing environmental problems, data analysis, report writing, and interpretation of results in societal context.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "EAS 4221 Undergraduate Semester Minimum Grade of D or EAS 4656 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:14.960Z"
+}

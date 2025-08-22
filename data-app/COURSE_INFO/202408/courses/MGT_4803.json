@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "4803",
+  "courseId": "MGT 4803",
+  "title": "Acctng &amp; Rptng Sustainable Bus",
+  "description": "Permits a group of students and a professor to pursue areas of management not extensively treated in any other course.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:55.737Z"
+}

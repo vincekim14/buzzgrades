@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "4602",
+  "courseId": "BMED 4602",
+  "title": "Capstone Design",
+  "description": "Team-oriented design project in biomedical engineering, incorporating engineering standards and realistic design constraints.  Includes introduction to relevant regulatory, intellectual property, and business management topics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 2310 Undergraduate Semester Minimum Grade of D and BMED 3110 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:56.501Z"
+}

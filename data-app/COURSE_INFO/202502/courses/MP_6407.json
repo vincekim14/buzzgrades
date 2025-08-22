@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MP",
+  "courseNumber": "6407",
+  "courseId": "MP 6407",
+  "title": "Radiation Biol&amp; Oncology",
+  "description": "Radiation lesions and repair, mechanisms of cell death, cell cycle effect, radiation sensitizers and protectors, tumor radiobiology, relative sensitivities of human tissues, and radiation carcinogenesis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "NRE 6756 Graduate Semester Minimum Grade of D or HP 6756 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:54.317Z"
+}

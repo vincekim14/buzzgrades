@@ -1,0 +1,20 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "3102",
+  "courseId": "HTS 3102",
+  "title": "Social Theory&amp;Structure",
+  "description": "Introduction to social theory, providing students with skills for reading theory and examining works of major social theorists, including Marx, Weber, Durkheim, Gilman, and Bourdieu.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Majors:",
+    "__DETAIL_0__History",
+    "__DETAIL_0__Technology",
+    "__DETAIL_0__& Society (HTS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:50.022Z"
+}

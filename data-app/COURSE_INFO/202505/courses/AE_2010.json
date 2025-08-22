@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "AE",
+  "courseNumber": "2010",
+  "courseId": "AE 2010",
+  "title": "Thermodyn&amp;Fluids Fundam",
+  "description": "Thermodynamic and fluid properties. Conservation laws, Isentropic flow, shocks and expansions, introduction to flows with friction and heat transfer. Applications to aerospace devices. Students cannot receive credit for both AE 2010 and AE 3450.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2401 Undergraduate Semester Minimum Grade of C or MATH 2411 Undergraduate Semester Minimum Grade of C or MATH 24X1 Undergraduate Semester Minimum Grade of T or MATH 2551 Undergraduate Semester Minimum Grade of C or MATH 2561 Undergraduate Semester Minimum Grade of C or MATH 2X51 Undergraduate Semester Minimum Grade of T) and (PHYS 2211 Undergraduate Semester Minimum Grade of C or PHYS 2231 Undergraduate Semester Minimum Grade of C) and (CHEM 1310 Undergraduate Semester Minimum Grade of C or CHEM 1211K Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:38:08.699Z"
+}

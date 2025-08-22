@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6331",
+  "courseId": "ECE 6331",
+  "title": "Power Electronic Cicuits",
+  "description": "The analysis, control, and design of switching power converters: rectifiers, cycloconverters, voltage-sourced and current-source inverters, dc-dc converters, pfc and resonant converts.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 4330 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:53.160Z"
+}

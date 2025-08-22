@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "6106",
+  "courseId": "ID 6106",
+  "title": "3D Design Methods",
+  "description": "This course teaches students about the 3D digital  tools needed to develop products for human form.  By learning how to model, render and animate, students can better express their research, ideations and designs.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:56.844Z"
+}

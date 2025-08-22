@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6401",
+  "courseId": "MGT 6401",
+  "title": "Supply Chain Modeling",
+  "description": "Focus on the design and implementation of succesful supply chain strategies. Develop and recommend the right mix of operational levers  through quantitative analysis for supply chain efficiency and effectiveness. Topics include: supply chain design, supply chain coordination, capacity management, retailing, and supplier management. Credit not allowed for both MGT 6401 and MGT 6362.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:44.931Z"
+}

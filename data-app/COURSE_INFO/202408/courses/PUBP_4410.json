@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "4410",
+  "courseId": "PUBP 4410",
+  "title": "Science,Tech&amp; Pub Policy",
+  "description": "Examination of relationships between science, technology, and government, and their mutual influence on public and private decisions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:11.435Z"
+}

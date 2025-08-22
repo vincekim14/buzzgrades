@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6769",
+  "courseId": "ME 6769",
+  "title": "Linear Elasticity",
+  "description": "Governing equations of linear elasticity, plane elasticity, boundary-value problems, airy stress function and complex variable methods, simple three-dimensional solutions. Crosslisted with AE 6769.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:42.261Z"
+}

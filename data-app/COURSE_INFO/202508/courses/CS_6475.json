@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "6475",
+  "courseId": "CS 6475",
+  "title": "Comp. Photography",
+  "description": "This class explores the impact of computation on the entire workflow of photography, from how light is captured by a camera, to how the images are processed, enhanced, and improved to generate novel photographs.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:41.598Z"
+}

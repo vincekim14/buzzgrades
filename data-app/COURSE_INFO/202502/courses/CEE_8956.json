@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "8956",
+  "courseId": "CEE 8956",
+  "title": "Master&#39;s Research Prob",
+  "description": "For nonthesis students performing research.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:14.001Z"
+}

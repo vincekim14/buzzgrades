@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "4360",
+  "courseId": "ECON 4360",
+  "title": "Econ of Telecom and E-commerce",
+  "description": "Analyzes the telecommunications sector from the public policy, business strategy, and technology perspectives. The course explores the driving forces behind the radical change in telecommunications regulations and the impact of this regulation on business operations.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:26.062Z"
+}

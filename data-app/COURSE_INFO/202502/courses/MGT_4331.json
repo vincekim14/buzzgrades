@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4331",
+  "courseId": "MGT 4331",
+  "title": "Consumer Behavior",
+  "description": "An applied course that provides a basic understanding of the behavioral science concepts to explain the behavior of consumers in the marketplace.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3300 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:33.157Z"
+}

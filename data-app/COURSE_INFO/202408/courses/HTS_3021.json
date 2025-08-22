@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "3021",
+  "courseId": "HTS 3021",
+  "title": "Women in Science &amp; Engr",
+  "description": "Women in science and engineering and gender differences in participation, location, and status.  Examines education, access, and apprenticeship, culture of science and engineering.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:47.490Z"
+}

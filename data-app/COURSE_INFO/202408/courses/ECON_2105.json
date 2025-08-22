@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ECON",
+  "courseNumber": "2105",
+  "courseId": "ECON 2105",
+  "title": "Prin of Macroeconomics",
+  "description": "This principles of economics course is intended to introduce students to concepts that will enable them to understand and analyze economic aggregates and evaluate economic policies. Students can receive credit for either ECON 2100 or ECON 2101,or for ECON 2105/2106. Students cannot receive credit for ECON 2100 and ECON 2101 or for ECON 2100 and ECON 2105/2106 or for  ECON 2101 and ECON 2105/2106.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:48.086Z"
+}

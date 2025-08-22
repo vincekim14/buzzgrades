@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "6238",
+  "courseId": "CS 6238",
+  "title": "Secure Computer Systems",
+  "description": "Design principles of secure systems, authentication, access control and authorization, discretionary and mandatory security policies, secure kernel design, and secure databases.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3210 Undergraduate Semester Minimum Grade of D and CS 4235 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:35.614Z"
+}

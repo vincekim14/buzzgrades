@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "4010",
+  "courseId": "MSE 4010",
+  "title": "Environ Degradation",
+  "description": "Theory of environmental degradation of metals, ceramics, polymers, and biomaterials.  Emphasis on the scientific principles of corrosion and physical degradation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:57.852Z"
+}

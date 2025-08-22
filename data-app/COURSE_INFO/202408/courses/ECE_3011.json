@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "3011",
+  "courseId": "ECE 3011",
+  "title": "ECE Design Fundamentals",
+  "description": "This course teaches system-level design, including both software and hardware. Through activities and projects, students gain exposure to entrepreneurship, product lifecycle management, prototyping, and testing.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2031 Undergraduate Semester Minimum Grade of D and ECE 2040 Undergraduate Semester Minimum Grade of D and (ECE 2035 Undergraduate Semester Minimum Grade of D or ECE 2036 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:39:00.006Z"
+}

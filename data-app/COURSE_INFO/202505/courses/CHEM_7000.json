@@ -1,0 +1,20 @@
+{
+  "term": "202505",
+  "subjectCode": "CHEM",
+  "courseNumber": "7000",
+  "courseId": "CHEM 7000",
+  "title": "Master&#39;s Thesis",
+  "description": "Master's Thesis",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__Chemistry (CHEM)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:50.951Z"
+}

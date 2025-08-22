@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BCP",
+  "courseNumber": "6600",
+  "courseId": "BCP 6600",
+  "title": "Applied Ergonomics",
+  "description": "In this course, participants will be able to apply human factors and ergonomic principles to reduce stress and strain on a person's body.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:27.819Z"
+}

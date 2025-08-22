@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CETL",
+  "courseNumber": "8796",
+  "courseId": "CETL 8796",
+  "title": "Pres Skills Intl Grads",
+  "description": "This advanced oral skills class is designed to help graduate students improve their presentation skills in English for more effective communication in academic/professinal situations. Credit will not be awarded for both CETL 8795 and CETL 8796.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:16.785Z"
+}

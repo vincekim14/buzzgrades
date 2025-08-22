@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "4458",
+  "courseId": "MUSI 4458",
+  "title": "Comp Music Composition",
+  "description": "Realization of individual composition projects in music technology and consideration of related theory, aesthetics, and repertoire. Credit will not be awarded for both MUSI 4458 and MUSI 6304.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MUSI 2013 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:02.486Z"
+}

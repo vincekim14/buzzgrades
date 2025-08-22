@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "7140",
+  "courseId": "MSE 7140",
+  "title": "Impedance&amp;Dielec Spectro",
+  "description": "The basic theory of how current, voltage, and phase angle measurements over a wide frequency range (typically mHz-MHz) can provide information about microstructural features at all length scales.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 6010 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:52.649Z"
+}

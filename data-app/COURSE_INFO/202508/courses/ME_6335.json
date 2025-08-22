@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "6335",
+  "courseId": "ME 6335",
+  "title": "Numerical Heat Transfer",
+  "description": "This course will provide foundation to develop numerical solutions for steady state and transient thermal transport problems in complex geometries.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:29.396Z"
+}

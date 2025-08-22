@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "1331",
+  "courseId": "CS 1331",
+  "title": "Intro-Object Orient Prog",
+  "description": "Introduction to techniques and methods of object-oriented programming such an encapsulation, inheritance, and polymorphism. Emphasis on software development and individual programming skills.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1301 Undergraduate Semester Minimum Grade of C or CS 1315 Undergraduate Semester Minimum Grade of C or CS 1321 Undergraduate Semester Minimum Grade of C or CS 1371 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:08.096Z"
+}

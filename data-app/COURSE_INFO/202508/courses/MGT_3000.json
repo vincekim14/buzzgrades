@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "3000",
+  "courseId": "MGT 3000",
+  "title": "Financ &amp; Managerial Acct",
+  "description": "A foundation course in measuring and reporting the financial performance and status of the firm as well as basic concepts in cost and managerial accounting. No credit allowed for MGT majors. No credit allowed for MGT 3000 and ACCT 2101.  Credit not allowed for MGT 3000 and ACCT 2102.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Majors:",
+    "__DETAIL_0__Management (MGT)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:12.189Z"
+}

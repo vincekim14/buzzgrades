@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "7470",
+  "courseId": "CS 7470",
+  "title": "Ubiquitous Computing",
+  "description": "Investigates the infrastructure required to develop mobile and ubiquitous computing applications and establishes major research themes and experimental practices. Credit not awarded for both CS 7470 and CS 4605.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 6750 Graduate Semester Minimum Grade of D or PSYC 6750 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:16.844Z"
+}

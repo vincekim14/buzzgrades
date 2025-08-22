@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "6454",
+  "courseId": "CS 6454",
+  "title": "Qualitative Methods HCI",
+  "description": "Qualitative methods for HCI including data collection through interviews, observations and design, analysis using research and industry standards, and methods for communicating findings to industry.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:48.471Z"
+}

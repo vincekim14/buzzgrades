@@ -1,0 +1,19 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4560",
+  "courseId": "CEE 4560",
+  "title": "Origami Engineering",
+  "description": "This class acquaints the student with the state-of-art concepts and algorithms to design and analyze origami structures, assemblages, and tessellations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Cannot be enrolled in one of the following Classes:",
+    "__DETAIL_1__Freshman (FR)",
+    "__DETAIL_1__Sophomore (SO)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1552 Undergraduate Semester Minimum Grade of D and MATH 1553 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:24.546Z"
+}

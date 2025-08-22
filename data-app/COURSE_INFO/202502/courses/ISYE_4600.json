@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "4600",
+  "courseId": "ISYE 4600",
+  "title": "Mthds &amp; Apps Machine Learning",
+  "description": "This course introduces the available methods in machine learning, which methods are better in what situations, objective functions and errors, and how to tune parameters.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3030 Undergraduate Semester Minimum Grade of D and ISYE 3133 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:35.272Z"
+}

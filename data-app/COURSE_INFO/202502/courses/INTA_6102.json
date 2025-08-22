@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "6102",
+  "courseId": "INTA 6102",
+  "title": "Intl Relations Theory",
+  "description": "This course provides an introduction to theoretical approaches to understanding international relations.  The focus of the course is on system-level theories and sub-systematic-level theories.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:10.465Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "6264",
+  "courseId": "CS 6264",
+  "title": "Infosec Labs: Defenses",
+  "description": "This course will help students develop both in-depth knowledge and hands-on skills in a number of important cybersecurity areas, including software security, malware and threat analysis, end-point security, network security, web security, mobile security, and machine learning based security analytics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:18.751Z"
+}

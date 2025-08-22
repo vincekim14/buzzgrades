@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MSE",
+  "courseNumber": "4330",
+  "courseId": "MSE 4330",
+  "title": "Fund Nanomats&amp;Nanostrucs",
+  "description": "Introduction to nanotechnology.  Description of various nanomaterials, their applications and synthesis methods.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:16.020Z"
+}

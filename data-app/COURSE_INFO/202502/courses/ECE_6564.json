@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6564",
+  "courseId": "ECE 6564",
+  "title": "Nonlin Dyn Chaos",
+  "description": "Introduction to the nonlinear dynamics of continuous-time and discrete-time systems. Routes to chaos. Quantification of chaos. Nonlinear time series analysis. Applications of Chaos Theory.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:56.433Z"
+}

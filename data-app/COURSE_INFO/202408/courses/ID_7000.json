@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ID",
+  "courseNumber": "7000",
+  "courseId": "ID 7000",
+  "title": "Master&#39;s Thesis",
+  "description": "Under the guidance of a faculty member, students explore advance  theoretical  research through a human perspective in areas instructional design, human-computer interaction, learning, neuroscience, perception, product design, user-centered design, and/or usability.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 6100 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:40:53.692Z"
+}

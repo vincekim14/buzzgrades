@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "6332",
+  "courseId": "MGT 6332",
+  "title": "Database Marketing &amp; CRM",
+  "description": "Provides an understanding of analytic techniques and computer models in analyzing customer-centric data and developing customer relationship management (CRM) strategy.)",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6505 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:31.965Z"
+}

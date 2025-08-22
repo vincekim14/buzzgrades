@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MUSI",
+  "courseNumber": "3019",
+  "courseId": "MUSI 3019",
+  "title": "Pep Band",
+  "description": "This course will prepare a variety of traditional and contemporary music for scheduled performances throughout the semester in support of various athletic events and School of Music concerts.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:58.933Z"
+}

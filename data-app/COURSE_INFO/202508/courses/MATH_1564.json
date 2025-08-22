@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "1564",
+  "courseId": "MATH 1564",
+  "title": "LinAlg w Abstract Vec Sp",
+  "description": "This is an intensive first course in linear algebra including the theories of linear transformations and abstract vector spaces. Credit not awarded for both MATH 1564 and MATH 1553, MATH 1554, MATH 1522, MATH 1502, MATH 1504 or MATH 1512.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "Math: Calculus AB 5 or Math: Calculus BC 5 or MATH 1552 Undergraduate Semester Minimum Grade of A",
+  "lastUpdated": "2025-08-20T02:42:57.148Z"
+}

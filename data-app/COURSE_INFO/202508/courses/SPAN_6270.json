@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "SPAN",
+  "courseNumber": "6270",
+  "courseId": "SPAN 6270",
+  "title": "Span Sociolinguistics",
+  "description": "This course explores the relationships between the Spanish language and the Hispanic cultures and societies of the world. Taught in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:45:10.763Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "4415",
+  "courseId": "ECON 4415",
+  "title": "Confl&amp;Secur in DevCountr",
+  "description": "Introduces research on the causes and consequences of contemporary armed conflict as well as economic studies of terrorism.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2106 Undergraduate Semester Minimum Grade of D or ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2105 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:20.403Z"
+}

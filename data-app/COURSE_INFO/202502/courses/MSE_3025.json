@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "3025",
+  "courseId": "MSE 3025",
+  "title": "Stats&amp;Numerical Methods",
+  "description": "Concepts of computational modeling and statistics, with examples based on materials science and engineering applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1371 Undergraduate Semester Minimum Grade of D and (MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T or MATH 2562 Undergraduate Semester Minimum Grade of D) and MSE 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:56.661Z"
+}

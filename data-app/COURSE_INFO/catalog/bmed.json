@@ -1,0 +1,1497 @@
+{
+  "subject": "BMED",
+  "subjectName": "Biomedical Engineering (BMED)",
+  "url": "https://catalog.gatech.edu/coursesaz/bmed/",
+  "courses": [
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1000",
+      "courseId": "BMED 1000",
+      "title": "Introduction to Biomedical Engineering",
+      "description": "An introduction to the field of biomedical engineering, with an emphasis on career preparation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1300",
+      "courseId": "BMED 1300",
+      "title": "Problems in Biomedical Engineering I",
+      "description": "Biomedical engineering problems from industrial and clinical applications are addressed and solved in small groups using problem-based learning methodologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1750",
+      "courseId": "BMED 1750",
+      "title": "Introduction to Bioengineering",
+      "description": "An introduction to the field of bioengineering, including the application of engineering principles and methods to problems in biology and medicine, the integration of engineering with biology, and the emerging industrial opportunities.  Crosslisted with AE, CHE, ECE, ME, and MSE 1750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1801",
+      "courseId": "BMED 1801",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1802",
+      "courseId": "BMED 1802",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1803",
+      "courseId": "BMED 1803",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1804",
+      "courseId": "BMED 1804",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1805",
+      "courseId": "BMED 1805",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1811",
+      "courseId": "BMED 1811",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1812",
+      "courseId": "BMED 1812",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1813",
+      "courseId": "BMED 1813",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1814",
+      "courseId": "BMED 1814",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "1815",
+      "courseId": "BMED 1815",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2110",
+      "courseId": "BMED 2110",
+      "title": "Conservation Principles in Biomedical Engineering",
+      "description": "A study of material and energy balances applied to problems in biomedical engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2250",
+      "courseId": "BMED 2250",
+      "title": "Problems in Biomedical Engineering",
+      "description": "Biomedical engineering problems from industrial and clinical applications are addressed and solved in small groups using problem-based learning methodologies. Credit will not be awarded for both BMED 2250 and BMED 1300.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2300",
+      "courseId": "BMED 2300",
+      "title": "Problems in Biomedical Engineering II",
+      "description": "Biomedical engineering problems from industrial and clinical applications are addressed and solved in small groups using problem-based learning methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2310",
+      "courseId": "BMED 2310",
+      "title": "Intro to Biomedical Engineering Design",
+      "description": "In small teams students will apply problem-based learning and human centered design to reverse engineer, analyze, and redesign medical devices. Credit will not be awareded for both BMED 2310 and BMED 2300.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2400",
+      "courseId": "BMED 2400",
+      "title": "Introduction to Bioengineering Statistics",
+      "description": "Introduction to statistical modeling and data analysis in bioscientific and bioengineering applications. Topics include estimation, testing, regression, and experimental design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2698",
+      "courseId": "BMED 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2699",
+      "courseId": "BMED 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2801",
+      "courseId": "BMED 2801",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2802",
+      "courseId": "BMED 2802",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2803",
+      "courseId": "BMED 2803",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2804",
+      "courseId": "BMED 2804",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2805",
+      "courseId": "BMED 2805",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2811",
+      "courseId": "BMED 2811",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2812",
+      "courseId": "BMED 2812",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2813",
+      "courseId": "BMED 2813",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2814",
+      "courseId": "BMED 2814",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "2815",
+      "courseId": "BMED 2815",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3100",
+      "courseId": "BMED 3100",
+      "title": "Systems Physiology",
+      "description": "An introduction to human physiology emphasizing biomedical engineering aproaches to the understanding of basic organ function, disease states, and medical intervention.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3101",
+      "courseId": "BMED 3101",
+      "title": "Introduction to Biomedical Data Science and Engineering",
+      "description": "Practical/hands-on experience in performing biomedical-related data processing/computation/analysis with a variety of computer tools, platforms, and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3110",
+      "courseId": "BMED 3110",
+      "title": "Quantitative Engineering Physiology Laboratory I",
+      "description": "A hands-on lab providing an active learning team environment to reinforce selected engineering principles of physiology, emphasizing a quantitative model-oriented approach to physiological systems.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3201",
+      "courseId": "BMED 3201",
+      "title": "Introduction to Machine Learning for Biomedical Engineers",
+      "description": "This course is designed to provide biomedical engineering undergraduates with a solid foundation in the principles and applications of machine learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3211",
+      "courseId": "BMED 3211",
+      "title": "Introduction to Bioinformatics",
+      "description": "Students will be introduced to the field of bioinformatics, an interdisciplinary field that combines computer science, statistics, machine learning and mathematics to analyze biological data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3231",
+      "courseId": "BMED 3231",
+      "title": "Introduction to Neuroengineering",
+      "description": "An introduction to the intersection between neuroscience and neurotechnology, including identification of key aspects of the\nnervous system as the basis for measurement and intervention.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3300",
+      "courseId": "BMED 3300",
+      "title": "Biotransport",
+      "description": "Fundamental principles of fluid, heat, and mass transfer with particular emphasis on physiological and biomedical systems.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3310",
+      "courseId": "BMED 3310",
+      "title": "Biotransport",
+      "description": "Fundamental principles of fluid, heat, and mass transfer with particular emphasis on physiological and biomedical systems. Credit will not be awarded for both BMED 3310 and BMED 3300.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3400",
+      "courseId": "BMED 3400",
+      "title": "Introduction to Biomechanics",
+      "description": "An introduction to the basic concepts and methods in biomechanics, including statistics and the mechanics of biomaterials.  The biomedical applications of mechanics will be illustrated.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3410",
+      "courseId": "BMED 3410",
+      "title": "Introduction to Biomechanics",
+      "description": "Introduces concepts and approaches for biomedical deformation and dynamics problems using the application of simple models from statics, mechanics of materials, kinematics, and dynamics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3500",
+      "courseId": "BMED 3500",
+      "title": "Biomedical Sensors and Instrumentation",
+      "description": "A study of basic concepts and design of electronic sensors and instrumentation used in biomedical measurements. Standard clinical measurement techniques will also be examined.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3510",
+      "courseId": "BMED 3510",
+      "title": "Biomedical Systems and Modeling",
+      "description": "Basic concepts, modeling tools and analysis techniques for the study of biochemical, bioelectrical and biomedical systems.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3520",
+      "courseId": "BMED 3520",
+      "title": "Biomedical Systems and Modeling",
+      "description": "Introduction of computational systems biology, including the modeling process, various types of models, standard analysis and simulation of systems, and applications in real-world biological systems. Credit will not be awarded for both BMED 3520 and BMED 3510.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3600",
+      "courseId": "BMED 3600",
+      "title": "Physiology of Cellular and Molecular Systems",
+      "description": "In depth cell and molecular physiology focused on cellular responses to stimuli, including cell organization/ reorganization, membrane transport/kinetics, cell signaling/ molecular biology, mechanobiology and energy requirements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3610",
+      "courseId": "BMED 3610",
+      "title": "Quantitative Engineering Physiology Laboratory II",
+      "description": "This lab provides an active learning team environment, incorporating common cell/molecular biology techniques, to reinforce selected engineering principles in an in vitro cell culture setting.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3801",
+      "courseId": "BMED 3801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3802",
+      "courseId": "BMED 3802",
+      "title": "Special Topics",
+      "description": "Special Topics in Biomedical Engineering.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3811",
+      "courseId": "BMED 3811",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "3853",
+      "courseId": "BMED 3853",
+      "title": "Special Topics",
+      "description": "Special topics in BMED.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4000",
+      "courseId": "BMED 4000",
+      "title": "The Art of Telling Your Story",
+      "description": "Students will create a professional portfolio and develop the ability to pitch themselves to an audience to prepare themselves to begin their professional careers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4400",
+      "courseId": "BMED 4400",
+      "title": "Neuroengineering Fundamentals",
+      "description": "Lab and lecture on current topics in Neuroengineering, including electrophysiology, clinical and diagnostic neuroengineering, neural prosthetics, sensory-motor integration, neuromorphic VLSI, neurodynamics and neurorobotics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4477",
+      "courseId": "BMED 4477",
+      "title": "Biological Networks and Genomics",
+      "description": "Introduction to modeling of biological networks involved in gene regulation, cell signaling and metabolism. Mathematical modeling of cellular processes, such as gene expression, using genomic data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4478",
+      "courseId": "BMED 4478",
+      "title": "Biomed-AI and Health Informatics",
+      "description": "The course will introduce commonly used informatics pipelines driven by current biomedicine and health care challenges and opportunities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4500",
+      "courseId": "BMED 4500",
+      "title": "Cell and Tissue Engineering Laboratory",
+      "description": "The principles of cell and tissue engineering will be presented as a laboratory course to give students a hands-on experience.  Cell engineering topics include receptor/ligand interactions, cell cycle/metabolism, cell adhesion, cellular mechanics, cell signal transduction, and cell transfection.  Tissue engineering topics include applications, biomaterials/scaffolds and cells for reparative medicine, bioreactors and bioprocessing, functional assessment, in vivo issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4600",
+      "courseId": "BMED 4600",
+      "title": "Senior Design Project I",
+      "description": "Team-oriented major design project in biomedical engineering, incorporating engineering standards and realistic design constraints.  Credit not allowed for BMED 4600 and BMED 4603 (or BMED 4601).",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4601",
+      "courseId": "BMED 4601",
+      "title": "Senior Design Project II",
+      "description": "Team-oriented major design project in biomedical engineering, incorporating engineering standards and realistic design constraints.  Credit not allowed for both BMED 4601 and BMED 4603 (or BMED 4600).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4602",
+      "courseId": "BMED 4602",
+      "title": "Capstone Design",
+      "description": "Team-oriented design project in biomedical engineering, incorporating engineering standards and realistic design constraints.  Includes introduction to relevant regulatory, intellectual property, and business management topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4603",
+      "courseId": "BMED 4603",
+      "title": "Advanced Design",
+      "description": "Continuation of a team-oriented design experience initiated in BMED 4602 Capstone Design.  Includes more advanced relevant regulatory. intellectual property, and business management topics.  Credit not allowed for both BMED 4603 and BMED 4600 (or BMED 4601).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4698",
+      "courseId": "BMED 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4699",
+      "courseId": "BMED 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4723",
+      "courseId": "BMED 4723",
+      "title": "Interdisciplinary Capstone Design",
+      "description": "Interdisciplinary Capstone Design, Industry projects or CREATE-X section.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4739",
+      "courseId": "BMED 4739",
+      "title": "Medical Robotics",
+      "description": "An interdisciplinary course focusing on fundamental understanding of robot kinematics and dynamics as well as the design, development, and evaluation of a medical robotic system.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4740",
+      "courseId": "BMED 4740",
+      "title": "Biologically Inspired Design",
+      "description": "We examine evolutionary adaptation as a source for engineering design inspiration, utilizing principles of scaling, adaptability, and robust multifunctionality that characterize biological systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4750",
+      "courseId": "BMED 4750",
+      "title": "Diagnostic Imaging Physics",
+      "description": "Physics and image formation methods for conventional X-ray, digital X-ray CT, nuclear medicine, and magnetic resonance and ultrasound imaging.  Crosslisted with MP 4750 and NRE 4750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4751",
+      "courseId": "BMED 4751",
+      "title": "Introduction to Biomaterials",
+      "description": "Introduction to different classes of biomaterials (polymers, metals, ceramics) and physiological responses to biomaterial implantation. Topics include material properties, host response, and biomaterial characterization techniques. Crosslisted with MSE 4751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4752",
+      "courseId": "BMED 4752",
+      "title": "Introductory Neuroscience",
+      "description": "Goals are to understand the components of the nervous system and their functional interactions, and appreciate the complexity of higher order brain functions and pathways. Crosslisted with BIOL 4752.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4753",
+      "courseId": "BMED 4753",
+      "title": "Frontiers in Neuroengineering",
+      "description": "Neuroengineering issues related to measurement and manipulation of the nervous system for basic scientific discovery and treatment of neurological disorders.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4754",
+      "courseId": "BMED 4754",
+      "title": "Computational Biomaterial and Tissue Mechanics",
+      "description": "Computational tissue and biomaterial mechanics modeling utilizing finite element software with elastic and inelastic material models.  Patient image data models creation using image modeling software.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4757",
+      "courseId": "BMED 4757",
+      "title": "Biofluid Mechanics",
+      "description": "Introduction to the study of blood flow in the cardiovascular system. Emphasis on modeling and the potential of flow studies for clinical research application. Crosslisted with AE, CHE and ME 4757.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4758",
+      "courseId": "BMED 4758",
+      "title": "Biosolid Mechanics",
+      "description": "The mechanics of living tissue, e.g., arteries, skin, heart muscle, ligament, tendon, cartilage, and bone. Constitutive equations and some simple mechanical models. Mechanics of cells.  Applications. Crosslisted with AE, CHE, and ME 4758.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4765",
+      "courseId": "BMED 4765",
+      "title": "Drug Design, Development and Delivery",
+      "description": "Introduction to the pharmaceutical development process, including design of new drugs, synthesis and manufacturing issues, and methods for delivery into the body. Includes student presentations. Crosslisted with CHEM and CHBE 4765.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4775",
+      "courseId": "BMED 4775",
+      "title": "Translational Microsystems",
+      "description": "Learn how to design biomedical microsystems ready for clinical and biomedical translation. Course blends theory with examples of successful biomedical research, clinical translation, and case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4781",
+      "courseId": "BMED 4781",
+      "title": "Biomedical Instrumentation",
+      "description": "A study of medical instrumentation from a systems viewpoint. Pertinent physiological and electro-physiological concepts will be covered.  Credit not allowed for both BMED 4781 and (CHE 4781 or ME 4781 or CHBE 4781 or ECE 4781).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4782",
+      "courseId": "BMED 4782",
+      "title": "Biosystems Analysis",
+      "description": "Analytical methods for modeling biological systems, including white-noise protocols for characterizing nonlinear systems. Crosslisted with CHE, ECE, and ME 4782.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4783",
+      "courseId": "BMED 4783",
+      "title": "Introduction to Medical Image Processing",
+      "description": "A study of mathematical methods used in medical image acquisition and processing. Concepts, algorithms, and methods associated with acquisition, processing, and display of two- and three-dimensional medical imaged are studied. Crosslisted with ECE 4783.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4784",
+      "courseId": "BMED 4784",
+      "title": "Engineering Electrophysiology",
+      "description": "Basic concepts of electrophysiology from an engineering perspective. Functionality of relevant organs and systems; instrumentation tools which monitor electrophysiology function. Crosslisted with ECE 4784.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4785",
+      "courseId": "BMED 4785",
+      "title": "Optical Microscopy",
+      "description": "The course will cover the fundamental principles of optical imaging and detail the inner workings of key microscopy technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4786",
+      "courseId": "BMED 4786",
+      "title": "Medical Imaging Systems: Physics, Engineering, and Applications",
+      "description": "Introduce major biomedical and clinical imaging modalities including X-ray radiography, computed tomography (CT), nuclear medicine (SPECT and PET), magnetic resonance imaging (MRI), and ultrasound.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4801",
+      "courseId": "BMED 4801",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4802",
+      "courseId": "BMED 4802",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4803",
+      "courseId": "BMED 4803",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4804",
+      "courseId": "BMED 4804",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4805",
+      "courseId": "BMED 4805",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4811",
+      "courseId": "BMED 4811",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4812",
+      "courseId": "BMED 4812",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4813",
+      "courseId": "BMED 4813",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4814",
+      "courseId": "BMED 4814",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4815",
+      "courseId": "BMED 4815",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4823",
+      "courseId": "BMED 4823",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4833",
+      "courseId": "BMED 4833",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4843",
+      "courseId": "BMED 4843",
+      "title": "Special Topics",
+      "description": "Courses in special topics of current interest not included in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4853",
+      "courseId": "BMED 4853",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4863",
+      "courseId": "BMED 4863",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4873",
+      "courseId": "BMED 4873",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4883",
+      "courseId": "BMED 4883",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4893",
+      "courseId": "BMED 4893",
+      "title": "Special Topics",
+      "description": "Special Topics in BMED.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4900",
+      "courseId": "BMED 4900",
+      "title": "Special Problems",
+      "description": "Individualized studies in certain specialized areas of interest in biomedical engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4901",
+      "courseId": "BMED 4901",
+      "title": "Special Problems",
+      "description": "Individualized studies in certain specialized areas of interest in biomedical engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4902",
+      "courseId": "BMED 4902",
+      "title": "Special Problems",
+      "description": "Individualized studies in certain specialized areas of interest in biomedical engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "4903",
+      "courseId": "BMED 4903",
+      "title": "Special Problems",
+      "description": "Individualized studies in certain specialized areas of interest in biomedical engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6041",
+      "courseId": "BMED 6041",
+      "title": "Analytical Methods for Biomedical Engineering",
+      "description": "Basic analytical approaches to solve mathematical problems involved in biomedical engineering applications. Course focuses on ordinary and partial differential equations and on integral transform methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6042",
+      "courseId": "BMED 6042",
+      "title": "Systems Physiology",
+      "description": "Regulation of physiological functions in the cardio-respiratory-renal, musculoskeletal, and gastrointestinal systems, and their interactions with the neural, endocrine, and immune systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6210",
+      "courseId": "BMED 6210",
+      "title": "Magnetic Resonance Imaging",
+      "description": "This course covers the basic physics and engineering principles, advanced techniques and major applications of magnetic resonance imaging.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6211",
+      "courseId": "BMED 6211",
+      "title": "Biomed-AI and Health Informatics",
+      "description": "This course uses lectures, homework, programming practical, exam, and team-based problem-based learning to teach Biomedical AI concepts and methods with applications to health informatics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6501",
+      "courseId": "BMED 6501",
+      "title": "Fundamentals of Biomedical Innovation and Development Processes",
+      "description": "Key steps, multiple stakeholders and interdependencies in the design and commercialization process for medical products.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6502",
+      "courseId": "BMED 6502",
+      "title": "BioID Clinical Literacy and Experience",
+      "description": "Education in interfacing with medical healthcare professionals, medical terminology, on-site clinical observations, needs-finding, case analysis, creating design solutions for improved methods, products and procedures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6503",
+      "courseId": "BMED 6503",
+      "title": "Medical Markets and Clinical Specialties",
+      "description": "Introduction to medical device and biologics industries, interdependencies of commercial companies, vendors and suppliers required for development, commercialization and sales of products and equipment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6504",
+      "courseId": "BMED 6504",
+      "title": "Financial Planning for Development Projects",
+      "description": "Finance planning for development projects including: costing, forecasting, time value of money, breakeven analysis, return on investment analysis, capital budgeting, risk and return, working capital management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6505",
+      "courseId": "BMED 6505",
+      "title": "Product Planning and Project Management",
+      "description": "Strategy and analysis techniques to evaluate and manage new product innovations, product improvements and product line extensions in context of an entity's mission and goals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6506",
+      "courseId": "BMED 6506",
+      "title": "Professional Communications for Biomedical Innovation and Development",
+      "description": "Techniques and practice of effective oral presentations project/grant proposal writing, technical and project report writing to support medical device engineering, design and business.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6507",
+      "courseId": "BMED 6507",
+      "title": "Medical Device Regulatory Requirements",
+      "description": "FDA Regulations for medical devices including clearance-approval pathways to commercialization, Quality Systems Regulations and ISO Standards for medical devices in the European Economic Community.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6508",
+      "courseId": "BMED 6508",
+      "title": "BioID Team Masters Project I",
+      "description": "Team project to address an unmet medical need and develop an innovative solution including the engineering design document package and proof-of-concept prototyhpe.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6509",
+      "courseId": "BMED 6509",
+      "title": "BioID Masters Project II",
+      "description": "Teams will construct prototypes for Course I biomedical device project solution, conduct and analyze performance testing, prepare FDA 510(k) submission, and prepare project commercialization plan.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6517",
+      "courseId": "BMED 6517",
+      "title": "Machine Learning in Biosciences",
+      "description": "Introduces machine learning concepts and methods, including supervised and unsupervised learning, dimension reduction and visualization. Topics are accompanied by bioinformatics and systems biology applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6700",
+      "courseId": "BMED 6700",
+      "title": "Biostatistics",
+      "description": "An introduction to fundamental ideas and techniques in Biostatistics, with an emphasis on conceptual understanding and on the analysis of real data sets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6710",
+      "courseId": "BMED 6710",
+      "title": "Rational Design of Biomaterials",
+      "description": "The goal of this course is to give graduate students the ability to rationally design new biomaterials by integrating organic chemistry concepts with molecular biology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6711",
+      "courseId": "BMED 6711",
+      "title": "Rational Design of Biomaterials Lab",
+      "description": "The goal of this course is to teach students the laboratory skills needed to design and synthesize new biomaterials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6720",
+      "courseId": "BMED 6720",
+      "title": "Biotransport",
+      "description": "This graduate level course covers the analysis of fluid flow phenomena in the human body, cardiovasculature, respiratory system and other organ systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6730",
+      "courseId": "BMED 6730",
+      "title": "Materials Science of Cellular Components",
+      "description": "Addresses structure-property relationship of cellular components.  Credit not allowed for both BMED 6730 and MSE 6730.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6739",
+      "courseId": "BMED 6739",
+      "title": "Medical Robotics",
+      "description": "This interdisciplinary course focuses on a fundamental understanding of robot kinematics and dynamics as well as the design, development, and evaluation of a medical robotic system.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6740",
+      "courseId": "BMED 6740",
+      "title": "Living System Modeling & Analysis",
+      "description": "The purpose of this course is to introduce graduate students to living system models as pre-clinical test beds for a wide variety of biotechnologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6743",
+      "courseId": "BMED 6743",
+      "title": "Biosolid Mechanics",
+      "description": "Structure-function relationships and constitutive models for a variety of biological tissues, with an emphasis on understanding the mechanical behaviors of normal and pathological tissues. Credit not given for both BMED/ME 6783 and BMED/ME 6743. Crosslisted with ME 6743.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6753",
+      "courseId": "BMED 6753",
+      "title": "Principles of Management for Engineers",
+      "description": "The course will provide an introduction to selected topics needed to be successful in the technology industries. Cannot count toward major area requirements in M.S. or Ph.D. programs of study.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6754",
+      "courseId": "BMED 6754",
+      "title": "Computational Biomaterial and Tissue Mechanics",
+      "description": "Computational tissue and biomaterial mechanics modeling utilizing finite element software with elastic and inelastic material models.  Patient image data models creation using image modeling software.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6760",
+      "courseId": "BMED 6760",
+      "title": "Information Processing Models in Neural Systems",
+      "description": "This course will examine \"top down\" modeling approaches for sensorineural systems, where an optimal computational principle used in engineering (e.g., information theory, Bayesian inference, control theory) explains observed information processing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6765",
+      "courseId": "BMED 6765",
+      "title": "Drug Design, Development and Delivery",
+      "description": "Introduction to the pharmaceutical development process, including design of new drugs, synthesis and manufacturing issues, and methods of delivery into the body. Includes student presentations.  Crosslisted with BMED 6765 and CHBE 6765.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6774",
+      "courseId": "BMED 6774",
+      "title": "Biomaterials: Structure and Function",
+      "description": "Structure-function relationships of biomaterials and biomaterial characterization will be covered. Materials for medial implants, tissue engineering, biosensing, imaging, and drug delivery will be covered. Crosslisted with CHE, ME, and MSE 6774.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6775",
+      "courseId": "BMED 6775",
+      "title": "Translational Microsystems",
+      "description": "Learn how to design biomedical microsystems ready for clinical and biomedical translation. Course blends theory with examples of successful biomedical research, clinical translation, and case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6777",
+      "courseId": "BMED 6777",
+      "title": "Advanced Biomaterials",
+      "description": "Advanced topics of biomaterials performance and engineering, including biointerfaces, host reactions to materials, and bio-inspired/smart-materials strategies. Crosslisted with CHE, ME, and MSE 6777.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6779",
+      "courseId": "BMED 6779",
+      "title": "Bioprocess Engineering",
+      "description": "Study of enzymes and microbial and mammalian cells for production of biochemicals and protein therapeutics in bioreactors; downstream separation and purification; integrated view of bioprocesses. Crosslisted with CHE 6779.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6780",
+      "courseId": "BMED 6780",
+      "title": "Medical Image Processing",
+      "description": "A study of methods for enhancing, analyzing, interpreting, and visualizing information from two- and three-dimensional data obtained from a variety of medical imaging modalities. Crosslisted with ECE and CS 6780.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6781",
+      "courseId": "BMED 6781",
+      "title": "Clinical Neurology",
+      "description": "Clinical bioscience course that teaches the fundamentals of neuropathology, namely diagnostics, prognostics, therapeutics, and rehabilitative technology for neurological patient management and care.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6782",
+      "courseId": "BMED 6782",
+      "title": "Cellular Engineering",
+      "description": "Engineering analysis of cellular systems.  Crosslisted with CHE and ME 6782.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6784",
+      "courseId": "BMED 6784",
+      "title": "Cardiovascular Biomechanics",
+      "description": "Mechanical analysis of the cardiovascular system emphasizing the normal and pathologic function in relation to clinical cardiovascular medicine.  Crosslisted with CHE and ME 6784.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6785",
+      "courseId": "BMED 6785",
+      "title": "Optical Microscopy",
+      "description": "The course will cover the fundamental principles of optical imaging and detail the inner workings of key microscopy technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6786",
+      "courseId": "BMED 6786",
+      "title": "Medical Imaging Systems",
+      "description": "A study of the principles and design of medical imaging systems such as X-ray, ultrasound, nuclear medicine, and nuclear magnetic resonance. Crosslisted with ECE 6786.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6787",
+      "courseId": "BMED 6787",
+      "title": "Quantitative Electrophysiology",
+      "description": "A quantitative presentation of electrophysiological systems in biological organisms, emphasizing the electrical properties and modeling of neural and cardiac cells and systems.  Crosslisted with PHYS and ECE 6787.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6789",
+      "courseId": "BMED 6789",
+      "title": "Technology Ventures",
+      "description": "Team discussion and case studies in biomedical engineering technology transfer, including licensing, financial capital, safety and efficacy studies, clinical trials, and strategic planning.  Crosslisted with ECE, CHE, ME, and MGT 6789.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6790",
+      "courseId": "BMED 6790",
+      "title": "Information Processing Models in Neural Systems",
+      "description": "Examines \"top-down\" modeling approaches for sensorineural systems, where optimal computational principles used in engineering(e.g., information theory, Bayesian inference, control theory) explain observed information processing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6791",
+      "courseId": "BMED 6791",
+      "title": "Translational Neuroengineering",
+      "description": "Application of engineering, data science/AI, and neuroscience to improve diagnostics, prognostics, therapeutics, or devices/technology for solving problems in neuroengineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6793",
+      "courseId": "BMED 6793",
+      "title": "Systems Pathophysiology",
+      "description": "Overview of human pathophysiology from a quantitative perspective.  A brief introduction to the application of quantitative models to the understanding of biological systems.  Crosslisted with CHE, ECE, and ME 6793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6794",
+      "courseId": "BMED 6794",
+      "title": "Tissue Engineering",
+      "description": "Biological, engineering, and medical issues in developing tissue engineered constructs. Emphasis in the integration of these disciplines at a basic molecular and cell biology level.  Crosslisted with CHE and ME 6794.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "6799",
+      "courseId": "BMED 6799",
+      "title": "Legal Issues in Technology Transfer",
+      "description": "Study and analysis of U.S. law as it applies to the patenting and licensing processes. Crosslisted with CHE, ME, and MGT 6799.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7000",
+      "courseId": "BMED 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7001",
+      "courseId": "BMED 7001",
+      "title": "Biomedical Engineering Seminar",
+      "description": "Graduate students of the Biomedical Engineering department (all programs) participate in seminars involving current research projects presented by faculty and invited speakers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7002",
+      "courseId": "BMED 7002",
+      "title": "Teaching Practicum I",
+      "description": "This course provides discipline-specific training that addresses intellectual problems and teaching strategies from the perspective of the discipline.  Credit not allowed for both BMED 7002 and BMED 8696.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7003",
+      "courseId": "BMED 7003",
+      "title": "Teaching Practicum II",
+      "description": "This course provides discipline-specific training that addresses intellectual problems and teaching strategies from the perspective of the discipline.  Credit not allowed for both BMED 7003 and BMED 8697.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7004",
+      "courseId": "BMED 7004",
+      "title": "Teaching & Research Practicum I",
+      "description": "This course provides the practicial framework for understanding challenges faced during teaching, research, and academic life. This course includes topical materials required for BME RCR requirements.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7005",
+      "courseId": "BMED 7005",
+      "title": "Teaching & Research Practicum II",
+      "description": "This course provides the practical framework for understanding challenges faced during teaching, research, and academic life.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7011",
+      "courseId": "BMED 7011",
+      "title": "Integrative Core: Introduction to Modeling and Experimentation in Biomedical Engineering",
+      "description": "An introduction to how engineers approach problems - via conceptual models that are then used to create wet lab models and in silico models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7012",
+      "courseId": "BMED 7012",
+      "title": "Integrative Core: Experimental Design-Measurements at the Right Spatial and Temporal Scales",
+      "description": "This integrative core course focuses on the design of experiments to answer scientific questions, with an emphasis on the spatial and temporal scales of measurements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7013",
+      "courseId": "BMED 7013",
+      "title": "Integrative Core: Problem Solving with Computational Models",
+      "description": "An introduction to computational model methodologies for complex biomedical/biological systems.  Emphasis is placed on developing well-posed scientific hypotheses through the use of simulations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7101",
+      "courseId": "BMED 7101",
+      "title": "Advanced Seminar: Biomaterials & Regenerative Medicine",
+      "description": "This course is intended to promote critical review of the \"State-of-the-art\" biomaterial technologies to identify knowledge gaps that must be overcome to further biomaterials development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7201",
+      "courseId": "BMED 7201",
+      "title": "Advanced Seminar: Cardiovascular Biology & Biomechanics",
+      "description": "To review current topics in cardiovascular engineering, biology and diseases through critical literature review.  In addition, each student will develop and present a \"Proposal\" by the end of the class.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7301",
+      "courseId": "BMED 7301",
+      "title": "Advanced Seminar: Cellular & Biomolecular Engineering",
+      "description": "This seminar course illustrates the development of micro- and nano-scale engineering approaches for studies of biomolecules and cells and their applications to medicine.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7310",
+      "courseId": "BMED 7310",
+      "title": "Stem Cell Engineering",
+      "description": "Fundamentals for the application of analytical engineering approaches to the quantitative study of stem cell biology and translation into cell therapies and diagnostics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7410",
+      "courseId": "BMED 7410",
+      "title": "Introduction to Multiscale Analysis in Systems",
+      "description": "The class explores modeling analyses spanning multiple levels of biological organization at different resolutions of detail.  Emphasis is placed on control in complex biological systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7411",
+      "courseId": "BMED 7411",
+      "title": "Mathematical Models in Biology & Medicine",
+      "description": "The course introduces the student to a representative set of models that elucidate the nature of biological and medical phenomena.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7413",
+      "courseId": "BMED 7413",
+      "title": "Biochemical Systems Analysis",
+      "description": "The course introduces BME students interested in mathematical modeling and systems biology to the computational analysis of metabolic and other dynamic systems in biology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7510",
+      "courseId": "BMED 7510",
+      "title": "3D Bioprinting",
+      "description": "Principal concepts underpinning 3D bioprinting (a rapidly growing tissue/organ manufacturing technology), various printing strategies, and their applications in the biomedical field.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7601",
+      "courseId": "BMED 7601",
+      "title": "Advanced Seminar: Neuroengineering and Neuropathology",
+      "description": "Current issues in neuroengineering.  Focus is placed on neuropathological complexity across cellular and organ level scales through literature reading, discussion, and independent study.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7610",
+      "courseId": "BMED 7610",
+      "title": "Quantitative Neuroscience",
+      "description": "A quantitative presentation of neural signal processing and information coding, emphasizing the circuitry of sensory and motor pathways of the brain.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7741",
+      "courseId": "BMED 7741",
+      "title": "Robotics Professional Preparation",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Program introduction. Technical resume preparation. GT Robotics labs & resources.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7742",
+      "courseId": "BMED 7742",
+      "title": "Robotics Professional Preparation 2",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Selecting and applying for Internship. Developing capstone project proposal. Public speaking practice and preparation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7743",
+      "courseId": "BMED 7743",
+      "title": "Robotics Professional Preparation 3",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Interview preparation & career search. Technical report writing and presentation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "7785",
+      "courseId": "BMED 7785",
+      "title": "Introduction to Robotics Research",
+      "description": "Familiarizes students with the core of robotics: mechanics, control, perception, AI, and autonomy.  Provides an introduction to the mathematical tools required in robotics research. Cross-listed with AE 7785, ECE 7785, and CS 7785.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8740",
+      "courseId": "BMED 8740",
+      "title": "Robotics Internship",
+      "description": "Graduate Internship at a partner company, GTRI or a GT Robotics lab.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8741",
+      "courseId": "BMED 8741",
+      "title": "Robotics Capstone Project",
+      "description": "Teams or individuals apply the knowledge and skills acquired throughout the MS program to a faculty supervised robotics project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8750",
+      "courseId": "BMED 8750",
+      "title": "Multidisciplinary Robotics Research I",
+      "description": "Multidisciplinary research course supervised by two robotics faculty from different schools participating in the robotics Ph.D. program. Cross-listed with AE, CS, and ECE 8750.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8751",
+      "courseId": "BMED 8751",
+      "title": "Multidisciplinary Robotics Research II",
+      "description": "Continuation of BMED 8750 (Multidisciplinary Robotics Research I). Cros-listed with AE, CS, and ECE 8751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8804",
+      "courseId": "BMED 8804",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8811",
+      "courseId": "BMED 8811",
+      "title": "Special Topics",
+      "description": "Topics of current interest in biomedical engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8812",
+      "courseId": "BMED 8812",
+      "title": "Special Topics",
+      "description": "Topics of current interest in biomedical engineering.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8813",
+      "courseId": "BMED 8813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in biomedical engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8814",
+      "courseId": "BMED 8814",
+      "title": "Special Topics",
+      "description": "Topics of current interest in biomedical engineering.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8815",
+      "courseId": "BMED 8815",
+      "title": "Special Topics",
+      "description": "Topics of current interest in biomedical engineering.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8823",
+      "courseId": "BMED 8823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in biomedical engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8833",
+      "courseId": "BMED 8833",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8843",
+      "courseId": "BMED 8843",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8853",
+      "courseId": "BMED 8853",
+      "title": "Special Topics",
+      "description": "Topics of current interest in biomedical engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8901",
+      "courseId": "BMED 8901",
+      "title": "Special Problems",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in bioengineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8902",
+      "courseId": "BMED 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8903",
+      "courseId": "BMED 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8997",
+      "courseId": "BMED 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding a teaching assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "8998",
+      "courseId": "BMED 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding a research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "BMED",
+      "courseNumber": "9000",
+      "courseId": "BMED 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 186,
+  "scrapedAt": "2025-08-16T02:00:32.480Z"
+}

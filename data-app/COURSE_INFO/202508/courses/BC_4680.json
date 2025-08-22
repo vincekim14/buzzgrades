@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BC",
+  "courseNumber": "4680",
+  "courseId": "BC 4680",
+  "title": "Professional Internship",
+  "description": "Students work for a professional architecture/engineering/ construction company in which they learn, first-hand, about the construction industry.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 3630 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:03.319Z"
+}

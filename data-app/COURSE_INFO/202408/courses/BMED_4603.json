@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BMED",
+  "courseNumber": "4603",
+  "courseId": "BMED 4603",
+  "title": "Advanced Design",
+  "description": "Continuation of a team-oriented design experience initiated in BMED 4602 Capstone Design.  Includes more advanced relevant regulatory. intellectual property, and business management topics.  Credit not allowed for both BMED 4603 and BMED 4600 (or BMED 4601).",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 4602 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:16.343Z"
+}

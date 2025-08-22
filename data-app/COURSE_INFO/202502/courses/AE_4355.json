@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "4355",
+  "courseId": "AE 4355",
+  "title": "Design Competition IV",
+  "description": "Team-oriented aerospace systems design project directed by a faculty advisor.  Typically a national student competition in aircraft, rotorcraft, or spacecraft design. Technical or leadership role commensurate with senior standing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:09.560Z"
+}

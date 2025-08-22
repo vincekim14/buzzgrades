@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "NRE",
+  "courseNumber": "4350",
+  "courseId": "NRE 4350",
+  "title": "Design Methods &amp; Tools",
+  "description": "Introduction to selected methods and nuclear engineering analytic tools (computer codes) with tutorials.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "NRE 3208 Undergraduate Semester Minimum Grade of D and NRE 3316 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:44:08.668Z"
+}

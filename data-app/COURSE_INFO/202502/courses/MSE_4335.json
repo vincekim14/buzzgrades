@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "4335",
+  "courseId": "MSE 4335",
+  "title": "Soft Nano Bio Materials",
+  "description": "Introduction soft nanomaterials and nanostructures that have been discovered and synthesized for prospective applications in nanotechnology.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:58.074Z"
+}

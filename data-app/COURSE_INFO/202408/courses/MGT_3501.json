@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "3501",
+  "courseId": "MGT 3501",
+  "title": "Operations Management",
+  "description": "This course focuses on the issues and techniques relevant to the management of the operations function within an organization, emphasizing its strategic significance.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 2255 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:46.742Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "MGT",
+  "courseNumber": "3310",
+  "courseId": "MGT 3310",
+  "title": "Marktng Resrch Analytcs",
+  "description": "This course covers the fundamentals of the analytical aspects of marketing research. The course has an applied orientation with application to contemporary issues in marketing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3300 Undergraduate Semester Minimum Grade of D and (MGT 2250 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D or ECON 2250 Undergraduate Semester Minimum Grade of D or ISYE 3030 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or PSYC 2020 Undergraduate Semester Minimum Grade of D or PUBP 3120 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:41:30.116Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ARBC",
+  "courseNumber": "3001",
+  "courseId": "ARBC 3001",
+  "title": "Advanced Arabic I",
+  "description": "Advanced grammar, listening, reading, writing, speaking, the language of contemporary Arabic society, politics and culture through task-based language teaching.  Taught in Arabic.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:14.385Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CX",
+  "courseNumber": "4230",
+  "courseId": "CX 4230",
+  "title": "Computer Simulation",
+  "description": "Algorithms and techniques for creating computer simulations and their realization in software.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3225 Undergraduate Semester Minimum Grade of D or MATH 3235 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or MATH 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or CEE 3770 Undergraduate Semester Minimum Grade of D or ISYE 2028 Undergraduate Semester Minimum Grade of D or ISYE 3030 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D or ECE 3077 Undergraduate Semester Minimum Grade of D) and (CS 1331 Undergraduate Semester Minimum Grade of C or CS 1372 Undergraduate Semester Minimum Grade of C or CS 2316 Undergraduate Semester Minimum Grade of C or CX 4010 Undergraduate Semester Minimum Grade of C or ECE 2035 Undergraduate Semester Minimum Grade of C or ECE 2036 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:37:39.251Z"
+}

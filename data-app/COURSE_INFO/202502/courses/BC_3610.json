@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BC",
+  "courseNumber": "3610",
+  "courseId": "BC 3610",
+  "title": "Construction Law",
+  "description": "Legal aspects of construction contracts, bonds, insurance, and bidding. Owner, architect, contractor, and subcontractor relationships.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 3600 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:08.926Z"
+}

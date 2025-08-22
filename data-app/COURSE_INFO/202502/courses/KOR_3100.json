@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "KOR",
+  "courseNumber": "3100",
+  "courseId": "KOR 3100",
+  "title": "Kor Convers &amp; Culture",
+  "description": "The course will focus on developing students’ conversation skills and grammatical knowledge required for 3000-level courses or higher. Taught in Korean.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:56.586Z"
+}

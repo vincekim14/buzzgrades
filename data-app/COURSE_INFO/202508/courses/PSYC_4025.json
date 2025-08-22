@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "4025",
+  "courseId": "PSYC 4025",
+  "title": "Learning and Memory",
+  "description": "Research and applications concerning acqusition of new behavior and knowledge, including accounts based on classical and instrumental conditioning and information-processing models of memory and learning.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D and PSYC 2015 Undergraduate Semester Minimum Grade of D and PSYC 2020 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:44:34.748Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "3017R",
+  "courseId": "ME 3017R",
+  "title": "ME 3017 Recitation",
+  "description": "Recitation for ME 3017",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ME 3017",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:44.850Z"
+}

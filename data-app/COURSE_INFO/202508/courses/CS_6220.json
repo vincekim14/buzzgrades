@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "6220",
+  "courseId": "CS 6220",
+  "title": "Big Data Sys &amp; Analytics",
+  "description": "This course will cover the concepts, techniques, algorithms, and systems of big data systems and data analytics, with strong emphasis on big data processing systems, fundamental models and optimizations for data analytics and machine learning, which are widely deployed in real world big data analytics and applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 4400 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:35.166Z"
+}

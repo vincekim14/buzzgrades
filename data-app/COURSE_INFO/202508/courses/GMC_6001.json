@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "GMC",
+  "courseNumber": "6001",
+  "courseId": "GMC 6001",
+  "title": "Global Media &amp; Cultures",
+  "description": "An introduction to key concepts, theories, histories, practices, and methodologies that are relevant to the study of global media and cultures.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:10.814Z"
+}

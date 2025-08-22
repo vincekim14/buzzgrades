@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4320",
+  "courseId": "ECE 4320",
+  "title": "Power Sys Analy&amp; Control",
+  "description": "Introduces basic concepts in electric power generation, distribution, system control, and economic operation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3072 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:44.213Z"
+}

@@ -1,0 +1,1689 @@
+{
+  "subject": "MATH",
+  "subjectName": "Mathematics (MATH)",
+  "url": "https://catalog.gatech.edu/coursesaz/math/",
+  "courses": [
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "0399",
+      "courseId": "MATH 0399",
+      "title": "Support for Precalculus",
+      "description": "Practicum for Learning Support students enrolled in MATH 1113 (Precalculus).",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "0999",
+      "courseId": "MATH 0999",
+      "title": "Support for College Algebra",
+      "description": "This Learning Support course provides corequisite support in mathematics for students enrolled in MATH 1111 – College Algebra. Topics will parallel topics being studied in MATH 1111 and the course will provide support for the essential quantitative skills needed to be successful in MATH 1111. Taken with MATH 1111, this course provides an in-depth study of the properties of algebraic, exponential and logarithmic functions as needed for calculus. Emphasis is on using algebraic and graphical techniques for solving problems involving linear, quadratic, piece-wise defined, rational, polynomial, exponential and logarithmic functions.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1111",
+      "courseId": "MATH 1111",
+      "title": "College Algebra",
+      "description": "This course provides an in-depth study of the properties of algebraic, exponential and logarithmic functions as needed for calculus. Emphasis is on using algebraic and graphical techniques for solving problems involving linear, quadratic, piece-wise defined, rational, polynomial, exponential and logarithmic functions.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1113",
+      "courseId": "MATH 1113",
+      "title": "Pre-calculus",
+      "description": "This course is an intensive study of the basic functions needed for the study of calculus. Topics include algebraic, functional, and graphical techniques for solving problems with algebraic, exponential, logarithmic, and trigonometric functions and their inverses. May only be used for degree credit with departmental approval.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1499",
+      "courseId": "MATH 1499",
+      "title": "Support for Differential Calculus",
+      "description": "This corequisite studio course provides extra precalculus support for students enrolled in Math 1551, Differential Calculus.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1501",
+      "courseId": "MATH 1501",
+      "title": "Calculus I",
+      "description": "Differential calculus and basic integral calculus including the fundamental theorem of calculus. Credit not allowed for both MATH 1501 and 1712.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1503",
+      "courseId": "MATH 1503",
+      "title": "Calculus I for the Life Sciences",
+      "description": "Differential and basic calculus: sequences, difference equations, limits, continuity, differentiation, integration, applications.  The topics parallel those of MATH 1501 with applications from life sciences.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1504",
+      "courseId": "MATH 1504",
+      "title": "Calculus I for the Life Sciences",
+      "description": "Taylor approximations, introduction to differential equations, linear algebra, and introduction to multivariable calculus.  Motivating examples drawn from life sciences.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1512",
+      "courseId": "MATH 1512",
+      "title": "Honors Calculus II",
+      "description": "The topics covered parallel those of 1502 with a somewhat more intensive and rigorous treatment.  Credit not allowed for both honors calculus and the corresponding regular calculus course.  Credit not allowed for both MATH 1512 and MATH 1522.  Credit not allowed for both MATH 1512 and MATH 15X2.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1550",
+      "courseId": "MATH 1550",
+      "title": "Introduction to Differential Calculus",
+      "description": "An introduction to differential calculus including applications and the underlying theory of limits for functions and sequences. Credit not awarded for both MATH 1550 and MATH 1501, MATH 1551, or MATH 1503.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1551",
+      "courseId": "MATH 1551",
+      "title": "Differential Calculus",
+      "description": "Differential calculus including applications and the underlying theory of limits for functions and sequences. Credit not awarded for both MATH 1551 and MATH 1501, MATH 1503, or MATH 1550.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1552",
+      "courseId": "MATH 1552",
+      "title": "Integral Calculus",
+      "description": "Integral calculus: Definite and indefinite integrals, techniques of integration, improper integrals, infinite series, applications. Credit not awarded for both MATH 1552 and MATH 1502, MATH 1504, MATH 1512 or MATH 1555.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1553",
+      "courseId": "MATH 1553",
+      "title": "Introduction to Linear Algebra",
+      "description": "An introduction to linear alegbra including eigenvalues and eigenvectors, applications to linear systems, least squares. Credit not awarded for both MATH 1553 and MATH 1522, MATH 1502, MATH 1504, MATH 1512, MATH 1554 or MATH 1564.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1554",
+      "courseId": "MATH 1554",
+      "title": "Linear Algebra",
+      "description": "Linear algebra eigenvalues, eigenvectors, applications to linear systems, least squares, diagnolization, quadratic forms.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1555",
+      "courseId": "MATH 1555",
+      "title": "Calculus for Life Sciences",
+      "description": "Overview of intergral calculus, multivariable calculus, and differential equations for biological sciences. Credit not awarded for both MATH 1555 and MATH 1552, MATH 1502, MATH 1504, MATH 1512 or MATH 2550.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1564",
+      "courseId": "MATH 1564",
+      "title": "Linear Algebra with Abstract Vector Spaces",
+      "description": "This is an intensive first course in linear algebra including the theories of linear transformations and abstract vector spaces. Credit not awarded for both MATH 1564 and MATH 1553, MATH 1554, MATH 1522, MATH 1502, MATH 1504 or MATH 1512.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1601",
+      "courseId": "MATH 1601",
+      "title": "Introduction to Higher Mathematics",
+      "description": "This course is designed to teach problem solving and proof writing.  Mathematical subject matter is drawn from elementary number theory and geometry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1711",
+      "courseId": "MATH 1711",
+      "title": "Finite Mathematics",
+      "description": "Linear equations, matrices, linear programming, sets and counting, probability and statistics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1712",
+      "courseId": "MATH 1712",
+      "title": "Survey of Calculus",
+      "description": "Techniques of differentiation, integration, application of integration to probability and statistics, multidimensional calculus. Credit not allowed for both MATH 1712 and 1501.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "1803",
+      "courseId": "MATH 1803",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in Mathematics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2106",
+      "courseId": "MATH 2106",
+      "title": "Foundations of Mathematical Proof",
+      "description": "An introduction to proofs in advanced mathematics, intended as a transition to upper division courses including Abstract Algebra I and Analysis I.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2406",
+      "courseId": "MATH 2406",
+      "title": "Abstract Vector Spaces",
+      "description": "A proof-based development of linear algebra and vector spaces, with additional topics such as multilinear algebra and group theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2550",
+      "courseId": "MATH 2550",
+      "title": "Introduction to Multivariable Calculus",
+      "description": "Vectors in three dimensions, curves in space, functions of several variables, partial derivatives, optimization, integration of functions of several variables. Vector Calculus not covered. Credit will not be awarded for both MATH 2550 and MATH 2605 or MATH 2401 or MATH 2551 or MATH 1555.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2551",
+      "courseId": "MATH 2551",
+      "title": "Multivariable Calculus",
+      "description": "Multivariable calculus: Linear approximation and Taylor's theorems, Lagrange multiples and constrained optimization, multiple integration and vector analysis including the theorems of Green, Gauss, and Stokes. Credit will not be awarded for both MATH 2551 and MATH 2401 or MATH 2411 or MATH 2561.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2552",
+      "courseId": "MATH 2552",
+      "title": "Differential Equations",
+      "description": "Methods for obtaining numerical and analytic solutions of elementary differential equations. Applications are also discussed with an emphasis on modeling. Credit not awarded for both MATH 2552 and MATH 2403 or MATH 2413 or MATH 2562.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2561",
+      "courseId": "MATH 2561",
+      "title": "Honors Multivariable Calculus",
+      "description": "The topics covered parallel those of MATH 2551 with a somewhat more intensive and rigorous treatment. Credit not awarded for both MATH 2561 and MATH 2401 or MATH 2411 or MATH 2551.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2562",
+      "courseId": "MATH 2562",
+      "title": "Honors Differential Equations",
+      "description": "The topics covered parallel those of MATH 2552 with a somewhat more intensive and rigorous treatment.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2603",
+      "courseId": "MATH 2603",
+      "title": "Introduction to Discrete Mathematics",
+      "description": "Mathematical logic and proof, mathematical induction, counting methods, recurrence relations, algorithms and complexity, graph theory and graph algorithms. Credit not awarded for both MATH 2603 and MATH 2602.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2605",
+      "courseId": "MATH 2605",
+      "title": "Calculus III for Computer Science",
+      "description": "Topics in linear algebra and multivariate calculus and their applications in optimization and numerical methods, including curve fitting, interpolation, and numerical differentiation and integration.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2698",
+      "courseId": "MATH 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2699",
+      "courseId": "MATH 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2740",
+      "courseId": "MATH 2740",
+      "title": "Foundations of Mathematics and Computing",
+      "description": "This course introduces the essential mathematical concepts and computational techniques that form the basis of modern computing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2801",
+      "courseId": "MATH 2801",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2802",
+      "courseId": "MATH 2802",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2803",
+      "courseId": "MATH 2803",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2804",
+      "courseId": "MATH 2804",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "2805",
+      "courseId": "MATH 2805",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3012",
+      "courseId": "MATH 3012",
+      "title": "Applied Combinatorics",
+      "description": "Elementary combinatorial techniques used in discrete problem solving: counting methods, solving linear recurrences, graph and network models, related algorithms, and combinatorial designs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3012R",
+      "courseId": "MATH 3012R",
+      "title": "Applied Combinatorics Recitation",
+      "description": "Recitation for MATH 3012.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3022",
+      "courseId": "MATH 3022",
+      "title": "Honors Applied Combinatorics",
+      "description": "Topics are parallel to those of MATH 3012 with a more rigorous and intensive treatment. Credit is not allowed for both MATH 3012 and 3022.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3215",
+      "courseId": "MATH 3215",
+      "title": "Introduction to Probability and Statistics",
+      "description": "This course is a problem-oriented introduction to the basic concepts of probability and statistics, providing a foundation for applications and further study.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3225",
+      "courseId": "MATH 3225",
+      "title": "Honors Probability and Statistics",
+      "description": "The topics covered parallel those of MATH 3215, with a more rigorous and intensive treatment.  Credit is not allowed for both MATH 3215 and 3225.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3235",
+      "courseId": "MATH 3235",
+      "title": "Probability Theory",
+      "description": "This course is a mathematical introduction to probability theory, covering random variables, moments, multivariable distributions, law of large numbers, central limit theorem, and large deviations. Credit not awarded for both MATH 3235 and MATH 3215 or 3225 or 3670.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3236",
+      "courseId": "MATH 3236",
+      "title": "Statistical Theory",
+      "description": "An introduction to theoretical statistics for students with a background in probability. A mathematical formalism for inference on experimental data will be developed. Credit not awared for both MATH 3236 and MATH 3215 or 3225 or 3670.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3406",
+      "courseId": "MATH 3406",
+      "title": "A Second Course in Linear Algebra",
+      "description": "This course will cover important topics in linear algebra not usually discussed in a first-semester course, featuring a mixture of theory and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3670",
+      "courseId": "MATH 3670",
+      "title": "Probability and Statistics with Applications",
+      "description": "Introduction to probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression and analysis of variance. Students cannot receive credit for both MATH 3670 and MATH 3770 or ISYE 3770 or CEE 3770.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3740",
+      "courseId": "MATH 3740",
+      "title": "Probability and Statistics for Computing and Machine Learning",
+      "description": "Introductory probability and statistics for computing and machine learning, from random variables, joint distribution and concentration inequalities to parameter estimation, statistical models and Bayesian simulation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3801",
+      "courseId": "MATH 3801",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3802",
+      "courseId": "MATH 3802",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3803",
+      "courseId": "MATH 3803",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3804",
+      "courseId": "MATH 3804",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "3805",
+      "courseId": "MATH 3805",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4012",
+      "courseId": "MATH 4012",
+      "title": "Algebraic Structures in Coding Theory",
+      "description": "Introduction to linear error correcting codes with an emphasis on the algebraic tools required, including matrices vector spaces, groups, polynomial rings, and finite fields.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4022",
+      "courseId": "MATH 4022",
+      "title": "Introduction to Graph Theory",
+      "description": "The fundamentals of graph theory: trees, connectivity, Euler torus, Hamilton cycles, matchings, colorings, and Ramsey theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4032",
+      "courseId": "MATH 4032",
+      "title": "Combinatorial Analysis",
+      "description": "Combinatorial problem-solving techniques including the use of generating functions, recurrence relations, Polya theory, combinatorial designs, Ramsey theory, matroids, and asymptotic analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4080",
+      "courseId": "MATH 4080",
+      "title": "Senior Project I",
+      "description": "The first of a two-course sequence of faculty-directed independent research culminating in the writing of a senior thesis and its presentation.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4090",
+      "courseId": "MATH 4090",
+      "title": "Senior Project II",
+      "description": "The second course of a two-course sequence of faculty-directed independent research culminating in the writing of a senior thesis and its presentation.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4107",
+      "courseId": "MATH 4107",
+      "title": "Introduction to Abstract Algebra I",
+      "description": "This course develops in the theme of \"Arithmetic congruence and abstract algebraic structures\". Strong emphasis on theory and proofs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4108",
+      "courseId": "MATH 4108",
+      "title": "Introduction to Abstract Algebra II",
+      "description": "Continuation of Abstract Algebra I, with emphasis on Galois theory, modules, polynomial fields, and the theory of linear associative algebra.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4150",
+      "courseId": "MATH 4150",
+      "title": "Introduction to Number Theory",
+      "description": "Primes and unique factorization, congruences, Chinese remainder theorem, Diophantine equations, Diophantine approximations, quadratic reciprocity.  Applications such as fast multiplication, factorization, and encryption.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4210",
+      "courseId": "MATH 4210",
+      "title": "Mathematical Foundations of Data Science",
+      "description": "Data science methods and their mathematical foundations: linear regression, classification, and clustering, kernel methods, regression trees and ensemble methods, dimension reduction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4221",
+      "courseId": "MATH 4221",
+      "title": "Stochastic Processes I",
+      "description": "Simple random walk and the theory of discrete time Markov chains.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4222",
+      "courseId": "MATH 4222",
+      "title": "Stochastic Processes II",
+      "description": "Renewal theory, Poisson processes and continuous time Markov processes, including an introduction to Brownian motion and martingales.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4255",
+      "courseId": "MATH 4255",
+      "title": "Monte Carlo Methods",
+      "description": "Probability distributions, limit laws, and applications through the computer.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4261",
+      "courseId": "MATH 4261",
+      "title": "Mathematical Statistics I",
+      "description": "Sampling distributions, Normal, t, chi-square, and f distributions. Moment-generating function methods, Bayesian estimation, and introduction to hypothesis testing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4262",
+      "courseId": "MATH 4262",
+      "title": "Mathematical Statistics II",
+      "description": "Hypothesis testing, likelihood ratio tests, nonparametric tests, bivariate and multivariate normal distributions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4280",
+      "courseId": "MATH 4280",
+      "title": "Introduction to Information Theory",
+      "description": "The measurement and quantification of information.  These ideas are applied to the probabilistic analysis of the transmission of information over a channel along which random distortion of the message occurs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4305",
+      "courseId": "MATH 4305",
+      "title": "Topics in Linear Algebra",
+      "description": "Finite dimensional vector spaces, inner product spaces, least squares, linear transformations, the spectral theorem for normal transformations.  Applications to convex sets, positive matrices, difference equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4317",
+      "courseId": "MATH 4317",
+      "title": "Analysis I",
+      "description": "Real numbers, topology of Euclidean spaces, Cauchy sequences, completeness, continuity and compactness, uniform continuity, series of functions, Fourier series.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4318",
+      "courseId": "MATH 4318",
+      "title": "Analysis II",
+      "description": "Differentiation of functions of one real variable, Riemann-Stieltjes integral, the derivative in Rn, and integration in Rn.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4320",
+      "courseId": "MATH 4320",
+      "title": "Complex Analysis",
+      "description": "Topics from complex function theory, including contour integration and conformal mapping.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4347",
+      "courseId": "MATH 4347",
+      "title": "Partial Differential Equations I",
+      "description": "Method of characteristics for first- and second-order partial differential equations, conservation laws and shocks, classification of second-order systems and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4348",
+      "courseId": "MATH 4348",
+      "title": "Partial Differential Equations II",
+      "description": "Green's functions and fundamental solutions.  Potential, diffusion, and wave equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4431",
+      "courseId": "MATH 4431",
+      "title": "Introductory Topology",
+      "description": "Point set topology, topological spaces and metric spaces, continuity and compactness, homotopy, and covering spaces.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4432",
+      "courseId": "MATH 4432",
+      "title": "Introduction to Algebraic Topology",
+      "description": "Introduction to algebraic methods in topology. Includes homotopy, the fundamental group, covering spaces, simplicial complexes.  Applications to fixed point theory and group theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4441",
+      "courseId": "MATH 4441",
+      "title": "Differential Geometry",
+      "description": "The theory of curves, surfaces, and more generally, manifolds.  Curvature, parallel transport, covariant differentiation, Gauss-Bonet theorem.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4541",
+      "courseId": "MATH 4541",
+      "title": "Dynamics and Bifurcations I",
+      "description": "A broad introduction to the local and global behavior of nonlinear dynamical systems arising from maps and ordinary differential equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4542",
+      "courseId": "MATH 4542",
+      "title": "Dynamics and Bifurcations II",
+      "description": "A continuation of Dynamics and Bifurcations I.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4580",
+      "courseId": "MATH 4580",
+      "title": "Linear Programming",
+      "description": "A study of linear programming problems, including the simplex method, duality, and sensitivity analysis with applications to matrix games, interger programming, and networks.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4581",
+      "courseId": "MATH 4581",
+      "title": "Classical Mathematical Methods in Engineering",
+      "description": "The Laplace transform and applications, Fourier series, boundary value problems for partial differential equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4640",
+      "courseId": "MATH 4640",
+      "title": "Numerical Analysis I",
+      "description": "Introduction to numerical algorithms for some basic problems in computational mathematics.  Discussion of both implementation issues and error analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4641",
+      "courseId": "MATH 4641",
+      "title": "Numerical Analysis II",
+      "description": "Introduction to the numerical solution of initial and boundary value problems in differential equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4695",
+      "courseId": "MATH 4695",
+      "title": "Undergraduate Internship",
+      "description": "Undergraduate internship for academic credit.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4698",
+      "courseId": "MATH 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4699",
+      "courseId": "MATH 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4740",
+      "courseId": "MATH 4740",
+      "title": "Computational Methods for Simulation and Machine Learning",
+      "description": "Introduction to numerical methods which are fundamental in modeling, simulation, and machine learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4755",
+      "courseId": "MATH 4755",
+      "title": "Mathematical Biology",
+      "description": "Problems from the life sciences and the mathematical methods for solving them are presented.  The underlying biological and mathematical principles and the interrelationships are emphasized. Crosslisted with BIOL 4755.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4777",
+      "courseId": "MATH 4777",
+      "title": "Vector and Parallel Scientific Computation",
+      "description": "Scientific computational algorithms on vector and parallel computers. Speed-up and algorithm complexity, interprocesses communication, synchronization, modern algorithms for linear systems, programming techniques, code optimization. Crosslisted with CS 4777.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4782",
+      "courseId": "MATH 4782",
+      "title": "Quantum Information and Quantum Computing",
+      "description": "Introduction to quantum computing and quantum information theory, formalism of quantum mechanics, quantum gates, algorithms, measurements, coding, and information. Physical realizations and experiments. Crosslisted with PHYS 4782.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4801",
+      "courseId": "MATH 4801",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4802",
+      "courseId": "MATH 4802",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4803",
+      "courseId": "MATH 4803",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4804",
+      "courseId": "MATH 4804",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4805",
+      "courseId": "MATH 4805",
+      "title": "Special Topics",
+      "description": "Courses on special topics of current interest in mathematics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4873",
+      "courseId": "MATH 4873",
+      "title": "Special Topics",
+      "description": "This course enables the school of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "4999",
+      "courseId": "MATH 4999",
+      "title": "Reading or Research",
+      "description": "Reading or research in topics of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6001",
+      "courseId": "MATH 6001",
+      "title": "Introduction to Graduate Studies in Mathematics",
+      "description": "This course covers practical information helping students start their careers as a professional mathematician. It also satisfies the Georgia Tech RCR requirements for \"in-person\" training.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6014",
+      "courseId": "MATH 6014",
+      "title": "Graph Theory and Combinatorial Structures",
+      "description": "Fundamentals, connectivity, matchings, colorings, extremal problems, Ramsey theory, planar graphs, perfect graphs. Applications to operations research and the design of efficient algorithms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6021",
+      "courseId": "MATH 6021",
+      "title": "Topology of Euclidean Spaces",
+      "description": "Metric spaces, normed linear spaces, convexity, and separation; polyhedra and simplicial complexes; surfaces; Brouwer fixed point theorem.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6112",
+      "courseId": "MATH 6112",
+      "title": "Advanced Linear Algebra",
+      "description": "An advanced course in Linear Algebra and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6121",
+      "courseId": "MATH 6121",
+      "title": "Modern Abstract Algebra I",
+      "description": "Graduate-level linear and abstract algebra including groups, finite fields, classical matrix groups and bilinear forms, multilinear algebra, and matroids. First of two courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6122",
+      "courseId": "MATH 6122",
+      "title": "Modern Abstract Algebra II",
+      "description": "Graduate-level linear and abstract algebra including rings, fields, modules, some algebraic number theory and Galois theory. Second of two courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6221",
+      "courseId": "MATH 6221",
+      "title": "Probability Theory for Scientists and Engineers",
+      "description": "Classical introduction to probability theory including expectation, notions of convergence, laws of large numbers, independence, large deviations, conditional expectation, martingales, and Markov chains.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6235",
+      "courseId": "MATH 6235",
+      "title": "Stochastic Processes in Finance II",
+      "description": "Advanced mathematical modeling of financial markets, derivative securities pricing, and portfolio optimization. Concepts from advanced probability and mathematics are introduced as needed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6241",
+      "courseId": "MATH 6241",
+      "title": "Probability I",
+      "description": "Develops the probability basis requisite in modern statistical theories and stochastic processes.  Topics of this course include measure and integration foundations of probability, distribution functions, convergence concepts, laws of large numbers, and central limit theory. First of two courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6242",
+      "courseId": "MATH 6242",
+      "title": "Probability II",
+      "description": "Develops the probability basis requisite in modern statistical theories and stochastic processes.  Topics of this course include results for sums of independent random variables, Markov processes, martingales, Poisson processes, Brownian motion, conditional probability and conditional expectation, and topics from ergodic theory.  Second of two classes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6262",
+      "courseId": "MATH 6262",
+      "title": "Advanced Statistical Inference I",
+      "description": "Basic theories of statistical estimation, including optimal estimation in finite samples and asymptotically optimal estimation.  A careful mathematical treatment of the primary techniques of estimation utilized by statisticians.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6263",
+      "courseId": "MATH 6263",
+      "title": "Testing Statistical Hypotheses",
+      "description": "Basic theories of testing statistical hypotheses, including a thorough treatment of testing in exponential class families.  A careful mathematical treatment of the primary techniques of hypothesis testing utilized by statisticians.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6266",
+      "courseId": "MATH 6266",
+      "title": "Linear Statistical Models",
+      "description": "Basic unifying theory underlying techniques of regression, analysis of variance and covariance, from a geometric point of view.  Modern computational capabilities are exploited fully.  Students apply the theory to real data through canned and coded programs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6267",
+      "courseId": "MATH 6267",
+      "title": "Multivariate Statistical Analysis",
+      "description": "Multivariate normal distribution theory, correlation and dependence analysis, regression and prediction, dimension-reduction methods, sampling distributions and related inference problems, selected applications in classification theory, multivariate process control, and pattern recognition.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6307",
+      "courseId": "MATH 6307",
+      "title": "Ordinary Differential Equations I",
+      "description": "This sequence develops the qualitative theory for systems of ordinary differential equations. Topics include stability, Lyapunov functions, Floquet theory, attractors, invariant manifolds, bifurcation theory, normal forms. First of two courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6308",
+      "courseId": "MATH 6308",
+      "title": "Ordinary Differential Equations II",
+      "description": "This sequence develops the qualitative theory for systems of differential equations. Topics include stability, Lyapunov functions, Floquet theory, attractors, invariant manifolds, bifurcation theory, and normal forms.  Second of two courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6321",
+      "courseId": "MATH 6321",
+      "title": "Functions of a Complex Variable I",
+      "description": "Complex integration, including Goursat's theorem; classification of singularities, the argument principle, the maximum principle; Riemann Mapping theorem; analytic continuation and Riemann surfaces; range of an analytic function, including Picard's theorem.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6337",
+      "courseId": "MATH 6337",
+      "title": "Real Analysis I",
+      "description": "Lebesgue measure and integration, differentiation, abstract measure theory. Credit cannot be received for both MATH 6337 and MATH 6579.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6338",
+      "courseId": "MATH 6338",
+      "title": "Real Analysis II",
+      "description": "Continuation of MATH 6337.  L^p and Hilbert spaces, introduction to operator theory and functional analysis.\nCredit cannot be received for both MATH 6338 and MATH 6580.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6341",
+      "courseId": "MATH 6341",
+      "title": "Partial Differential Equations I",
+      "description": "Introduction to the mathematical theory of partial differential equations covering the basic linear models of science and exact solution techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6342",
+      "courseId": "MATH 6342",
+      "title": "Partial Differential Equations II",
+      "description": "This course covers the general mathematical theory of linear stationary and evolution problems plus selected topics chosen from the instructor's interests.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6421",
+      "courseId": "MATH 6421",
+      "title": "Algebraic Geometry I",
+      "description": "The study of zero sets of polynomials: algebraic varieties, regular and rational mappings, the Zariski topology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6422",
+      "courseId": "MATH 6422",
+      "title": "Algebraic Geometry II",
+      "description": "A continuation of Algebraic Geometry I.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6441",
+      "courseId": "MATH 6441",
+      "title": "Algebraic Topology I",
+      "description": "Simplicial homology.  Chain complexes and acyclic carriers. Simplicial approximation.  The exact homology sequence. Maps of spheres. Mayer-Vietoris sequence.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6442",
+      "courseId": "MATH 6442",
+      "title": "Algebraic Topology II",
+      "description": "Continuation of MATH 6441. Singular homology.  Local homology and manifolds. CW complexes.  Cohomology. Duality in manifolds.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6451",
+      "courseId": "MATH 6451",
+      "title": "General Topology",
+      "description": "Introduction to topological and metric spaces. Continuity, compactness, convergence, completion.  Product and quotient spaces.  Elementary homotopy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6452",
+      "courseId": "MATH 6452",
+      "title": "Differential Topology",
+      "description": "Manifolds. Differentiable structures.  Tangent bundles. Embeddings and immersions.  Maps on manifolds. Transversality.  Morse-Sard Theorem. Vector bundles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6453",
+      "courseId": "MATH 6453",
+      "title": "Geometric Topology",
+      "description": "Characteristic classes, Morse theory, three-manifolds, four-manifolds, symplectic and contact manifolds, knot theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6455",
+      "courseId": "MATH 6455",
+      "title": "Differential Geometry I",
+      "description": "Core topics in differential, including: Lie groups, curvature, and relations with topology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6456",
+      "courseId": "MATH 6456",
+      "title": "Differential Geometry II",
+      "description": "Introduces students to topics of current interest in geometry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6514",
+      "courseId": "MATH 6514",
+      "title": "Industrial Mathematics I",
+      "description": "Applied mathematics techniques to solve real-world problems. Topics include mathematical modeling, asymptotic analysis, differential equations and scientific computation.  Prepares the student for MATH 6515.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6579",
+      "courseId": "MATH 6579",
+      "title": "Measure Theory for Scientists and Engineers",
+      "description": "An introduction to measure theory and Lebesgue integration with a focus on topics that tend to be of the most utility in\nscience and engineering. Credit cannot be received for both MATH 6337 and MATH 6579.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6580",
+      "courseId": "MATH 6580",
+      "title": "Hilbert Spaces for Scientists and Engineers",
+      "description": "Structure of linear operators in infinite dimensional spaces, applications.\n  Credit cannot be received for both MATH 6338 and MATH 6580.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6583",
+      "courseId": "MATH 6583",
+      "title": "Integral Equations and Transforms",
+      "description": "Volterra and Fredholm linear integral equations; relation to differential equations; solution methods; Fourier, Laplace, and Mellin transforms; applications to boundary value problems and integral equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6584",
+      "courseId": "MATH 6584",
+      "title": "Special Functions of Higher Mathematics",
+      "description": "Gamma function; exponential function; orthogonal polynomials; Bessel, Legendre, and hypergeometric functions; application to singular ordinary differential equations; and separation of variables for partial differential equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6635",
+      "courseId": "MATH 6635",
+      "title": "Numerical Methods in Finance",
+      "description": "Basic numerical and simulation techniques used in the pricing of derivative securities and in related problems in finance. Some programming experience required.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6640",
+      "courseId": "MATH 6640",
+      "title": "Introduction to Numerical Methods for Partial Differential Equations",
+      "description": "Introduction to the implementation and analysis of numerical algorithms for the numerical solution of the classic partial differential equations of science and engineering. Must have knowledge of a computer programming language, familiarity with partial differential equations and elements of scientific computing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6641",
+      "courseId": "MATH 6641",
+      "title": "Advanced Numerical Methods for Partial Differential Equations",
+      "description": "Analysis and implementation of numerical methods for nonlinear partial differential equations including elliptic, hyperbolic, and/or parabolic problems. Must have knowledge of classic linear partial differential equations and exposure to numerical methods for partial differential equations at the level of MATH 6640 or numerical linear algebra at the level of MATH 6643.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6643",
+      "courseId": "MATH 6643",
+      "title": "Numerical Linear Algebra",
+      "description": "Introduction to the numerical solution of the classic problems of linear algebra including linear systems, least squares, Singular value decomposition, eigenvalue problems. Crosslisted with CSE 6643.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6644",
+      "courseId": "MATH 6644",
+      "title": "Iterative Methods for Systems of Equations",
+      "description": "Iterative methods for linear and nonlinear systems of equations including Jacobi, G-S, SOR, CG, multigrid, Newton quasi-Newton, updating, and gradient-based methods. Crosslisted with CSE 6644.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6645",
+      "courseId": "MATH 6645",
+      "title": "Numerical Approximation Theory",
+      "description": "Theoretical and computational aspects of polynomial, rational, trigonometric, spline, and wavelet approximation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6646",
+      "courseId": "MATH 6646",
+      "title": "Numerical Methods for Ordinary Differential Equations",
+      "description": "Analysis and implementation of numerical methods for initial and two-point boundary value problems for ordinary differential equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6647",
+      "courseId": "MATH 6647",
+      "title": "Numerical Methods for Dynamical Systems",
+      "description": "Approximation of the dynamical structure of a differential equation and preservation of dynamical structure under discretization. Must be familiar with dynamical systems and numerical methods for initial and boundary value problems in ordinary differential equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6701",
+      "courseId": "MATH 6701",
+      "title": "Math Methods of Applied Sciences I",
+      "description": "Review of linear algebra and ordinary differential equations, brief introduction to functions of a complex variable.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6702",
+      "courseId": "MATH 6702",
+      "title": "Math Methods of Applied Sciences II",
+      "description": "Review of vector calculus and its applications to partial differential equations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6705",
+      "courseId": "MATH 6705",
+      "title": "Modeling and Dynamics",
+      "description": "Mathematical methods for solving problems in the life sciences.  Models-based course on basic facts from the theory of ordinary differential equations and numerical methods of their solution.  Introduction to the control theory, diffusion theory, maximization, minimization and curve fitting.  Math majors may not use this course toward any degree in the School of Mathematics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6710",
+      "courseId": "MATH 6710",
+      "title": "Numerical Methods in Computational Science and Engineering I",
+      "description": "Introduction to numerical algorithms widely used in computational science and engineering. Numerical linear algebra, linear programming, and applications. Crosslisted with CSE 6710.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6711",
+      "courseId": "MATH 6711",
+      "title": "Numerical Methods in Computational Science and Engineering II",
+      "description": "Efficient numerical techniques for solving partial differential equations and large-scale systems of equations arising from discretization of partial differential equations or variational problems in applications in science and engineering. Crosslisted with CSE 6711.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6759",
+      "courseId": "MATH 6759",
+      "title": "Stochastic Processes in Finance I",
+      "description": "Mathematical modeling of financial markets, derivative securities pricing, and portfolio optimization.  Concepts from probability and mathematics are introduced as needed. Crosslisted with ISYE 6759.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6761",
+      "courseId": "MATH 6761",
+      "title": "Stochastic Processes I",
+      "description": "Discrete time Markov chains, Poisson processes, and renewal processes. Transient and limiting behavior.  Average cost and utility measures of systems.  Algorithms for computing performance measures.  Modeling of inventories, and flows in manufacturing and computer networks. Crosslisted with ISYE 6761.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6762",
+      "courseId": "MATH 6762",
+      "title": "Stochastic Processes II",
+      "description": "Continuous time Markov chains. Uniformization, transient and limiting behavior.  Brownian motion and martingales. Optional sampling and convergence.  Modeling of inventories, finance, flows in manufacturing and computer networks. Crosslisted with ISYE 6762.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6767",
+      "courseId": "MATH 6767",
+      "title": "Design and Implementation of Systems to Support",
+      "description": "Computational Finance Introduction to large scale system design to support computational finance for options, stocks, or other financial instruments. Some programming experience, and previous exposure to stocks, bonds, and options required. Crosslisted with ISYE 6767.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6769",
+      "courseId": "MATH 6769",
+      "title": "Fixed Income Securities",
+      "description": "Description, institutional features, and mathematical modeling of fixed income securities.  Use of both deterministic and stochastic models. Crosslisted with ISYE 6769.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6783",
+      "courseId": "MATH 6783",
+      "title": "Statistical Techniques of Financial Data Analysis",
+      "description": "Fundamentals of statistical inference for models used in the modern analysis of financial data. Crosslisted with ISYE 6783.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6785",
+      "courseId": "MATH 6785",
+      "title": "The Practice of Quantitative and Computational Finance",
+      "description": "Case studies, visiting lecturers from financial institutions, student group projects of an advanced nature, and student reports, all centered around quantitative and computational finance. Crosslisted with ISYE and MGT 6785.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "6793",
+      "courseId": "MATH 6793",
+      "title": "Advanced Topics in Quantitative and Computational Finance",
+      "description": "Advanced foundational material and analysis techniques in quantitative and computational finance. Crosslisted with ISYE 6793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7000",
+      "courseId": "MATH 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7012",
+      "courseId": "MATH 7012",
+      "title": "Enumerative Combinatorics",
+      "description": "Fundamental methods of enumeration and asymptotic analysis, including the use of inclusion/exclusion, generating functions, and recurrence relations.  Applications to strings over a finite alphabet and graphs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7014",
+      "courseId": "MATH 7014",
+      "title": "Advanced Graph Theory",
+      "description": "Advanced topics in graph theory.  Selection of arguments varies every year.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7016",
+      "courseId": "MATH 7016",
+      "title": "Combinatorics",
+      "description": "Fundamental combinatorial structures including hypergraphs, transversal sets, colorings, Sperner families, intersecting families, packings and coverings, perfect graphs, and Ramsey theory.  Algebraic and topological methods, applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7018",
+      "courseId": "MATH 7018",
+      "title": "Probabilistic Methods in Combinatorics",
+      "description": "Applications of probabilistic techniques in discrete mathematics, including classical ideas using expectation and variance as well as modern tools, such as martingale and correlation inequalities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7244",
+      "courseId": "MATH 7244",
+      "title": "Stochastic Processes and Stochastic Calculus I",
+      "description": "An introduction to the Ito stochastic calculus and stochastic differential equations through a development of continuous-time martingales and Markov processes. First of two courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7245",
+      "courseId": "MATH 7245",
+      "title": "Stochastic Processes and Stochastic Calculus II",
+      "description": "An introduction to the Ito stochastic calculus and stochastic differential equations through a development of continuous-time martingales and Markov processes. Continuation of MATH 7244.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7251",
+      "courseId": "MATH 7251",
+      "title": "High-dimensional probability",
+      "description": "The goal of this PhD level graduate course is to provide a rigorous introduction to the methods of high-dimensional probability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7252",
+      "courseId": "MATH 7252",
+      "title": "High-dimensional statistics",
+      "description": "The goal of this PhD level graduate course is to provide a rigorous introduction to the methods of high-dimensional statistics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7337",
+      "courseId": "MATH 7337",
+      "title": "Harmonic Analysis",
+      "description": "Fourier analysis on the torus and Euclidean space.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7338",
+      "courseId": "MATH 7338",
+      "title": "Functional Analysis",
+      "description": "Spectral theory of bounded and unbounded operators, major theorems of functional analysis, additional topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7339",
+      "courseId": "MATH 7339",
+      "title": "Advanced Analysis",
+      "description": "A comprehensive overview of advanced material in analysis. This is a Repeatable Course with 5 different subtitles;\nRecommended prerequisites may vary with each offering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7510",
+      "courseId": "MATH 7510",
+      "title": "Graph Algorithms",
+      "description": "Algorithms for graph problems such as maximum flow, covering, matching, coloring, planarity, minimum cuts, shortest paths, and connectivity.  Crosslisted with ISYE 7510 and CS 7510.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7581",
+      "courseId": "MATH 7581",
+      "title": "Calculus of Variations",
+      "description": "Minimization of functionals, Euler-Lagrange equations, sufficient conditions for a minimum; geodesic, isoperometric, and time of transit problems; variational principles of mechanics; applications to control theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7586",
+      "courseId": "MATH 7586",
+      "title": "Tensor Analysis",
+      "description": "Review of linear algebra, multilinear algebra, algebra of tensors, co- and contravariant tensors, tensors in Riemann spaces, geometrical interpretation of skew tensors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "7999",
+      "courseId": "MATH 7999",
+      "title": "Preparation for Doctoral Comprehensive Examination",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8305",
+      "courseId": "MATH 8305",
+      "title": "Aural-Oral English Skills for Math ESL International Teaching Assistants",
+      "description": "Enhancement of English listening/speaking skills for SOM international graduate students, post-docs, and new faculty who speak English as their second language (ESL) and who will be teaching undergraduate students.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8306",
+      "courseId": "MATH 8306",
+      "title": "Academic Communication for Intermediate ESL Math International Teaching Assistants",
+      "description": "Continued enhancement of English listening/speaking skills for current and future SOM graduate international teaching assistants and international lead instructors who speak English as their second language (ESL).",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8307",
+      "courseId": "MATH 8307",
+      "title": "Academic Communication for Advanced ESL Math International Teaching Assistants",
+      "description": "Continued enhancement of English listening/speaking skills for current and future SOM graduate international teaching assistants and international lead instructors who speak English as their second language (ESL).",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8801",
+      "courseId": "MATH 8801",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8802",
+      "courseId": "MATH 8802",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8803",
+      "courseId": "MATH 8803",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8804",
+      "courseId": "MATH 8804",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8805",
+      "courseId": "MATH 8805",
+      "title": "Special Topics",
+      "description": "This course enables the school of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8811",
+      "courseId": "MATH 8811",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8812",
+      "courseId": "MATH 8812",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8813",
+      "courseId": "MATH 8813",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8814",
+      "courseId": "MATH 8814",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8815",
+      "courseId": "MATH 8815",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8821",
+      "courseId": "MATH 8821",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8822",
+      "courseId": "MATH 8822",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8823",
+      "courseId": "MATH 8823",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8824",
+      "courseId": "MATH 8824",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8825",
+      "courseId": "MATH 8825",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8831",
+      "courseId": "MATH 8831",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8832",
+      "courseId": "MATH 8832",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8833",
+      "courseId": "MATH 8833",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8834",
+      "courseId": "MATH 8834",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8835",
+      "courseId": "MATH 8835",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8841",
+      "courseId": "MATH 8841",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8842",
+      "courseId": "MATH 8842",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8843",
+      "courseId": "MATH 8843",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8844",
+      "courseId": "MATH 8844",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8845",
+      "courseId": "MATH 8845",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8851",
+      "courseId": "MATH 8851",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8852",
+      "courseId": "MATH 8852",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8853",
+      "courseId": "MATH 8853",
+      "title": "Special Topics",
+      "description": "This course enables the school of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8854",
+      "courseId": "MATH 8854",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8855",
+      "courseId": "MATH 8855",
+      "title": "Special Topics",
+      "description": "This course enables the School of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8863",
+      "courseId": "MATH 8863",
+      "title": "Advanced Topics in Graph Theory",
+      "description": "Selection of topics vary with each offering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8873",
+      "courseId": "MATH 8873",
+      "title": "Special Topics",
+      "description": "This course enables the school of Mathematics to comply with requests for courses in selected topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8900",
+      "courseId": "MATH 8900",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8901",
+      "courseId": "MATH 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8902",
+      "courseId": "MATH 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8903",
+      "courseId": "MATH 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8997",
+      "courseId": "MATH 8997",
+      "title": "Teaching Assistantship",
+      "description": "For students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "8998",
+      "courseId": "MATH 8998",
+      "title": "Research Assistantship",
+      "description": "For students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "MATH",
+      "courseNumber": "9000",
+      "courseId": "MATH 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 210,
+  "scrapedAt": "2025-08-16T02:00:43.547Z"
+}

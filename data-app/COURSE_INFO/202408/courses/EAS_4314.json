@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "EAS",
+  "courseNumber": "4314",
+  "courseId": "EAS 4314",
+  "title": "Seismology",
+  "description": "Introduction to elastic wave propagation, and studies of the solid Earth's interior and earthquake source from seismic waves.  Credit not allowed for both EAS 4314 and EAS 6314.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "EAS 3610 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:38.206Z"
+}

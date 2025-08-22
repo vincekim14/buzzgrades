@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "6603",
+  "courseId": "CEE 6603",
+  "title": "Traffic Engineering",
+  "description": "Characteristics of traffic demand, traffic flow, vehicles, drivers, roadways, and pedestrians.  Studies and data analysis. Capacity analysis. Traffic control and intelligent systems.  Operations and management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 4600 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:10.757Z"
+}

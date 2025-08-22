@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PHIL",
+  "courseNumber": "3103",
+  "courseId": "PHIL 3103",
+  "title": "Modern Philosophy",
+  "description": "A study of the development of philosophy from the views of Bacon and Descartes to the beginning of the 20th century.  Traces the philosophic response to modern science in the rational and empirical traditions.  Credit not allowed for both PST 3103 and PHIL 3103.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:18.357Z"
+}

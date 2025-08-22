@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MGT",
+  "courseNumber": "6360",
+  "courseId": "MGT 6360",
+  "title": "Global Operations",
+  "description": "This course is designed to present issues critical to the globalization of operations, and addresses strategic and tactical issues pertaining to an organization's global operations and supply chain activities. Includes impact of technology, efficient vs responsive supply chains, and forecasting and sales and operations planning decisions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6501 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:36.292Z"
+}

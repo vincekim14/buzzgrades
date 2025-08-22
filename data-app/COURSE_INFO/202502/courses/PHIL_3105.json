@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PHIL",
+  "courseNumber": "3105",
+  "courseId": "PHIL 3105",
+  "title": "Ethical Theories",
+  "description": "Surveys traditional ethical theories of value, obligation, and rights and applies these theories to contemporary social problems such as abortion, euthanasia, poverty, and distributional equity, and environmental problems. Credit not allowed for both PHIL 3105 and PST 3105.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:18.568Z"
+}

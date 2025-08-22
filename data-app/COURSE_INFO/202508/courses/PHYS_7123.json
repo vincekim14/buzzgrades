@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "PHYS",
+  "courseNumber": "7123",
+  "courseId": "PHYS 7123",
+  "title": "Statistical Mechanics II",
+  "description": "Principles of nonequilibrium statistical mechanics, both classical and quantal.  Emphasis is on the dynamics of fluctuations, their measurement, and their relationship to transport properties.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 6107 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:44:26.436Z"
+}

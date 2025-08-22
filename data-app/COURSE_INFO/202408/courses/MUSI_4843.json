@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MUSI",
+  "courseNumber": "4843",
+  "courseId": "MUSI 4843",
+  "title": " Technology Ensemble",
+  "description": "Special Topics in MUSI",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:23.905Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CX",
+  "courseNumber": "3803",
+  "courseId": "CX 3803",
+  "title": "Special Topics",
+  "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:08.941Z"
+}

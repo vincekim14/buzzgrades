@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECON",
+  "courseNumber": "4340",
+  "courseId": "ECON 4340",
+  "title": "Industrial Organization",
+  "description": "This course examines the theory of the firm, the relationship between market structure, practices, and performance, and the determinants of technological change. The role (and ability) of government policy to solve various market failures, via antitrust enforcement, regulation, etc., is also discussed.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:50.711Z"
+}

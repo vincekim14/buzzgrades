@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "2216",
+  "courseId": "CHEM 2216",
+  "title": "Quant Chem",
+  "description": "Theory of quantitative chemical analysis.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "CHEM 2216L",
+  "prerequisites": "CHEM 1212K Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:29.558Z"
+}

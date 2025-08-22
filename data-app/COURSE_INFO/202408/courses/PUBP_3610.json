@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "3610",
+  "courseId": "PUBP 3610",
+  "title": "Pre-Law Seminar",
+  "description": "Examination of the legal profession and areas of legal specialization (e.g., contract, property, intellectual property, international). Emphasizes skills and values that are essential to success in law school and competent lawyering.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:10.196Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4130",
+  "courseId": "CEE 4130",
+  "title": "Constr. Safety &amp; Health",
+  "description": "Fundamentals to safety and health as they apply to civil infrastructure and building construction.  Topics include planning, design, management, rules and guidelines, best practices, and inspection of safety and health.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 4100 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:21.721Z"
+}

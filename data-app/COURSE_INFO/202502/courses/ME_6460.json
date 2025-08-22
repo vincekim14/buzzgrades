@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6460",
+  "courseId": "ME 6460",
+  "title": "MEMS Devices",
+  "description": "Introduces fundamental concepts and tools needed for the design, simulation and analysis of MEMS devices.  These include electrical, mechanical, radiant, thermal, magnetic and chemical domains.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 6229 Graduate Semester Minimum Grade of D or ECE 6229 Graduate Semester Minimum Grade of D or ECE 6450 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:39.753Z"
+}

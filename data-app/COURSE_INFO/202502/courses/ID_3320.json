@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "3320",
+  "courseId": "ID 3320",
+  "title": "Design Methods",
+  "description": "This course introduces students to current user-centric design methods used to identify, understand, assess and prioritize the factors and perceptions that contribute to more effective product design and human-centered design solutions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 2012 Undergraduate Semester Minimum Grade of D and ID 2401 Undergraduate Semester Minimum Grade of D and ID 2320 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:52.129Z"
+}

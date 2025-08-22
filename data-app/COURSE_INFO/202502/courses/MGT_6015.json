@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6015",
+  "courseId": "MGT 6015",
+  "title": "Managerial Accounting II",
+  "description": "The course covers cost estimation, relevant costs, transfer pricing, capital budgeting, profitability analysis, performance evaluation, and activity-based management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6000 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:37.515Z"
+}

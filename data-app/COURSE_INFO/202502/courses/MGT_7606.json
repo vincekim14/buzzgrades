@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "7606",
+  "courseId": "MGT 7606",
+  "title": "Analtc Modl for IS",
+  "description": "Introduces analytical models and methods, stochastic processes, and optimization techniques for modeling and solving relevant IS problems, and drawing meaningful inferences from the results.",
+  "creditHours": "1.5",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:51.786Z"
+}

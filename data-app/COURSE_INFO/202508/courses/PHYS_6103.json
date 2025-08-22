@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "PHYS",
+  "courseNumber": "6103",
+  "courseId": "PHYS 6103",
+  "title": "Electromagnetism",
+  "description": "An advanced treatment of electromagnetism. Topics include boundary value problems in electrostatics and magnetostatics, Maxwell’s equations, and radiation from charged particles.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:24.115Z"
+}

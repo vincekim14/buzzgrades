@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "7014",
+  "courseId": "MATH 7014",
+  "title": "Advanced Graph Theory",
+  "description": "Advanced topics in graph theory.  Selection of arguments varies every year.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 6014 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:20.261Z"
+}

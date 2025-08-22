@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "4105",
+  "courseId": "MSE 4105",
+  "title": "Deform &amp; Fract Materials",
+  "description": "Deformation and fracture of metals, ceramics, polymers and composites for applications relevant to material selection and design, mechanical forming processes, and analysis of engineering failures.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2001 Undergraduate Semester Minimum Grade of D and COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:46.303Z"
+}

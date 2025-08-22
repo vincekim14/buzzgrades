@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "6747",
+  "courseId": "CS 6747",
+  "title": "ADV Malware Analysis",
+  "description": "This course covers advanced approaches for the analysis of malicious software and explores recent research and unsolved problems in software protection and forensics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:13.734Z"
+}

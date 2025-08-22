@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "1060",
+  "courseId": "ARCH 1060",
+  "title": "Intro-Design &amp; Built Env",
+  "description": "Introduction to architecture and building construction through case studies that illuminate past and present practices, as well as future possibilities within the discipline",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:15.030Z"
+}

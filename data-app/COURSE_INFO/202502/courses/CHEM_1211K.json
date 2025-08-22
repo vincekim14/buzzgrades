@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "1211K",
+  "courseId": "CHEM 1211K",
+  "title": "Principles of Chemistry I",
+  "description": "First course in a two-semester sequence covering the fundamental principles and applications of chemistry designed for science majors. Topics to be covered include composition of matter, stoichiometry, periodic relations, and nomenclature. Laboratory exercises supplement the lecture material. Credit not allowed for both CHEM 1310 and CHEM 1211K.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:28.693Z"
+}

@@ -1,0 +1,1489 @@
+{
+  "subject": "ISYE",
+  "subjectName": "Industrial & Systems Engr (ISYE)",
+  "url": "https://catalog.gatech.edu/coursesaz/isye/",
+  "courses": [
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "2027",
+      "courseId": "ISYE 2027",
+      "title": "Probability with Applications",
+      "description": "Topics include conditional probability, density and distribution functions from engineering, expectation, conditional expectation, laws of large numbers, central limit theorem, and introduction to Poisson Processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "2028",
+      "courseId": "ISYE 2028",
+      "title": "Basic Statistical Methods",
+      "description": "Point and interval estimation of systems parameters, statistical decision making about differences in system parameters, analysis and modeling of relationships between variables.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "2698",
+      "courseId": "ISYE 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "2699",
+      "courseId": "ISYE 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "2801",
+      "courseId": "ISYE 2801",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "2803",
+      "courseId": "ISYE 2803",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3025",
+      "courseId": "ISYE 3025",
+      "title": "Essentials of Engineering Economy",
+      "description": "Introduction to engineering economic decision making, economic decision criteria, discounted cash flow, replacement and timing decisions, risk, depreciation, and income tax.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3030",
+      "courseId": "ISYE 3030",
+      "title": "Basic Statistical Methods",
+      "description": "Point and interval estimation of systems parameters, statistical decision making about differences in system parameters, analysis and modeling of relationships between variables.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3039",
+      "courseId": "ISYE 3039",
+      "title": "Methods of Quality Improvement",
+      "description": "Topics include quality system requirements, designed experiments, process capability analysis, measurement capability, statistical process control, and acceptance sampling plans. Credit will not be awarded for both ISYE 3039 and ISYE 6382.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3044",
+      "courseId": "ISYE 3044",
+      "title": "Simulation Analysis and Design",
+      "description": "Discrete event simulation methodology emphasizing the statistical basis for simulation modeling and analysis. Overview of computer languages and simulation design applied to various industrial situations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3103",
+      "courseId": "ISYE 3103",
+      "title": "Introduction to Supply Chain Modeling: Logistics",
+      "description": "Course focuses on engineering design concepts and optimization models for logistics decision making in three modules: supply chain design, planning and execution, and transportation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3104",
+      "courseId": "ISYE 3104",
+      "title": "Introduction to Supply Chain Modeling: Manufacturing and Warehousing",
+      "description": "Design and operation of manufacturing and warehousing facilities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3106",
+      "courseId": "ISYE 3106",
+      "title": "Cornerstone Design for Industrial Engineers",
+      "description": "Structure a complex problem through information gathering, data analysis, industrial engineering and design principles application, project management, while working in and leading diverse teams.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3133",
+      "courseId": "ISYE 3133",
+      "title": "Engineering Optimization",
+      "description": "Topics include modeling with networks and graphs; linear, nonlinear, and integer programming, construction of models employing modern modeling languages; and general solution strategies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3232",
+      "courseId": "ISYE 3232",
+      "title": "Stochastic Manufacturing and Service Systems",
+      "description": "Methods for describing stochastic movements of material in manufacturing facilities, supply chain, and equipment maintenance networks. Includes analysis of congestion, delays, and inventory ordering policies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3770",
+      "courseId": "ISYE 3770",
+      "title": "Statistics and Applications",
+      "description": "Introduction to probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression, and analysis of variance. Crosslisted with MATH 3770 and CEE 3770. Also, credit not awarded for both ISYE 3770 and MATH 3670.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3790",
+      "courseId": "ISYE 3790",
+      "title": "Introduction to Cognitive Science",
+      "description": "Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action. Crosslisted with CS, PST, and PSYC 3790.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3803",
+      "courseId": "ISYE 3803",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "3833",
+      "courseId": "ISYE 3833",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4009",
+      "courseId": "ISYE 4009",
+      "title": "Design of Human-Integrated Systems",
+      "description": "Topics include general cognitive systems engineering concepts and principles, and specific concepts and principles of interface design, task analysis, prototyping, and empirical usability of evaluation methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4031",
+      "courseId": "ISYE 4031",
+      "title": "Regression and Forecasting",
+      "description": "Regression analysis: multiple linear regression, diagnostics, and variable selection.  Forecasting: exponential smoothing techniques and autoregressive moving average models.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4034",
+      "courseId": "ISYE 4034",
+      "title": "Decision and Data Analytics",
+      "description": "This course integrates decision and data analytics to solve real-world business problems.  It includes hands-on system modeling, data collection and analysis, and reporting writing projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4045",
+      "courseId": "ISYE 4045",
+      "title": "Advanced Simulation",
+      "description": "Advanced modeling and statistical concepts in discrete-event simulations; Monte Carlo simulation; estimation of error and risk; advanced input modeling techniques; comparison and optimization of systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4106",
+      "courseId": "ISYE 4106",
+      "title": "Senior Design",
+      "description": "Senior design project requiring student to formulate a project plan with an off-campus enterprise. Includes specific milestones, targets, and evaluation criteria.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4111",
+      "courseId": "ISYE 4111",
+      "title": "Advanced Supply Chain Logistics",
+      "description": "This course is a follow-up to ISyE 3103 that covers optimization models and case studies for logistics network design and logistics operations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4112",
+      "courseId": "ISYE 4112",
+      "title": "Workflow Modeling, Analysis & Design in Manufacturing & Service",
+      "description": "Introduction to the modeling, analysis and design of workflow systems in manufacturing systems and service systems such as healthcare systems, banks, service centers and warehouses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4113",
+      "courseId": "ISYE 4113",
+      "title": "Advanced Modeling and Analysis of Workflow Systems",
+      "description": "In-depth modeling and analysis of the workflow dynamics shaping the operation and performance of production and service systems. Application of stochastic modeling in practical problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4133",
+      "courseId": "ISYE 4133",
+      "title": "Advanced Optimization",
+      "description": "Theory and implementation of practical methods to find good or optimal solutions to optimization problems too large or complex to solve in a straightforward way.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4134",
+      "courseId": "ISYE 4134",
+      "title": "Constraint Programming",
+      "description": "This course is an introduction to constraint programming, from its modeling language to its computational methodology and its applications to scheduling, routing, and resource allocation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4232",
+      "courseId": "ISYE 4232",
+      "title": "Advanced Stochastic Systems",
+      "description": "The course will cover Jackson Networks and Markov Decision Processes with applications to production/inventory systems, customer contact centers, revenue management, and health care.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4301",
+      "courseId": "ISYE 4301",
+      "title": "Supply Chain Economics",
+      "description": "The course studies techniques for coordination and collaboration in supply chains.  Applications include pricing strategies, revenue management, gaming, and incentives.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4311",
+      "courseId": "ISYE 4311",
+      "title": "Capital Investment Analysis",
+      "description": "Students learn core concepts and techniques for economic decision and analysis of complex capital investment problems that involve dimensions of time, uncertainty and strategy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4331",
+      "courseId": "ISYE 4331",
+      "title": "Honors Optimization",
+      "description": "Topics parallel those in ISYE 4231 with an intended treatment that is more innovative and challenging. Credit not given for both ISYE 4331 and 4231.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4501",
+      "courseId": "ISYE 4501",
+      "title": "Energy, Efficiency, and Sustainability",
+      "description": "Analysis and modeling of energy production and use, material and energy efficiency, sustainability, and cost for systems, products, and services.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4510",
+      "courseId": "ISYE 4510",
+      "title": "Public Health Systems",
+      "description": "This course provides an overview of health systems and public health to explore their positive impact on well-being of individuals and effectiveness of health systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4600",
+      "courseId": "ISYE 4600",
+      "title": "Methods and Applications of Machine Learning",
+      "description": "This course introduces the available methods in machine learning, which methods are better in what situations, objective functions and errors, and how to tune parameters.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4601",
+      "courseId": "ISYE 4601",
+      "title": "Online Learning & Decision Making",
+      "description": "Fundamental theoretical tools for analyzing online methods, algorithmic techniques for developing computationally efficient methods, applications to real-world problems, and discussion around ethical and legal issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4698",
+      "courseId": "ISYE 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4699",
+      "courseId": "ISYE 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4740",
+      "courseId": "ISYE 4740",
+      "title": "Bio-Inspired Design",
+      "description": "We examine evolutionary adaptation as a course for engineering design inspiration, utilizing principles of scaling, adaptability, and robust multifunctionality that characterize biological systems.  Credit not allowed for both ISYE 4740 and (BIOL 4740, or PTFE 4740 or MSE 4740 or ME 4740).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4800",
+      "courseId": "ISYE 4800",
+      "title": "Special Topics",
+      "description": "ISYE Senior Design Preparation.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4801",
+      "courseId": "ISYE 4801",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4802",
+      "courseId": "ISYE 4802",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4803",
+      "courseId": "ISYE 4803",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4804",
+      "courseId": "ISYE 4804",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4813",
+      "courseId": "ISYE 4813",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4823",
+      "courseId": "ISYE 4823",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4833",
+      "courseId": "ISYE 4833",
+      "title": "Honors Topics",
+      "description": "Topics of current interest in the field of ISYE that are covered with an appropriately high level of innovation and rigor.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4843",
+      "courseId": "ISYE 4843",
+      "title": "Special Topics",
+      "description": "Topics of current interest in the field of ISYE.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4852",
+      "courseId": "ISYE 4852",
+      "title": "Special Topics",
+      "description": "Courses in special topics of timely interest to the profession, conducted by resident or visiting faculty.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4991",
+      "courseId": "ISYE 4991",
+      "title": "Special Problems",
+      "description": "A variable hour credit opportunity to develop initiative and apply fundamental principles by performing semioriginal laboratory or research work in ISYE.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4992",
+      "courseId": "ISYE 4992",
+      "title": "Special Problems",
+      "description": "A variable credit hour opportunity to develop initiative and apply fundamental principles by performing semioriginal laboratory or research work in ISYE.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "4993",
+      "courseId": "ISYE 4993",
+      "title": "Special Problems",
+      "description": "A variable credit hour opportunity to develop initiative and apply fundamental principles by performing semioriginal laboratory or research work in ISYE.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6101",
+      "courseId": "ISYE 6101",
+      "title": "Organizational Behavior for Engineers",
+      "description": "Studies the scientific generation, formalization, and application of the knowledge of individual and group behaviors that engineers need to function effectively within contexts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6134",
+      "courseId": "ISYE 6134",
+      "title": "Constraint Programming",
+      "description": "This course is an introduction to constraint programming, from its modeling language to its computational methodology and its applications to scheduling, routing, and resource allocation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6201",
+      "courseId": "ISYE 6201",
+      "title": "Manufacturing Systems",
+      "description": "Topics include analysis of flows, bottlenecks and queuing, types of operations, manufacturing inventories, aggregreate production planning, lot sizes and lead times, and pull production systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6202",
+      "courseId": "ISYE 6202",
+      "title": "Warehousing Systems",
+      "description": "Topics include design and analysis of materials handling systems, warehouse layout, order picking strategies, warehousing inventories, warehouse management systems, integration of production and distribution systems. Credit will not be awarded for both ISYE 6202 and ISYE 6383.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6203",
+      "courseId": "ISYE 6203",
+      "title": "Transportation and Supply Chain Systems",
+      "description": "Topics include supply chain characterization, site location, mode selection, distribution planning, vehicle routing, demand management, replenishment management, geographic information systems, and real-time control issues. Credit will not be awarded for both ISYE 6203 and ISYE 6383.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6205",
+      "courseId": "ISYE 6205",
+      "title": "Cognitive Engineering",
+      "description": "Application of cognitive science concepts to system design, and the development of concepts appropriate for understanding and aiding cognition in naturally or technologically complex environments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6215",
+      "courseId": "ISYE 6215",
+      "title": "Models in Human-Machine Systems",
+      "description": "The development and use of mathematical models of human behavior are considered.  Approaches from estimation theory, control theory, queuing theory, and fuzzy set theory are considered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6223",
+      "courseId": "ISYE 6223",
+      "title": "Understanding and Supporting Human Decision Making",
+      "description": "Prescriptive and descriptive theories of human decision making are discussed/contrasted.  Approaches to aiding human decision making are considered in context of these theoretical frameworks.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6224",
+      "courseId": "ISYE 6224",
+      "title": "Topics in Human-Integrated Systems",
+      "description": "State-of-the-art research directions including supervisory control models of human command control tasks; human-computer interface in scheduling and supervision of flexible manufacturing systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6225",
+      "courseId": "ISYE 6225",
+      "title": "Advanced Engineering Economy",
+      "description": "Advanced engineering economy topics, including economic worth, economic optimization under constraints, risk and uncertainty, foundations of utility theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6227",
+      "courseId": "ISYE 6227",
+      "title": "Introduction to Financial Engineering",
+      "description": "Advanced techniques for economic analysis of capital investment. Basic terminology and financial engineering concepts for managing and valuing project risk. Real options applications in systems engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6229",
+      "courseId": "ISYE 6229",
+      "title": "Productivity Measurement and Analysis",
+      "description": "Modern measurement of productivity measurement and analysis including principles, issues, and latest techniques associated with benchmarking, efficiency measurement, and productivity tracking.  Empirical studies and group projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6230",
+      "courseId": "ISYE 6230",
+      "title": "Economic Decision Analysis",
+      "description": "Topics include preferences and utilities, social choice, equilibrium concepts, noncooperative and cooperative game theory, price mechanisms, auction mechanisms, voting theory, and incentive compatibility.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6231",
+      "courseId": "ISYE 6231",
+      "title": "Design of Human-integrated Systems",
+      "description": "Analysis and design of complex work domains in technological environments.  Credit not allowed for both ISYE 6231 and AE 6721.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6232",
+      "courseId": "ISYE 6232",
+      "title": "Safety-critical Real-time Systems",
+      "description": "Study of system safety, human error, and software reliability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6234",
+      "courseId": "ISYE 6234",
+      "title": "Measurement and Evaluation of Human-integrated Systems",
+      "description": "Measurements of complex systems including workload, operator strategy, and performance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6307",
+      "courseId": "ISYE 6307",
+      "title": "Scheduling Theory",
+      "description": "Includes topics in sequencing and scheduling with emphasis on deterministic machine scheduling problems with some stochastic results examined.  Complexity of various problems will be analyzed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6320",
+      "courseId": "ISYE 6320",
+      "title": "Public Impact Applications of Operations Research and Management Science",
+      "description": "The focus is on the health and public applications of Operations Research.  Students will complete a group project with a non-profit organization and discuss papers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6331",
+      "courseId": "ISYE 6331",
+      "title": "Statistics for Supply Chain Engineering",
+      "description": "Collection, management, and analysis of supply chain data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6332",
+      "courseId": "ISYE 6332",
+      "title": "Finance for Supply Chain Engineering",
+      "description": "Investment and analysis of operating capital.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6333",
+      "courseId": "ISYE 6333",
+      "title": "Operations Research for Supply Chain Engineering I",
+      "description": "Deterministic models of supply chains including location and material flow.  Optimization techniques including linear programming, network flows, integer programming, and heuristics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6334",
+      "courseId": "ISYE 6334",
+      "title": "Operations Research fo Supply Chain Engineering II",
+      "description": "Probabilistic models of supply chains, including the effects of variability; models of wholesale and retail demand; forecasting and simulation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6335",
+      "courseId": "ISYE 6335",
+      "title": "Supply Chain Engineering I",
+      "description": "Production scheduling; inventory systems; warehousing, including stocking strategies, order-picking, sortation, automation; distribution.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6336",
+      "courseId": "ISYE 6336",
+      "title": "Supply Chain Engineering II",
+      "description": "Transportation: truck-load and less-than-truckload, and package-courier systems; container shipping, including port operations, steamship scheduling; railroad operations, including intermodal; air cargo.  The international freight network and patterns of freight flow.  Management and recirculation of trailers/containers.  Labor issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6337",
+      "courseId": "ISYE 6337",
+      "title": "Supply Chain Engineering III",
+      "description": "Problems of coordination and collaboration along the supply chain; make-or-buy decisions; pricing and auctions; wholesale and retail channels; supply chain dynamics, including the bullwhip effect.  Distinctive supply chain issues in key economies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6338",
+      "courseId": "ISYE 6338",
+      "title": "Suppply Chain Strategy",
+      "description": "Case studies of notable supply chains successes and failures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6339",
+      "courseId": "ISYE 6339",
+      "title": "Supply Chain Information Systems",
+      "description": "Planning and executing systems for inventory, warehousing, transportation, import/export, etc.  Services-oriented architecture, cloud computing; systems integration; RFID and other technologies for scanning and monitoring.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6340",
+      "courseId": "ISYE 6340",
+      "title": "Supply Chain Engineering Seminar",
+      "description": "Through a program of industry speakers and facility tours, student will learn to assess and critique supply chain practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6341",
+      "courseId": "ISYE 6341",
+      "title": "Capstone Project for Supply Chain Engineering I",
+      "description": "Small groups of students undertake an industry-sponsored project under faculty guidance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6342",
+      "courseId": "ISYE 6342",
+      "title": "Capstone Project for Supply Chain Engineering II",
+      "description": "Small groups of students undertake an industry-sponsored project under faculty guidance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6380",
+      "courseId": "ISYE 6380",
+      "title": "Production Planning and Control",
+      "description": "Fundamentals of Production Planning and Lean Manufacturing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6381",
+      "courseId": "ISYE 6381",
+      "title": "Manufacturing Reliability",
+      "description": "Fundamentals of Reliability and Maintainability Engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6382",
+      "courseId": "ISYE 6382",
+      "title": "Quality Control and Six Sigma",
+      "description": "Fundamentals of Quality Control and Six Sigma Methods. Credit will not be awarded for both ISYE 6382 and ISYE 3039.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6383",
+      "courseId": "ISYE 6383",
+      "title": "Fundamentals of Manufacturing Supply Chain Operations",
+      "description": "Fundamentals of Manufacturing Supply Chain Operations. Credit will not be awarded for both ISYE 6383 and ISYE 6202 or ISYE 6383 and ISYE 6203.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6384",
+      "courseId": "ISYE 6384",
+      "title": "Advanced Manufacturing",
+      "description": "Introduction to advanced manufacturing and applications of process modeling methods for understanding and improving processes and systems for advanced composites, nanomaterials/nanomanufacturing, and additive manufacturing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6401",
+      "courseId": "ISYE 6401",
+      "title": "Statistical Modeling and Design of Experiments",
+      "description": "Fundamental coverage of topics in multiple regression and factorial experiments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6402",
+      "courseId": "ISYE 6402",
+      "title": "Time Series Analysis",
+      "description": "Basic forecasting methods, ARIMA models, transfer functions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6404",
+      "courseId": "ISYE 6404",
+      "title": "Nonparametric Data Analysis",
+      "description": "Nonparametric statistics and basic categorical data analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6405",
+      "courseId": "ISYE 6405",
+      "title": "Statistical Methods for Manufacturing Design and Improvement",
+      "description": "Fractional factorial designs, response surface methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6411",
+      "courseId": "ISYE 6411",
+      "title": "Fundamentals of Statistics with Applications",
+      "description": "Relationships of statistical estimation and linear models with regression, planning and analysis of experiments, and the analysis of correlated data.  More mathematical than ISYE 6401.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6412",
+      "courseId": "ISYE 6412",
+      "title": "Theoretical Statistics",
+      "description": "Rigorous introduction to theory of statistical inference. Estimation and testing. Construction and assessment of estimators and tests. Fundamentals of decision theory, minimax, and Bayes Paradigms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6413",
+      "courseId": "ISYE 6413",
+      "title": "Design and Analysis of Experiments",
+      "description": "Analysis of variance, full and fractional factoral designs at two and three levels, orthogonal arrays, response surface methodology, robust parameter design for production/process improvement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6414",
+      "courseId": "ISYE 6414",
+      "title": "Statistical Modeling and Regression Analysis",
+      "description": "Simple and multiple linear regression, inferences and diagnostics, stepwise regression and model selection, advanced regression methods, basic design and analysis of experiments, factorial analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6416",
+      "courseId": "ISYE 6416",
+      "title": "Computational Statistics",
+      "description": "This class describes the available knowledge regarding statistical computing. Topics include random deviates generation, importance sampling, Monte Carlo Markov chain (MCMC), EM algorithms, bootstrapping, model selection criteria, (e.g. C-p, AIC, etc.) splines, wavelets, and Fourier transform.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6420",
+      "courseId": "ISYE 6420",
+      "title": "Introduction to Theory and Practice of Bayesian Statistics",
+      "description": "Rigorous introduction to the theory of Beysian Statistical Inference. Bayesian estimation and testing. Conjugate priors. Noninformative priors. Bayesian computation. Bayesian networks and Bayesian signal processing. Various engineering applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6421",
+      "courseId": "ISYE 6421",
+      "title": "Biostatistics",
+      "description": "An introduction to fundamental ideas and techniques in Biostatistics, with an emphasis on conceptual understanding and on the analysis of real data sets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6501",
+      "courseId": "ISYE 6501",
+      "title": "Introduction to Analytics Modeling",
+      "description": "An introduction to important and commonly-used models in analytics, as well as aspects of the modeling process.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6525",
+      "courseId": "ISYE 6525",
+      "title": "High Dimensional Data Analytics",
+      "description": "A variety of topics such as functional data analysis, image processing, multilinear algebra and tensor analysis, and regularization in high-dimensional regression.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6644",
+      "courseId": "ISYE 6644",
+      "title": "Simulation",
+      "description": "Covers modeling of discrete-event dynamic systems and introduces methods for using these models to solve engineering design and analysis problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6645",
+      "courseId": "ISYE 6645",
+      "title": "Monte Carlo Methods",
+      "description": "Covers state-of-the-art Monte Carlo simulation techniques. These techniques will be used to model and solve a variety of real-world problems from several diverse areas in science and engineering, including supply chain analysis and design, pattern recognition, VLSI design, network reliability, financial engineering, and molecular biology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6650",
+      "courseId": "ISYE 6650",
+      "title": "Probabilistic Models and Their Applications",
+      "description": "An introduction to basic stochastic processes such as Poisson and Markov processes and their applications in areas such as inventory, reliability, and queueing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6656",
+      "courseId": "ISYE 6656",
+      "title": "Queuing Theory",
+      "description": "Processing networks with queuing.  Performance analysis using Markov process description of system behavior. Applications and numerical studies in manufacturing, system maintainability, computer systems, telecommunication networks.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6661",
+      "courseId": "ISYE 6661",
+      "title": "Linear Optimization",
+      "description": "Theory, algorithms, and applications of linear programming.  Topics include the simplex method and resolution of degeneracy, duality and sensitivity analysis, basis factorization, the dual and revised simplex methods, and geometry of polyhedra. Intended for Ph.D. students.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6662",
+      "courseId": "ISYE 6662",
+      "title": "Discrete Optimization",
+      "description": "Fundamentals of integer and combinatorial optimization. Topics include polyhedra, cuts, Lagrangean duality, complexity, and others.  This course is intended for Ph.D. students.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6663",
+      "courseId": "ISYE 6663",
+      "title": "Nonlinear Optimization",
+      "description": "Fundamentals of nonlinear optimization.  Topics include optimality conditions; convex programming and duality; unconstrained and constrained methods. Polynomial algorithms and interior point methods. Dual methods. This course is for students seriously considering a PhD.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6664",
+      "courseId": "ISYE 6664",
+      "title": "Stochastic Optimization",
+      "description": "An introduction to sequential decision making under uncertainty.  Much of the course is devoted to the theoretical, modeling, and computational aspects of Markov decision processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6669",
+      "courseId": "ISYE 6669",
+      "title": "Deterministic Optimization",
+      "description": "An introduction to deterministic optimization methodologies including approaches from linear, discrete, and nonlinear optimization including algorithms and computations. Applications will be introduced as appropriate.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6673",
+      "courseId": "ISYE 6673",
+      "title": "Financial Optimization Models",
+      "description": "An introduction to optimization techniques with special emphasis on applications to finance, including portfolio optimization, immunization, and risk management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6679",
+      "courseId": "ISYE 6679",
+      "title": "Computational Methods in Optimization",
+      "description": "Strategies and techniques for converting optimization theory into effective computational procedures.  Emphasis is on applications in linear, integer, and nonlinear programming; networks and graphs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6701",
+      "courseId": "ISYE 6701",
+      "title": "Energy Technology and Policy",
+      "description": "Examines energy production, use, and production, use, and policy using quantitative engineering and policy analysis. Addresses resource constraints, physical principles, and policy analysis methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6739",
+      "courseId": "ISYE 6739",
+      "title": "Basic Statistical Methods",
+      "description": "Overview of basic tools used in statistical analysis and modeling.  Credit not allowed to students seeking a degree in ISYE.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6740",
+      "courseId": "ISYE 6740",
+      "title": "Computational Data Analysis: Learning, Mining, and Computation",
+      "description": "Theoretical/computational foundations of analyzing large/complex modern datasets, including the fundamental concepts of machine learning and data mining needed for both resesarch and practice. Crosslisted with CSE 6740. Credit not awarded for both ISYE 6740 and CS 4641/7641/CSE 6740.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6748",
+      "courseId": "ISYE 6748",
+      "title": "Applied Analytics Practicum",
+      "description": "Practical analytics project experience applying ideas from the classroom to a significant project of interest to a business, government agency, or other organization.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6759",
+      "courseId": "ISYE 6759",
+      "title": "Stochastic Processes in Finance",
+      "description": "Mathematical modeling of financial markets, derivative securities pricing, and portfolio optimization.  Concepts from probability and mathematics are introduced as needed. Crosslisted with MATH 6759.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6761",
+      "courseId": "ISYE 6761",
+      "title": "Stochastic Processes I",
+      "description": "Discrete time Markov chains, Poisson and renewal processes; transient and limiting behavior; average cost and utility measures of systems. Intended for Ph.D students. Crosslisted with MATH 6761.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6762",
+      "courseId": "ISYE 6762",
+      "title": "Stochastic Processes II",
+      "description": "Continuous time Markov chains; uniformization, transient and limiting behavior; Brownian motion and martingales; optional sampling and convergence.  Intended for Ph.D. students. Crosslisted with MATH 6762.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6767",
+      "courseId": "ISYE 6767",
+      "title": "Design and Implementation of Systems to Support",
+      "description": "Introduction to large-scale system design to support computational finance for options, stocks, or other financial instruments. Some programming experience and previous exposure to stocks, bonds, and options required.  Crosslisted with MATH 6767.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6769",
+      "courseId": "ISYE 6769",
+      "title": "Fixed Income Securities",
+      "description": "Description, institutional features, and mathematical modeling of fixed income securities.  Use of both deterministic and stochastic models. Crosslisted with MATH 6769.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6772",
+      "courseId": "ISYE 6772",
+      "title": "Managing Resources of the Technological Firm",
+      "description": "This course explores the competitive advantage manufacturing and service firms derive from the effective management of their technology, workforce, materials, and information resources. Crosslisted with MGT 6772.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6773",
+      "courseId": "ISYE 6773",
+      "title": "Strategic Management of Technology-based Ventures",
+      "description": "This course provides a forum for the in-depth examination of issues involving the strategic management of high-tech corporate start-ups and small technology-based businesses. Crosslisted with MGT 6773.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6774",
+      "courseId": "ISYE 6774",
+      "title": "Management of Technology Project",
+      "description": "This course organizes students into multidisciplinary teams devoted to solving a real problem for a technology-based firm.  Crosslisted with MGT 6774.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6775",
+      "courseId": "ISYE 6775",
+      "title": "Management of Technology Seminar",
+      "description": "This course introduces the frontiers of key technologies, provides a forum for visiting speakers from the corporate world, and supplements topics from other MOT courses. Crosslisted with MGT 6775.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6777",
+      "courseId": "ISYE 6777",
+      "title": "Analysis of Emerging Technologies",
+      "description": "Methods for technology monitoring, forecasting, and assessment. Crosslisted with PUBP 6777.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6779",
+      "courseId": "ISYE 6779",
+      "title": "Dynamic System Simulation and Modeling",
+      "description": "Models of dynamic systems, such as aircraft,ground vehicles, and machinery, and manual control. Numerical simulation techniques and applications. Interactive simulators. Student programming project. Crosslisted with AE 6779.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6781",
+      "courseId": "ISYE 6781",
+      "title": "Reliability Theory",
+      "description": "Structural properties and reliability of coherent systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6783",
+      "courseId": "ISYE 6783",
+      "title": "Statistical Techniques of Financial Data Analysis",
+      "description": "Fundamentals of statistical inference for models used in the modern analysis of financial data. Crosslisted with MATH 6783.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6785",
+      "courseId": "ISYE 6785",
+      "title": "The Practice of Quantitative and Computational Finance",
+      "description": "Case studies, visiting lecturers from financial institutions, student group projects of an advanced nature, and student reports, all centered around quantitative and computational finance. Crosslisted with MATH and MGT 6785.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6792",
+      "courseId": "ISYE 6792",
+      "title": "Computer Integrated Manufacturing Systems Seminar",
+      "description": "Guest speakers on a broad range of manufacturing-related topics:  research, applications, and technology. Required for Certificate in Manufacturing.  Crosslisted with ECE and ME 6792.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6793",
+      "courseId": "ISYE 6793",
+      "title": "Advanced Topics in Quantitative and Computational Finance",
+      "description": "Advanced foundational material and analysis techniques in quantitative and computational finance. Crosslisted with MATH 6793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6795",
+      "courseId": "ISYE 6795",
+      "title": "Introduction to Cognitive Science",
+      "description": "Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action.  Crosslisted with CS and PSYC 6795.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6805",
+      "courseId": "ISYE 6805",
+      "title": "Reliability Engineering",
+      "description": "Topics include hazard functions, life distributions, censoring, life tables, nonparametric and parametric estimation and inference, accelerated life testing, structure functions, reliability and maintenance systems, replacement theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6810",
+      "courseId": "ISYE 6810",
+      "title": "Systems Monitoring and Prognostics",
+      "description": "The course focuses on sensor-based condition monitoring techniques, modeling of degradation processes, fault diagnostics and prognostics of failures in engineering systems using stochastic and statistical methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6815",
+      "courseId": "ISYE 6815",
+      "title": "Industrial Predictive Analytics",
+      "description": "The course focuses on using Statistical and Machine Learning-based models for survival analysis, and predicting future trends and events.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6831",
+      "courseId": "ISYE 6831",
+      "title": "Advanced Simulation",
+      "description": "Topics include generalized semi-Markov processes; input and output analysis; random number, variate, and sample path generation, rare event simulation; and optimization via simulation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "6832",
+      "courseId": "ISYE 6832",
+      "title": "Simulation Theory and Methods",
+      "description": "Theory, algorithms, and applications of computer simulation. Topics include generalized semi-Markov processes; input-output analysis; random number, variate, and sample path generation; variance reduction techniques; and optimization via simulation.  This course is intended for Ph.D. students.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7000",
+      "courseId": "ISYE 7000",
+      "title": "Master's Thesis",
+      "description": "Required of degree candidates in the master's thesis option.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7201",
+      "courseId": "ISYE 7201",
+      "title": "Production and Service Systems Engineering",
+      "description": "Advanced models in operations planning, scheduling and control of supply chain, production and service systems. Intended for Ph.D. students.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7203",
+      "courseId": "ISYE 7203",
+      "title": "Logistics Systems Engineering",
+      "description": "Advanced modeling and analysis of freight transportation and logistics systems.  Intended for Ph.D. students.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7204",
+      "courseId": "ISYE 7204",
+      "title": "Informatics in Production & Service Systems",
+      "description": "A course covers integration of statistics, signal processing and control for variability reduction (modeling, analysis, diagnosis, control) for complex systems in a data rich environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7205",
+      "courseId": "ISYE 7205",
+      "title": "Inventory Theory",
+      "description": "Introduces students to the general quantitative models and fundamental theoretical tools underlying some of the novel inventory management strategies of cutting-edge companies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7210",
+      "courseId": "ISYE 7210",
+      "title": "Real-time Interactive Simulation",
+      "description": "Principles and laboratory experience in design and implementation of interactive simulations of complex dynamic systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7400",
+      "courseId": "ISYE 7400",
+      "title": "Advanced Design of Experiments",
+      "description": "Random and mixed models, nested and blocked designs. Intended for Ph.D. students and those seeking the M.S. in Statistics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7401",
+      "courseId": "ISYE 7401",
+      "title": "Advanced Statistical Modeling",
+      "description": "Nonlinear models, logistic regression, loglinear models. Intended for Ph.D. students and those seeking the M.S. in Statistics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7405",
+      "courseId": "ISYE 7405",
+      "title": "Multivariate Data Analysis",
+      "description": "Multivariate ANOVA, principal components, factor analysis etc. Intended for Ph.D. students and those seeking the M.S. in Statistics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7406",
+      "courseId": "ISYE 7406",
+      "title": "Data Mining and Statistical Learning",
+      "description": "Topics include neural networks, support vector machines, classification trees, boosting and discriminant analyses. Intended for Ph.D. students and those seeking the M.S. in Statistics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7441",
+      "courseId": "ISYE 7441",
+      "title": "Linear Statistical Models I",
+      "description": "Intended for Ph.D. students and those seeking the M.S. in Statistics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7510",
+      "courseId": "ISYE 7510",
+      "title": "Graph Algorithms",
+      "description": "Algorithms for graph problems such as maximum flow, covering, matching, coloring, planarity, minimum cuts, shortest paths, and connectivity. Crosslisted with MATH 7510 and CS 7510.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7653",
+      "courseId": "ISYE 7653",
+      "title": "Case Studies in Logistics/Manufacturing",
+      "description": "Advanced topics in logistics and manufacturing through the use of industrial case studies.  Difficult modeling issues such as data representation and consistency will be introduced.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7661",
+      "courseId": "ISYE 7661",
+      "title": "Theory of Linear Inequalities",
+      "description": "Theoretical foundations of linear and integer programming. Topics include representation of polyhedra, polarity, simplex and ellipsoid algorithms, diophantine equations, Hilbert bases, total dual integrality, and others.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7682",
+      "courseId": "ISYE 7682",
+      "title": "Convexity",
+      "description": "Convex sets, theory of finite systems of linear inequalities, convex functions, convex programming.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7683",
+      "courseId": "ISYE 7683",
+      "title": "Advanced Nonlinear Programming",
+      "description": "Convex programming; linear, conic quadratic and semidefinite programming; cheap optimization methods for extremely large-scale convex problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7686",
+      "courseId": "ISYE 7686",
+      "title": "Advanced Combinatorial Optimization",
+      "description": "Typical coverage includes: Matching theory, network optimization, traversals in graphs, integrality of polyhedra, matroids, covers, cliques, and stable sets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7687",
+      "courseId": "ISYE 7687",
+      "title": "Advanced Integer Programming",
+      "description": "General integer modeling concepts; valid inequalities and facets; duality; general algorithms such as branch-and-bound and branch-and-cut; special purpose algorithms; applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7688",
+      "courseId": "ISYE 7688",
+      "title": "Computational Mathematical Programming",
+      "description": "Study of solution techniques in mathematical optimization, emphasizing computational aspects of both theory and algorithms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7750",
+      "courseId": "ISYE 7750",
+      "title": "Mathematical Foundations of Machine Learning",
+      "description": "Provides the mathematical background for two of the pillars of modern data science: linear algebra and applied probability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7751",
+      "courseId": "ISYE 7751",
+      "title": "Probabilistic Graphical Models in Machine Learning",
+      "description": "The course provides an introduction to theory and practice of graphical models in machine learning. It covers three main aspects; representation, probabilistic inference, and learning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7790",
+      "courseId": "ISYE 7790",
+      "title": "Cognitive Modeling",
+      "description": "A hands-on course covering a range of cognitive methodologies. It explores the analysis, development, construction, and evaluation of models of cognitive processing.  Crosslisted with CS and PSYC 7790.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "7800",
+      "courseId": "ISYE 7800",
+      "title": "Math of Operations Research",
+      "description": "Topics include Real Analysis (countable sets, basic topological notions, sequence, series, continuity), Basic Linear Algebra (linear transformations, vector spaces, singular value decomposition), and writing mathematical proofs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8010",
+      "courseId": "ISYE 8010",
+      "title": "First Year PhD Seminar",
+      "description": "Introduce IE/OR/ACO PhD graduate students to faculty and research topics, discuss and demonstrate basic graduate student resources, and acclimatize students to graduate school.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8011",
+      "courseId": "ISYE 8011",
+      "title": "Seminar",
+      "description": "Audit basis only.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8012",
+      "courseId": "ISYE 8012",
+      "title": "Seminar",
+      "description": "Audit basis only.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8013",
+      "courseId": "ISYE 8013",
+      "title": "Seminar",
+      "description": "Audit basis only.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8014",
+      "courseId": "ISYE 8014",
+      "title": "Contemporary Topics in System Informatics and Control",
+      "description": "A seminar course to introduce important research problems and applications related to the system informatics and control in production and service systems.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8020",
+      "courseId": "ISYE 8020",
+      "title": "PhD Presentation Seminar",
+      "description": "Seminar for PhD students in IE/OR/ACO to improve and practice technical communication skills.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8795",
+      "courseId": "ISYE 8795",
+      "title": "Colloquium in Cognitive Sciences",
+      "description": "Reading of research papers by leading cognitive scientists, attendance at their colloquia, and meeting with them to discuss research. Crosslisted with CS and PSYC 8795.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8802",
+      "courseId": "ISYE 8802",
+      "title": "Special Topics in ISYE",
+      "description": "Special Topics in Industrial and Systems Engineering.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8803",
+      "courseId": "ISYE 8803",
+      "title": "Special Topics",
+      "description": "Special topics in Industrial and Systems Engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8811",
+      "courseId": "ISYE 8811",
+      "title": "Special Topics",
+      "description": "Special topics in Industrial and Systems Engineering.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8813",
+      "courseId": "ISYE 8813",
+      "title": "Special Topics in Operations Research",
+      "description": "Special Topics in the field of Operations Research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8843",
+      "courseId": "ISYE 8843",
+      "title": "Advanced Topics in Statistics",
+      "description": "For Ph.D. students.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8851",
+      "courseId": "ISYE 8851",
+      "title": "Topics in Manufacturing",
+      "description": "Current topics in manufacturing including: manufacturing automation and controls, advanced planning systems, heuristic scheduling techniques, stochastic models of manufacturing systems, advanced warehousing, and materials handling.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8852",
+      "courseId": "ISYE 8852",
+      "title": "Topics in Logistics",
+      "description": "Current topics in logistics including: inventory control in supply chain design, stochastic vehicle routing, computational methods in logistics systems, location theory, and geographic information systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8861",
+      "courseId": "ISYE 8861",
+      "title": "Advanced Topics in Stochastics",
+      "description": "Coverage of advanced topics of interest that support research interests of students in the field.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8862",
+      "courseId": "ISYE 8862",
+      "title": "Advanced Topics in Simulation",
+      "description": "Coverage of advanced topics of interest that support research interests of students in the field.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8871",
+      "courseId": "ISYE 8871",
+      "title": "Advanced Topics in Linear and Discrete Optimization",
+      "description": "Topics may vary with each offering and include subjects such as integer programming, combinatorics, graphs and networks, matching, matroids, polyhedral combinatroics, as well as others.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8872",
+      "courseId": "ISYE 8872",
+      "title": "Advanced Topics in Nonlinear Optimization",
+      "description": "Similar to ISYE 8871 but deals with subjects in nonlinear programming, interior-point methods, convexity, global optimization, etc. Topics may vary each term.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8893",
+      "courseId": "ISYE 8893",
+      "title": "Special Topics in Cognitive Science",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8900",
+      "courseId": "ISYE 8900",
+      "title": "Special Problems in Industrial Engineering",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8901",
+      "courseId": "ISYE 8901",
+      "title": "Special Problems in Operations Research",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8997",
+      "courseId": "ISYE 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "8998",
+      "courseId": "ISYE 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "ISYE",
+      "courseNumber": "9000",
+      "courseId": "ISYE 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 185,
+  "scrapedAt": "2025-08-16T02:00:41.440Z"
+}

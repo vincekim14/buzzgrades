@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "7025",
+  "courseId": "ECON 7025",
+  "title": "Empirical Res Methods",
+  "description": "Topics include up-to-date theory for data analysis, including time series, cross section and panel, and empirical applications using panel data, time series data and cross-sectional data.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 7023 Graduate Semester Minimum Grade of D and ECON 7013 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:30.167Z"
+}

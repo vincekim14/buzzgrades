@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "2551",
+  "courseId": "MATH 2551",
+  "title": "Multivariable Calculus",
+  "description": "Multivariable calculus: Linear approximation and Taylor's theorems, Lagrange multiples and constrained optimization, multiple integration and vector analysis including the theorems of Green, Gauss, and Stokes. Credit will not be awarded for both MATH 2551 and MATH 2401 or MATH 2411 or MATH 2561.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or MATH 1504 Undergraduate Semester Minimum Grade of D or MATH 1555 Undergraduate Semester Minimum Grade of D or ((MATH 1552 Undergraduate Semester Minimum Grade of D or MATH 15X2 Undergraduate Semester Minimum Grade of T or MATH 1X52 Undergraduate Semester Minimum Grade of T) and (MATH 1553 Undergraduate Semester Minimum Grade of D or MATH 1X54 Undergraduate Semester Minimum Grade of T or MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1564 Undergraduate Semester Minimum Grade of D or MATH 1522 Undergraduate Semester Minimum Grade of D or MATH 1X53 Undergraduate Semester Minimum Grade of T))",
+  "lastUpdated": "2025-08-20T02:42:26.388Z"
+}

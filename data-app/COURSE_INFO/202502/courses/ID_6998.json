@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "6998",
+  "courseId": "ID 6998",
+  "title": "HCI Master&#39;s Project",
+  "description": "Final project for students completing a Human-Computer Interaction master's degree in the Digitial Media track. Repeatable for multi-semester projects.",
+  "creditHours": "1 to 9",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:59.817Z"
+}

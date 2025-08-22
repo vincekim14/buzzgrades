@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECON",
+  "courseNumber": "4990",
+  "courseId": "ECON 4990",
+  "title": "Econ Internship",
+  "description": "Course projects related to professional internships.  Topics and requirements to be arranged by student, instructor, and sponsor.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or (ECON 2105 Undergraduate Semester Minimum Grade of D and ECON 2106 Undergraduate Semester Minimum Grade of D) or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:52.899Z"
+}

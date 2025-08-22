@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "6753",
+  "courseId": "PSYC 6753",
+  "title": "HCI Prof Prep &amp; Practice",
+  "description": "Preparation for a professional career in HCI. Hands-on workshops in resume and portfolio building, interviewing, public speaking, team work. HCI career choices and trajectories.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:40.641Z"
+}

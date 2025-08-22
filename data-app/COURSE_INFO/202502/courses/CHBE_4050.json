@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHBE",
+  "courseNumber": "4050",
+  "courseId": "CHBE 4050",
+  "title": "Microelec Fabrication",
+  "description": "An elective class for students interested in fabrication of semiconductor devices focusing on the fundamentals of materials synthesis, chemical and mechanical properties, and chemical reactions. Credit will not be awarded for both CHBE 4050 and CHBE 6050.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 3200 Undergraduate Semester Minimum Grade of C and (CHBE 3110 Undergraduate Semester Minimum Grade of C or CHBE 3130 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:36:19.540Z"
+}

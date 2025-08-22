@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BMED",
+  "courseNumber": "3410",
+  "courseId": "BMED 3410",
+  "title": "Intro to Biomechanics",
+  "description": "Introduces concepts and approaches for biomedical deformation and dynamics problems using the application of simple models from statics, mechanics of materials, kinematics, and dynamics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 2001 Undergraduate Semester Minimum Grade of D and (MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2X51 Undergraduate Semester Minimum Grade of D or MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 24X1 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:36:14.825Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "8812",
+  "courseId": "MGT 8812",
+  "title": "Global Brand &amp; Product Mgt.",
+  "description": "Topics of current interest.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:09.354Z"
+}

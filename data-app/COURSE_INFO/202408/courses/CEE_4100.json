@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4100",
+  "courseId": "CEE 4100",
+  "title": "Construction Engr &amp; Mgt",
+  "description": "Fundamental concepts in planning, design, and construction of civil engineering projects.  Introduction to project scheduling, cost estimating, controls, procurement, value engineering, quality assurance, and safety.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:21.505Z"
+}

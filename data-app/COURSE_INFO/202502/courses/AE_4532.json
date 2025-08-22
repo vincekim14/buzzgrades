@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "AE",
+  "courseNumber": "4532",
+  "courseId": "AE 4532",
+  "title": "Spacecraft Flight Dynam",
+  "description": "Cover fundamental material in orbit and attitude dynamics. Investigate orbits, rendezvous/intercept maneuvers, interplanetary transfers, attitude coordinates, attitude stability, attitude control, and attitude estimation. Students cannot receive credit for both AE 4532 and AE 4310.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 3530 Undergraduate Semester Minimum Grade of D and AE 3330 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:10.471Z"
+}

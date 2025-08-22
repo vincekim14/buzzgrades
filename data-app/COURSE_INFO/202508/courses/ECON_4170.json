@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "4170",
+  "courseId": "ECON 4170",
+  "title": "Mathematical Economics",
+  "description": "Applies mathematical tools to economic analysis. Topics include the uses of linear algebra, multivariable calculus, comparative-static analysis, and optimization in economics.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 3110 Undergraduate Semester Minimum Grade of D and ECON 3120 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:19.065Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CHBE",
+  "courseNumber": "6229",
+  "courseId": "CHBE 6229",
+  "title": "Intro to MEMS",
+  "description": "Introduction to Micro-Electro-Mechanical Systems:  Microfabrication techniques including: photolithography, etching, physical and chemical vapor deposition, electroplating, bonding and polymer processing.  Application to sensors and actuators.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:45.265Z"
+}

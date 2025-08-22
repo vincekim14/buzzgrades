@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "6456",
+  "courseId": "CS 6456",
+  "title": "Principles-UI Software",
+  "description": "Considers the architectural and algorithmic principles behind the implementation of interactive software systems and the tools that support them. Credit not awarded for CS 6456 and CS 4470.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 6750 Undergraduate Semester Minimum Grade of D or PSYC 6750 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:21.445Z"
+}

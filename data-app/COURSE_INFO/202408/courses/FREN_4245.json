@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "FREN",
+  "courseNumber": "4245",
+  "courseId": "FREN 4245",
+  "title": "Women in Film",
+  "description": "This course will explore representations of women in French films and women's roles in the film industry. Taught in French.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:36.106Z"
+}

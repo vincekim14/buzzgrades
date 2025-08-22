@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CX",
+  "courseNumber": "4240",
+  "courseId": "CX 4240",
+  "title": "Computing for Data Analy",
+  "description": "Computational techniques needed for data analysis; programming, accessing databases, multidimensional arrays, basic numerical computing, and visualization; hands-on applications and case studies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1371 Undergraduate Semester Minimum Grade of C or CS 1301 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:18.279Z"
+}

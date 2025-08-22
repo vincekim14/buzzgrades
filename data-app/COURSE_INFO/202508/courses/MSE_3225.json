@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "3225",
+  "courseId": "MSE 3225",
+  "title": "Rheology",
+  "description": "Introduction to non-Newtonian fluid mechanics and rheology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 3200 Undergraduate Semester Minimum Grade of D or ME 3340 Undergraduate Semester Minimum Grade of D or MSE 3210 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:45.406Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "GT",
+  "courseNumber": "6000",
+  "courseId": "GT 6000",
+  "title": "GT Grad Groups Seminar",
+  "description": "Georgia Tech’s extended-orientation program for first-semester graduate students promoting a positive student experience through social interaction, familiarization with campus resources, and peer mentorship.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:06.536Z"
+}

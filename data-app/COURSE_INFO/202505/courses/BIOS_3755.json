@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "BIOS",
+  "courseNumber": "3755",
+  "courseId": "BIOS 3755",
+  "title": "Human Physiology",
+  "description": "Students will explore the function and adaptation of the human body emphasizing neuromuscular, cardio-respiratory, gastrointestinal, endocrine, and urinary systems to maintain homeostasis and human health.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "((BIOS 1108 Undergraduate Semester Minimum Grade of D or BIOS 1208 Undergraduate Semester Minimum Grade of D) and (BIOS 1108L Undergraduate Semester Minimum Grade of D or BIOS 1208L Undergraduate Semester Minimum Grade of D)) or BIOS 3753 Undergraduate Semester Minimum Grade of D or BIOL 3753 Undergraduate Semester Minimum Grade of D or APPH 3753 Undergraduate Semester Minimum Grade of D or BIOL 1520 Undergraduate Semester Minimum Grade of D or BIOL 1521 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:27.065Z"
+}

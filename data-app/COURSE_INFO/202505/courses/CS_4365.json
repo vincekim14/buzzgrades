@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CS",
+  "courseNumber": "4365",
+  "courseId": "CS 4365",
+  "title": "Intro Enterprise Comp",
+  "description": "A survey of basic software tools and techniques used in mission-critical systems and applications, combined with in-depth study of fundamental principles underlying enterprise computing.  Credit not allowed for both 4365 and CS 6365.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3210 Undergraduate Semester Minimum Grade of C or CS 4400 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:13.309Z"
+}

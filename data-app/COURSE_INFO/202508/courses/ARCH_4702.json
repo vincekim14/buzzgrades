@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "4702",
+  "courseId": "ARCH 4702",
+  "title": "Design Scripting",
+  "description": "Learning the concepts and application of scripting languages in architecture and form generation. Credit will not be awarded for both ARCH 4702 and ARCH 6502.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 2472 Undergraduate Semester Minimum Grade of D and ARCH 2474 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:18.541Z"
+}

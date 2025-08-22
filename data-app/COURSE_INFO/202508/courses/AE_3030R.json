@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "AE",
+  "courseNumber": "3030R",
+  "courseId": "AE 3030R",
+  "title": "Aerodynamics Recitation",
+  "description": "Recitation course for AE 3030.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "AE 3030",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:54.283Z"
+}

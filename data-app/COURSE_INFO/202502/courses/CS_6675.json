@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "6675",
+  "courseId": "CS 6675",
+  "title": "Advance Internet Comput",
+  "description": "Survey of basic Internet computing concepts and techniques used in Internet systems and applications, combined with in-depth study of fundamental principles underlying Internet computing.  Credit not allowed for both CS 6675 and CS 4675.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3210 Undergraduate Semester Minimum Grade of D or CS 4499 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:50.842Z"
+}

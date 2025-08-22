@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "4067",
+  "courseId": "MGT 4067",
+  "title": "Fncl Mkts Trading&amp;Struct",
+  "description": "The course focuses on liquidity, market structure and trading.  Attention is given to the efficiency of trading systems and the role of intermediaries on market structure issues.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3076 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:50.668Z"
+}

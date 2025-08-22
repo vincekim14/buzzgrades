@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "3225",
+  "courseId": "CHBE 3225",
+  "title": "Separations Processes",
+  "description": "Fundamentals of equilibrium-stage and continuous contacting operations.  Applications of principles to distillation, absorption/stripping, extraction, absorption, and other separation technologies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHBE 3130 Undergraduate Semester Minimum Grade of C or CHBE 2140 Undergraduate Semester Minimum Grade of C) and ((CHBE 3200 Undergraduate Semester Minimum Grade of C and CHBE 3210 Undergraduate Semester Minimum Grade of C) or CHBE 3215 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:37:12.547Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "6582",
+  "courseId": "CHEM 6582",
+  "title": "Biophysical Chemistry",
+  "description": "Applications of the principles and techniques of physical chemistry in biochemistry, with emphasis in the equilibrium and dynamic behavior of macromolecules in solution.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:41.260Z"
+}

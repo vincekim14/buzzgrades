@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "3084",
+  "courseId": "MGT 3084",
+  "title": "Derivative Securities",
+  "description": "An introduction to options, futures, and swaps is provided. Concepts of arbitrage, index trading, and portfolio insurance are discussed.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3062 Undergraduate Semester Minimum Grade of D or MGT 3078 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:45.657Z"
+}

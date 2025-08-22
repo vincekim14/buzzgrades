@@ -1,0 +1,21 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "4103",
+  "courseId": "ID 4103",
+  "title": "Alias Studio I",
+  "description": "Introduction to modeling, rendering, and animation with Alias Studio software.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Must be enrolled in one of the following Classes:",
+    "__DETAIL_1__Ph.D. (DR)",
+    "__DETAIL_1__Masters (MS)",
+    "__DETAIL_1__Special Graduate (SG)",
+    "__DETAIL_1__Senior (SR)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:20.830Z"
+}

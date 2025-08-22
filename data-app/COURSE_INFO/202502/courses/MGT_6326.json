@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6326",
+  "courseId": "MGT 6326",
+  "title": "Collaborative Prod Dev",
+  "description": "Introduction to product development and product management topics through management science techniques and statistical analysis. These include product strategy, idea generation, experiment design, market development, managing product portfolios and positioning, testing of prototype systems, and brand management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:43.826Z"
+}

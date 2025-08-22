@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "3076",
+  "courseId": "MGT 3076",
+  "title": "Investments",
+  "description": "Introduction to the securities markets and a study of the theory and practice of security analysis and portfolio management as applied to stocks and bonds.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3062 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:44.788Z"
+}

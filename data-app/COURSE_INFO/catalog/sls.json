@@ -1,0 +1,41 @@
+{
+  "subject": "SLS",
+  "subjectName": "Serve Learn Sustain (SLS)",
+  "url": "https://catalog.gatech.edu/coursesaz/sls/",
+  "courses": [
+    {
+      "subjectCode": "SLS",
+      "courseNumber": "2803",
+      "courseId": "SLS 2803",
+      "title": "Special Topics",
+      "description": "Special Topics for Serve-Learn-Sustain.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SLS",
+      "courseNumber": "3110",
+      "courseId": "SLS 3110",
+      "title": "Technology and Sustainable Community Development",
+      "description": "This course will explore the role of technology in the development of sustainable communities, locally and internationally.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SLS",
+      "courseNumber": "3120",
+      "courseId": "SLS 3120",
+      "title": "Foundations of Sustainable Systems",
+      "description": "This course teaches decision-making where a systems focus on the environmental and social dimensions of a design, project, innovation or business model are explicitly considered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "SLS",
+      "courseNumber": "3803",
+      "courseId": "SLS 3803",
+      "title": "Special Topics",
+      "description": "Special Topics for Serve-Learn-Sustain.",
+      "creditHours": "3"
+    }
+  ],
+  "totalCourses": 4,
+  "scrapedAt": "2025-08-16T02:00:49.716Z"
+}

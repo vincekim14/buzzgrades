@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6403",
+  "courseId": "ME 6403",
+  "title": "Digital Control Systems",
+  "description": "Comprehensive treatment of the representation, analysis, and design of discrete-time systems.  Techniques include Z- and W- transforms, direct method, control design, and digital tracking.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3017 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:38.846Z"
+}

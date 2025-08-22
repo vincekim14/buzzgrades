@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PHYS",
+  "courseNumber": "1111K",
+  "courseId": "PHYS 1111K",
+  "title": "Introductory Physics I",
+  "description": "An introductory course which will include mechanics (kinematics, dynamics, work and energy, momentum and collisions, and rotational motion and statics), and will include thermodynamics and waves. Elementary algebra and trigonometry will be used.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:14.587Z"
+}

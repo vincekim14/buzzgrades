@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "AE",
+  "courseNumber": "3140",
+  "courseId": "AE 3140",
+  "title": "Structural Analysis",
+  "description": "Application to structural analysis. Basic equations of elasticity. Bending, shearing and torsion of thin walled structures. Energy methods for structural analysis and application to finite element theory for trusses and beam structures. Students cannot receive credit for both AE 3140 and AE 3125.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:11.670Z"
+}

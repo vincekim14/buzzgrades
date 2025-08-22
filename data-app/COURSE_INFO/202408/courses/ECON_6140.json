@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ECON",
+  "courseNumber": "6140",
+  "courseId": "ECON 6140",
+  "title": "Econometrics I",
+  "description": "This course gives students the necessary background for taking courses in the econometrics sequence.  Topics include descriptive statistics, continuous and discrete probability distributions, parameter estimation, one- and two-sample hypothesis testing, and bivariate regression models.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:53.555Z"
+}

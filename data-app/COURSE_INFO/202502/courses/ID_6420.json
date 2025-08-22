@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ID",
+  "courseNumber": "6420",
+  "courseId": "ID 6420",
+  "title": "Advanced Sketching",
+  "description": "This class will focus on developing advanced, traditional (non-digital) sketching, rendering, and presentation techniques.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:58.753Z"
+}

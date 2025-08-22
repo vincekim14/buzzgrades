@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "6291",
+  "courseId": "CS 6291",
+  "title": "Embedded Software Opt.",
+  "description": "First, this course introduces the student to embedded domain-specific processor and instruction set design issues.  Next, machine-specific optimizations for performance and for energy consumption are discussed.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 4290 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:07.790Z"
+}

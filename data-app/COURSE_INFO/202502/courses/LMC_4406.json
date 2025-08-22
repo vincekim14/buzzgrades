@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "4406",
+  "courseId": "LMC 4406",
+  "title": "Professional Comm",
+  "description": "Intended primarily for students planning careers in professional communication, this course will alternate among a number of issues including property law, integrating print and electronic media, and cultural studies of corporate environments.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:41:10.523Z"
+}

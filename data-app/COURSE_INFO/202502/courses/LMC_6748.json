@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "6748",
+  "courseId": "LMC 6748",
+  "title": "Social Justice &amp; Design",
+  "description": "Focuses on social justice from a Science, Technology, and Society(STS) point of view that is informed by critical theory and philosophy of design. Students cannot receive credit for LMC 6748 and LCC 6748 or LMC 6748 and PUBP 6748.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:15.729Z"
+}

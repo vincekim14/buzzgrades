@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CP",
+  "courseNumber": "4190",
+  "courseId": "CP 4190",
+  "title": "Intro Climate Chng Plan",
+  "description": "This course equips students with the knowledge and methods necessary to undertake the next generation of state, local, corporate, and enterprise climate action planning.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:07.975Z"
+}

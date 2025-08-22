@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "INTN",
+  "courseNumber": "4003",
+  "courseId": "INTN 4003",
+  "title": "Internship",
+  "description": "Supervised professional work experience in the United States for undergraduate junior or senior interns working 10-19 hours a week in their major field of study for a semester.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:12.247Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "BMED",
+  "courseNumber": "6509",
+  "courseId": "BMED 6509",
+  "title": "BioID Masters Project II",
+  "description": "Teams will construct prototypes for Course I biomedical device project solution, conduct and analyze performance testing, prepare FDA 510(k) submission, and prepare project commercialization plan.",
+  "creditHours": "6",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 6508 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:36.788Z"
+}

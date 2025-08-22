@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "4106",
+  "courseId": "ID 4106",
+  "title": "Parametric Product Model",
+  "description": "This course focuses on advanced digital methods in product modeling for visual analysis, flexible design approaches and digital fabrication methods.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 3104 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:21.310Z"
+}

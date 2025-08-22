@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "BMED",
+  "courseNumber": "7004",
+  "courseId": "BMED 7004",
+  "title": "Teaching &amp; Research I",
+  "description": "This course provides the practicial framework for understanding challenges faced during teaching, research, and academic life. This course includes topical materials required for BME RCR requirements.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:57.331Z"
+}

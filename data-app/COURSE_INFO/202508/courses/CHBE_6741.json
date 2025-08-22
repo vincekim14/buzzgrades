@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CHBE",
+  "courseNumber": "6741",
+  "courseId": "CHBE 6741",
+  "title": "Pulp &amp; Paper Mfg I",
+  "description": "The fundamentals of pulp and paper technology are presented. Applications to the several unit operations used are explored and augmented by field trips and recent case studies. Crosslisted with ME 6741, CHBE 6701 and MLDR 6701.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:19.305Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4488",
+  "courseId": "CS 4488",
+  "title": "Procedural Content Gen",
+  "description": "Students will learn algorithmic techniques for creating geometric models and images that can be used for games, feature films or virtual reality.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1332 Undergraduate Semester Minimum Grade of C and (CS 2110 Undergraduate Semester Minimum Grade of C or CS 2261 Undergraduate Semester Minimum Grade of C) and CS 2340 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:29.055Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHBE",
+  "courseNumber": "4782",
+  "courseId": "CHBE 4782",
+  "title": "Biosystems Analysis",
+  "description": "Analytical methods for modeling biological systems, including white-noise protocols for characterizing nonlinear systems. Crosslisted with BMED, ECE and ME 4782.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 3500 Undergraduate Semester Minimum Grade of D or CHBE 4400 Undergraduate Semester Minimum Grade of D or ECE 2040 Undergraduate Semester Minimum Grade of D or ME 3015 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:23.884Z"
+}

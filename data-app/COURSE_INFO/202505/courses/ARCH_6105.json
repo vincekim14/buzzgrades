@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ARCH",
+  "courseNumber": "6105",
+  "courseId": "ARCH 6105",
+  "title": "Arch History I",
+  "description": "Architectural history from aniquity through the 18th century emphasizing buildings in their cultural context as informed by social, technological, and constructive factors and theoretical positions.  Credit not allowed for both ARCH 6105 and ARCH 4105 or ARCH 2111.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:23.198Z"
+}

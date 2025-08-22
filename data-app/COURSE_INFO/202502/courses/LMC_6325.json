@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "6325",
+  "courseId": "LMC 6325",
+  "title": "Game Design and Analysis",
+  "description": "Focused topics in the theory and practice of game design, theory, and analysis, including issues of creation, and reception, such as a single sub-genre, procedural technique, or media tradition. Students cannot receive credit for LMC 6325 and LCC 6325, LMC 6325 and LCC 4725, or LMC 6325 and LMC 4725.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:14.325Z"
+}

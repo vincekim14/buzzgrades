@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BMED",
+  "courseNumber": "4758",
+  "courseId": "BMED 4758",
+  "title": "Biosolid Mechanics",
+  "description": "The mechanics of living tissue, e.g., arteries, skin, heart muscle, ligament, tendon, cartilage, and bone. Constitutive equations and some simple mechanical models. Mechanics of cells.  Applications. Crosslisted with AE, CHE, and ME 4758.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 3400 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:50.487Z"
+}

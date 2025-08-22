@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "7280",
+  "courseId": "CS 7280",
+  "title": "Network Science",
+  "description": "Characteristics of real networks in nature and technology, network measurement methods, network analysis, evolving networks, dynamic network processes, co-evolution of structure and function.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1564 Undergraduate Semester Minimum Grade of D and CS 1331 Undergraduate Semester Minimum Grade of D and CS 3510 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:16.186Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "PSYC",
+  "courseNumber": "4020",
+  "courseId": "PSYC 4020",
+  "title": "Biopsychology",
+  "description": "Neurophysiological, endocrinological, and biochemical bases of sensory and motor functioning, motivation, learning, memory, and behavior dysfunction. Credit will not be awarded for both PSYC 4020 and PSYC 3020 or PSYC 4020 and NEUR 3003.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D and (BIOL 1520 Undergraduate Semester Minimum Grade of D or BIOL 1521 Undergraduate Semester Minimum Grade of D or NEUR 2001 Undergraduate Semester Minimum Grade of D or ((BIOS 1108 Undergraduate Semester Minimum Grade of D or BIOS 1208 Undergraduate Semester Minimum Grade of D) and (BIOS 1208L Undergraduate Semester Minimum Grade of D or BIOS 1108L Undergraduate Semester Minimum Grade of D)))",
+  "lastUpdated": "2025-08-20T02:42:21.984Z"
+}

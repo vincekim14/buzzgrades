@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "4602",
+  "courseId": "EAS 4602",
+  "title": "Biogeochemical Cycles",
+  "description": "An investigation of global change focusing on the chemical, physical, geological, and biological processes that cycle the elements through the Earth system.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "EAS 3620 Undergraduate Semester Minimum Grade of D or EAS 4740 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:16.033Z"
+}

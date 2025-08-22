@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "HTS",
+  "courseNumber": "3028",
+  "courseId": "HTS 3028",
+  "title": "Ancient Greece",
+  "description": "Classical Athens and Sparta, myths and legends in historical context. Course ends with Alexander the Great and the rise of Rome.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:48.317Z"
+}

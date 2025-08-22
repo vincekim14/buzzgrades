@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "FREN",
+  "courseNumber": "3110",
+  "courseId": "FREN 3110",
+  "title": "Comics &amp; Graphic Arts",
+  "description": "This course studies French comics as a genre and its interrelationships with graphic arts and literature. Conducted in French.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:34.805Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "6340",
+  "courseId": "LMC 6340",
+  "title": "Reality Experience Desi",
+  "description": "This course introduces students to the design of digital experienced for education and entertainment using Augmented Reality, Tangible Computing, or other forms of Mixed Reality. Students cannot receive credit for LMC 6340 and LCC 6340/LMC 4733/CS 6770/4770.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:14.710Z"
+}

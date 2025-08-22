@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "6221",
+  "courseId": "MATH 6221",
+  "title": "Prob Theory for Sci/Eng",
+  "description": "Classical introduction to probability theory including expectation, notions of convergence, laws of large numbers, independence, large deviations, conditional expectation, martingales, and Markov chains.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4221 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:07.685Z"
+}

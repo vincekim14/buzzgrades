@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOS",
+  "courseNumber": "4200",
+  "courseId": "BIOS 4200",
+  "title": "Kinesiology",
+  "description": "This course teaches principles related to the biomechanics, energetics and motor control of movement as it applies to human and animal movement, rehabilitation, and sports performance.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(((BIOS 1107 Undergraduate Semester Minimum Grade of D or BIOS 1207 Undergraduate Semester Minimum Grade of D) and (BIOS 1107L Undergraduate Semester Minimum Grade of D or BIOS 1207L Undergraduate Semester Minimum Grade of D)) or ((BIOS 1108 Undergraduate Semester Minimum Grade of D or BIOS 1208 Undergraduate Semester Minimum Grade of D) and (BIOS 1108L Undergraduate Semester Minimum Grade of D or BIOS 1208L Undergraduate Semester Minimum Grade of D)) or BIOL 1510 Undergraduate Semester Minimum Grade of D or BIOL 1511 Undergraduate Semester Minimum Grade of D or BIOL 1520 Undergraduate Semester Minimum Grade of D or BIOL 1521 Undergraduate Semester Minimum Grade of D or BIOL 3751 Undergraduate Semester Minimum Grade of D or APPH 3751 Undergraduate Semester Minimum Grade of D or BIOL 3753 Undergraduate Semester Minimum Grade of D or APPH 3753 Undergraduate Semester Minimum Grade of D or BIOS 3753 Undergraduate Semester Minimum Grade of D) and (MATH 1113 Undergraduate Semester Minimum Grade of D or ACT Math 26 or SAT Mathematics 600 or MATH SECTION SCORE 620 or Converted ACT Math 600)",
+  "lastUpdated": "2025-08-20T02:36:02.102Z"
+}

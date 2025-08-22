@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "6080",
+  "courseId": "MGT 6080",
+  "title": "Investments",
+  "description": "Introduction to securities markets and study of theory and practice of security analysis and portfolio management concepts as applied to equities and fixed-income securities. Portfolio management relies on probability theory, statistical analysis, and computational methods. Credit not allowed for MGT 6078 and MGT 6080.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6504 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:59.220Z"
+}

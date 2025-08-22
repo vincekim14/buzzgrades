@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "3084",
+  "courseId": "ECE 3084",
+  "title": "Signals and Systems",
+  "description": "Continuous-time linear systems and signals, their mathematical representations, and computational tools.  Fourier and Laplace transforms, convolutions, input-output responses, stability.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2026 Undergraduate Semester Minimum Grade of C and (ECE 2040 Undergraduate Semester Minimum Grade of C or (ECE 3710 Undergraduate Semester Minimum Grade of C and MATH 2403 Undergraduate Semester Minimum Grade of C and MATH 2413 Undergraduate Semester Minimum Grade of C and MATH 24X3 Undergraduate Semester Minimum Grade of C) or (ECE 3710 Undergraduate Semester Minimum Grade of C and MATH 2552 Undergraduate Semester Minimum Grade of C or MATH 2562 Undergraduate Semester Minimum Grade of C or MATH 2X52 Undergraduate Semester Minimum Grade of C))",
+  "lastUpdated": "2025-08-20T02:38:37.564Z"
+}

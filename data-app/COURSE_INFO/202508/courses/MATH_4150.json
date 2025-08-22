@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "4150",
+  "courseId": "MATH 4150",
+  "title": "Intro To Number Theory",
+  "description": "Primes and unique factorization, congruences, Chinese remainder theorem, Diophantine equations, Diophantine approximations, quadratic reciprocity.  Applications such as fast multiplication, factorization, and encryption.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2106 Undergraduate Semester Minimum Grade of D or MATH 2406 Undergraduate Semester Minimum Grade of D or CS 2051 Undergraduate Semester Minimum Grade of D or CS 3510 Undergraduate Semester Minimum Grade of D or CS 3511 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:01.491Z"
+}

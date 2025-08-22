@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "3110",
+  "courseId": "EAS 3110",
+  "title": "Energy, Environ, Society",
+  "description": "This course analyzes the path towards alternative energy infrastructures for the 21st century with careful consideration of economic, environmental, technological, and political factors.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:14.088Z"
+}

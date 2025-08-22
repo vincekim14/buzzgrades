@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "EAS",
+  "courseNumber": "4803",
+  "courseId": "EAS 4803",
+  "title": "Glacier Dynamics",
+  "description": "Special Topics , 2-0-2, 3-0-3, 4-0-4, 5-0-5, respectively.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:17.824Z"
+}

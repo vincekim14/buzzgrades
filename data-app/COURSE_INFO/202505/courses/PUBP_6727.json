@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "PUBP",
+  "courseNumber": "6727",
+  "courseId": "PUBP 6727",
+  "title": "Cyber Sec Practicum",
+  "description": "Capstone independent study project placing each student in a commercial, academic or government setting where he or she identifies a major cyber security problem, and explores and evaluates a solution that addresses it with realistic assumptions about the organizational context. The chose problem must be approved by course instructor. Cross-listed with ECE and CS 6727.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 6035 Graduate Semester Minimum Grade of D and (PUBP 6725 Graduate Semester Minimum Grade of D or CS 6725 Graduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:42:29.675Z"
+}

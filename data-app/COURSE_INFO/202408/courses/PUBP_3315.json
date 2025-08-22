@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "3315",
+  "courseId": "PUBP 3315",
+  "title": "Environ Policy&amp; Politics",
+  "description": "Overview of the major institutions, organizations, official and unofficial actors in environmental policy and politics, and what influences their environmental decisions and actions.  Credit not allowed for both PUBP 3315 and PUBP 4314.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "POL 1101 Undergraduate Semester Minimum Grade of D or INTA 1200 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:44:09.321Z"
+}

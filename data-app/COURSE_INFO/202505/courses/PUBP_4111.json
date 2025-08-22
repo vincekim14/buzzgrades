@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "PUBP",
+  "courseNumber": "4111",
+  "courseId": "PUBP 4111",
+  "title": "Internet &amp; Public Policy",
+  "description": "Analyzes policy implications of Internet architecture (Internet protocols, domain name system, packet switching, peer-to-peer) and surveys policy issues about content, privacy, intellectual property, and governance.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:27.502Z"
+}

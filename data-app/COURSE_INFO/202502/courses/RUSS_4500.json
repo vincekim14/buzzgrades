@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "RUSS",
+  "courseNumber": "4500",
+  "courseId": "RUSS 4500",
+  "title": "Intercultural Seminar",
+  "description": "Russia and the West: cultural models and political fault lines.  Historical debates that continue to divide and engage Russians.  Conducted in Russian.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:03.445Z"
+}

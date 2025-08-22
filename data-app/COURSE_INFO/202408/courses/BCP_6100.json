@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BCP",
+  "courseNumber": "6100",
+  "courseId": "BCP 6100",
+  "title": "Leadership Development",
+  "description": "The course will enable students to prepare themselves to become leaders of organizations, to exercise leadership, and to embark on paths of personal leadership development.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:27.398Z"
+}

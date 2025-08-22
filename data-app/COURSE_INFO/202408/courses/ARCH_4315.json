@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "4315",
+  "courseId": "ARCH 4315",
+  "title": "Professional Practice",
+  "description": "Principles and framework of professional practice including ethics, legal climate, business practices and contracts, project process and management, office organization, and methods of building production.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:46.284Z"
+}

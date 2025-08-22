@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MUSI",
+  "courseNumber": "3770",
+  "courseId": "MUSI 3770",
+  "title": "Project Studio Tech",
+  "description": "Thematic project in music technology driven by a foundational research question.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MUSI 2013 Undergraduate Semester Minimum Grade of D and MUSI 2526 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:22.168Z"
+}

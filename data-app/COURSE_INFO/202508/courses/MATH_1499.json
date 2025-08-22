@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "1499",
+  "courseId": "MATH 1499",
+  "title": "Support for Intro Calc",
+  "description": "This corequisite studio course provides extra precalculus support for students enrolled in Math 1551, Differential Calculus.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "MATH 1551",
+  "prerequisites": "MATH SECTION SCORE 590 or ACT Math 25 or MATH 1113 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:55.767Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "3220",
+  "courseId": "CS 3220",
+  "title": "Processor Design",
+  "description": "Principles in pipelined processor design, with emphasis on the need for a close interaction between code generation and architecture.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 2200 Undergraduate Semester Minimum Grade of C or ECE 3057 Undergraduate Semester Minimum Grade of C or ECE 3058 Undergraduate Semester Minimum Grade of C) and ECE 2031 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:51.432Z"
+}

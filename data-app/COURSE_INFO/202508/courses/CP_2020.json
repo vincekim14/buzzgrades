@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CP",
+  "courseNumber": "2020",
+  "courseId": "CP 2020",
+  "title": "Intro to Urban Planning",
+  "description": "This course provides an overview of how cities and metropolitan regions are planned including discussions of urban history, current events, and future prospects for cities.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:39.409Z"
+}

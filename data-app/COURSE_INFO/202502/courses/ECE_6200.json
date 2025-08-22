@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6200",
+  "courseId": "ECE 6200",
+  "title": "Biomedical Applic MEMS",
+  "description": "MEMS processing technologies, design of fabrication process flows, and applications of the technologies to the development of biomedical micro instrumentation and dectection methodologies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 6450 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:51.657Z"
+}

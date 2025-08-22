@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4452",
+  "courseId": "ECE 4452",
+  "title": "IC Fabrication",
+  "description": "Introduction to microelectronic processing technologies and CMOS. Includes a laboratory for fabrication/testing of MOS transistors, basic CMOS circuits, integrated resistors and capacitors. Credit will not be awarded for ECE 4452 and ECE 4752.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 3030 Undergraduate Semester Minimum Grade of C or ECE 3040 Undergraduate Semester Minimum Grade of C) and ECE 2031 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:10.200Z"
+}

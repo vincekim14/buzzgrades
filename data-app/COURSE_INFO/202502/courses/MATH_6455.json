@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "6455",
+  "courseId": "MATH 6455",
+  "title": "Differential Geometry I",
+  "description": "Core topics in differential, including: Lie groups, curvature, and relations with topology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4441 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:17.709Z"
+}

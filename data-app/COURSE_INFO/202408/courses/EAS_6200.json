@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "EAS",
+  "courseNumber": "6200",
+  "courseId": "EAS 6200",
+  "title": "Environ Geochemistry",
+  "description": "An exploration of the chemical, biological, and geological processes controlling the distribution of chemical nutrients and pollutants in aquatic and soil environments.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:42.576Z"
+}

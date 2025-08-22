@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "INTA",
+  "courseNumber": "6306",
+  "courseId": "INTA 6306",
+  "title": "Globalization",
+  "description": "Research seminar exploring theoretical perspectives on globalization and the political and economic issues facing modern states and their citizens in a \"borderless\" world.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:12.248Z"
+}

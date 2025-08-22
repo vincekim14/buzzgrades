@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "4262",
+  "courseId": "CS 4262",
+  "title": "Network Security",
+  "description": "Fundamental concepts of network information security, including applied cryptography, secure access methods, and vulnerabilities in network protocols and network applications. Students cannot receive credit for CS 4262 and CS 6262.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3251 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:26.260Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BC",
+  "courseNumber": "4130",
+  "courseId": "BC 4130",
+  "title": "Intg Design Constr &amp; Dev",
+  "description": "A study of contemporary examples of an integrated approach to design, construction and development.  Course involves real-world project analysis from multiple points of view.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BC 4050 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:03.107Z"
+}

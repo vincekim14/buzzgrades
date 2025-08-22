@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOL",
+  "courseNumber": "7015",
+  "courseId": "BIOL 7015",
+  "title": "Cancer Biol/Tech",
+  "description": "This course covers the major concepts of cancer biology as well as to state-of-the-art technologies that are being applied to cancer research, detection and treatment.  Credit not allowed for both BIOL 7015 and BIOL 4015.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:08.307Z"
+}

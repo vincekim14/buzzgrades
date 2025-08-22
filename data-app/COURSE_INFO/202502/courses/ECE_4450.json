@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4450",
+  "courseId": "ECE 4450",
+  "title": "Analog for Music Synth",
+  "description": "Circuits from classic analog synthesizers: nonlinear waveshapers and voltage-controlled oscillators, filters, and amplifier using operational transconductance amplifliers and the dynamic resistance of semiconductors.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 3043 Undergraduate Semester Minimum Grade of C or ECE 3741 Undergraduate Semester Minimum Grade of C) and ECE 3084 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:45.076Z"
+}

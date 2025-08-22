@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4853",
+  "courseId": "ECE 4853",
+  "title": "ECE Create-X Capstone",
+  "description": "A single-semester ECE culminating design experience in which interdisciplinary teams propose, prototype, test, demonstrate, formally present, and document projects incorporating engineering standards and realistic constraints.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3011 Undergraduate Semester Minimum Grade of D and (ECE 3040 Undergraduate Semester Minimum Grade of D or ECE 3058 Undergraduate Semester Minimum Grade of D) and ECE 3005 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:48.912Z"
+}

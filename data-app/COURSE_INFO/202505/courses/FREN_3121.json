@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "FREN",
+  "courseNumber": "3121",
+  "courseId": "FREN 3121",
+  "title": "Advanced Composition",
+  "description": "In-depth study of advanced grammar patterns as used in written expressions. Conducted in French.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:03.448Z"
+}

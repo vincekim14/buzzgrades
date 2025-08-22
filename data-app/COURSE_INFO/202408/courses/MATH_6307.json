@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "6307",
+  "courseId": "MATH 6307",
+  "title": "Ordinary Diff Eqns I",
+  "description": "This sequence develops the qualitative theory for systems of ordinary differential equations. Topics include stability, Lyapunov functions, Floquet theory, attractors, invariant manifolds, bifurcation theory, normal forms. First of two courses.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4542 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:36.098Z"
+}

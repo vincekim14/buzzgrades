@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "3600",
+  "courseId": "BIOS 3600",
+  "title": "Evolutionary Biology",
+  "description": "A comprehensive overview of evolutionary biology, including processes (e.g., natural selection, genetic drift) and resulting patterns (e.g., genome organization, phylogeny, and the fossil record).",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOL 2344 Undergraduate Semester Minimum Grade of D or BIOL 2354 Undergraduate Semester Minimum Grade of D or BIOL 2335 Undergraduate Semester Minimum Grade of D or BIOL 2337 Undergraduate Semester Minimum Grade of D or BIOS 2600 Undergraduate Semester Minimum Grade of D or BIOS 2610 Undergraduate Semester Minimum Grade of D or BIOS 2300 Undergraduate Semester Minimum Grade of D or BIOS 2310 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:42.278Z"
+}

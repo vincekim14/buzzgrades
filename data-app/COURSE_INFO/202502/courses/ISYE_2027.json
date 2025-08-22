@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "2027",
+  "courseId": "ISYE 2027",
+  "title": "Probability With Apps",
+  "description": "Topics include conditional probability, density and distribution functions from engineering, expectation, conditional expectation, laws of large numbers, central limit theorem, and introduction to Poisson Processes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2550 Undergraduate Semester Minimum Grade of C or MATH 2551 Undergraduate Semester Minimum Grade of C or MATH 2561 Undergraduate Semester Minimum Grade of C or (MATH 2X51 Undergraduate Semester Minimum Grade of T and (MATH 1522 Undergraduate Semester Minimum Grade of C or MATH 1553 Undergraduate Semester Minimum Grade of C or MATH 1554 Undergraduate Semester Minimum Grade of C or MATH 1564 Undergraduate Semester Minimum Grade of C or MATH 1X53 Undergraduate Semester Minimum Grade of T or MATH 1X54 Undergraduate Semester Minimum Grade of T))",
+  "lastUpdated": "2025-08-20T02:39:29.817Z"
+}

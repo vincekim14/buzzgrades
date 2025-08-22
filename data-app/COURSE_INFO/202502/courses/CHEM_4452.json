@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "4452",
+  "courseId": "CHEM 4452",
+  "title": "Solid State Chemistry",
+  "description": "Application of the concepts of physical and inorganic chemistry to the structure of solids and their chemical and physical properties.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 3111 Undergraduate Semester Minimum Grade of D and CHEM 3412 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:35.425Z"
+}

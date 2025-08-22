@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "4600",
+  "courseId": "CEE 4600",
+  "title": "Transportation Plan&amp;Dsgn",
+  "description": "Introduction to transportation engineering with specific emphasis on the planning, design, and operation of transportation facilities.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CEE 1770 Undergraduate Semester Minimum Grade of D or ME 1770 Undergraduate Semester Minimum Grade of D or EGR 1770 Undergraduate Semester Minimum Grade of D or AE 1770 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:37:55.796Z"
+}

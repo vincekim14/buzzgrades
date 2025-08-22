@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "6509",
+  "courseId": "CEE 6509",
+  "title": "Structural Dynamics",
+  "description": "Vibration and dynamic response of structures to periodic and general time-dependent loads, with and without damping effects. Both SDOF and MDOF structural systems are discussed.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:32.009Z"
+}

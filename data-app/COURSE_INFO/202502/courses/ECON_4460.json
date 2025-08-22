@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "4460",
+  "courseId": "ECON 4460",
+  "title": "Public Economics",
+  "description": "Applies tools of microeconomics to the public sector. Explores the role of the government in the economy, providing an understanding of the reasons for government intervention in markets, the merits of possible government policies, and the response of economic agents to the government’s actions. Topics covered include tax policy, externalities, public goods, and social insurance programs. Emphasis is placed on contemporary policy debates, such as income and wealth inequality, social security reform, climate policy, health care reform, and education policy.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or (ECON 2105 Undergraduate Semester Minimum Grade of D and ECON 2106 Undergraduate Semester Minimum Grade of D) or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:27.086Z"
+}

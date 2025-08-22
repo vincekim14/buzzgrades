@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "APPH",
+  "courseNumber": "1050",
+  "courseId": "APPH 1050",
+  "title": "Sci of Phys Act &amp; Health",
+  "description": "Students will learn the importance of health fitness, good nutrition, stress management and chronic disease prevention.  Activity portion of course will focus on training to improve fitness.  Credit not allowed for both APPH 1050 and HPS 1040 or APPH 1040 or APPH 1060.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:21.483Z"
+}

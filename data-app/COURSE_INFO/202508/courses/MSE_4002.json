@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "4002",
+  "courseId": "MSE 4002",
+  "title": "Cer Mate-Prop,Proces&amp;App",
+  "description": "Properties, processing, and applications of the industrially and technically important ceramic materials. Traditional and oxide ceramics in addition to glass and nonoxide ceramics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 3002 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:45.635Z"
+}

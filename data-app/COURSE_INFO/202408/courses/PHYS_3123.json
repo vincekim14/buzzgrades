@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PHYS",
+  "courseNumber": "3123",
+  "courseId": "PHYS 3123",
+  "title": "Electrodynamics",
+  "description": "Second of two courses on the physics of electromagnetism. Topics include time-dependent phenomena including Faraday's Law, the Maxwell equations, electromagnetic radiation, and electromagnetic waves.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 3122 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:41.103Z"
+}

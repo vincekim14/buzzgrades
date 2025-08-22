@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "KOR",
+  "courseNumber": "6001",
+  "courseId": "KOR 6001",
+  "title": "Contemporary Korean",
+  "description": "This course aims to further the students' knowledge by exposing them to contemporary expressions in text and multimedia materials in Korean. Taught in Korean.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:23.047Z"
+}

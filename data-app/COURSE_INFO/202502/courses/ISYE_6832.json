@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ISYE",
+  "courseNumber": "6832",
+  "courseId": "ISYE 6832",
+  "title": "Simulation Theory-Meth",
+  "description": "Theory, algorithms, and applications of computer simulation. Topics include generalized semi-Markov processes; input-output analysis; random number, variate, and sample path generation; variance reduction techniques; and optimization via simulation.  This course is intended for Ph.D. students.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 2028 Undergraduate Semester Minimum Grade of D and ISYE 6761 Graduate Semester Minimum Grade of D or MATH 6761 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:44.303Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ASE",
+  "courseNumber": "6131",
+  "courseId": "ASE 6131",
+  "title": "Analysis&amp;Synth-HSI",
+  "description": "Human Systems Integration Analysis and Synthesis, a PMASE complex systems elective, ensures human-related technical issues are properly addressed during system definition, design, development, and implementation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ASE 6006 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:41.922Z"
+}

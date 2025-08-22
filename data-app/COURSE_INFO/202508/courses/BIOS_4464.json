@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BIOS",
+  "courseNumber": "4464",
+  "courseId": "BIOS 4464",
+  "title": "Developmental Biology",
+  "description": "Investigation of cell differentiation and development, using the tools of molecular genetics and cell biology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOS 2600 Undergraduate Semester Minimum Grade of D or BIOS 2610 Undergraduate Semester Minimum Grade of D or BIOL 2344 Undergraduate Semester Minimum Grade of D or BIOL 2354 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:36.040Z"
+}

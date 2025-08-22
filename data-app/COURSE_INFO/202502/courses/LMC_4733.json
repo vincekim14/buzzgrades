@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "4733",
+  "courseId": "LMC 4733",
+  "title": "Mixed Reality Design",
+  "description": "Project-based course in designing implementing experiences using the technologies of Augmented, Mixed, and Virtual Reality. Credit not awarded for both LMC 4733 and CS 4770/6770/LMC 6340.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "LMC 2700 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:12.475Z"
+}

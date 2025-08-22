@@ -1,0 +1,585 @@
+{
+  "subject": "NRE",
+  "subjectName": "Nuclear & Radiological Engr (NRE)",
+  "url": "https://catalog.gatech.edu/coursesaz/nre/",
+  "courses": [
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "2120",
+      "courseId": "NRE 2120",
+      "title": "Elements of Nuclear and Radiological Engineering",
+      "description": "Introduction to nuclear and radiological engineering concepts and applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "2698",
+      "courseId": "NRE 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "2699",
+      "courseId": "NRE 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "3026",
+      "courseId": "NRE 3026",
+      "title": "Experimental Nuclear Reactor Physics",
+      "description": "Introduction to experimental nuclear reactor physics techniques including criticality, flux mapping, buckling measurements, subcritical assembly measurements, diffusion length measurement, neutron spectral measurements, and foil activation methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "3112",
+      "courseId": "NRE 3112",
+      "title": "Nuclear Radiation Detection",
+      "description": "An introduction to the principles and characteristics of basic detectors for nuclear radiation and the pulse processing electronics associated with them.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "3208",
+      "courseId": "NRE 3208",
+      "title": "Nuclear Reactor Phys I",
+      "description": "Intermediate treatment of reactor physics and associated advanced mathematics topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "3301",
+      "courseId": "NRE 3301",
+      "title": "Radiation Physics",
+      "description": "Characteristics of atomic and nuclear radiations, transition probabilities, radioactivity, classical and quantum-mechanical derivations of cross sections, interactions of photon, neutron, and charged particles with matter.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "3316",
+      "courseId": "NRE 3316",
+      "title": "Radiation Protection Engineering",
+      "description": "Covers radiation dosimetry, biological effects of radiation, radiation-protection criteria and exposure limits, external radiation protection, internal radiation protection, and sources of human exposure.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4210",
+      "courseId": "NRE 4210",
+      "title": "Nuclear Reactor Theory",
+      "description": "Students will learn physical nuclear reactor concepts, nuclear data and computational methodology required to understand the design process of nuclear fission reactors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4214",
+      "courseId": "NRE 4214",
+      "title": "Reactor Engineering",
+      "description": "Nuclear heat generation; fuel elements' thermal analysis; single and two-phase flow and heat transfer in reactor systems; core thermal design and treatment of uncertainties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4234",
+      "courseId": "NRE 4234",
+      "title": "Nuclear Criticality Safety Engineering",
+      "description": "This course covers the theoretical concepts, the computational techniques, and the principal methods of criticality safety.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4266",
+      "courseId": "NRE 4266",
+      "title": "Light Water Reactor Technology",
+      "description": "A systematic survey of the technology of both pressurized and boiling water reactors with emphasis on the nuclear stream supply system and its associated safety and control systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4328",
+      "courseId": "NRE 4328",
+      "title": "Radiation Sources and Applications",
+      "description": "Radiation Sources. Radioisotope production. Application of radiation and radioisotope technology in industry and medicine.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4350",
+      "courseId": "NRE 4350",
+      "title": "Design Methods & Tools",
+      "description": "Introduction to selected methods and nuclear engineering analytic tools (computer codes) with tutorials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4351",
+      "courseId": "NRE 4351",
+      "title": "Design of Nuclear and Radiological Systems",
+      "description": "NRE Capstone Design course - an open-minded design project, performed by students organized in design teams, that integrates all relevant nuclear and radiological engineering aspects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4404",
+      "courseId": "NRE 4404",
+      "title": "Radiological Assessment and Waste Management",
+      "description": "Mathematical models for movement in the environment. Scenario development for release, environmental transport, and exposure. Radioactive waste disposal facilities and waste disposal technology.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4407",
+      "courseId": "NRE 4407",
+      "title": "Introduction to Radiobiology and Oncology",
+      "description": "This course will provide the student with a basic knowledge of radiation biology as it pertains to oncology and radiotherapy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4430",
+      "courseId": "NRE 4430",
+      "title": "Nuclear Regulatory Requirements",
+      "description": "This course introduces regulatory organizations and delineates their jurisdictions. It covers the fundamentals of regulations, the impacts on occupational workers, the public, and the environment.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4610",
+      "courseId": "NRE 4610",
+      "title": "Introduction to Plasma Physics and Fusion Engineering",
+      "description": "A first course in plasma physics and magnetic confinement fusion: basic plasma physics, magnetic confinement concepts, fusion engineering, and a review of the current status of fusion research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4698",
+      "courseId": "NRE 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4699",
+      "courseId": "NRE 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4725",
+      "courseId": "NRE 4725",
+      "title": "Probabilistic Risk Assessment",
+      "description": "Introduction to a wide range of probabilistic risk analysis and probabilistic design methods for mechanical systems.  Topics covered are probabilistic description, sampling methods, risk assessment, and reliability-based design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4750",
+      "courseId": "NRE 4750",
+      "title": "Diagnostic Imaging Physics",
+      "description": "Physics and image formation methods for conventional X-ray CT, nuclear medicine, and magnetic resonance and ultrasound imaging.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4770",
+      "courseId": "NRE 4770",
+      "title": "Nuclear Chemical Engineering",
+      "description": "This course surveys the chemical engineering aspects of nuclear power.  Topics include nuclear reactions, fuel cycles, solvent extraction of metals, the properties of actinides and other irradiated fuel materials, fuel reprocessing, and radioactive waste management. Crosslisted with CHBE 4770.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4795",
+      "courseId": "NRE 4795",
+      "title": "Fundamental Elements of Nuclear Reactor Materials",
+      "description": "Introduction to fundamentals of nuclear reactor materials.  Topics covered are basics of radiation damage, defect creation and evolution, microstructure-property correlations in cladding and fuel of nuclear materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4801",
+      "courseId": "NRE 4801",
+      "title": "Special Topics",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4802",
+      "courseId": "NRE 4802",
+      "title": "Special Topics",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4803",
+      "courseId": "NRE 4803",
+      "title": "Special Topics",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4804",
+      "courseId": "NRE 4804",
+      "title": "Special Topics",
+      "description": "Special topics offerings of current interest not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4805",
+      "courseId": "NRE 4805",
+      "title": "Special Topics",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4901",
+      "courseId": "NRE 4901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4902",
+      "courseId": "NRE 4902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "4903",
+      "courseId": "NRE 4903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6101",
+      "courseId": "NRE 6101",
+      "title": "Transport Fundamentals",
+      "description": "Neutral and charged particle transport. Fluid mass, energy, and momentum transport. Models used in nuclear radiation transport; fluid hydrodynamics, radiative and plasma transport.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6102",
+      "courseId": "NRE 6102",
+      "title": "Plasma Physics",
+      "description": "Physics of ionized plasmas. Magnetic confinement, kinetic and fluid theories, equilibrium, waves and stability, plasma-material interactions, atomic/molecular-plasma interactions, multispecies transport. Plasma processing applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6103",
+      "courseId": "NRE 6103",
+      "title": "Computational Methods of Radiation Transport",
+      "description": "Deterministic and stochastic computational methods for solving transport equations of neutral particles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6201",
+      "courseId": "NRE 6201",
+      "title": "Reactor Physics",
+      "description": "Fundamentals of reactor physics for nuclear analysis of neutron chain reactors and for developing tools required for design of those reactors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6301",
+      "courseId": "NRE 6301",
+      "title": "Reactor Engineering",
+      "description": "Two-phase flow, boiling heat transfer, fast reactor thermal-hydraulics, reactor thermal-hydraulics uncertainty analysis, loss-of-coolant accidents. Reactor thermal- hydraulic accident analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6401",
+      "courseId": "NRE 6401",
+      "title": "Advanced Nuclear Engineering Design",
+      "description": "Synthesis of principles of nuclear engineering in the design of nuclear reactors and other facilities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6434",
+      "courseId": "NRE 6434",
+      "title": "Nuclear Criticality Safety Engineering",
+      "description": "Concepts, computational techniques, and the principal methods of criticality safety such as accident experience, standards, experiments, computer and hand calculations, limits and regulations. Application to overall facility operation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6501",
+      "courseId": "NRE 6501",
+      "title": "Nuclear Fuel Cycle",
+      "description": "Fission fuel cycle, uranium mining and milling, enrichment. Fuel fabrication. In-core fuel management. Reprocessing and fuel cycle economics. Spent-fuel waste management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6502",
+      "courseId": "NRE 6502",
+      "title": "Nuclear Materials",
+      "description": "Materials science and engineering of metallic and ceramic fuels; cladding, structural, and control materials including radiation effects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6504",
+      "courseId": "NRE 6504",
+      "title": "Management of the Nuclear Enterprise",
+      "description": "Identify and understand the unique challenges of and techniques for managing highly technical, potentially hazardous operations, issues within the nuclear industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6505",
+      "courseId": "NRE 6505",
+      "title": "Fundamentals of Nuclear Nonproliferation",
+      "description": "This course explores the fundamentals of nuclear energy generation, pathways of materials misuse, the implication of nuclear technology for international security and policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6720",
+      "courseId": "NRE 6720",
+      "title": "Seminar: Politics Tech & Proliferation",
+      "description": "This seminar course is designed specifically to encourage new thinking and creative effort on nuclear deterrence and strategic \nstability for our global future.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6755",
+      "courseId": "NRE 6755",
+      "title": "Radiological Assessment and Waste Management",
+      "description": "Critical analyses of sources and human exposures, mathematical models for movement through the biosphere, environmental transport, and exposure for nuclear facilities and waste disposal processing. Crosslisted with HP 6755.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6756",
+      "courseId": "NRE 6756",
+      "title": "Radiation Physics",
+      "description": "Characteristics of atomic and nuclear radiation, transition probabilities, radioactivity and isotopes, cross sections, electromagnetic radiation, neutrons, and charged particle interaction with matter. Crosslisted with HP 6756.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6757",
+      "courseId": "NRE 6757",
+      "title": "Radiation Detection",
+      "description": "Introduction to the theory and application of radiation detectors, measurement methods, signal processing, and data analysis. Crosslisted with HP 6757.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6758",
+      "courseId": "NRE 6758",
+      "title": "Numerical Methods in Mechanical Engineering",
+      "description": "Numerical methods for solution of engineering problems; initial, eigenvalue, and boundary-value problems; computational stability for ordinary and linear partial differential equations.  Crosslisted with ME and HP 6758.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "6759",
+      "courseId": "NRE 6759",
+      "title": "Radiation Shielding Principles and Analysis",
+      "description": "Principles of Radiation Shielding; Design of Shields; Computational Methods for Analysis of Shielding; Emphasis on Monte Carlo Simulation as a Shielding Tool.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "7000",
+      "courseId": "NRE 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "7103",
+      "courseId": "NRE 7103",
+      "title": "Advanced Plasma Physics",
+      "description": "Classical and collective transport phenomena, plasma instabilities, plasma-materials interactions, and plasma edge physics. Emphasis on magnetic fusion, plasma processing, and other plasma applications research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "7203",
+      "courseId": "NRE 7203",
+      "title": "Advanced Reactor Physics",
+      "description": "Advanced topics in reactor physics and transport theory.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "7757",
+      "courseId": "NRE 7757",
+      "title": "Teaching Practicum",
+      "description": "Supervised teaching for doctoral students.  Teaching techniques, course and curriculum design, student evaluation methods and criteria. Students may, in some instances, prepare and present lectures.  Crosslisted with HP, ME, and CHBE 7757.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8011",
+      "courseId": "NRE 8011",
+      "title": "Seminars in Nuclear Engineering",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8012",
+      "courseId": "NRE 8012",
+      "title": "Seminars in Nuclear Engineering",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8014",
+      "courseId": "NRE 8014",
+      "title": "Seminars in Nuclear and Radiological Engineering",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8801",
+      "courseId": "NRE 8801",
+      "title": "Special Topics in Nuclear Engineering",
+      "description": "Special topic offerings of current interest in nuclear engineering not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8802",
+      "courseId": "NRE 8802",
+      "title": "Special Topics in Nuclear Engineering",
+      "description": "Special topic offerings of current interest in nuclear engineering not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8803",
+      "courseId": "NRE 8803",
+      "title": "Special Topics in Nuclear Engineering",
+      "description": "Special topic offerings of current interest in nuclear engineering not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8804",
+      "courseId": "NRE 8804",
+      "title": "Special Topics in Nuclear Engineering",
+      "description": "Special topic offerings of current interest in nuclear engineering not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8805",
+      "courseId": "NRE 8805",
+      "title": "Special Topics in Nuclear Engineering",
+      "description": "Special topics offerings of current interest in nuclear engineering not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8806",
+      "courseId": "NRE 8806",
+      "title": "Special Topics in Nuclear Engineering",
+      "description": "Special topics offerings of current interest in nuclear engineering not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8901",
+      "courseId": "NRE 8901",
+      "title": "Special Problems in Nuclear Engineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in nuclear engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8902",
+      "courseId": "NRE 8902",
+      "title": "Special Problems in Nuclear Engineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in nuclear engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8903",
+      "courseId": "NRE 8903",
+      "title": "Special Problems in Nuclear Engineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in nuclear engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8904",
+      "courseId": "NRE 8904",
+      "title": "Special Problems in Nuclear Engineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in nuclear engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8905",
+      "courseId": "NRE 8905",
+      "title": "Special Problems in Nuclear Engineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in nuclear engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8906",
+      "courseId": "NRE 8906",
+      "title": "Special Problems in Nuclear Engineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in nuclear engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8997",
+      "courseId": "NRE 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "8998",
+      "courseId": "NRE 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "NRE",
+      "courseNumber": "9000",
+      "courseId": "NRE 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 72,
+  "scrapedAt": "2025-08-16T02:00:46.709Z"
+}

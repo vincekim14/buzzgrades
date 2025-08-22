@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "IMBA",
+  "courseNumber": "6040",
+  "courseId": "IMBA 6040",
+  "title": "Global Economics",
+  "description": "Participants are provided with a non-traditional approach using an analytical method with a global perspective to the concepts and role of economics in the world environment.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:51.217Z"
+}

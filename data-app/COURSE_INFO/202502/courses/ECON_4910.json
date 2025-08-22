@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "4910",
+  "courseId": "ECON 4910",
+  "title": "Individual Research",
+  "description": "Course related to independent student research.  Topics determined by instructor and student.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or (ECON 2105 Undergraduate Semester Minimum Grade of D and ECON 2106 Undergraduate Semester Minimum Grade of D) or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:27.960Z"
+}

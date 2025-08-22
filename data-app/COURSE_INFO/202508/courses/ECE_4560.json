@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "4560",
+  "courseId": "ECE 4560",
+  "title": "Intro-Automation&amp;Robotic",
+  "description": "Concurrent engineering principles; robotic manipulator kinematics, dynamics, and control; applications of robots in industry, medicine, and other areas; team projects and hands-on laboratory experience.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3084 Undergraduate Semester Minimum Grade of C or ECE 3085 Undergraduate Semester Minimum Grade of D or ECE 3550 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:39.861Z"
+}

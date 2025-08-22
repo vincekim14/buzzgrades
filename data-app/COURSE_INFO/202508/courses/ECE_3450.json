@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "3450",
+  "courseId": "ECE 3450",
+  "title": "Semiconductor Devices",
+  "description": "Properties of semiconductor devices.  Applications in current and future computers, fiber optic and wireless communication systems.  Future needs of high frequency, GHz-range, device operation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3040 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:32.073Z"
+}

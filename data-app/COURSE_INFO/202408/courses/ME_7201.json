@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "7201",
+  "courseId": "ME 7201",
+  "title": "Comp Mechanics-Materials",
+  "description": "Computational treatments of material and geometric nonlinearity, with emphasis on rate-dependent elasto-plasticity and fracture.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 6201 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:01.706Z"
+}

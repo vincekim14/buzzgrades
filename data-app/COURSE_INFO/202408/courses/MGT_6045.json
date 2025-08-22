@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "6045",
+  "courseId": "MGT 6045",
+  "title": "Seminar-Adv Accounting",
+  "description": "An intensive treatment of a selection of contemporary accounting topics.  Topical coverage may span subject matter ranging across the fields of auditing, systems, managerial, and tax accounting.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6000 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:57.710Z"
+}

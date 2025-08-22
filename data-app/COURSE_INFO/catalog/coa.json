@@ -1,0 +1,617 @@
+{
+  "subject": "COA",
+  "subjectName": "College of Architecture (COA)",
+  "url": "https://catalog.gatech.edu/coursesaz/coa/",
+  "courses": [
+    {
+      "subjectCode": "COA",
+      "courseNumber": "1011",
+      "courseId": "COA 1011",
+      "title": "Fundamentals of Design and the Built Environment I",
+      "description": "Introduction to creative problem-solving and the design realization cycle through project-based design exercises that emphasize the role of representation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "1012",
+      "courseId": "COA 1012",
+      "title": "Fundamentals of Design and the Built Environment II",
+      "description": "Introduction to the design of complex problems through an emphasis on integrative and collaborative design strategies, research, critical reflection, and interdisciplinary team work.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "1060",
+      "courseId": "COA 1060",
+      "title": "Introduction to Design and the Built Environment",
+      "description": "Introduction to architecture, building construction, and industrial design through case studies that illuminate past and present practices, as well as future possibilities within the disciplines.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "2698",
+      "courseId": "COA 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "2699",
+      "courseId": "COA 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "4000",
+      "courseId": "COA 4000",
+      "title": "Furniture Workshop: Material Potential and Fabrication Strategies",
+      "description": "The course investigates construction into the design cycle to explore the boundaries between furniture, architecture, and sculpture. Exercises introduce furniture production techniques, material properties, and CNC milling.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "4010",
+      "courseId": "COA 4010",
+      "title": "History of Construction Industry",
+      "description": "Addresses how today's construction industry is organized and its particular characteristics, how it evolved from early times and where it may be heading in the future.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "4698",
+      "courseId": "COA 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "4699",
+      "courseId": "COA 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "4801",
+      "courseId": "COA 4801",
+      "title": "Special Topics",
+      "description": "Topics in design and the built environment.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "4802",
+      "courseId": "COA 4802",
+      "title": "Special Topics",
+      "description": "Topics in design and the built environment.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "4803",
+      "courseId": "COA 4803",
+      "title": "Special Topics",
+      "description": "Topics in design and the built environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "4804",
+      "courseId": "COA 4804",
+      "title": "Special Topics",
+      "description": "Topics in design and the built environment.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "4805",
+      "courseId": "COA 4805",
+      "title": "Special Topics",
+      "description": "Topics in design and the built environment.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "6010",
+      "courseId": "COA 6010",
+      "title": "History of Construction Industry",
+      "description": "Addresses how today's construction industry is organized and its particular characteristics, how it evolved from early times and where it may be heading in the future.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "6011",
+      "courseId": "COA 6011",
+      "title": "Urban Design Laboratory",
+      "description": "Urban design laboratory problems focusing on analysis, design, and implementation strategies for contemporary urban problems.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "6114",
+      "courseId": "COA 6114",
+      "title": "Art and Architecture in Classical Greece",
+      "description": "An intensive on-site investigation of the role that the arts and architecture have played in the development of classical Greek civilization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "6115",
+      "courseId": "COA 6115",
+      "title": "Art and Architecture in Italy I",
+      "description": "Investigations of the painting, sculpture, and architecture of the Classical, Early Christian, Byzantine, and Medieval periods in Italy with special emphasis on Rome.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "6116",
+      "courseId": "COA 6116",
+      "title": "Art and Architecture in Italy II",
+      "description": "Investigations of the painting, sculpture, and architecture of the Renaissance and Baroque periods in Italy with special emphasis on the works of Rome.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "6120",
+      "courseId": "COA 6120",
+      "title": "Retrofitting the Suburbia",
+      "description": "Study of suburban redevelopment trends, projects, and policies that improve environmental, social, and economic sustainability, with an emphasis on urban design strategies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "6151",
+      "courseId": "COA 6151",
+      "title": "History of Urban Form",
+      "description": "History of the city as a collective work of architecture with an emphasis on the city's physical form and space.  Credit not allowed for both COA 6151 and ARCH 4151.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "6763",
+      "courseId": "COA 6763",
+      "title": "Design of Design Environments",
+      "description": "Analysis of design processes; analysis of current design tools at both the user interface and functional levels; procedures for developing better design tools.  Credit not allowed for both COA 6763 and ID 6763 or CS 6763.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "6764",
+      "courseId": "COA 6764",
+      "title": "Geometric Modeling",
+      "description": "Software development course focusing on 3D geometric constructions and modeling;  emphasizes solid modeling and its role in design.  Crosslisted with CS 6764.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "7011",
+      "courseId": "COA 7011",
+      "title": "Urban Design Studio I",
+      "description": "Advanced urban design problems emphasizing the application of contemporary urban design research and multidisciplinary collaboration into the design process.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "7012",
+      "courseId": "COA 7012",
+      "title": "Urban Design Studio II",
+      "description": "Advanced urban design problems emphasizing the application of contemporary urban design research and multidisciplinary collaboration into the design process.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8000",
+      "courseId": "COA 8000",
+      "title": "Doctoral Seminar",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8530",
+      "courseId": "COA 8530",
+      "title": "PhD Planning Seminar",
+      "description": "Discussion of research and pedagogy topics and methodologies for city and regional planning.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8600",
+      "courseId": "COA 8600",
+      "title": "The Genesis of Architecture",
+      "description": "The nature of architecture illustrated from those of all cultures; determinist theories; its social values and its meanings to the individual- material, physical, anthropological, and cognitive.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8610",
+      "courseId": "COA 8610",
+      "title": "Thought and Interpretation in Architecture from the Hellenic Period to the 1830's",
+      "description": "A survey of architectural thought and theory taking account of other fields; paralleled by a review of major critical texts and assessments to the present day.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8612",
+      "courseId": "COA 8612",
+      "title": "Thought and Interpretation in Architecture from the 1830's to the Twentieth Century",
+      "description": "A survey of architectural thoughts and theory taking account other fields; paralleled by a review of major critical texts and assessments to the present day.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8620",
+      "courseId": "COA 8620",
+      "title": "The Design and Evolution of American Space",
+      "description": "Topical seminar on the development of urban, suburban, and rural American spatial forms, with emphasis on the relationship between public order and vernacular settlement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8625",
+      "courseId": "COA 8625",
+      "title": "Theories of Inquiry in Architecture",
+      "description": "Introduction to research paradigms and their assumptions. The formulation of questions and frameworks of description, representation, analysis, interpretation, and data control.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8630",
+      "courseId": "COA 8630",
+      "title": "Theories of Architecture, Space and Culture",
+      "description": "Accounts of the social functions of architectural space and associated design choices, across a variety of building types and scales of environmental design. Credit will not be awarded for both COA 8630 and ARCH 4630.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8635",
+      "courseId": "COA 8635",
+      "title": "Architecture and Policy:  Linking Theory and Practice",
+      "description": "Methods and theories of planning, design, facilities management, and evaluation as they relate to organizational policy and development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8640",
+      "courseId": "COA 8640",
+      "title": "Theories of Psychology for Architecture",
+      "description": "An examination of social and psychological theory as it is applied to the creation and use of space.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8645",
+      "courseId": "COA 8645",
+      "title": "Analytical Models of Built Space and Its Functions",
+      "description": "Introduction to analytical ideas and methodologies for the quantitative description of built space, form, building use, and functions.  Layouts as configurations: boundaries, accessibility, visibility, extensions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8650",
+      "courseId": "COA 8650",
+      "title": "Formal Descriptions of Designs: Analyses of Space, Shape, and Form",
+      "description": "Introduction to the form and computational description of designs, with an emphasis on spatial patterns. Geometrical constructions, combinatorial approaches, analyses of shape.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8672",
+      "courseId": "COA 8672",
+      "title": "Research Seminar in Design Computation",
+      "description": "Seminar review of developments in computing applied to architecture; current major research issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8674",
+      "courseId": "COA 8674",
+      "title": "Structuring Multimedia Design Knowledge",
+      "description": "Theories and tools for structuring multimedia knowledge for design and designers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8676",
+      "courseId": "COA 8676",
+      "title": "Design and Engineering Databases",
+      "description": "Survey of database use in design and engineering; surveys relational, object-oriented database technology, and ISO-STEP methods of integration.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8680",
+      "courseId": "COA 8680",
+      "title": "Performance Aspects of Building Systems Design",
+      "description": "Engineering analysis of building (sub) systems based on a performance ontology.  Criteria, metrics, and tools for performance aspect evaluations in different building technology domains.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8685",
+      "courseId": "COA 8685",
+      "title": "Computational Building Simulation",
+      "description": "Numerical simulation of performance characteristics of whole buildings.  Review of the finite element method for uniform treatment of transport phenomena in different building technology domains.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8690",
+      "courseId": "COA 8690",
+      "title": "Integrated Design and Engineering Environments for Buildings",
+      "description": "Surveys of issues for effective integration of heterogeneous design tools for building; previous efforts, current approaches; advanced techniques, including ISO-STEP and IAI.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8811",
+      "courseId": "COA 8811",
+      "title": "Special Topics in Architectural/Planning Studies",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8812",
+      "courseId": "COA 8812",
+      "title": "Special Topics in Architectural/Planning Studies",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8813",
+      "courseId": "COA 8813",
+      "title": "Special Topics in Architectural/Planning Studies",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8821",
+      "courseId": "COA 8821",
+      "title": "Special Topics in Architecture and Behavior",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8822",
+      "courseId": "COA 8822",
+      "title": "Special Topics in Architecture and Behavior",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8823",
+      "courseId": "COA 8823",
+      "title": "Special Topics in Architecture and Behavior",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8831",
+      "courseId": "COA 8831",
+      "title": "Special Topics in Design and Technology",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8832",
+      "courseId": "COA 8832",
+      "title": "Special Topics in Design and Technology",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8833",
+      "courseId": "COA 8833",
+      "title": "Special Topics in Design and Technology",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8841",
+      "courseId": "COA 8841",
+      "title": "Special Topics in Design Computing",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8842",
+      "courseId": "COA 8842",
+      "title": "Special Topics in Design Computing",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8843",
+      "courseId": "COA 8843",
+      "title": "Special Topics in Design Computing",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8851",
+      "courseId": "COA 8851",
+      "title": "Special Topics in History and Theory",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8852",
+      "courseId": "COA 8852",
+      "title": "Special Topics in History and Theory",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8853",
+      "courseId": "COA 8853",
+      "title": "Special Topics in History and Theory",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8861",
+      "courseId": "COA 8861",
+      "title": "Special Topics in History and Theory",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8862",
+      "courseId": "COA 8862",
+      "title": "Special Topics in History and Theory",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8863",
+      "courseId": "COA 8863",
+      "title": "Special Topics in History and Theory",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8871",
+      "courseId": "COA 8871",
+      "title": "Special Topics: Urban Design",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8872",
+      "courseId": "COA 8872",
+      "title": "Special Topics: Urban Design",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8873",
+      "courseId": "COA 8873",
+      "title": "Special Topics: Urban Design",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8874",
+      "courseId": "COA 8874",
+      "title": "Special Topics: Urban Design",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8875",
+      "courseId": "COA 8875",
+      "title": "Special Topics: Urban Design",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8876",
+      "courseId": "COA 8876",
+      "title": "Special Topics: Urban Design",
+      "description": "",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8901",
+      "courseId": "COA 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8902",
+      "courseId": "COA 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8903",
+      "courseId": "COA 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8904",
+      "courseId": "COA 8904",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8996",
+      "courseId": "COA 8996",
+      "title": "Qualifying Paper",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8997",
+      "courseId": "COA 8997",
+      "title": "Teaching Assistantship",
+      "description": "For students holding a graduate teaching assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8998",
+      "courseId": "COA 8998",
+      "title": "Research Assistantship",
+      "description": "For students holding a graduate research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "8999",
+      "courseId": "COA 8999",
+      "title": "Preparation for Doctoral Dissertation",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "COA",
+      "courseNumber": "9000",
+      "courseId": "COA 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 76,
+  "scrapedAt": "2025-08-16T02:00:34.347Z"
+}

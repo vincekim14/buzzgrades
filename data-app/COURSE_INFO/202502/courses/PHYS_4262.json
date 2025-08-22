@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PHYS",
+  "courseNumber": "4262",
+  "courseId": "PHYS 4262",
+  "title": "Solid State Physics",
+  "description": "A first course in the physics of crystalline solids.  Core topics include crystal lattices, diffraction, bonding, elastic properties, band theory, as well as others.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 3143 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:25.822Z"
+}

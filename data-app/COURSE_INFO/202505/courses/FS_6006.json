@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "FS",
+  "courseNumber": "6006",
+  "courseId": "FS 6006",
+  "title": "Foreign Studies",
+  "description": "Course used by students participating in an exchange program with a foreign university.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Foreign Exchange (8)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:02.750Z"
+}

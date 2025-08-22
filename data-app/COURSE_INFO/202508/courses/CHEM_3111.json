@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CHEM",
+  "courseNumber": "3111",
+  "courseId": "CHEM 3111",
+  "title": "Inorganic Chemistry",
+  "description": "A study of the reactions and structures of inorganic compounds and principles, generalizations and theories that assist in understanding their behavior.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHEM 2312 Undergraduate Semester Minimum Grade of D or CHEM 2313 Undergraduate Semester Minimum Grade of D) and CHEM 1212K Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:25.778Z"
+}

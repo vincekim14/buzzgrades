@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PHIL",
+  "courseNumber": "3180",
+  "courseId": "PHIL 3180",
+  "title": "Biomedical Ethics",
+  "description": "A survey of major issues in contemporary biomedical ethics, using well-constructed arguments to understand basic controversies in medicine, research, end-of-life care, and other topics.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:37.535Z"
+}

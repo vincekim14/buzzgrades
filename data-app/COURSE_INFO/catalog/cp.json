@@ -1,0 +1,1161 @@
+{
+  "subject": "CP",
+  "subjectName": "City Planning (CP)",
+  "url": "https://catalog.gatech.edu/coursesaz/cp/",
+  "courses": [
+    {
+      "subjectCode": "CP",
+      "courseNumber": "2020",
+      "courseId": "CP 2020",
+      "title": "Introduction to Urban and Regional Planning",
+      "description": "This course provides an overview of how cities and metropolitan regions are planned including discussions of urban history, current events, and future prospects for cities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "2030",
+      "courseId": "CP 2030",
+      "title": "Atlanta Past, Present, and Future",
+      "description": "This community-engaged course will cover 19th, 20th, and 21st century urban history and theory, seen through the lens of Atlanta’s unique history and character.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "2040",
+      "courseId": "CP 2040",
+      "title": "Cities of Tomorrow",
+      "description": "This course explores how the forces shaping 21st-century cities compare to the dynamics that shaped cities of the past and present.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "2233",
+      "courseId": "CP 2233",
+      "title": "Sustainable Urban Development",
+      "description": "This course introduces students to the theory and practice of sustainability as applied to the built environment at scales from the site to the megaregion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "2235",
+      "courseId": "CP 2235",
+      "title": "World Cities",
+      "description": "This class explores the past evolution of world cities, the enormous challenges they face in the present, and the opportunities for innovative, sustainable urban solutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "2698",
+      "courseId": "CP 2698",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member. Undergraduate research under the guidance of a faculty member for the first years and sophmores.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "2699",
+      "courseId": "CP 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member. Undergraduate research under the guidance of a faculty member for first years and sophomores.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "3024",
+      "courseId": "CP 3024",
+      "title": "Qualitative Analysis and Research Design",
+      "description": "This course is about enabling community engagement through survey design and data analysis, and other participatory methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "3025",
+      "courseId": "CP 3025",
+      "title": "Quantitative Analysis in Planning",
+      "description": "Analytical methods in planning including inferential statistics, linear regression, and analysis of variance and how they are applied to planning problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4010",
+      "courseId": "CP 4010",
+      "title": "Foundations of Urban and Regional Development",
+      "description": "The course describes the economic function of cities and the significant factors that shape their growth and development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4020",
+      "courseId": "CP 4020",
+      "title": "Introduction to Urban and Regional Planning",
+      "description": "This course provides an overview of the planning of cities and metropolitan regions.  The legal and historical context as well as substantive areas of urban planning are addressed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4030",
+      "courseId": "CP 4030",
+      "title": "The City and Its Technology",
+      "description": "This course places urban infrastructure technology within the larger context of planning and development. The social and economic aspects of these systems are highlighted.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4040",
+      "courseId": "CP 4040",
+      "title": "The City in Fiction and Film",
+      "description": "Examines images and perceptions of the urban environment as portrayed in literature and cinema.  Explores the social, economic, and cultural contexts that impact on conception of the city.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4050",
+      "courseId": "CP 4050",
+      "title": "Negotiation, Facilitation, and Conflict Management",
+      "description": "Theoretical and practical instruction on techniques of negotiation and consensus building using case studies and training exercises.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4052",
+      "courseId": "CP 4052",
+      "title": "Sustainable Cities Studio",
+      "description": "This course provides students with a faculty-supervised community engagement experience in developing a sustainability-related project for a non-profit, business, or government agency.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4060",
+      "courseId": "CP 4060",
+      "title": "Urban Data Science",
+      "description": "This course explores the intersection of data analytics, big data, and artificial intelligence in the context of urban environments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4105",
+      "courseId": "CP 4105",
+      "title": "Land Conservation",
+      "description": "This course considers the distinctive American view of land and history of the conservation movement, then discusses the why and how of modern land conservation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4190",
+      "courseId": "CP 4190",
+      "title": "Introduction to Climate Change Planning",
+      "description": "This course equips students with the knowledge and methods necessary to undertake the next generation of state, local, corporate, and enterprise climate action planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4210",
+      "courseId": "CP 4210",
+      "title": "Environmental Planning and Impact Assessment",
+      "description": "Covers the principles of environmental planning and decision making. Examines the methods and processes, and environmental impact assessment and regulation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4310",
+      "courseId": "CP 4310",
+      "title": "Urban Transportation and Planning",
+      "description": "This course is designed to introduce the fundamentals of urban transportation planning and policy and is applicable to students in a variety of concentrations of study. The purpose of the course will be to acquaint students with transportation planning as a profession and the types of projects that transportation planners are required to conduct.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4510",
+      "courseId": "CP 4510",
+      "title": "Fundamentals of Geographic Information Systems",
+      "description": "The course provides a basic understanding of the tools for collecting, storing, and analyzing spatially distributed data. Basic issues of software design and application are covered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4541",
+      "courseId": "CP 4541",
+      "title": "Environmental Geographic Information Systems",
+      "description": "This course focuses on the application of geographic information systems (GIS) to environmental problems. It highlights the types and sources of data appropriate to those applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4545",
+      "courseId": "CP 4545",
+      "title": "Climate Change Analytics",
+      "description": "This course addresses the global problem of climate change using powerful, recently-developed tools from the fields of data science and geospatial analytics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4570",
+      "courseId": "CP 4570",
+      "title": "Socioeconomic Geographic Information Systems",
+      "description": "This GIS course addresses the collection, management, analysis, and interpretation of spatial social, economic, housing, and demographic information.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4610",
+      "courseId": "CP 4610",
+      "title": "Introduction to Real Estate Investment",
+      "description": "Introduction to real estate analysis and utilization. Subjects include attributes of real property, value determinations, appraisal, investment analysis, market analysis, asset management, and public aspects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4620",
+      "courseId": "CP 4620",
+      "title": "Housing and Real Estate Economics",
+      "description": "Examination of private and public sector approaches to housing.  Economic theory of durable goods, demand elasticities, applied market research analyses, and history of public intervention.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4698",
+      "courseId": "CP 4698",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member. Undergraduate research under the guidance of a faculty member for juniors and seniors.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4699",
+      "courseId": "CP 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member. Undergraduate research under the guidance of a faculty member for juniors and seniors.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4811",
+      "courseId": "CP 4811",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses in the department.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4812",
+      "courseId": "CP 4812",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses in the department.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4813",
+      "courseId": "CP 4813",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4814",
+      "courseId": "CP 4814",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses in the department.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4815",
+      "courseId": "CP 4815",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in other courses in the department.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "4901",
+      "courseId": "CP 4901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6002",
+      "courseId": "CP 6002",
+      "title": "Introduction to Fields of Planning",
+      "description": "Introduction to the various subfields of planning through reading, discussion, and guest lectures by practicing planners.  Course also covers professional ethics and career planning and development.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6005",
+      "courseId": "CP 6005",
+      "title": "Freehand Drawing for Planners",
+      "description": "This courses teaches planning students through drawing to record, analyze, conceptualize, and represent commonly recurring physical and diagrammatic relationships that occur in the physical environment.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6006",
+      "courseId": "CP 6006",
+      "title": "Visualization for Planners",
+      "description": "Explores visual and representational techniques and methods for physical planning, introducing a common set of computer applications designed to enhance visual representation and communication.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6012",
+      "courseId": "CP 6012",
+      "title": "Theory and History of Planning",
+      "description": "Examines theories of planning and the public interest. Considers the roles of planners within the American political system and the historical development of the planning profession.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6016",
+      "courseId": "CP 6016",
+      "title": "Growth Management Law and Implementation",
+      "description": "Study of legal framework of planning focusing on managing development to achieve desired outcomes for the economy, society, and the environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6024",
+      "courseId": "CP 6024",
+      "title": "Quantitative and Computer Methods",
+      "description": "Introduction to computing and quantitative methods in planning. Discusses commonly used data sources, data management, presentation techniques, and planning analytical models.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6025",
+      "courseId": "CP 6025",
+      "title": "Advanced Planning Methods",
+      "description": "Analytical methods in planning including inferential statistics, linear regression, and analysis of variance and how they are applied to planning problems.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6031",
+      "courseId": "CP 6031",
+      "title": "Economic Analysis for Planning",
+      "description": "Applications of economic principles to planning, including market theory, public goods, externalities, cost benefit analysis, and project economics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6032",
+      "courseId": "CP 6032",
+      "title": "Urban and Regional Development Theory",
+      "description": "Study of theories in the structure and function of cities and regions.  Emphasis on the economic forces shaping urban development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6034",
+      "courseId": "CP 6034",
+      "title": "Demographic and Economic Analysis of Urban Areas",
+      "description": "This course considers the social and economic structure of urban areas from a demographic perspective.  Population structure, population change, and migration are explored.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6035",
+      "courseId": "CP 6035",
+      "title": "Theory and History of Planning",
+      "description": "Examines theories of planning and the public interest, the intellectual and historical development of the planning profession, and the roles of planners within political systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6036",
+      "courseId": "CP 6036",
+      "title": "Community Dynamics and Engagement",
+      "description": "Study of theories and dynamics of community-building, with a focus on working in communities, equity and inclusive community engagement.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6037",
+      "courseId": "CP 6037",
+      "title": "Planning Law, Regulation and Implementation",
+      "description": "Study of legal framework of planning focusing on managing development and increasing opportunity to achieve desired outcomes for the economy, society, and the environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6052",
+      "courseId": "CP 6052",
+      "title": "Applied Planning Studio",
+      "description": "Analysis and preparation of alternatives for an existing neighborhood, community, or region.  Emphasis on application of planning skills in a real-world situation.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6053",
+      "courseId": "CP 6053",
+      "title": "Applied Planning Studio (Urban Design)",
+      "description": "The studio investigates urban physical settings. It emphasizes processes from visual representation, performanece evaluations to design decision making of future sustainable urban systems.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6055",
+      "courseId": "CP 6055",
+      "title": "Planning Studio",
+      "description": "Analysis and preparation of alternatives for an existing neighborhood, community, or region. Emphasis on application of planning skills in a real-world situation.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6105",
+      "courseId": "CP 6105",
+      "title": "Land Conservation",
+      "description": "This course considers the distinctive American view of land and history of the conservation movement, then discusses the why and how of modern land conservation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6112",
+      "courseId": "CP 6112",
+      "title": "Introduction to Land Use Planning",
+      "description": "This course introduces students to land use planning.  The basic rationale for land use planning and its form in different states is covered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6122",
+      "courseId": "CP 6122",
+      "title": "Land Use Planning Methods",
+      "description": "This course explores the techniques of land use planning and applies them to specific land use types.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6190",
+      "courseId": "CP 6190",
+      "title": "Introduction to Climate Change Planning",
+      "description": "This course equips students with the knowledge and methods necessary to develop the next generation fo state, local, corporate, and enterprise climate action planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6213",
+      "courseId": "CP 6213",
+      "title": "Urb Env Plan & Design",
+      "description": "This course introduces students to the basic theoretical and analytical underpinnings of urban environmental planning and design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6214",
+      "courseId": "CP 6214",
+      "title": "Environmental Planning and Impact Assessment",
+      "description": "Examines the principles, processes, and methods of environmental planning.  Focus on environmental science and its use in impact assessment and project evaluation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6217",
+      "courseId": "CP 6217",
+      "title": "Climate Change and the City",
+      "description": "The course explores land use and urban design strategies for adapting to climate change in cities and on local hazard mitigation policy.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6223",
+      "courseId": "CP 6223",
+      "title": "Policy Tools for Environmental Management",
+      "description": "The course covers the regulatory, market, and procedural tools used to manage the environment. It examines the strengths and weaknesses of alternative techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6233",
+      "courseId": "CP 6233",
+      "title": "Sustainable Urban Development",
+      "description": "Explores the principles and practice of sustainable urban development and the role of planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6241",
+      "courseId": "CP 6241",
+      "title": "Water Resources Planning",
+      "description": "Fundamentals of water resources planning and watershed management. Emphasis on urban water resources problems, policies, and practices.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6243",
+      "courseId": "CP 6243",
+      "title": "Health Impact Assessment",
+      "description": "Students conduct an HIA, evaluate a completed HIA and propose approaches to institutionalizing HIA in institutions that traditionally do not focus on health outcomes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6250",
+      "courseId": "CP 6250",
+      "title": "Hazardous Waste Planning and Management",
+      "description": "Examines the planning tools and management techniques for the proper use, storage, transport, and disposal of hazardous material and waste products.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6261",
+      "courseId": "CP 6261",
+      "title": "Environmental Law",
+      "description": "This course introduces students to the framework of legislation that shapes environmental planning and policy, including NEPA, Clean Air Act, and Clean Water Act.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6311",
+      "courseId": "CP 6311",
+      "title": "Introduction to Transportation Planning",
+      "description": "Overview course in transportation planning including basic principles to understanding transportation, current transportation problems, transportation policy, and decision-making processes and methods.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6321",
+      "courseId": "CP 6321",
+      "title": "Transportation Planning Methods and Investment Decisions",
+      "description": "Review of transportation methods and how they interface with investment decisions.  How transportation planners at the local, regional, state, and federal levels employ methods.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6322",
+      "courseId": "CP 6322",
+      "title": "Urban Transportation Planning Methods and Investment Decisions",
+      "description": "Review of methods employed by transportation planners to estimate and predict travel flows, design transport systems, and inform local, regional and national investment decisions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6331",
+      "courseId": "CP 6331",
+      "title": "Land Use and Transportation Interaction",
+      "description": "Overview of land use and transportation planning principles, how development impacts transportation, how transportation investments impact development patterns and air quality.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6341",
+      "courseId": "CP 6341",
+      "title": "Urban Design and Non-Motorized Accessibility",
+      "description": "Examines role and opportunity to make walking and biking viable travel options in urban environments and how urban environments need to be designed to encourage non-motorized travel.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6351",
+      "courseId": "CP 6351",
+      "title": "Transportation and Economic Development",
+      "description": "Impact of transportation infrastructure investments on economic outcomes at a range of geographic scales including neighborhood, municipality, regional, and statewide.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6361",
+      "courseId": "CP 6361",
+      "title": "Regional Transportation Planning and Administration",
+      "description": "This course will address the administrative, political, methodological, and social issues underlying the regional transportation planning process.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6412",
+      "courseId": "CP 6412",
+      "title": "Foundations of Local Economic Development Planning and",
+      "description": "Policy Introduction to local economic development planning, examining theory, process and practice, international and regional factors, public and private roles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6422",
+      "courseId": "CP 6422",
+      "title": "Economic Development Analysis and Practice",
+      "description": "This course focuses on strategy development, methods of analysis, and approaches to practice for urban and regional economic development policy and planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6432",
+      "courseId": "CP 6432",
+      "title": "Industrial Restructuring and Its Planning Implications",
+      "description": "Examines industrial restructuring trends and theoretical frameworks; develops industry case studies; and considers economic development planning's role in industrial restructuring.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6442",
+      "courseId": "CP 6442",
+      "title": "Equity, Social Justice, and Economic Development",
+      "description": "Explores concepts and theories of equity and social justice, analysis of indicators of (in)justice/equity, and economic development planning's role in promoting equity and social justice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6452",
+      "courseId": "CP 6452",
+      "title": "Urban Development Policy",
+      "description": "Introduces elements of urban policy and economic development by examining them historically, nationally, and locally. Approaches to urban development and redevelopment are analyzed.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6514",
+      "courseId": "CP 6514",
+      "title": "Introduction to Geographic Information Systems",
+      "description": "This course introduces students to spatial analysis using geographic information systems.  Fundamentals of software design and geographic data are covered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6521",
+      "courseId": "CP 6521",
+      "title": "Advanced Geographic Information Systems",
+      "description": "The course provides students with advanced spatial analysis techniques including network analysis, three-dimensional surface modeling, and GIS application development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6531",
+      "courseId": "CP 6531",
+      "title": "Introduction to Remote Sensing",
+      "description": "This course introduces students to the collection and use of satellite imagery and other remote sensing data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6541",
+      "courseId": "CP 6541",
+      "title": "Environmental Analysis Using GIS",
+      "description": "This course focuses on the application of geographic information systems (GIS) to environmental problems. It highlights the types and sources of data appropriate to those applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6542",
+      "courseId": "CP 6542",
+      "title": "Transport & GIS",
+      "description": "Transportation data models, data processing, modeling, and service delivery in geographical information systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6543",
+      "courseId": "CP 6543",
+      "title": "Public Health Analytics",
+      "description": "Presents a comprehensive socioecological framework for conducting healthy places research and practice, and metrics and analytical methods to measure and model health determinants and outcomes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6545",
+      "courseId": "CP 6545",
+      "title": "Climate Change Analytics",
+      "description": "This course addresses the  global problem of climate change using powerful, recently-developed tools from the fields of data science and geospatial analytics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6551",
+      "courseId": "CP 6551",
+      "title": "Spatial Analysis of Socioeconomic Data",
+      "description": "This course provides students with an in-depth study of the spatial distribution of human activity, including population, housing, and employment.  Credit not allowed for both CP 6551 and CP 6570.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6552",
+      "courseId": "CP 6552",
+      "title": "Design of Smart Urban Systems",
+      "description": "The course integrates data analytics, systems science and urban design. It covers theories, methods, modeling tools and case studies in the context of smart cities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6561",
+      "courseId": "CP 6561",
+      "title": "Geodemographics: Data Sources and Methods",
+      "description": "Explores important secondary data sources used by planners and analysts working with smaller geographic areas. Experience with hardware and software used to analyze data.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6570",
+      "courseId": "CP 6570",
+      "title": "Socioeconomic GIS",
+      "description": "This advanced GIS course addresses the collection, management, analysis, and interpretation of spatial social, economic, housing, and demographic information.  Credit not allowed for both CP 6570 and CP 6551.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6581",
+      "courseId": "CP 6581",
+      "title": "Programming for Geographic Information Systems",
+      "description": "This course teaches fundamental programming skills for geoprocessing and data presentation in a geographic information system environment. The primary languages used are Python and Javascript.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6591",
+      "courseId": "CP 6591",
+      "title": "GIS Professionalization",
+      "description": "This course provides MSGIST students with a bridge from the academic world to the professional GIS world.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6592",
+      "courseId": "CP 6592",
+      "title": "Capstone Project Research",
+      "description": "This course allows students to select a MSGIST capstone project topic, conduct a professional and academic literature review, and assemble required spatial datasets.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6595",
+      "courseId": "CP 6595",
+      "title": "GIS Systems Design and Management",
+      "description": "This course equips students to address a range of issues related to GIS data acquisition, database design, system configuration, and project management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6596",
+      "courseId": "CP 6596",
+      "title": "GIS Capstone Project",
+      "description": "Students plan and execute a major professional project using standard GIS methodologies, and communicate the project results in written, graphic, and public presentation formats.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6611",
+      "courseId": "CP 6611",
+      "title": "Principles of Real Estate Finance and Development",
+      "description": "Introduction to principles of real estate finance, focusing on the role the public sector plays in making desirable development projects financially feasible.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6612",
+      "courseId": "CP 6612",
+      "title": "Community Development",
+      "description": "This course will examine neighborhood-based efforts, public policy, trends and practices that have shaped community development in American inner city communities since 1950.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6621",
+      "courseId": "CP 6621",
+      "title": "Real Estate Market Research",
+      "description": "Introduction to real estate market research with particular focus on analyses of housing and office markets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6630",
+      "courseId": "CP 6630",
+      "title": "Government and Housing Markets",
+      "description": "Examination of the operation of local housing markets and national, state, regional, and local housing policies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6640",
+      "courseId": "CP 6640",
+      "title": "Applied Real Estate Development Methods",
+      "description": "Application of the development process, market and financial feasibility analyses, and public policy to large development projects.  Extensive use of case studies involving professional developers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6652",
+      "courseId": "CP 6652",
+      "title": "Asset-Based Community Development in Practice",
+      "description": "Introduces and reviews the basics of Asset-Based Community Development (ABCD): working with communities based on their assets, or strengths. In collaboration with community partners, students explore ABCD in action via campus and community site visits.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6680",
+      "courseId": "CP 6680",
+      "title": "Citizen Participation and Community Engagement",
+      "description": "This course discusses planners' reasons fro engaging communitites in the planning process, evaluates various engagement methods, and produces a guide to direct future practice.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6701",
+      "courseId": "CP 6701",
+      "title": "Urban Transportation Planning",
+      "description": "An overview course on the history, finance, operations, modeling, politics, environmental impacts, and planning of urban transportation systems in the United States.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6702",
+      "courseId": "CP 6702",
+      "title": "Urban Transportation Planning Laboratory",
+      "description": "Transportation planning/engineering laboratory and field experience.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6704",
+      "courseId": "CP 6704",
+      "title": "Introduction to Global Development",
+      "description": "Introduces the goals, theories and key institutional actors involved in Global Development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6760",
+      "courseId": "CP 6760",
+      "title": "Negotiation and Conflict Management",
+      "description": "Practical and theoretical instruction on techniques of negotiation and consensus building using training exercises and case studies.  Emphasizes environmental, policy, planning, and development disputes.  Crosslisted with PUBP 6760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6811",
+      "courseId": "CP 6811",
+      "title": "Negotiation, Facilitation, and Conflict Management",
+      "description": "Theoretical and practical instruction on techniques of negotiation and consensus building using case studies and training exercises.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6815",
+      "courseId": "CP 6815",
+      "title": "Cinema City",
+      "description": "Explores people's response to cities, augmenting the empirical analysis that is urban studies domain with the subjective perspectives of cinematic artists.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6821",
+      "courseId": "CP 6821",
+      "title": "Basic Methods of Policy Analysis and Planning",
+      "description": "Synthesizes elements of the program core's analytic techniques and employs them in a case study context. Cases address urban policy, planning, and management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6825",
+      "courseId": "CP 6825",
+      "title": "Public Sector Finance and Budgeting",
+      "description": "Theory and practice of public finance. Emphasis on applications in local government revenue collection, budgeting, and expenditure analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6831",
+      "courseId": "CP 6831",
+      "title": "Urban Growth and Infrastructure Systems",
+      "description": "This course provides students with a basic understanding of urban infrastructure systems and their role in shaping urban growth and development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6832",
+      "courseId": "CP 6832",
+      "title": "Introduction to Urban Design",
+      "description": "An introduction to the study, research, and practice of urban design examining traditional design principles and their application to the contemporary city.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6834",
+      "courseId": "CP 6834",
+      "title": "Urban Design Policy: Analysis and Implementation",
+      "description": "Urban design policy making and its implementation including an analysis of the behavioral basis for policies that promote quality in built form.  Credit not allowed for both CP 6834 and ARCH 6303.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6836",
+      "courseId": "CP 6836",
+      "title": "Urban Ecological Design",
+      "description": "This course engages the contemporary issues of urban ecology and its articulation to design.  It explores relationship between urban forms, and flows of ecology, energy, material, water and information.  Credit not allowed for both CP 6836 and ARCH 6447.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6850",
+      "courseId": "CP 6850",
+      "title": "Public Health and the Built Environment",
+      "description": "This interdisciplinary course examines how cities and neighborhoods can have both positive and adverse effects on human health, and produces recommendations to improve these outcomes.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6960",
+      "courseId": "CP 6960",
+      "title": "Urban Analytics Capstone Project",
+      "description": "Students prepare to execute a major professional project using urban analytics methodologies and communicate the project results in written, graphic, and public presentation formats.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "6962",
+      "courseId": "CP 6962",
+      "title": "Urban Analytics Capstone Project",
+      "description": "Students plan and execute a major professional project using urban analytics methodologies, and communicate the project results in written, graphic, and public presentation formats.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "7000",
+      "courseId": "CP 7000",
+      "title": "Master's Thesis",
+      "description": "Provides students with an opportunity to pursue advanced research under the guidance of a faculty committee.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "7999",
+      "courseId": "CP 7999",
+      "title": "Preparation for Ph.D. Qualification Exam",
+      "description": "Preparation for the Ph.D. Qualification Exam.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8000",
+      "courseId": "CP 8000",
+      "title": "Doctoral Planning Seminar",
+      "description": "This course provides students and faculty an opportunity to present and discuss planning research.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8012",
+      "courseId": "CP 8012",
+      "title": "PhD Foundations Seminar",
+      "description": "Incoming City and Regional Planning doctoral students reflect upon research, assess opportunities afforded by doctoral education, and develop a plan of study for the program.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8022",
+      "courseId": "CP 8022",
+      "title": "PhD Seminar in Research and Pedagogy",
+      "description": "Students conceptualize and share ongoing research with their peers, develop professional and pedagogical skills, and explore issues of student and career\ndevelopment.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8200",
+      "courseId": "CP 8200",
+      "title": "Advanced Planning Theory",
+      "description": "Seminar on planning theory, including philosophy of science, political philosophy and ethical theory.  The course explores the theoretical basis for planning as a social activity.  Credit not allowed for both CP 8200 and COA 8520.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8300",
+      "courseId": "CP 8300",
+      "title": "Advanced Urban and Regional Development Theory",
+      "description": "Examines principal urban-regional economic, and spatial theories for explaining economic, social and physical forces influencing locations, growth and decline of cities and regions. Credit not allowed for both CP 8300 and COA 8540.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8400",
+      "courseId": "CP 8400",
+      "title": "Research Design and Qualitative Methods",
+      "description": "Examines issues associated with the design and methodological implementation of planning and applied social research, with a focus on techniques for qualitative inquiry.  Credit not allowed for both CP 8400 and COA 8510.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8505",
+      "courseId": "CP 8505",
+      "title": "Advanced Quantitative Research Methods for Planning, Policy and Design",
+      "description": "This course addresses two complementary topics: the design of quantitative research related to planning, design, and policy; and advanced statistical techniques for accomplishing such research.  Credit not allowed for both CP 8505 and COA 8510.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8813",
+      "courseId": "CP 8813",
+      "title": "Special Topics in Land Use Planning",
+      "description": "Topics of current interest in land use planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8822",
+      "courseId": "CP 8822",
+      "title": "Special Topics",
+      "description": "Special Topics in City Planning.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8823",
+      "courseId": "CP 8823",
+      "title": "Special Topics in Environmental Planning",
+      "description": "Topics of current interest in environmental planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8833",
+      "courseId": "CP 8833",
+      "title": "Special Topics in Transportation Planning",
+      "description": "Topics of current interest in transportation planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8843",
+      "courseId": "CP 8843",
+      "title": "Special Topics in Economic Development",
+      "description": "Topics of current interest in economic development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8851",
+      "courseId": "CP 8851",
+      "title": "Special Topics in GIS",
+      "description": "Topics of current interest in Geographic Information Systems.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8852",
+      "courseId": "CP 8852",
+      "title": "Special Topics in GIS",
+      "description": "Topics of current interest in Geographic Information Systems.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8853",
+      "courseId": "CP 8853",
+      "title": "Special Topics in Geographic Information Systems",
+      "description": "Topics of current interest in geographic information systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8863",
+      "courseId": "CP 8863",
+      "title": "Special Topics in Land Development",
+      "description": "Topics of current interest in land development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8873",
+      "courseId": "CP 8873",
+      "title": "Special Topics in Urban Design",
+      "description": "Topics of current interest in urban design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8876",
+      "courseId": "CP 8876",
+      "title": "Special Topics in Urban Design",
+      "description": "Special Topics.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8881",
+      "courseId": "CP 8881",
+      "title": "Special Topics in City and Regional Planning",
+      "description": "Topics of current interest in city and regional planning.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8882",
+      "courseId": "CP 8882",
+      "title": "Special Topics in City and Regional Planning",
+      "description": "Topics of current interest in city and regional planning.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8883",
+      "courseId": "CP 8883",
+      "title": "Special Topics in City and Regional Planning",
+      "description": "Topics of current interest in city and regional planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8900",
+      "courseId": "CP 8900",
+      "title": "Special Problems",
+      "description": "Special problems of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8901",
+      "courseId": "CP 8901",
+      "title": "Special Problems",
+      "description": "Special problems of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8902",
+      "courseId": "CP 8902",
+      "title": "Special Problems",
+      "description": "Special problems of current interest.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8990",
+      "courseId": "CP 8990",
+      "title": "Applied Research Paper",
+      "description": "The applied research paper requires students to demonstrate their ability to organize and execute professional-level work in consultation with a faculty member.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8997",
+      "courseId": "CP 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8998",
+      "courseId": "CP 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "8999",
+      "courseId": "CP 8999",
+      "title": "Preparation for Doctoral Dissertation",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CP",
+      "courseNumber": "9000",
+      "courseId": "CP 9000",
+      "title": "Doctoral Dissertation",
+      "description": "For City Planning Ph.D. candidates writing their dissertations.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 144,
+  "scrapedAt": "2025-08-16T02:00:35.160Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "BMED",
+  "courseNumber": "4753",
+  "courseId": "BMED 4753",
+  "title": "Frontiers Neuroeng",
+  "description": "Neuroengineering issues related to measurement and manipulation of the nervous system for basic scientific discovery and treatment of neurological disorders.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BMED 2400 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or BIOS 4401 Undergraduate Semester Minimum Grade of D or PSYC 2020 Undergraduate Semester Minimum Grade of D or MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3225 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D) and (CS 1301 Undergraduate Semester Minimum Grade of D or CS 1371 Undergraduate Semester Minimum Grade of D) and (BMED 3100 Undergraduate Semester Minimum Grade of D or NEUR 2001 Undergraduate Semester Minimum Grade of D or BIOS 3755 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:38:35.514Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ECON",
+  "courseNumber": "6010",
+  "courseId": "ECON 6010",
+  "title": "Career Dev Workshop",
+  "description": "This workshop style class for economics majors focuses on strategies and skills for identifying career and graduate school pathways, conducting successful job and internship searches, and advancing in the workplace.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:53.110Z"
+}

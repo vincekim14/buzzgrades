@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "4031",
+  "courseId": "PSYC 4031",
+  "title": "Psychology Capstone",
+  "description": "Consideration of the applications of methods and data of experimental psychology.  Understanding of human capabilities and limitations is applied to design of technology and environments.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 2015 Undergraduate Semester Minimum Grade of C and PSYC 2020 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:43:38.252Z"
+}

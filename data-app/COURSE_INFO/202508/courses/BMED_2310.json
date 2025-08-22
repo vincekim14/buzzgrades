@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "BMED",
+  "courseNumber": "2310",
+  "courseId": "BMED 2310",
+  "title": "Intro Biomed Engr Design",
+  "description": "In small teams students will apply problem-based learning and human centered design to reverse engineer, analyze, and redesign medical devices. Credit will not be awareded for both BMED 2310 and BMED 2300.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BMED 2210 Undergraduate Semester Minimum Grade of D or BMED 2110 Undergraduate Semester Minimum Grade of D) and BMED 2250 Undergraduate Semester Minimum Grade of D and (PHYS 2211 Undergraduate Semester Minimum Grade of D or PHYS 2231 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:36:45.323Z"
+}

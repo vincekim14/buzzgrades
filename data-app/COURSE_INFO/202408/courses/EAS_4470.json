@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "EAS",
+  "courseNumber": "4470",
+  "courseId": "EAS 4470",
+  "title": "Large-Scale Atmos Circ",
+  "description": "Structure and dynamics of phenomena including weather regimes, storm tracks, El Nino-Southern Oscillations, teleconnections, monsoons, Arctic Oscillation, stratospheric polar vortex, and stratosphere-troposphere coupling.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "EAS 4655 Undergraduate Semester Minimum Grade of D or EAS 6502 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:39.296Z"
+}

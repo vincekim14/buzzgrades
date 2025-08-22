@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "NEUR",
+  "courseNumber": "4001",
+  "courseId": "NEUR 4001",
+  "title": "Neuro Research Project",
+  "description": "Focused on multidisciplinary perspectives in neuroscience, this course requires that students utilize and apply the skills and knowledge developed over the course of their major.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "NEUR 3010 Undergraduate Semester Minimum Grade of D and BIOS 4400 Undergraduate Semester Minimum Grade of D and NEUR 3003 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:29.861Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "4090",
+  "courseId": "PSYC 4090",
+  "title": "Cognitive Neuroscience",
+  "description": "Examination of the neural basis of cognitive function. Basic anatomy and methods are covered. Primary focus is on contemporary problems in the neurocognitive study of perception, memory, language, and attention, as well as disorders in these domains.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 3011 Undergraduate Semester Minimum Grade of D or PSYC 3012 Undergraduate Semester Minimum Grade of D or PSYC 4011 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:38.700Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6270",
+  "courseId": "ECE 6270",
+  "title": "Convex Optimization",
+  "description": "This course provides an introduction to convex optimization, covering the mathematical fundamentals of convex analysis and duality theory, algorithms, and modelling of practical applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:52.289Z"
+}

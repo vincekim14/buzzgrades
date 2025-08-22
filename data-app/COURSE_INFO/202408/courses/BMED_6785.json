@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "BMED",
+  "courseNumber": "6785",
+  "courseId": "BMED 6785",
+  "title": "Optical Microscopy",
+  "description": "The course will cover the fundamental principles of optical imaging and detail the inner workings of key microscopy technologies",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 2211 Undergraduate Semester Minimum Grade of D and MATH 1552 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:22.606Z"
+}

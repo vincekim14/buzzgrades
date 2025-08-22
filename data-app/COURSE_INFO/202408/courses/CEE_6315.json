@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "6315",
+  "courseId": "CEE 6315",
+  "title": "Environmental Nanotech",
+  "description": "The course is divided into two primary sections: 1) fundamentals of nanomaterials and nanotechnology and 2) the environmental applications of nanotechnology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:29.381Z"
+}

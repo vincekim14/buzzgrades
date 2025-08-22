@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "HTS",
+  "courseNumber": "3029",
+  "courseId": "HTS 3029",
+  "title": "Ancient Rome",
+  "description": "Growth of the Republic, antics and follies of the emperors, accomplishments of Rome, and causes of decline. Early Christianity and its impact on Europe included.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:23.767Z"
+}

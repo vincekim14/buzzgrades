@@ -1,0 +1,8 @@
+# PLACEHOLDER IMAGE  
+# This is a placeholder for the default social sharing image used across the site
+# Purpose: Default Open Graph image for all pages that don't specify a custom image
+# Usage: Used in components/Layout/MyHeading.jsx as default imageURL parameter
+# Shows: Default social media preview image when BuzzGrades pages are shared
+# Dimensions: Should be 1200x630px (standard Open Graph image ratio)
+# Format: PNG with transparent background preferred  
+# Content: Should contain compact BuzzGrades logo/branding suitable for smaller social previews

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "LMC",
+  "courseNumber": "3705",
+  "courseId": "LMC 3705",
+  "title": "Prin Information Design",
+  "description": "Presents principles and practices guiding the development of emerging digital genres. Emphasis on maximizing the affordances of the computer in organizing and communicating complex information.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 1301 Undergraduate Semester Minimum Grade of C or CS 1315 Undergraduate Semester Minimum Grade of C or CS 1316 Undergraduate Semester Minimum Grade of C or CS 1321 Undergraduate Semester Minimum Grade of C or CS 1371 Undergraduate Semester Minimum Grade of C) and (LMC 2700 Undergraduate Semester Minimum Grade of C or LMC 2000 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:41:09.845Z"
+}

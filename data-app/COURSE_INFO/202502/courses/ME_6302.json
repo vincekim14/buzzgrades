@@ -1,0 +1,23 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6302",
+  "courseId": "ME 6302",
+  "title": "Convection Heat Transfer",
+  "description": "Convection (forced and free) in laminar and turbulent, internal and external flows. Analogy between momentum and heat transfer. Scaling laws and modeling.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__Aerospace Engineering (AE)",
+    "__DETAIL_1__Chemical and Biomolecular Eng (CHBE)",
+    "__DETAIL_1__Mechanical Engineering (ME)",
+    "__DETAIL_1__Nuclear & Radiological Engr (NRE)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3345 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:38.387Z"
+}

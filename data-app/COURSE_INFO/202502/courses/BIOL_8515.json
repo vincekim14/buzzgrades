@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOL",
+  "courseNumber": "8515",
+  "courseId": "BIOL 8515",
+  "title": "Community Ecology",
+  "description": "An advanced ecology course that covers classic and contemporary concepts, patterns, and processes in the field of community ecology",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BIOL 2335 Undergraduate Semester Minimum Grade of C or BIOL 2337 Undergraduate Semester Minimum Grade of C or BIOS 2300 Undergraduate Semester Minimum Grade of C or BIOS 2310 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:35:51.616Z"
+}

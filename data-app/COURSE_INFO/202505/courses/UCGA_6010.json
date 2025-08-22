@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "UCGA",
+  "courseNumber": "6010",
+  "courseId": "UCGA 6010",
+  "title": "Cross Enroll-Ga St Univ",
+  "description": "CROSS ENROLL-GA ST UNIV",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Quarter (UG)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:39.767Z"
+}

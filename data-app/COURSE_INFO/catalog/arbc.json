@@ -1,0 +1,385 @@
+{
+  "subject": "ARBC",
+  "subjectName": "Arabic (ARBC)",
+  "url": "https://catalog.gatech.edu/coursesaz/arbc/",
+  "courses": [
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "1001",
+      "courseId": "ARBC 1001",
+      "title": "Elementary Arabic I",
+      "description": "Introduction to listening, speaking, reading, and writing in Arabic and to the culture of Arabic-speaking regions.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "1002",
+      "courseId": "ARBC 1002",
+      "title": "Elementary Arabic II",
+      "description": "Continued listening, speaking, reading, and writing in Arabic with further study of the culture of Arabic-speaking regions.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "1501",
+      "courseId": "ARBC 1501",
+      "title": "Understanding Arab Culture",
+      "description": "Arab beliefs and values regarding topics such as religion, society, family, the dynamics between men and women, and social norms are discussed.  Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "1801",
+      "courseId": "ARBC 1801",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "1813",
+      "courseId": "ARBC 1813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "1814",
+      "courseId": "ARBC 1814",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "1823",
+      "courseId": "ARBC 1823",
+      "title": "Special Topics",
+      "description": "Special Topics for Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2001",
+      "courseId": "ARBC 2001",
+      "title": "Intermediate Arabic I",
+      "description": "A rapid review of grammar with continued use of listening, speaking, reading, and writing skills in Arabic, all with a cultural emphasis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2002",
+      "courseId": "ARBC 2002",
+      "title": "Intermediate Arabic II",
+      "description": "This course focuses on listening, speaking, reading, and writing skills in Arabic in an introduction to literature and within a cultural context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2301",
+      "courseId": "ARBC 2301",
+      "title": "Arabic Arts, Science and Technology Through History",
+      "description": "An examination of Arab accomplishments in Sciences, Technology, Philosophy and Art (700-1300 AD) through historical documents, books and movies.  Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2694",
+      "courseId": "ARBC 2694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Language.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2695",
+      "courseId": "ARBC 2695",
+      "title": "Undergraduate Internship",
+      "description": "Modern Language Undergraduate Internship for credit for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2698",
+      "courseId": "ARBC 2698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2699",
+      "courseId": "ARBC 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2811",
+      "courseId": "ARBC 2811",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2813",
+      "courseId": "ARBC 2813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2821",
+      "courseId": "ARBC 2821",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2823",
+      "courseId": "ARBC 2823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "2833",
+      "courseId": "ARBC 2833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3001",
+      "courseId": "ARBC 3001",
+      "title": "Advanced Arabic I",
+      "description": "Advanced grammar, listening, reading, writing, speaking, the language of contemporary Arabic society, politics and culture through task-based language teaching.  Taught in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3002",
+      "courseId": "ARBC 3002",
+      "title": "Advanced Arabic II",
+      "description": "Listening, reading, writing, speaking the language of contemporary Arabic society, politics and culture through task-based language teaching.  Taught in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3005",
+      "courseId": "ARBC 3005",
+      "title": "Contemporary Arab Culture",
+      "description": "This course covers topics in Contemporary Arab Culture in Modern Standard Arabic – such as news stories, cultural debates, contemporary movements, etc. Taught in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3401",
+      "courseId": "ARBC 3401",
+      "title": "Perspectives on the Arab-Israeli Conflict",
+      "description": "This course examines diverse perspectives on the Arab-Israeli conflict from literature, film, music, culture, and media in translation.  No previous background required. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3420",
+      "courseId": "ARBC 3420",
+      "title": "Introduction to Africa",
+      "description": "This interdisciplinary course will use a variety of approaches to study significant aspects of contemporary Africa’s societies, cultures, and representations. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3501",
+      "courseId": "ARBC 3501",
+      "title": "Men-Women In Islam",
+      "description": "The course discusses contemporary Arab women and men writers' interpretation of the Qur'an demonstrating the egalitarian and anti-patriarchal nature of its teachings. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3691",
+      "courseId": "ARBC 3691",
+      "title": "Intensive Advanced Arabic",
+      "description": "Develops students' receptive & communicative skills in Arabic while capitalizing on the rich linguistic & cultural surroundings.  Part of ARBC LBAT summer program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3692",
+      "courseId": "ARBC 3692",
+      "title": "Arabic for Business and Technology I",
+      "description": "The first sequence of two courses in which students learn the linguistic and pragmatic language of business culture in the Arab World.  Taught in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3693",
+      "courseId": "ARBC 3693",
+      "title": "Arabic for Business and Technology II",
+      "description": "The continuation of two courses in which students learn the linguistic and pragmatic language of business culture in the Arab World.  Taught in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3811",
+      "courseId": "ARBC 3811",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3812",
+      "courseId": "ARBC 3812",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3813",
+      "courseId": "ARBC 3813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3823",
+      "courseId": "ARBC 3823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "3833",
+      "courseId": "ARBC 3833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "4694",
+      "courseId": "ARBC 4694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for junior and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "4695",
+      "courseId": "ARBC 4695",
+      "title": "Arabic Internship",
+      "description": "Professional experience with a business/organization in which students enhance their language skills and cultural knowledge in Arabic in relation to the practical goals/objectives of the entity.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "4698",
+      "courseId": "ARBC 4698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "4699",
+      "courseId": "ARBC 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "4813",
+      "courseId": "ARBC 4813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "4823",
+      "courseId": "ARBC 4823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "4833",
+      "courseId": "ARBC 4833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "4901",
+      "courseId": "ARBC 4901",
+      "title": "Special Problems",
+      "description": "Special problems course for advanced students. Topics to be arranged with instructor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "4902",
+      "courseId": "ARBC 4902",
+      "title": "Special Problems",
+      "description": "Special problems course for advanced students. Topics to be arranged with instructor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "8803",
+      "courseId": "ARBC 8803",
+      "title": "Special Topics",
+      "description": "Special Topics in Arabic Language and Literature.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "8804",
+      "courseId": "ARBC 8804",
+      "title": "Special Topics",
+      "description": "Special Topics in Arabic.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "8901",
+      "courseId": "ARBC 8901",
+      "title": "Special Problems in Arabic",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "8902",
+      "courseId": "ARBC 8902",
+      "title": "Special Problems in Arabic",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ARBC",
+      "courseNumber": "8903",
+      "courseId": "ARBC 8903",
+      "title": "Special Problems in Arabic",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 47,
+  "scrapedAt": "2025-08-16T02:00:30.590Z"
+}

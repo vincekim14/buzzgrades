@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "6623",
+  "courseId": "CEE 6623",
+  "title": "Survey Design and Analy",
+  "description": "Design of telephone, mail out, and personal interview survey instruments. Subsequent estimation of choice-based models from cross-sectional and panel survey data.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 6601 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:32.827Z"
+}

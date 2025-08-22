@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "4115",
+  "courseId": "ECE 4115",
+  "title": "Intro to Comp Security",
+  "description": "Introductory topics in computer security are presented with an emphasis on fundamental security primitives and current security challenges facing society. Credit not awarded for both ECE 4115 and ECE 4112.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 4110 Undergraduate Semester Minimum Grade of D or ECE 3600 Undergraduate Semester Minimum Grade of D or CS 3251 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:06.964Z"
+}

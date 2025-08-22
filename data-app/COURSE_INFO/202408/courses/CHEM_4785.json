@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CHEM",
+  "courseNumber": "4785",
+  "courseId": "CHEM 4785",
+  "title": "Nanoscale Sci &amp; Tech",
+  "description": "Chemistry and physics of materials, structures, and surfaces with characteristic feature sizes below 100 nm, and their applications in catalysis, electronics, photonics, energy, and biomedicine.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 1212K Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:58.452Z"
+}

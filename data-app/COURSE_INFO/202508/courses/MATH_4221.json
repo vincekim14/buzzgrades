@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MATH",
+  "courseNumber": "4221",
+  "courseId": "MATH 4221",
+  "title": "Stochastic Processes I",
+  "description": "Simple random walk and the theory of discrete time Markov chains.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3225 Undergraduate Semester Minimum Grade of D or MATH 3235 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or MATH 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or CEE 3770 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:01.967Z"
+}

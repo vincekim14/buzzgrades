@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4900",
+  "courseId": "CEE 4900",
+  "title": "CEE Honors Research",
+  "description": "Individual research projects conducted in conjunction with and under the direction of a CEE faculty member. Participation by invitation, and agreement with individual faculty members.  Project culminates in a thesis and presentation.",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:05.056Z"
+}

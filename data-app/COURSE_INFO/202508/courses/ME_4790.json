@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "4790",
+  "courseId": "ME 4790",
+  "title": "Materials Select&amp; Design",
+  "description": "Principles of selecting materials and processes for engineering applications.  Methodologies for designing new materials and conceiving hybrid solutions.  Credit not allowed for both ME 4790 and ME 4213 or ME 4790.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D or MSE 3003 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:25.600Z"
+}

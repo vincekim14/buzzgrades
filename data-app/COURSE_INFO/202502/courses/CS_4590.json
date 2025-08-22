@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4590",
+  "courseId": "CS 4590",
+  "title": "Computer Audio",
+  "description": "A well-rounded exploration of digital audio and its importance in current research and applications. Exposes students to the principles, technology, and current research of computer audio.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:37.972Z"
+}

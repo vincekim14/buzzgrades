@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CHEM",
+  "courseNumber": "6491",
+  "courseId": "CHEM 6491",
+  "title": "Quantum Mechanics",
+  "description": "Important concepts and applications of quantum mechanics at the intermediate level, including operators, perturbation and variational methods applied to atoms and molecules.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:00.375Z"
+}

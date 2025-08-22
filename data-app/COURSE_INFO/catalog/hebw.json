@@ -1,0 +1,57 @@
+{
+  "subject": "HEBW",
+  "subjectName": "Hebrew (HEBW)",
+  "url": "https://catalog.gatech.edu/coursesaz/hebw/",
+  "courses": [
+    {
+      "subjectCode": "HEBW",
+      "courseNumber": "1001",
+      "courseId": "HEBW 1001",
+      "title": "Elementary Hebrew I",
+      "description": "Students acquire reading and writing skills and the ability to communicate in basic situations. Taught in Hebrew.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HEBW",
+      "courseNumber": "1002",
+      "courseId": "HEBW 1002",
+      "title": "Elementary Hebrew II",
+      "description": "Students acquire reading and writing skills and the ability to communicate in basic situations. Continuation of HEBW 1001. Taught in Hebrew.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HEBW",
+      "courseNumber": "1501",
+      "courseId": "HEBW 1501",
+      "title": "Heritage Hebrew I",
+      "description": "For heritage students in the U.S. who have never studied Hebrew formally, but who speak some Hebrew.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "HEBW",
+      "courseNumber": "2001",
+      "courseId": "HEBW 2001",
+      "title": "Intrmediate Hebrew I",
+      "description": "Development of grammatical concepts, vocabulary, and conversational abilities. Readings, audio and video material on the culture. Taught in Hebrew.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HEBW",
+      "courseNumber": "2002",
+      "courseId": "HEBW 2002",
+      "title": "Intrmediate Hebrew II",
+      "description": "Continued development of grammatical concepts, vocabulary, and conversational abilities. Readings, audio and video material on the culture. Taught in Hebew.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "HEBW",
+      "courseNumber": "2501",
+      "courseId": "HEBW 2501",
+      "title": "Heritage Hebrew II",
+      "description": "The continuation of HEBW 1501 or for intermediate-level heritage students in the U.S. who can communicate some in Hebrew, but cannot read or write it for academic purposes. Taught in Hebrew.",
+      "creditHours": "3"
+    }
+  ],
+  "totalCourses": 6,
+  "scrapedAt": "2025-08-16T02:00:38.714Z"
+}

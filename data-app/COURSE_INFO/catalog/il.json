@@ -1,0 +1,225 @@
+{
+  "subject": "IL",
+  "subjectName": "International Logistics (IL)",
+  "url": "https://catalog.gatech.edu/coursesaz/il/",
+  "courses": [
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6450",
+      "courseId": "IL 6450",
+      "title": "Analytical Methods",
+      "description": "This course provides an overview of optimization, statistical, and stochastic models and methods with special emphasis on application to logistics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6451",
+      "courseId": "IL 6451",
+      "title": "Demand and Yield Management",
+      "description": "This course focuses on demand estimation and modeling and revenue management.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6452",
+      "courseId": "IL 6452",
+      "title": "Reverse Green Logistics",
+      "description": "This course addresses issues, driving forces, and analytical approaches to aid in designing operating reverse logistics systems.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6453",
+      "courseId": "IL 6453",
+      "title": "Labor Relations",
+      "description": "This course compares labor practices in Europe, North America, and Asia with special attention on the influences on logistics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6454",
+      "courseId": "IL 6454",
+      "title": "European Trade and Transport",
+      "description": "This course provides an overview of legal, cultural, political, and infrastructure issues influencing logistics in Europe.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6455",
+      "courseId": "IL 6455",
+      "title": "Finance for the Logistics Practitioner",
+      "description": "This course provides an in-depth understanding of concepts of finance that relate to logistics, such as valuing logistics activities and measuring logistics performance.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6456",
+      "courseId": "IL 6456",
+      "title": "Financial Decision Making for Logistics",
+      "description": "This course provides a thorough understanding of the key elements of building a better logistics business case.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6457",
+      "courseId": "IL 6457",
+      "title": "Trade and Transportation in the Americas",
+      "description": "This course provides an overview of legal, cultural, political, and infrastructure issues influencing logistics practices in the Americas.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6458",
+      "courseId": "IL 6458",
+      "title": "Warehousing and Cross-Docking",
+      "description": "This course surveys the different types of warehouses and their functions, principles of operation, and strategic relationship to the supply chain.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6459",
+      "courseId": "IL 6459",
+      "title": "International Trade and Transportation",
+      "description": "This course discusses how international trade is financed, what instruments are used and how they work, how transactions are settled, and the role of documentation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6460",
+      "courseId": "IL 6460",
+      "title": "International Freight Management",
+      "description": "This course focuses on international freight management including consolidation, export packaging, customs, tracking, terminal operations, mode selection, and carrier selection.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6461",
+      "courseId": "IL 6461",
+      "title": "Asian Trade and Transportation",
+      "description": "This course provides an overview of legal, cultural, political, and infrastructure issues influencing logistics practices in Asia.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6464",
+      "courseId": "IL 6464",
+      "title": "Supply Chain Management II: ERP Systems",
+      "description": "This course provides a strategic view of Enterprise Resource Planning and its relationship to logistics functions.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6465",
+      "courseId": "IL 6465",
+      "title": "Marketing Channels and Partnering",
+      "description": "This course focuses on logistics and supply chain issues as they impact the global marketing strategies of companies.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6466",
+      "courseId": "IL 6466",
+      "title": "Global Supply Chain Design and Measurement",
+      "description": "This course focuses on concepts and models for designing and measuring a global supply chain, with special focus on the impact of e-commerce.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6467",
+      "courseId": "IL 6467",
+      "title": "Transportation",
+      "description": "This course focuses on logistics planning, execution, and performance measurement in the transportation industry.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6468",
+      "courseId": "IL 6468",
+      "title": "Manufacturing",
+      "description": "This course focuses on logistics issues within the manufacturing facility including inventory, throughput, lead-time batching, and managing variability.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6472",
+      "courseId": "IL 6472",
+      "title": "Supply Chain Integration Lab III",
+      "description": "This course integrates supply chain management techniques in the Americas, Asia, and Europe through case studies.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6475",
+      "courseId": "IL 6475",
+      "title": "Cases in International Logistics I",
+      "description": "In this course, cases are used to integrate strategic, management, and operating issues in international logistics and supply chain design.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6476",
+      "courseId": "IL 6476",
+      "title": "Cases in International Logistics II",
+      "description": "In this course, cases are used t integrate strategic, management, and operating issues in international logistics and supply chain design.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6477",
+      "courseId": "IL 6477",
+      "title": "Cases in International Logistics III",
+      "description": "In this course, cases are used to integrate strategic, management, and operating issues in international logistics and supply chain design.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6478",
+      "courseId": "IL 6478",
+      "title": "Cases in International Logistics IV",
+      "description": "In this course, cases are used to integrate strategic, management, and operating issues in international logistics and supply chain design.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6480",
+      "courseId": "IL 6480",
+      "title": "Supply Chain Lab I",
+      "description": "This course integrates supply chain management techniques in the region through readings, case studies, meetings and site visits.  Typically Supply Chain Lab I focuses on the US.  Credit not allowed for both IL 6480 and IL 6470.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6481",
+      "courseId": "IL 6481",
+      "title": "Supply Chain Lab II",
+      "description": "This course integrates supply chain management techniques in the region through readings, case studies, meetings and site visits.  Typically Supply Chain Lab II focuses on Europe.  Credit not allowed for both IL 6481 and IL 6471.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6483",
+      "courseId": "IL 6483",
+      "title": "Supply Chain Lab IV",
+      "description": "This course integrates supply chain management techniques in the region through readings, case studies, meetings and site visits.  Typically Supply Chain Lab IV focuses on Asia.  Credit not allowed for both IL 6483 and IL 6473.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "6484",
+      "courseId": "IL 6484",
+      "title": "Supply Chain Lab V",
+      "description": "This course integrates supply chain management techinques in the region through readings, case studies, meetings, and site visits.  Typically Supply Chain Lab V focuses on Mexico and NAFTA.  Credit not allowed for both IL 6484 and IL 6474.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IL",
+      "courseNumber": "8801",
+      "courseId": "IL 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    }
+  ],
+  "totalCourses": 27,
+  "scrapedAt": "2025-08-16T02:00:40.476Z"
+}

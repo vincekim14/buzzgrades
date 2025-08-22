@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECON",
+  "courseNumber": "6011",
+  "courseId": "ECON 6011",
+  "title": "Coding I- R",
+  "description": "This is the first in the series of three courses on data and empirical techniques used in economic analysis. Data cleaning, data management, and descriptive statistics methods are presented and applied to a variety of economics problems. The course prepares students for extensive use of statistical software to build data management skills and generate reports used in descriptive and explorative data analyses.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:46.394Z"
+}

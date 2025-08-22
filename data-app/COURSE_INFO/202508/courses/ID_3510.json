@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "3510",
+  "courseId": "ID 3510",
+  "title": "Interactive Products",
+  "description": "This course provides an introduction to interactive product design including the basics of sensor technologies, electronics and programming required to produce working product concept prototypes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ID 1012 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:18.669Z"
+}

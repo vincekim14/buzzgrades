@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4460",
+  "courseId": "CEE 4460",
+  "title": "Intl Disaster Recon",
+  "description": "Reviews consequence of and response to foreign disasters in light of technical, cultural and political factors; disasters include earthquakes, floods, hurricanes/typhoons, and man-made infrastructure failures.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1552 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:02.884Z"
+}

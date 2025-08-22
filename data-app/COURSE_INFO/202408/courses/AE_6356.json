@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "6356",
+  "courseId": "AE 6356",
+  "title": "Spacecraft Attitude",
+  "description": "Attitude representations, dynamics, estimation, and control. Spacecraft attitude sensors and actuators. Attitude determination and control topics applied to spacecraft and space missions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:30.585Z"
+}

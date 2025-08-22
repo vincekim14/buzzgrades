@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4767",
+  "courseId": "ME 4767",
+  "title": "Pulp and Paper Lab",
+  "description": "The course offers the fundamentals of pulp and paper testing procedures. Cross-listed with ChBE 4767.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 3130 Undergraduate Semester Minimum Grade of D or ME 3322 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:35.430Z"
+}

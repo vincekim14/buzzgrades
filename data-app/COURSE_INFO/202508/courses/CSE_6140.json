@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CSE",
+  "courseNumber": "6140",
+  "courseId": "CSE 6140",
+  "title": "Comp Sci&amp;Engr Algorithms",
+  "description": "This course will introduce students to designing high-performance and scalable algorithms for computational science and engineering applications. The course focuses on algorithms design, complexity analysis, experimentation, and optimization, for important science and engineering applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2110 Undergraduate Semester Minimum Grade of D and (CS 1332 Undergraduate Semester Minimum Grade of D or CS 1372 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:38:10.878Z"
+}

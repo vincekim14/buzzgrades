@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "4601",
+  "courseId": "ECE 4601",
+  "title": "Communication Systems",
+  "description": "To present the fundamentals of modern digital communication systems and evaluate their performance with realistic channel models.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 3020 Undergraduate Semester Minimum Grade of C or ECE 3084 Undergraduate Semester Minimum Grade of C) and (CEE 3770 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or MATH 3770 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or ECE 3077 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:39:40.092Z"
+}

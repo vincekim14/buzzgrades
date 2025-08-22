@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "6750",
+  "courseId": "MSE 6750",
+  "title": "Prep&amp; Reactions-Polymers",
+  "description": "A detailed treatment of the reactions involved in the synthesis of both human-made and natural polymers, including preparation and degradative reactions of polymer systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 4775 Undergraduate Semester Minimum Grade of D or CHEM 4775 Undergraduate Semester Minimum Grade of D or ME 4775 Undergraduate Semester Minimum Grade of D or MSE 4775 Undergraduate Semester Minimum Grade of D or PTFE 4775 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:02.155Z"
+}

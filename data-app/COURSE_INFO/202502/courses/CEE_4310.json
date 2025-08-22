@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4310",
+  "courseId": "CEE 4310",
+  "title": "Water Quality Engr",
+  "description": "Reclamation of water and wastewater for potable and industrial uses, groundwater remediation. Principles of physical, chemical, and biological treatment processes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 2300 Undergraduate Semester Minimum Grade of D and (CEE 3040 Undergraduate Semester Minimum Grade of D or ME 3340 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:37:01.989Z"
+}

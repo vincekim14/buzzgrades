@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "JAPN",
+  "courseNumber": "4780",
+  "courseId": "JAPN 4780",
+  "title": "Jpn Applied Linguistics",
+  "description": "This course helps develop analytical skills to better understand human languages, particularly English and Japanese.  Credit not allowed for both JAPN 4780 and LING 4780.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:50.475Z"
+}

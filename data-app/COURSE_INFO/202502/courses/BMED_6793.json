@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "6793",
+  "courseId": "BMED 6793",
+  "title": "Systems Pathophysiology",
+  "description": "Overview of human pathophysiology from a quantitative perspective.  A brief introduction to the application of quantitative models to the understanding of biological systems.  Crosslisted with CHE, ECE, and ME 6793.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:02.389Z"
+}

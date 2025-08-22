@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MATH",
+  "courseNumber": "4318",
+  "courseId": "MATH 4318",
+  "title": "Analysis II",
+  "description": "Differentiation of functions of one real variable, Riemann-Stieltjes integral, the derivative in Rn, and integration in Rn.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4317 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:13.567Z"
+}

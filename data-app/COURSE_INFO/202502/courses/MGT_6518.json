@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6518",
+  "courseId": "MGT 6518",
+  "title": "Strategy Fundamentals",
+  "description": "This course covers concepts and frameworks for strategy analysis and formulation. Strategic management integrates perspectives to understand how firms gain and sustain competitive advantage.",
+  "creditHours": "1.5",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:47.796Z"
+}

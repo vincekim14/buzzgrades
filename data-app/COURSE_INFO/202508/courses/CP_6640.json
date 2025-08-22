@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CP",
+  "courseNumber": "6640",
+  "courseId": "CP 6640",
+  "title": "Real Estate Dev Meth",
+  "description": "Application of the development process, market and financial feasibility analyses, and public policy to large development projects.  Extensive use of case studies involving professional developers.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:44.914Z"
+}

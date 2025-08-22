@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "VIP",
+  "courseNumber": "6603",
+  "courseId": "VIP 6603",
+  "title": "VIP Proj Team: GR III",
+  "description": "Multidisciplinary course supporting faculty research. Students can participate multiple semesters. Graduate students will pursue needed knowledge/skills; make meaningful contributions; provide leadership in technical areas/team management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:12.362Z"
+}

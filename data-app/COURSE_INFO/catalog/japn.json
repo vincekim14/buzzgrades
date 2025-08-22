@@ -1,0 +1,561 @@
+{
+  "subject": "JAPN",
+  "subjectName": "Japanese (JAPN)",
+  "url": "https://catalog.gatech.edu/coursesaz/japn/",
+  "courses": [
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "1001",
+      "courseId": "JAPN 1001",
+      "title": "Elementary Japanese I",
+      "description": "Introduction to listening, speaking, reading, and writing in Japanese and to the culture of Japanese-speaking regions.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "1002",
+      "courseId": "JAPN 1002",
+      "title": "Elementary Japanese II",
+      "description": "Continued listening, speaking, reading, and writing in Japanese with further study of the culture of Japanese-speaking regions.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "1813",
+      "courseId": "JAPN 1813",
+      "title": "Special Topics",
+      "description": "Permits a group of students to pursue areas of the Japanese language and culture not extensively treated in other courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "1814",
+      "courseId": "JAPN 1814",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Japanese.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "1815",
+      "courseId": "JAPN 1815",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "1816",
+      "courseId": "JAPN 1816",
+      "title": "Special Topics",
+      "description": "Permits a group of students to pursue areas of the Japanese language and culture not extensively treated in other courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "2001",
+      "courseId": "JAPN 2001",
+      "title": "Intermediate Japanese I",
+      "description": "A rapid review of grammar with continued use of listening, speaking, reading, and writing skills in Japanese, all with a cultural emphasis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "2002",
+      "courseId": "JAPN 2002",
+      "title": "Intermediate Japanese II",
+      "description": "This course focuses on listening, speaking, reading, and writing skills in Japanese in an introduction to literature and within a cultural context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "2694",
+      "courseId": "JAPN 2694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Language.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "2695",
+      "courseId": "JAPN 2695",
+      "title": "Undergraduate Internship",
+      "description": "Modern Language Undergraduate Internship for credit for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "2698",
+      "courseId": "JAPN 2698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "2699",
+      "courseId": "JAPN 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "2813",
+      "courseId": "JAPN 2813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3001",
+      "courseId": "JAPN 3001",
+      "title": "Advanced Japanese I",
+      "description": "Learn advanced grammar structures and develop the ability to produce longer conversations involving complex styles and levels of speech.  More kanji.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3401",
+      "courseId": "JAPN 3401",
+      "title": "Popular Culture in Japan",
+      "description": "This course introduces students to Japanese society, history, and language through popular culture. Repeatable for credit if taken with different course theme. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3500",
+      "courseId": "JAPN 3500",
+      "title": "Intermediate Japanese Reading and Writing",
+      "description": "This course enhances students’ literacy through reading and writing exercises while cultivating insights into current Japanese socio-cultural issues. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3691",
+      "courseId": "JAPN 3691",
+      "title": "Technical and Scientific Japanese",
+      "description": "Reading of intermediate/advanced technical and scientific Japanese texts. Analysis and discussion of scientific issues in society. Part of the Japanese intensive summer language program. Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3692",
+      "courseId": "JAPN 3692",
+      "title": "Business Japanese",
+      "description": "Acquisition of business terminology, protocols, decorum strategies, and improvement of oral communication skills. Reading and writing of notes, correspondence, and reports. Part of the Japanese intensive summer language program. Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3693",
+      "courseId": "JAPN 3693",
+      "title": "Japan Today",
+      "description": "Development of awareness toward cultural differences and potential communication problems through exploration of current socio-economic and corporate-cultural issues in Japan. Part of the Japanese intensive summer language program. Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3694",
+      "courseId": "JAPN 3694",
+      "title": "Conversation Practicum",
+      "description": "Students practice conversations with native Japanese speakers to expand the repertoire of active vocabulary and grammar patterns and improve their conversational skills. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3700",
+      "courseId": "JAPN 3700",
+      "title": "Japanese Readings on Sustainability Issues and Societal Changes",
+      "description": "Through extensive and intensive readings on sustainability and social changes in Japan, students will analyze and evaluate those topics in Japanese. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3811",
+      "courseId": "JAPN 3811",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Japanese.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3812",
+      "courseId": "JAPN 3812",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3813",
+      "courseId": "JAPN 3813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3823",
+      "courseId": "JAPN 3823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "3833",
+      "courseId": "JAPN 3833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4113",
+      "courseId": "JAPN 4113",
+      "title": "Advanced reading and Listening in Japanese",
+      "description": "This course introduces advanced grammar and stylistic and idiomatic expressions in Japanese in both written and spoken contexts on a wide range of topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4123",
+      "courseId": "JAPN 4123",
+      "title": "Technical and Business Japanese Translation",
+      "description": "This is an applied language course that provides practical experience in translating technical and business documents to and from Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4163",
+      "courseId": "JAPN 4163",
+      "title": "Introduction to Japanese Literature and Culture",
+      "description": "This is an introductory course in Japanese literature and culture where students read and interpret authentic literary texts and learn and discuss key cultural concepts. Conducted in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4165",
+      "courseId": "JAPN 4165",
+      "title": "Critical Readings in Japanese Culture and Arts",
+      "description": "This course helps improve reading skills of advanced learners by analyzing various written texts on topics of culture and society.  Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4173",
+      "courseId": "JAPN 4173",
+      "title": "Japanese Culture and Society through Anime",
+      "description": "Students will be able to appreciate anime's significance in historical, societal and cultural contexts, as well as the aesthetic quality of its form.  Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4183",
+      "courseId": "JAPN 4183",
+      "title": "Japanese Culture and Society through Songs",
+      "description": "Students will be exposed to songs in different historical, societal and cultural contexts of Japan, and appreciate their aesthetic quality. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4193",
+      "courseId": "JAPN 4193",
+      "title": "Japanese Culture & Society through Documentaries",
+      "description": "The course explores Japanese culture, language, society, and history through documentary films. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4231",
+      "courseId": "JAPN 4231",
+      "title": "Designing Websites in Japanese",
+      "description": "This course provides instruction in text input in Japanese and explores language and intercultural communication issues when designing Web pages in Japanese.  Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4233",
+      "courseId": "JAPN 4233",
+      "title": "CALI Pedagogy for Japanese",
+      "description": "This course explores pedagogical issues in designing Computer-Assisted Language Instruction (CALI) programs for teaching Japanese.  Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4235",
+      "courseId": "JAPN 4235",
+      "title": "3D RPG Development for Japanese Instruction",
+      "description": "This course explores pedagogical issues in designing Japanese instructional materials based on the 3D, RPG platform of Second Life.  Taught primarily in Japanese. Prerequisites:  JAPN 3002 (JAPN 4231 and JAPN 4233 are highly recommended).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4500",
+      "courseId": "JAPN 4500",
+      "title": "Advanced Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues in Japan.  Intended for students who have had some study-abroad experience in Japan. Conducted mostly in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4694",
+      "courseId": "JAPN 4694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for junior and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4695",
+      "courseId": "JAPN 4695",
+      "title": "Japanese Internship",
+      "description": "Professional experience with a business/organization in which students enhance their language skills and cultural knowledge in Japanese in relation to the practical goals/objectives of the entity.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4698",
+      "courseId": "JAPN 4698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4699",
+      "courseId": "JAPN 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4750",
+      "courseId": "JAPN 4750",
+      "title": "Japanese Discourse and Grammar",
+      "description": "This course is about Japanese spoken and written discourse, designed for acquiring skills for managing interpersonal relationships through advanced discourse.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4780",
+      "courseId": "JAPN 4780",
+      "title": "Japanese Applied Linguistics",
+      "description": "This course helps develop analytical skills to better understand human languages, particularly English and Japanese.  Credit not allowed for both JAPN 4780 and LING 4780.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4813",
+      "courseId": "JAPN 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4823",
+      "courseId": "JAPN 4823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4833",
+      "courseId": "JAPN 4833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4901",
+      "courseId": "JAPN 4901",
+      "title": "Special Problems",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "4902",
+      "courseId": "JAPN 4902",
+      "title": "Special Problems",
+      "description": "Special problems course for advanced students. Topics to be arranged with instructor.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6080",
+      "courseId": "JAPN 6080",
+      "title": "Japanese Applied Linguistics for Graduate Students",
+      "description": "This course examines current linguistic theories as applied to Japanese in order to acquire analytical skills to better understand human languages, particularly Japanese and English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6123",
+      "courseId": "JAPN 6123",
+      "title": "Technical and Business Japanese Translation",
+      "description": "The course focuses on theories and practice of technical and business Japanese translation. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6173",
+      "courseId": "JAPN 6173",
+      "title": "Culture and Society through Anime",
+      "description": "Students will be able to appreciate anime's significance in historical, societal and cultural contexts, as well as the aesthetic quality of its form. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6183",
+      "courseId": "JAPN 6183",
+      "title": "Songs: Culture & Society",
+      "description": "Students will be able to appreciate anime's significance in historical, societal and cultural contexts, as well as the aesthetic quality of its form. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6193",
+      "courseId": "JAPN 6193",
+      "title": "Japanese Culture & Society through Documentaries",
+      "description": "The course explores Japanese culture, language, society, and history through documentary films. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6231",
+      "courseId": "JAPN 6231",
+      "title": "Japanese Website Design",
+      "description": "Students will learn how social media is reshaping BSC communication in Japan and explore intercultural communication issues in designing Websites. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6252",
+      "courseId": "JAPN 6252",
+      "title": "Japanese Domestic Internship",
+      "description": "Students complete domestic internships.  Conducted in Japanese.  Online course.  3 credits.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6500",
+      "courseId": "JAPN 6500",
+      "title": "Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues in Japan. For students who have had some study/work-abroad experience in Japan. Conducted in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6503",
+      "courseId": "JAPN 6503",
+      "title": "Professional Portfolio Development",
+      "description": "Preparation of a professional portfolio connecting experiences and coursework in the MS program towards career preparation. Conducted in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6510",
+      "courseId": "JAPN 6510",
+      "title": "Applied Language Practicum",
+      "description": "Students will serve as researchers, student aides and apprentice instructors for any 3/4000-level undergraduate course approved by their adviser and the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6511",
+      "courseId": "JAPN 6511",
+      "title": "Applied Language Practicum Abroad",
+      "description": "Students serve as researchers and apprentice instructors in the LBAT or other faculty-led overseas language immersion program of the School of Modern Languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6695",
+      "courseId": "JAPN 6695",
+      "title": "Japanese Internship Abroad",
+      "description": "Students complete internships abroad in Japan. Conducted in Japanese. Online course. 3 credits.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6696",
+      "courseId": "JAPN 6696",
+      "title": "Japanese Internship Abroad",
+      "description": "Japanese Internship Abroad.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6750",
+      "courseId": "JAPN 6750",
+      "title": "Japanese Discourse and Grammar",
+      "description": "The course is designed to improve students’ knowledge of Japanese discourse and grammar through activities using TV drama clips, documentaries, and newspaper which are related to some of SDGs. Taught in Japanese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "6998",
+      "courseId": "JAPN 6998",
+      "title": "Master's Project",
+      "description": "Optional project course taught in Japanese.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "7000",
+      "courseId": "JAPN 7000",
+      "title": "Master's Thesis",
+      "description": "Optional thesis course.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "8803",
+      "courseId": "JAPN 8803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "8804",
+      "courseId": "JAPN 8804",
+      "title": "Special Topics",
+      "description": "Special Topics in Japanese.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "8901",
+      "courseId": "JAPN 8901",
+      "title": "Special Problems in Japanese",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "8902",
+      "courseId": "JAPN 8902",
+      "title": "Special Problems in Japanese",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "JAPN",
+      "courseNumber": "8903",
+      "courseId": "JAPN 8903",
+      "title": "Special Problems in Japanese",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 69,
+  "scrapedAt": "2025-08-16T02:00:41.690Z"
+}

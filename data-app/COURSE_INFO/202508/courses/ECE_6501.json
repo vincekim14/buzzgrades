@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "6501",
+  "courseId": "ECE 6501",
+  "title": "Fourier Optic&amp;Holography",
+  "description": "Applications of the Fourier transform and linear systems theory to the analysis of optical propagation, diffraction imaging, holography, wavefront modulation, and signal processing.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 6500 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:49.119Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MSE",
+  "courseNumber": "6754",
+  "courseId": "MSE 6754",
+  "title": "Engr Communication",
+  "description": "Writing and editing engineering documents; designing and explaining visuals; creating and delivering electronic presentations. Crosslisted with CEE 6754.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:51.517Z"
+}

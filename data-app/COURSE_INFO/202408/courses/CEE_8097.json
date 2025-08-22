@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "8097",
+  "courseId": "CEE 8097",
+  "title": "Intro Transpo Research",
+  "description": "The planning, organization and execution of professional transportation research. Topics include: human factors, safety, ethics, technical communications and the peer review process. Fulfills RCR requirements.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:34.986Z"
+}

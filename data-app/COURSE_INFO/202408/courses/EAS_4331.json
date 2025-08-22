@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "EAS",
+  "courseNumber": "4331",
+  "courseId": "EAS 4331",
+  "title": "Physical Volcanology",
+  "description": "This class examines the dynamics and thermodynamics of planetary volcanism.  The course material covers the generation and transport of magma in the mantle and crust, and the fluid dynamics of eruptions and their impact on the landscape and atmosphere.  Credit not allowed for both EAS 4331 and EAS 6331.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T) and PHYS 2211 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:38.428Z"
+}

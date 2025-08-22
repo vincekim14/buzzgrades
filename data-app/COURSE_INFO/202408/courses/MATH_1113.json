@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "1113",
+  "courseId": "MATH 1113",
+  "title": "Precalculus",
+  "description": "This course is an intensive study of the basic functions needed for the study of calculus. Topics include algebraic, functional, and graphical techniques for solving problems with algebraic, exponential, logarithmic, and trigonometric functions and their inverses. May only be used for degree credit with departmental approval.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Video (1)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1111 Undergraduate Semester Minimum Grade of D or SAT Mathematics 500 or MATH SECTION SCORE 530 or ACT Math 21",
+  "lastUpdated": "2025-08-20T02:42:23.711Z"
+}

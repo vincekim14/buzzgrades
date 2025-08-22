@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "6059",
+  "courseId": "MGT 6059",
+  "title": "Emerging Technologies",
+  "description": "Teaches students a structured approach for analyzing emerging technologies and their business implications. To illustrate the approach, multiple emerging technologies are explored.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6503 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:28.042Z"
+}

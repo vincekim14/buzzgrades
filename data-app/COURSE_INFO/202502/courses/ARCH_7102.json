@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "7102",
+  "courseId": "ARCH 7102",
+  "title": "Integr Bldg Syst II",
+  "description": "Approaches building design and systems integration through the making of construction drawings and specifications of metal frame buildings, including structural steel calculations.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:34.315Z"
+}

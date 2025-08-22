@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "NS",
+  "courseNumber": "4320",
+  "courseId": "NS 4320",
+  "title": "Naval Operations",
+  "description": "This course builds on the fundamentals presented in its prerequisites and further prepares soon-to-be-commissioned officers to step aboard their new ship/submarine and stand watch.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:28.039Z"
+}

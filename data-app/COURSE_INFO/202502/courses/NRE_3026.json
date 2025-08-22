@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "NRE",
+  "courseNumber": "3026",
+  "courseId": "NRE 3026",
+  "title": "Exptl Reactor Physics",
+  "description": "Introduction to experimental nuclear reactor physics techniques including criticality, flux mapping, buckling measurements, subcritical assembly measurements, diffusion length measurement, neutron spectral measurements, and foil activation methods.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "NRE 3208 Undergraduate Semester Minimum Grade of D and NRE 3112 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:12.334Z"
+}

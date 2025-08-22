@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CP",
+  "courseNumber": "6962",
+  "courseId": "CP 6962",
+  "title": "Urban Analytics Capstone",
+  "description": "Students plan and execute a major professional project using urban analytics methodologies, and communicate the project results in written, graphic, and public presentation formats.",
+  "creditHours": "5",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:56.733Z"
+}

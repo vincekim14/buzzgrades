@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "COE",
+  "courseNumber": "3001",
+  "courseId": "COE 3001",
+  "title": "Deformable Bodies",
+  "description": "Stress and strain analysis applied to beams, vessels, pipes, and combined loading; stress and strain transformations; beam deflection; column buckling.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T) and COE 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:05.277Z"
+}

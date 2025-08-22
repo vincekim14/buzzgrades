@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "BIOL",
+  "courseNumber": "6765",
+  "courseId": "BIOL 6765",
+  "title": "Geomicrobiology",
+  "description": "Interactions between microorganisms and the geosphere, microbial energetics and genetics; geochemical controls on microbial diversity and activity.  Crosslisted with EAS 6765.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(BIOL 4410 Undergraduate Semester Minimum Grade of D or BIOL 4418 Undergraduate Semester Minimum Grade of D) and EAS 3620 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:30.200Z"
+}

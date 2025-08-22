@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "AE",
+  "courseNumber": "6362",
+  "courseId": "AE 6362",
+  "title": "Safety by Design",
+  "description": "Autonomous situational flight model allows students to examine complex behaviors in the \"pilot-vehicle-operational conditions\" system.  Flight certification and airworthiness requirements are mapped into formal scenarios.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 6320 Graduate Semester Minimum Grade of D or AE 6331 Graduate Semester Minimum Grade of D or AE 6341 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:14.795Z"
+}

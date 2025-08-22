@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4793",
+  "courseId": "CEE 4793",
+  "title": "Composite Mater&amp; Process",
+  "description": "Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with AE, CHE, ME, MSE, and PTFE 4793.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHEM 1310 Undergraduate Semester Minimum Grade of D and PHYS 2212 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:04.415Z"
+}

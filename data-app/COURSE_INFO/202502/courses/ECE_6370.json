@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6370",
+  "courseId": "ECE 6370",
+  "title": "EM Radiation &amp; Antennas",
+  "description": "The fundamentals of electromagnetic radiation and antennas.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 6350 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:53.818Z"
+}

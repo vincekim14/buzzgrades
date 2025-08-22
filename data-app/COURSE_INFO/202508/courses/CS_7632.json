@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "7632",
+  "courseId": "CS 7632",
+  "title": "Game AI",
+  "description": "An exploration of how artificial intelligence is used in modern digital computer games. Credit will not be awarded for CS 7632 and CS 4731, CS 7632 and LCC 4731 or CS 7632 and LMC 4731.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 6601 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:48.038Z"
+}

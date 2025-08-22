@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "4803",
+  "courseId": "PSYC 4803",
+  "title": "Psych of Lifelong Learning",
+  "description": "Special topics or courses of an experimental nature.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:40.956Z"
+}

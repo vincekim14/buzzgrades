@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "3030",
+  "courseId": "ECE 3030",
+  "title": "Physical Foundations CmpE",
+  "description": "Basic principles governing the physical realization of computing systems and their relationship to characteristics such as performance, energy, and robustness.  Implementation technologies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(ECE 2020 Undergraduate Semester Minimum Grade of C or ECE 2030 Undergraduate Semester Minimum Grade of C) and ECE 2040 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:00.482Z"
+}

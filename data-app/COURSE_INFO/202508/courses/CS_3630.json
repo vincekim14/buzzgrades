@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "3630",
+  "courseId": "CS 3630",
+  "title": "Intro-Perception&amp;Robotic",
+  "description": "Covers fundamental problems and leading solutions for computer and robot perception and action from the point of view of autonomous robot navigation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1332 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:23.051Z"
+}

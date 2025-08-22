@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "NRE",
+  "courseNumber": "3316",
+  "courseId": "NRE 3316",
+  "title": "Radiation Protection Eng",
+  "description": "Covers radiation dosimetry, biological effects of radiation, radiation-protection criteria and exposure limits, external radiation protection, internal radiation protection, and sources of human exposure.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of D or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T) and NRE 3301 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:13.016Z"
+}

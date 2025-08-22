@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "3251",
+  "courseId": "ECE 3251",
+  "title": "Optimization Info Sys",
+  "description": "An introduction to the fundamentals of optimization with a focus on algorithms and applications in signal processing, control systems, machine learning, and robotics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2550 Undergraduate Semester Minimum Grade of D) and CS 1301 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:31.388Z"
+}

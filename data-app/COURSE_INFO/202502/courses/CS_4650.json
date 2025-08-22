@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4650",
+  "courseId": "CS 4650",
+  "title": "Natural Language",
+  "description": "Methodologies for designing systems that comprehend natural language. Topics include lexical analysis, parsing, interpretation of sentences, semantic representation, organization of knowledge, and inference mechanisms.  Credit not allowed for both CS 4650 and CS 7650.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 3510 Undergraduate Semester Minimum Grade of C or CS 3511 Undergraduate Semester Minimum Grade of C) and (MATH 2550 Undergraduate Semester Minimum Grade of D or MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2561 Undergraduate Semester Minimum Grade of D or MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 24X1 Undergraduate Semester Minimum Grade of T or MATH 2X51 Undergraduate Semester Minimum Grade of T)",
+  "lastUpdated": "2025-08-20T02:37:39.256Z"
+}

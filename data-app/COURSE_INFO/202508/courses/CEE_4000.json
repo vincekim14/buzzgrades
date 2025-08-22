@@ -1,0 +1,19 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "4000",
+  "courseId": "CEE 4000",
+  "title": "Global Eng Leadership",
+  "description": "Addresses skills necessary for the global engineer-leader: creating an engineering firm and evaluating its global viability; written, oral, and cross-cultural communication; collaboration; ethics; strategic planning.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)",
+    "__HEADER_1__Must be enrolled in one of the following Classes:",
+    "__DETAIL_1__Junior (JR)",
+    "__DETAIL_1__Senior (SR)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:53.000Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "2300",
+  "courseId": "CEE 2300",
+  "title": "Environmental Engr Prin",
+  "description": "Introduction to chemical, biological, and physical processes in the environment. Discussion of the basic processes governing air, water, and land quality, and the behavior and impacts of contaminants associated with human and industrial activities.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHEM 1310 Undergraduate Semester Minimum Grade of D or CHEM 1211K Undergraduate Semester Minimum Grade of D or CHEM 12X1 Undergraduate Semester Minimum Grade of T) and (PHYS 2211 Undergraduate Semester Minimum Grade of D or PHYS 2231 Undergraduate Semester Minimum Grade of D) and (MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or MATH 15X2 Undergraduate Semester Minimum Grade of T or MATH 1552 Undergraduate Semester Minimum Grade of D or MATH 1X52 Undergraduate Semester Minimum Grade of T)",
+  "lastUpdated": "2025-08-20T02:37:18.363Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "LMC",
+  "courseNumber": "4730",
+  "courseId": "LMC 4730",
+  "title": "Experimental Digital Art",
+  "description": "Provides students with key conceptual, formal, aesthetic and technical elements needed in creating artifacts in areas ranging from augmented and mixed reality to scientific visualization.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CS 1322 Undergraduate Semester Minimum Grade of C or CS 1331 Undergraduate Semester Minimum Grade of C) and (LMC 2700 Undergraduate Semester Minimum Grade of C or LMC 2000 Undergraduate Semester Minimum Grade of C)",
+  "lastUpdated": "2025-08-20T02:42:06.617Z"
+}

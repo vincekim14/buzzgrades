@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CP",
+  "courseNumber": "6543",
+  "courseId": "CP 6543",
+  "title": "Public Health Analytics",
+  "description": "Presents a comprehensive socioecological framework for conducting healthy places research and practice, and metrics and analytical methods to measure and model health determinants and outcomes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:52.183Z"
+}

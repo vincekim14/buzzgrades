@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "4232",
+  "courseId": "ISYE 4232",
+  "title": "Advanced Stochastic Sys",
+  "description": "The course will cover Jackson Networks and Markov Decision Processes with applications to production/inventory systems, customer contact centers, revenue management, and health care.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3232 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:57.788Z"
+}

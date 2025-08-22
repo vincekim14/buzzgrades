@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "6745",
+  "courseId": "PSYC 6745",
+  "title": "Physics of Cognition",
+  "description": "The course delves into perception, memory, and learning through physical principles. Students study cognition's physical basis, modern neural recording, and data interpretation.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:40.426Z"
+}

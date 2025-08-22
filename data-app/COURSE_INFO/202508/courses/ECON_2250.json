@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "2250",
+  "courseId": "ECON 2250",
+  "title": "Statistics for Econ",
+  "description": "This course provides an introduction to probability theory and statistical inference. Students will explore tools and concepts relevant to the study of economics and gain a familiarity with statistical software widely used by economists.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:17.767Z"
+}

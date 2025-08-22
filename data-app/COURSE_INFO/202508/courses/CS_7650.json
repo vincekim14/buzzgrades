@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "7650",
+  "courseId": "CS 7650",
+  "title": "Natural Language",
+  "description": "Topics include lexical analysis, parsing, interpretation of sentences, semantic representation, organization of knowledge, inference mechanisms.  Newer approaches combining statistical language processing and information retrieval techniques.  Credit not allowed for both CS 7650 and CS 4650.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3600 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:50.346Z"
+}

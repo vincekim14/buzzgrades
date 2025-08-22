@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "6229",
+  "courseId": "ECE 6229",
+  "title": "Introduction to MEMS",
+  "description": "Introduction to Micro-Electro-Mechanical systems: Microfabrication techniques including: photolithography, etching, physical and chemical vapor deposition, electroplating, bonding and polymer processing.  Application to sensors and actuators.  Credit not allowed for both ECE 6229 and ME 6229 or CHBE 6229.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:45.608Z"
+}

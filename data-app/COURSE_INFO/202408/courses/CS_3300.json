@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "3300",
+  "courseId": "CS 3300",
+  "title": "Intro to Software Engr",
+  "description": "Team-based project class to introduce and apply software engineering principles and practices.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 2340 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:52.319Z"
+}

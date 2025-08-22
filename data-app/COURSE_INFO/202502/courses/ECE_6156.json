@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6156",
+  "courseId": "ECE 6156",
+  "title": "HW Oriented Secur Trust",
+  "description": "Fundamental concepts, foundation, and methodologies for the design of trustworthy circuits including protection of the\nhardware platform against tampering. Physical cloning of cryptographic VLSI circuits.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:51.448Z"
+}

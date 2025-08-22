@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "PHIL",
+  "courseNumber": "3127",
+  "courseId": "PHIL 3127",
+  "title": "Sci, Tech &amp; Human Values",
+  "description": "Exploration of the boundaries between science, religion, and social values, examining science and technology in a broader social context.  Examines claims that science is isolated from social problems and values.  Credit not allowed for both PHIL 3127 and PST 3127.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:13.707Z"
+}

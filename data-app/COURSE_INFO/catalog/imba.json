@@ -1,0 +1,305 @@
+{
+  "subject": "IMBA",
+  "subjectName": "Intl Executive MBA (IMBA)",
+  "url": "https://catalog.gatech.edu/coursesaz/imba/",
+  "courses": [
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6000",
+      "courseId": "IMBA 6000",
+      "title": "Strategic Decision Making and Compromise Game",
+      "description": "A multifirm, competitive management simulation.  The objective is to sharpen intra-firm communications skills using the internet as the communications channel and the art of compromise.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6010",
+      "courseId": "IMBA 6010",
+      "title": "Cross-cultural Communications for Management",
+      "description": "Participants learn tools and information to improve communications skills with new approaches and increased understanding while taking into account the effects of cross-cultural differences on communications.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6021",
+      "courseId": "IMBA 6021",
+      "title": "Data Analysis for Business",
+      "description": "Covers common statistical tools for the analysis of corporate data such as descriptive statistics, probability concepts, sampling and estimation, hypothesis testing, and regression analysis.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6030",
+      "courseId": "IMBA 6030",
+      "title": "Organizational Behavior and Theory",
+      "description": "Students learn the basic concepts and principles of organizational behavior and utilize such to analyze and solve organizational decision-making problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6031",
+      "courseId": "IMBA 6031",
+      "title": "Leadership and Organizational Behavior",
+      "description": "This course focuses on the challenges in leading teams and organizations in increasingly complex, global, and dynamic business environments.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6032",
+      "courseId": "IMBA 6032",
+      "title": "Leadership and Organizational Behavior",
+      "description": "This course focuses on the challenges in leading teams and organizations in increasingly complex, global, and dynamic business environments.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6040",
+      "courseId": "IMBA 6040",
+      "title": "Economic Analysis of Decisions in a Global Economy",
+      "description": "Participants are provided with a non-traditional approach using an analytical method with a global perspective to the concepts and role of economics in the world environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6050",
+      "courseId": "IMBA 6050",
+      "title": "Financial and Managerial Accounting",
+      "description": "Course covers financial reporting and analysis issues facing firms, and managerial accounting information necessary for planning, controlling, and decision making within such firms.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6061",
+      "courseId": "IMBA 6061",
+      "title": "Information Systems for Global Organizations",
+      "description": "Tools and techniques to manage the information technology infrastructure that supports a global organization.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6070",
+      "courseId": "IMBA 6070",
+      "title": "Managerial Finance in World Markets",
+      "description": "A two-part course providing an understanding of finance concepts and how they are used.  The course then further integrates international and ethical considerations wherever applicable.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6071",
+      "courseId": "IMBA 6071",
+      "title": "Financial Management",
+      "description": "An introduction to finance. Topics include time value of money, capital budgeting, risk and return, capital structure, dividend policy, and working capital management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6081",
+      "courseId": "IMBA 6081",
+      "title": "Manufacturing and Service Management",
+      "description": "Covers the basic conceptual and analytical skills that are required in managing operations and confronting operational problems in competitive markets.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6090",
+      "courseId": "IMBA 6090",
+      "title": "Managing Marketing",
+      "description": "Students are provided with an understanding of marketing and consumer behavior concepts and tools with an international environment approach.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6101",
+      "courseId": "IMBA 6101",
+      "title": "Product Strategies for Global Markets",
+      "description": "Developing and marketing new products and services with an emphasis on international markets.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6110",
+      "courseId": "IMBA 6110",
+      "title": "Risk Management and Technology Transfer",
+      "description": "A course based upon a combination of cases, historical data, and theoretical interpretation on the analysis and allocation of risk in international investment and technology transfer.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6121",
+      "courseId": "IMBA 6121",
+      "title": "Managing the Global Workforce",
+      "description": "A survey of global workforce management principles and the skills necessary to function effectively in a supervisory role in a global organization.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6132",
+      "courseId": "IMBA 6132",
+      "title": "Strategy",
+      "description": "Integrate knowledge of the functional areas of a business to understand how firms gain and sustain a competitive advantage in a globally competitive environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6140",
+      "courseId": "IMBA 6140",
+      "title": "Competing Globally",
+      "description": "This course utilizes case studies of companies in various industries and in national cultures to highlight organizational and cultural differences between major economies in the global environment.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6150",
+      "courseId": "IMBA 6150",
+      "title": "Entrepreneurship and Entrepreneurial Firms",
+      "description": "Participants explore the increasing importance of small and medium-sized businesses and new ventures in international business.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6160",
+      "courseId": "IMBA 6160",
+      "title": "National and International Regulation of Business",
+      "description": "Deals with learning how to control the legal aspects of international decisions.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6170",
+      "courseId": "IMBA 6170",
+      "title": "Quality, Sustainable Technology, Competitiveness",
+      "description": "Students learn the philosophy and techniques of strategic quality management while focusing on assessment and group decisions centered on sustaining technology and competitiveness.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6180",
+      "courseId": "IMBA 6180",
+      "title": "Leadership Skills and Processes",
+      "description": "Focuses on identifying and developing the attributes of successful leadership.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6200",
+      "courseId": "IMBA 6200",
+      "title": "Strategic Business Simulation",
+      "description": "A unifying course providing a simulated application of the material taught in the core courses of the program.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6210",
+      "courseId": "IMBA 6210",
+      "title": "Analysis of Emerging Technology",
+      "description": "A case-based course dealing with the role and impact of digital technology in large and small organizations, with special emphasis on multinational companies.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6220",
+      "courseId": "IMBA 6220",
+      "title": "Applied Entrepreneurship Seminar",
+      "description": "A case course building an information bank of theory and practice on start-up enterprises.  Several entrepreneurs will co-teach the course with a faculty leader.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6230",
+      "courseId": "IMBA 6230",
+      "title": "International Business Negotiations",
+      "description": "A role-play course involving the complex international negotiation simulation dealing with an international business enterprise and its relationship with one or more governments.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6250",
+      "courseId": "IMBA 6250",
+      "title": "International Finance",
+      "description": "Analysis of foreign exchange markets, exchange rate risk management, international portfolio investments, international asset pricing, cross-border M&A, and equilibrium conditions in international markets.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6260",
+      "courseId": "IMBA 6260",
+      "title": "Global Supply Chain and Electronic Commerce",
+      "description": "Examines business, managerial and economic issues in the management of global supply chains and the role of electronic commerce in the supply chain.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6300",
+      "courseId": "IMBA 6300",
+      "title": "Analysis of Global Environments I",
+      "description": "Analysis of a specific region through an international study tour with emphasis on understanding the economy, culture and business environment.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6301",
+      "courseId": "IMBA 6301",
+      "title": "Analysis of Global Environments",
+      "description": "Analysis of a specific region through an international study tour with emphasis on understanding its economy, culture and business environment.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6310",
+      "courseId": "IMBA 6310",
+      "title": "Analysis of Global Environments II",
+      "description": "Analysis of a specific region through an international study tour with emphasis on understanding the economy, culture and business environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6400",
+      "courseId": "IMBA 6400",
+      "title": "Global Strategy Project I",
+      "description": "Students work on a real world problem related to global strategy.  The focus in this course is on data collection and problem definition.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6401",
+      "courseId": "IMBA 6401",
+      "title": "Global Strategy Project I",
+      "description": "Students work on a real world problem related to global strategy. The focus in this course is on problem definition, data collection and client engagement management.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6410",
+      "courseId": "IMBA 6410",
+      "title": "Global Strategy Project II",
+      "description": "Students work on a real world problem related to global strategy.  The focus in this course is on defining a preliminary solution that has desirable characteristics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6411",
+      "courseId": "IMBA 6411",
+      "title": "Global Strategy Project II",
+      "description": "Students work on a real world problem related to global strategy. The focus in this course is on problem definition, data collection and client engagement management.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6420",
+      "courseId": "IMBA 6420",
+      "title": "Global Strategy Project II",
+      "description": "Students work on a real world problem related to global strategy.  The focus in this course is on defining and presenting a comprehensive solution.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "IMBA",
+      "courseNumber": "6430",
+      "courseId": "IMBA 6430",
+      "title": "Business Strategies for Sustainability",
+      "description": "Cross-functional strategies to address competitive and regulatory demands placed on firms for achieving sustainable business practices.",
+      "creditHours": "2"
+    }
+  ],
+  "totalCourses": 37,
+  "scrapedAt": "2025-08-16T02:00:40.664Z"
+}

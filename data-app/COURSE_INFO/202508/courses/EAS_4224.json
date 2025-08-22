@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "4224",
+  "courseId": "EAS 4224",
+  "title": "Mineral Surface Geochem",
+  "description": "Fundamental principles concerning mineral surface properties, element distribution at the mineral-water interface and analytical techniques relevant to interfacial reactions.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "EAS 4220 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:07.912Z"
+}

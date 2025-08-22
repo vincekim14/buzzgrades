@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4251",
+  "courseId": "CS 4251",
+  "title": "Computer Networking II",
+  "description": "Principles of computer networks, including medium access, ARQ protocols, routing, congestion avoidance, and control. Emphasis on design options and tradeoffs. Includes significant network application programming.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 3251 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:34.395Z"
+}

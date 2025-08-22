@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECE",
+  "courseNumber": "3550",
+  "courseId": "ECE 3550",
+  "title": "Feedback Control Systems",
+  "description": "Analysis and design of control systems.  Laplace transforms, transfer functions, and stability.  Feedback systems: tracking and disturbance rejection.  Graphical design techniques.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2040 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:51.598Z"
+}

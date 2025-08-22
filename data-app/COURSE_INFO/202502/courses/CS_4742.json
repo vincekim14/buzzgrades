@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4742",
+  "courseId": "CS 4742",
+  "title": "Comp &amp; Mgt Cap Proj",
+  "description": "Project-based course for students in Computing and Management minor to work in interdisciplinary teams on projects provided by corporate affiliates.  Credit not allowed for both CS 4742 and MGT 4742 or ME 4742.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 4741 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:41.355Z"
+}

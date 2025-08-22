@@ -1,0 +1,281 @@
+{
+  "subject": "PHIL",
+  "subjectName": "Philosophy (PHIL)",
+  "url": "https://catalog.gatech.edu/coursesaz/phil/",
+  "courses": [
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "2010",
+      "courseId": "PHIL 2010",
+      "title": "Introduction to Philosophical Analysis",
+      "description": "An introduction to the nature of philosophy through the critical analysis of selected works, such as Descartes, Hobbes, and Locke.  The relationship of philosophy to science, religion, and culture will be emphasized.  Credit not allowed for both PST 1101 and PHIL 2010.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "2025",
+      "courseId": "PHIL 2025",
+      "title": "Philosophical Analysis of Policy Choices",
+      "description": "An introduction to philosophical questions that may arise in public policy debate and decision making and to resources from the philosophical tradition for addressing them. Credit not allowed for both PHIL 2025 and PST 2020 or PHIL 2025 and PST 2068.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "2698",
+      "courseId": "PHIL 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "2699",
+      "courseId": "PHIL 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3050",
+      "courseId": "PHIL 3050",
+      "title": "Political Philosophy",
+      "description": "An exploration of the main currents in political philosophy from antiquity to the present, seeking resources for analyzing contemporary debates about policy and political process.  Credit not allowed for both PST 3050 and PHIL 3050.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3101",
+      "courseId": "PHIL 3101",
+      "title": "AI Ethics and Policy",
+      "description": "This course explores the ethical and philosophical dimensions of artificial intelligence, and it examines policies that can, or should, govern its development and use.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3102",
+      "courseId": "PHIL 3102",
+      "title": "Ancient Philosophy",
+      "description": "Development of philosophy in the classical works of Ancient Greek philosophy.  Credit not allowed for both PHIL 3102 and PST 3102.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3103",
+      "courseId": "PHIL 3103",
+      "title": "Modern Philosophy",
+      "description": "A study of the development of philosophy from the views of Bacon and Descartes to the beginning of the 20th century.  Traces the philosophic response to modern science in the rational and empirical traditions.  Credit not allowed for both PST 3103 and PHIL 3103.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3105",
+      "courseId": "PHIL 3105",
+      "title": "Ethical Theories",
+      "description": "Surveys traditional ethical theories of value, obligation, and rights and applies these theories to contemporary social problems such as abortion, euthanasia, poverty, and distributional equity, and environmental problems. Credit not allowed for both PHIL 3105 and PST 3105.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3109",
+      "courseId": "PHIL 3109",
+      "title": "Engineering Ethics",
+      "description": "Ethical reasoning in the context of professional work in science and technology.  Prepares future technical professionals to approach decision with a coherent ethical framework.  Credit not allowed for both PHIL 3109 and PST 3109.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3113",
+      "courseId": "PHIL 3113",
+      "title": "Logic and Critical Thinking",
+      "description": "Symbolic logic and applications of logic in critical reading and thinking by exploring modern systems of symbolic logic and their implications for science.  Emphasizes skills in critical thinking and writing based on the principles of logic.   Credit not allowed for both PST 3113 and PHIL 3113.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3115",
+      "courseId": "PHIL 3115",
+      "title": "Philosophy of Science",
+      "description": "Examination of the nature and processes of scientific inquiry, including the status of scientific knowledge, identification of pseudoscientific claims, and the role of values in generating and using scientific knowledge. Credit not allowed for both PHIL 3115 and PST 3115.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3127",
+      "courseId": "PHIL 3127",
+      "title": "Science, Technology, and Human Values",
+      "description": "Exploration of the boundaries between science, religion, and social values, examining science and technology in a broader social context.  Examines claims that science is isolated from social problems and values.  Credit not allowed for both PHIL 3127 and PST 3127.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3135",
+      "courseId": "PHIL 3135",
+      "title": "Philosophy of Technology",
+      "description": "The course considers philosophical accounts of how technologies can and should shape our understandings of politics, ethics, and daily life.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3140",
+      "courseId": "PHIL 3140",
+      "title": "Philosophy of Food",
+      "description": "Examines a range of philosophical and political issues pertaining to the production and consumption of food.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3180",
+      "courseId": "PHIL 3180",
+      "title": "Biomedical Ethics",
+      "description": "A survey of major issues in contemporary biomedical ethics, using well-constructed arguments to understand basic controversies in medicine, research, end-of-life care, and other topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "3790",
+      "courseId": "PHIL 3790",
+      "title": "Introduction to Cognitive Science",
+      "description": "Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action.  Credit not allowed for both PHIL 3790 and PST 3790 (or CS 3790, PSYC 3790, ISYE 3790).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4110",
+      "courseId": "PHIL 4110",
+      "title": "Theories of Knowledge",
+      "description": "Critical examination of perception, verification, apriori and aposteriori knowledge, meaning and criteria of truth, and cognitive significance of scientific and philosophical propositions.  Evolution of epistemology.  Credit not allowed for both PHIL 4110 and PST 4110.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4176",
+      "courseId": "PHIL 4176",
+      "title": "Environmental Ethics",
+      "description": "Conceptual and normative foundations of environmental attitudes and values.  Impacts of traditional and modern beliefs that shape human attitudes toward nature on creating a more compatible relationship between humans and their environment.  Credit not allowed for both PHIL 4176 and PST 4176.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4698",
+      "courseId": "PHIL 4698",
+      "title": "Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4699",
+      "courseId": "PHIL 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4790",
+      "courseId": "PHIL 4790",
+      "title": "Semi-Cognitive Science",
+      "description": "a seminar-type course in cognitive science focusing on integrating and deepening students' cognitive science knowledge and skills.  Topics include memory, language, problem solving, learning, perception, and action. Credit not allowed for both PHIL 4790 and PST 4790 (or CS 4790, PSYC 4790, ISYE 4790).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4803",
+      "courseId": "PHIL 4803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4811",
+      "courseId": "PHIL 4811",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4812",
+      "courseId": "PHIL 4812",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4813",
+      "courseId": "PHIL 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4814",
+      "courseId": "PHIL 4814",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4815",
+      "courseId": "PHIL 4815",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular courses offerings.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4901",
+      "courseId": "PHIL 4901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4902",
+      "courseId": "PHIL 4902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "4903",
+      "courseId": "PHIL 4903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "6000",
+      "courseId": "PHIL 6000",
+      "title": "Responsible Conduct of Research (RCR)",
+      "description": "An introduction to the concepts guiding the responsible conduct of research.  Students will learn about the ethical norms and guidelines within different fields of research.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "6010",
+      "courseId": "PHIL 6010",
+      "title": "Biotechnology and Research Ethics",
+      "description": "This course focuses on ethical issues in biotechnological fields.  The course is designed to satisfy Georgia Tech RCR policy's requirements for \"in-person\" training.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "PHIL",
+      "courseNumber": "6710",
+      "courseId": "PHIL 6710",
+      "title": "Ethics of Biotechnology and Bioengineering Research",
+      "description": "This course examines the ethics of biotechnological research, including issues in the realm of research ethics, bioethics, and healthcare robotics.",
+      "creditHours": "3"
+    }
+  ],
+  "totalCourses": 34,
+  "scrapedAt": "2025-08-16T02:00:47.340Z"
+}

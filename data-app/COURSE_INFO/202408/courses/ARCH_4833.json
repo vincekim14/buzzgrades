@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "4833",
+  "courseId": "ARCH 4833",
+  "title": "Special Topics-Arch Tech",
+  "description": "Special Topics in Technology Prerequisite: consent of the College.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:47.605Z"
+}

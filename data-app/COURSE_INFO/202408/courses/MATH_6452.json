@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "6452",
+  "courseId": "MATH 6452",
+  "title": "Differential Topology",
+  "description": "Manifolds. Differentiable structures.  Tangent bundles. Embeddings and immersions.  Maps on manifolds. Transversality.  Morse-Sard Theorem. Vector bundles.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 4431 Undergraduate Semester Minimum Grade of D or MATH 6451 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:36.776Z"
+}

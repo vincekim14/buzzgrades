@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "SLS",
+  "courseNumber": "3120",
+  "courseId": "SLS 3120",
+  "title": "Sustainable Systems",
+  "description": "This course teaches decision-making where a systems focus on the environmental and social dimensions of a design, project, innovation or business model are explicitly considered.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:03.911Z"
+}

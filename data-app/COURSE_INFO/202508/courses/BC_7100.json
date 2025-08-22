@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "BC",
+  "courseNumber": "7100",
+  "courseId": "BC 7100",
+  "title": "Quant Meth Constr Resch",
+  "description": "Introductory course in graduate research in the building construction industry.  Covers types of research, sampling methods, and basic analysis and evaluation techniques.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:06.840Z"
+}

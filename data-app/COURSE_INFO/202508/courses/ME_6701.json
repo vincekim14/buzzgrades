@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "6701",
+  "courseId": "ME 6701",
+  "title": "Wind Engineering",
+  "description": "An introductory course on wind energy and its potential; modeling and design of wind turbines; analysis of the economic benefits of wind turbine systems. Credit will not be awarded for both ME 6701 and AE 6701.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 2020 Undergraduate Semester Minimum Grade of D or ME 3340 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:30.698Z"
+}

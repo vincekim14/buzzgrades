@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MGT",
+  "courseNumber": "4670",
+  "courseId": "MGT 4670",
+  "title": "Entrepreneurship",
+  "description": "Provides students with an understanding of the process of establishing a technology-based venture. Students learn how to evaluate market opportunities, conduct feasibility studies, create venture teams, and write business plans.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 3101 Undergraduate Semester Minimum Grade of D or MGT 3150 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:24.428Z"
+}

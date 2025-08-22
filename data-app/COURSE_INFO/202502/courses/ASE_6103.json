@@ -1,0 +1,20 @@
+{
+  "term": "202502",
+  "subjectCode": "ASE",
+  "courseNumber": "6103",
+  "courseId": "ASE 6103",
+  "title": "System Lifecycle &amp; Integ",
+  "description": "System preliminary design must address product and process design throughout system lifecycle from integration through manufacturing to phase-out along with interfaces to other emerging systems.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Majors:",
+    "__DETAIL_1__Applied Systems Engineering (ASE)",
+    "__HEADER_2__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_2__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ASE 6102 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:23.350Z"
+}

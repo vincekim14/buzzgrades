@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ECON",
+  "courseNumber": "7131",
+  "courseId": "ECON 7131",
+  "title": "Development Economics I",
+  "description": "This course covers important topics in development economics research and policy such as UN sustainable development goals, human resource investments, poverty and inequality, armed conflict and its impact on well-being and household decision-making. The course introduces students to latest theoretical developments as well as to empirical methods used in the field.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:24.305Z"
+}

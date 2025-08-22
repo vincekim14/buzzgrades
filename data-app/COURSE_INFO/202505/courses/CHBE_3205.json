@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CHBE",
+  "courseNumber": "3205",
+  "courseId": "CHBE 3205",
+  "title": "Fluid Mechanics",
+  "description": "The basic principles of fluid mechanics are introduced and the analysis and design of equipment using these principles is practiced.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CHBE 2100 Undergraduate Semester Minimum Grade of C and (MATH 2551 Undergraduate Semester Minimum Grade of C or MATH 2561 Undergraduate Semester Minimum Grade of C or MATH 2X51 Undergraduate Semester Minimum Grade of T) and PHYS 2211 Undergraduate Semester Minimum Grade of D and (MATH 2552 Undergraduate Semester Minimum Grade of C or MATH 2562 Undergraduate Semester Minimum Grade of C or MATH 2X52 Undergraduate Semester Minimum Grade of T)",
+  "lastUpdated": "2025-08-20T02:38:42.937Z"
+}

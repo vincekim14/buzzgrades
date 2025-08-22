@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CHIN",
+  "courseNumber": "4031",
+  "courseId": "CHIN 4031",
+  "title": "Chin-Language Cinema",
+  "description": "Utilizing selected Chinese films as texts, this advanced Chinese course analyzes and discusses the technological, cultural, and urban transformation in China.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:06.673Z"
+}

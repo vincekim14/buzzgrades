@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CS",
+  "courseNumber": "7646",
+  "courseId": "CS 7646",
+  "title": "Mach Learn For Trading",
+  "description": "Introduces machine learning based trading strategies. Topics:  Information processing, probabilistic analysis, portfolio construction, generation of market orders, KNN, random forests. Credit not awarded for both CS 4646 and CS 7646.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:50.125Z"
+}

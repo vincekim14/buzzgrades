@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "4113",
+  "courseId": "ISYE 4113",
+  "title": "Workflow Theory",
+  "description": "In-depth modeling and analysis of the workflow dynamics shaping the operation and performance of production and service systems. Application of stochastic modeling in practical problems.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3232 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:57.157Z"
+}

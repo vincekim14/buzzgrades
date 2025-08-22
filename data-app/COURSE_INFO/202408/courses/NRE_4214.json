@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "NRE",
+  "courseNumber": "4214",
+  "courseId": "NRE 4214",
+  "title": "Reactor Engineering",
+  "description": "Nuclear heat generation; fuel elements' thermal analysis; single and two-phase flow and heat transfer in reactor systems; core thermal design and treatment of uncertainties.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3345 Undergraduate Semester Minimum Grade of D and NRE 3208 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:32.487Z"
+}

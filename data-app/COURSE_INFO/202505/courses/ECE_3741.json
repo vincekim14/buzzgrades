@@ -1,0 +1,20 @@
+{
+  "term": "202505",
+  "subjectCode": "ECE",
+  "courseNumber": "3741",
+  "courseId": "ECE 3741",
+  "title": "Instrum &amp; Electronic Lab",
+  "description": "Basic analog and digital electronic circuits and principles. Techniques of electrical and electronic measurements with laboratory instruments.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Majors:",
+    "__DETAIL_0__Computer Engineering (CMPE)",
+    "__DETAIL_0__Electrical & Computer Engr (ECE)",
+    "__DETAIL_0__Electrical Engineering (EE)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3710 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:52.126Z"
+}

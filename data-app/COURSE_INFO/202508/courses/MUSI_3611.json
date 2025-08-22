@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MUSI",
+  "courseNumber": "3611",
+  "courseId": "MUSI 3611",
+  "title": "Symphony Orchestra",
+  "description": "An advanced instrumental ensemble performing traditional and contemporary literature. Offered to all students with string, woodwind, brass, or percussion experience. Audition required.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:53.905Z"
+}

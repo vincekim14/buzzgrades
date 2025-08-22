@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "APPH",
+  "courseNumber": "8803",
+  "courseId": "APPH 8803",
+  "title": "Kinesiology",
+  "description": "Topics of special interest not covered in the regular course offerings.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:11.725Z"
+}

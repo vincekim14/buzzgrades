@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "ECON",
+  "courseNumber": "4440",
+  "courseId": "ECON 4440",
+  "title": "Environmental Economics",
+  "description": "Explores how economics can address a variety of environmental issues ranging from climate change to local pollution. Topic areas include externalities and the social costs of pollution, valuation of non-market goods, climate change policy (emissions taxes and cap-and-trade), management of renewable resources (fisheries and forests), extraction of exhaustible resources (minerals and fossil fuels), and more. Focuses on global, regional, and local environmental policy.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2106 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:45.524Z"
+}

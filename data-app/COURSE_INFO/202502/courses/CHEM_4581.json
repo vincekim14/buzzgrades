@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "4581",
+  "courseId": "CHEM 4581",
+  "title": "Biochemistry Lab I",
+  "description": "Modern biochemical techniques including methods for protein, nucleic acid, and lipid isolation and characterization; enzyme assays; chromatography; electrophoresis; and use of databases.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHEM 3211 Undergraduate Semester Minimum Grade of D or CHEM 3216 Undergraduate Semester Minimum Grade of D) and (CHEM 4511 Undergraduate Semester Minimum Grade of D or CHEM 3521 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:36:36.067Z"
+}

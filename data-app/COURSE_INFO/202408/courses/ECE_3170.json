@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECE",
+  "courseNumber": "3170",
+  "courseId": "ECE 3170",
+  "title": "Crypto HDW Embedded Sys",
+  "description": "Introduction to cryptography and authentication from a hardware-centric perspective.  Historic ciphers, symmetric and asymmetric encryption, and power analysis attacks are taught from a digital and VLSI design perspective.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 2040 Undergraduate Semester Minimum Grade of C and ECE 2031 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:39:02.290Z"
+}

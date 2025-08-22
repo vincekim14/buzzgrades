@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "6409",
+  "courseId": "MSE 6409",
+  "title": "Fndmntls of Corrosion",
+  "description": "Course covers thermodynamics, and kinetics of metallic corrosion in electrolytes and high-temperature oxidation. Different forms of corrosion, their mechanisms, and corrosion control methods are discussed.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:01.485Z"
+}

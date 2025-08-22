@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "APPH",
+  "courseNumber": "1060",
+  "courseId": "APPH 1060",
+  "title": "Flourish Str Well &amp; Res",
+  "description": "This course is designed to help students improve their health/well-being and flourish by using conceptual pillars such as coping, resiliency, optimism, mindfulness, and emotional intelligence. Credit not awarded for both APPH 1060 and APPH 1040 or APPH 1050.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:17.265Z"
+}

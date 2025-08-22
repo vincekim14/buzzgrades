@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4451",
+  "courseId": "ME 4451",
+  "title": "Robotics",
+  "description": "Mathematical modeling, simulation, and control of robotic systems with mechanical and sensory elements.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3015 Undergraduate Semester Minimum Grade of D or ME 3017 Undergraduate Semester Minimum Grade of D or AE 3515 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:32.017Z"
+}

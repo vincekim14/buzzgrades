@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "6551",
+  "courseId": "ECE 6551",
+  "title": "Digital Control",
+  "description": "Techniques for analysis and synthesis of digital control systems. Sample-data systems, state-space systems and linear feedback design.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 6550 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:55.531Z"
+}

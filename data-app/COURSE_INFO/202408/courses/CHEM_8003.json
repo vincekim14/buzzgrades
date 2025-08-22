@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CHEM",
+  "courseNumber": "8003",
+  "courseId": "CHEM 8003",
+  "title": "Student Seminar",
+  "description": "SEMINAR - CHEMISTRY",
+  "creditHours": "1 to 3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:03.274Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PHIL",
+  "courseNumber": "3101",
+  "courseId": "PHIL 3101",
+  "title": "AI Ethics and Policy",
+  "description": "This course explores the ethical and philosophical dimensions of artificial intelligence, and it examines policies that can, or should, govern its development and use.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:12.578Z"
+}

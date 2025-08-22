@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "GRMN",
+  "courseNumber": "3010",
+  "courseId": "GRMN 3010",
+  "title": "Intro-German Literature",
+  "description": "Introduction to the periods and genres of German literature from the Middle Ages to modern times. Conducted in German.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:09.725Z"
+}

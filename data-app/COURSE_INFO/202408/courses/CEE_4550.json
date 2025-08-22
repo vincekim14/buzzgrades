@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4550",
+  "courseId": "CEE 4550",
+  "title": "Structural Analysis II",
+  "description": "Analysis of two- and three-dimensional statically indeterminate structures by classical and matrix methods of solution. Flexibility and stiffness techniques, influence lines, approximate analysis, and nonlinear analysis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3055 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:24.105Z"
+}

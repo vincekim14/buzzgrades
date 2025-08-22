@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "3340R",
+  "courseId": "ME 3340R",
+  "title": "ME 3340 Recitation",
+  "description": "Recitation for ME 3340",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ME 3340",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:46.528Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "MSL",
+  "courseNumber": "1002",
+  "courseId": "MSL 1002",
+  "title": "Intr Tactical Leadership",
+  "description": "Overviews leadership fundamentals such as setting direction, problem-solving, listening, presenting briefs, providing feed-back, and using elective writing skills. Cadets explore dimensions of leadership values, attributes, skills and actions in the context of practical, hands-on, and interactive exercises. Continued emphasis is placed on recruitment and retention of cadets. Cadre role models and the building of stronger relationships among the cadets through common exercise and practical interaction are critical aspects of this course.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSL 1001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:56.343Z"
+}

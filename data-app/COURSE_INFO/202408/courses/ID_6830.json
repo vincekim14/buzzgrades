@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ID",
+  "courseNumber": "6830",
+  "courseId": "ID 6830",
+  "title": "Wearable Tech for Health",
+  "description": "This course explores the future of wearable technologies for health by adopting various human-centered design methodologies to meet users’ needs, abilities, and expectations.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Quarter (UG)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:53.268Z"
+}

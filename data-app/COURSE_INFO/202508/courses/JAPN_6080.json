@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "JAPN",
+  "courseNumber": "6080",
+  "courseId": "JAPN 6080",
+  "title": "Japn Applied Lings Grad",
+  "description": "This course examines current linguistic theories as applied to Japanese in order to acquire analytical skills to better understand human languages, particularly Japanese and English.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:50.758Z"
+}

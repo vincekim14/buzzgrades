@@ -1,0 +1,1065 @@
+{
+  "subject": "ID",
+  "subjectName": "Industrial Design (ID)",
+  "url": "https://catalog.gatech.edu/coursesaz/id/",
+  "courses": [
+    {
+      "subjectCode": "ID",
+      "courseNumber": "1011",
+      "courseId": "ID 1011",
+      "title": "Industrial Design Fundamentals 1",
+      "description": "Art and design theory and practice in Industrial Design including an introduction to process, methodology, ergonomics, research tools and user research. Focus is on fundamental design principles based on design history and practice.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "1012",
+      "courseId": "ID 1012",
+      "title": "Industrial Design Fundamentals 2",
+      "description": "Art and design theory and practice in Industrial Design including an introduction to process, methodology, ergonomics, research tools and user research. Focus is on CAD and digital prototyping.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "1101",
+      "courseId": "ID 1101",
+      "title": "Introduction to Industrial Design 1",
+      "description": "Introduction to Industrial Design – a survey of evolving diverse career options and the designer’s impact on society. Emphasis on traditional product design, research, and strategy.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "1102",
+      "courseId": "ID 1102",
+      "title": "Introduction to Industrial Design 2",
+      "description": "Introduction to Industrial Design – a survey of evolving diverse career options and the designer’s impact on society. Emphasis is on user experience and interaction design.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "1401",
+      "courseId": "ID 1401",
+      "title": "Introduction to Graphic Communications 1",
+      "description": "Introduction to graphic design, composition, layout, color, typography, photography, social media & videography. Emphasis of this first course is on the history and theory of development of basic visual literacies.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "1402",
+      "courseId": "ID 1402",
+      "title": "Introduction to Graphic Communications 2",
+      "description": "Introduction to graphic design history and practice, composition, layout, color, typography, photography, social media & videography. This second course in the sequence will emphasize digital skill development.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "1418",
+      "courseId": "ID 1418",
+      "title": "Introduction to Sketching and Modeling 1",
+      "description": "Introduction to basic visual representation techniques that empower designers of products, services and systems through sketching, model making, computer-assisted drawing, rapid prototyping, and other methods.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "1419",
+      "courseId": "ID 1419",
+      "title": "Introduction to Sketching and Modeling 2",
+      "description": "Introduction to intermediate visual representation techniques that empower designers of products, services and systems through sketching, model making, computer-assisted drawing, rapid prototyping, and other methods.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2011",
+      "courseId": "ID 2011",
+      "title": "Introductory Design I",
+      "description": "Foundation course in visual communications theory and practice, continuing the development of two-dimensional visual literacy. Emphasis on both analog and digital media.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2012",
+      "courseId": "ID 2012",
+      "title": "Introductory Design II",
+      "description": "Foundation course in form giving and representing, continuing the development of three-dimensional visual literacy.  Emphasis on visual relationships between form and image.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2021",
+      "courseId": "ID 2021",
+      "title": "Industrial Design Studio 1",
+      "description": "This course provides an introduction to the design process on visual principles and presentation techniques with a focus on sketching and modeling techniques related to 3D form.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2022",
+      "courseId": "ID 2022",
+      "title": "Industrial Design Studio 2",
+      "description": "This course applies more structured design methods to research and exploration of product form and function and introduces concepts of universal design and user centered design.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2023",
+      "courseId": "ID 2023",
+      "title": "Industrial Design Studio 1",
+      "description": "This course applied structured design methods to research and exploration of product form and function and introduces concepts of user centered design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2024",
+      "courseId": "ID 2024",
+      "title": "Industrial Design Studio 2",
+      "description": "This course applies structured user-centered design methods to research and exploration of product design and function, and introduces concepts of universal design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2101",
+      "courseId": "ID 2101",
+      "title": "Digital Design Methods",
+      "description": "This course introduces the basics of product design in the CAD environment. Stuents design a product, apply 3D scanning, produce an animation and 3D print.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2102",
+      "courseId": "ID 2102",
+      "title": "3D Modeling",
+      "description": "This course introduces 3D modeling methods for solid and surface modeling in CAD software. Students create multi-component assembly drawings and explore rendering techniques for product design.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2201",
+      "courseId": "ID 2201",
+      "title": "Sustainable Issues for Design",
+      "description": "Introduction to the broad environmental issues that face humankind as a participant in the biosphere.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2202",
+      "courseId": "ID 2202",
+      "title": "History of Modern Industrial Design",
+      "description": "History and development of industrial design from the beginning of the Industrial Revolution to the present.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2241",
+      "courseId": "ID 2241",
+      "title": "History of Art 1",
+      "description": "This course surveys art from Prehistory through the Renaissance and is organized around stylistic periods that are arranged chronologically. Classes will consist of lectures with slides that focus on these stylistic periods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2242",
+      "courseId": "ID 2242",
+      "title": "History of Art 2",
+      "description": "This course surveys the major artistic movements and aesthetics of the 17th, 18th, 19th, 20th, and early 21st centuries in painting, sculpture and architecture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2320",
+      "courseId": "ID 2320",
+      "title": "Human Factors in Design",
+      "description": "This course examines the theory of Human Factors to provide a working knowledge of the physical and cognitive attributes of people that designers must accomodate.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2325",
+      "courseId": "ID 2325",
+      "title": "User Centered Design Methods",
+      "description": "This course introduces students to user-centric design methods used to identify, understand, assess and prioritize the neuroscience factors and perceptions that contribute to more effective product design and human-centered design solutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2401",
+      "courseId": "ID 2401",
+      "title": "Visual Design Thinking",
+      "description": "Introduction to techniques to help designers build a vocabulary to support effective visual communication including fundamentals of layout, sketching, rendering, schematics, information graphics & storyboarding.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2510",
+      "courseId": "ID 2510",
+      "title": "Introduction to Smart Product Design",
+      "description": "This course provides an introduction to smart product design including the basics of sensor technologies, electronics and programming required to produce working product concept prototypes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2698",
+      "courseId": "ID 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "2699",
+      "courseId": "ID 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3011",
+      "courseId": "ID 3011",
+      "title": "Intermediate Design I",
+      "description": "The systematic design process as applied to industrial design and packaging problems.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3012",
+      "courseId": "ID 3012",
+      "title": "Intermediate Design II",
+      "description": "Various dimensions of human factors applied to design, including: aging, disability, normal age change, childhood and adult anthropometrics, and human capability.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3031",
+      "courseId": "ID 3031",
+      "title": "Health Design Studio 1",
+      "description": "The application of systematic user-centered design methods and research to projects focused on the design development of new and/or improved health-related products with an emphasis on inclusive design.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3032",
+      "courseId": "ID 3032",
+      "title": "Health Design Studio 2",
+      "description": "The application of systematic user-centered design methods and research to projects focused on the design development of new and/or improved health-related products with an emphasis on products and product systems.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3041",
+      "courseId": "ID 3041",
+      "title": "Product Development Studio 1",
+      "description": "The application of systematic user-centered design methods and research to projects focused on the use of parametric design and CNC capabilities in the design development of products, services & systems.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3042",
+      "courseId": "ID 3042",
+      "title": "Product Development Studio 2",
+      "description": "The application of systematic user-centered design methods to projects focused on the design development of 'real-world' products, services, interfaces & systems in collaboration with external sponsors.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3051",
+      "courseId": "ID 3051",
+      "title": "Interactive Product Design Studio 1",
+      "description": "The application of systematic product design and research methods to projects focused on new applications of sensor-based technologies to the creation of interactions, products and interfaces with an emphasis on the importance of user-centered design.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3052",
+      "courseId": "ID 3052",
+      "title": "Interactive Product Design Studio 2",
+      "description": "The application of systematic user-centered design methods to projects focused on new applications of sensor-based technologies with an emphasis on interactive environments, interfaces, navigation and mobility.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3103",
+      "courseId": "ID 3103",
+      "title": "Industrial Design Computing I",
+      "description": "Introduction to 2-D computer drawing systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3104",
+      "courseId": "ID 3104",
+      "title": "Industrial Design Computing II",
+      "description": "Introduction to 3-D modeling systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3201",
+      "courseId": "ID 3201",
+      "title": "Design & Community: The Social and Environmental Impact of Design",
+      "description": "Students explore socially and environmentally responsible industrial design practices at home and abroad, and partner with local organizations to develop community-based design projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3301",
+      "courseId": "ID 3301",
+      "title": "Materials I: Renewables",
+      "description": "This course examines the characteristics, production technologies, histories, and environmental impacts of nine categories of renewable materials familiar to product and product system design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3302",
+      "courseId": "ID 3302",
+      "title": "Materials and Processes II: Nonrenewables",
+      "description": "Examination of characteristics, production technologies, histories, and environmental impacts of nonrenewable materials used in product design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3320",
+      "courseId": "ID 3320",
+      "title": "Design Methods: User Centered Design",
+      "description": "This course introduces students to current user-centric design methods used to identify, understand, assess and prioritize the factors and perceptions that contribute to more effective product design and human-centered design solutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3510",
+      "courseId": "ID 3510",
+      "title": "Introduction to Interactive Product Design",
+      "description": "This course provides an introduction to interactive product design including the basics of sensor technologies, electronics and programming required to produce working product concept prototypes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3520",
+      "courseId": "ID 3520",
+      "title": "Tangible Interaction",
+      "description": "This course addresses the design process related to interactive environments.  Projects will emphasize the inclusion of ubiquitous and emerging interactive technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3803",
+      "courseId": "ID 3803",
+      "title": "Special Topics",
+      "description": "Topics of current interest in industrial design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3811",
+      "courseId": "ID 3811",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3813",
+      "courseId": "ID 3813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Industrial Design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3814",
+      "courseId": "ID 3814",
+      "title": "Special Topics",
+      "description": "Special Topics in Industrial Design (lecture and lab).",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3824",
+      "courseId": "ID 3824",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3901",
+      "courseId": "ID 3901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "3902",
+      "courseId": "ID 3902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4011",
+      "courseId": "ID 4011",
+      "title": "Advanced Design I",
+      "description": "Application of the design process to advanced multidisciplinary design problems. Experience in solving real design problems from areas such as consumer products and equipment, transportation and equipment.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4012",
+      "courseId": "ID 4012",
+      "title": "Advanced Design II",
+      "description": "Capstone industrial design project of student's own choosing, with consent of instructor, to refine problem-solving and design ability in preparation for professional practice.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4061",
+      "courseId": "ID 4061",
+      "title": "ID Capstone Design Studio 1",
+      "description": "Comprehensive team-based projects incorporating an iterative approach to design development of products, & systems with emphasis on integration of research, user-centered design, prototyping, usability and testing.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4062",
+      "courseId": "ID 4062",
+      "title": "ID Capstone Design Studio 2",
+      "description": "Comprehensive team-based projects incorporating an iterative approach to design development of products, & systems with emphasis on integration of research, user-centered design, prototyping, usability and testing.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4071",
+      "courseId": "ID 4071",
+      "title": "Invention Studio 1",
+      "description": "An interdisciplinary team-based approach to integrate industrial design and engineering competencies in user-centered design development of products and systems with emphasis on corporate-sponsored projects.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4072",
+      "courseId": "ID 4072",
+      "title": "Invention Studio 2",
+      "description": "Comprehensive projects incorporating an iterative approach to user-centered design development of products, systems & services with emphasis on invention, innovation and entrepreneurship.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4081",
+      "courseId": "ID 4081",
+      "title": "ID/ME Collaborative Design Studio 1",
+      "description": "An interdisciplinary team-based approach to integrate industrial design and engineering competencies in user-centered design development of products and systems with emphasis on corporate-sponsored projects.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4082",
+      "courseId": "ID 4082",
+      "title": "ID/ME Collaborative Design Studio 2",
+      "description": "An interdisciplinary team-based approach to integrate industrial design and engineering competencies in user-centered design development of products and systems with emphasis on humanitarian projects.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4103",
+      "courseId": "ID 4103",
+      "title": "Alias Studio I",
+      "description": "Introduction to modeling, rendering, and animation with Alias Studio software.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4104",
+      "courseId": "ID 4104",
+      "title": "Alias Studio II",
+      "description": "Introduction to product animation using Alias Studio software.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4105",
+      "courseId": "ID 4105",
+      "title": "Advanced Modeling Concepts for Creating Complex Forms",
+      "description": "The Advance Modeling Concepts Course explores concepts, tools and theories used to model and validate complex forms encountered in the product design process.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4106",
+      "courseId": "ID 4106",
+      "title": "Parametric Product Modeling",
+      "description": "This course focuses on advanced digital methods in product modeling for visual analysis, flexible design approaches and digital fabrication methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4201",
+      "courseId": "ID 4201",
+      "title": "Design/Research Methods",
+      "description": "Research methods applicable to industrial design including task definition, information gathering, and analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4202",
+      "courseId": "ID 4202",
+      "title": "Professional Practice and Preparation",
+      "description": "Principles of consulting and corporate industrial design including preparation of the professional portfolio.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4203",
+      "courseId": "ID 4203",
+      "title": "French Society and Culture",
+      "description": "Studies in French society and culture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4204",
+      "courseId": "ID 4204",
+      "title": "Theorizing Design",
+      "description": "Introduction to what designers do and how they undertake their tasks; examples will come from a variety of design disciplines.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4205",
+      "courseId": "ID 4205",
+      "title": "French Design and Culture",
+      "description": "Studies in French design and culture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4206",
+      "courseId": "ID 4206",
+      "title": "Culture of Objects:  A Seminar on the Design and Culture of Objects",
+      "description": "This seminar surveys the theories and methodologies within the field of industrial design that locate meaning in the designed object as derived from culture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4210",
+      "courseId": "ID 4210",
+      "title": "Introduction to Universal Design in the Built Environment",
+      "description": "This course provides an introduction to universal design focusing on the implications of ability on the usability of places, products, and systems for all individuals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4320",
+      "courseId": "ID 4320",
+      "title": "Prototyping Interaction: Designing for Experience",
+      "description": "This course exposes students to a range of practical methods for research and design exploration to support the design development of interactive products and technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4418",
+      "courseId": "ID 4418",
+      "title": "Design Sketching",
+      "description": "This course addresses drawing and visualization techniques necessary for design thinking and development and introduces methods and processes to formulate and present visual information.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4450",
+      "courseId": "ID 4450",
+      "title": "Developing a Professional Design Portfolio",
+      "description": "The portfolio development course provides students with a structured approach to preparing a professional visual record of their work in print and digital formats.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4510",
+      "courseId": "ID 4510",
+      "title": "Wearable Product Design",
+      "description": "Wearable Product Design explores techniques in producing designs and prototypes for on-body interactions, and general textile knowledge for making effective wearable products.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4698",
+      "courseId": "ID 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4699",
+      "courseId": "ID 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4803",
+      "courseId": "ID 4803",
+      "title": "Special Topics: Furniture",
+      "description": "Special topics in furniture design not covered in the professional curriculum.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4813",
+      "courseId": "ID 4813",
+      "title": "Special Topics: Sustainability",
+      "description": "Special topics in sustainability not included in the professional curriculum.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4823",
+      "courseId": "ID 4823",
+      "title": "Special Topics: Information Technology",
+      "description": "Special topics in information technology not included in the professional curriculum.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4824",
+      "courseId": "ID 4824",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4833",
+      "courseId": "ID 4833",
+      "title": "Special Topics: Collaborative",
+      "description": "Application of the design process to advanced multidisciplinary problems by a team. Projects from a range of interest areas:  consumer, industrial products, transportation, furniture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4843",
+      "courseId": "ID 4843",
+      "title": "Special Topics: History and Theory",
+      "description": "Special topics in history and theory not included in the professional curriculum.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4850",
+      "courseId": "ID 4850",
+      "title": "Special Topics",
+      "description": "Special.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4863",
+      "courseId": "ID 4863",
+      "title": "Special Topics",
+      "description": "Special Topics Course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4900",
+      "courseId": "ID 4900",
+      "title": "Special Problems: Visual Communications",
+      "description": "Special problems in communication not covered in the professional curriculum.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4901",
+      "courseId": "ID 4901",
+      "title": "Special Problems: Mentor Program",
+      "description": "Special problems in teaching pedagogy; mentoring by senior faculty in basic and intermediate design courses.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4902",
+      "courseId": "ID 4902",
+      "title": "Special Problems: Mentor Program",
+      "description": "Special problems in teaching pedagogy; mentoring by senior faculty in basic and intermediate design courses.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4903",
+      "courseId": "ID 4903",
+      "title": "Special Problems: Research",
+      "description": "Special research topics for advanced students not covered in the professional curriculum.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "4904",
+      "courseId": "ID 4904",
+      "title": "Special Problems: Research",
+      "description": "Special research topics for advanced students not covered in the professional curriculum.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6100",
+      "courseId": "ID 6100",
+      "title": "Introduction to Graduate Studies in Industrial Design",
+      "description": "Introduction to the theory and practice of graduate studies in Industrial Design in relation to human-centered design, assistive technology, interaction, product system design, usability, user experience, interface, and instructional design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6101",
+      "courseId": "ID 6101",
+      "title": "Human Centered Design",
+      "description": "This course examines design artifacts in relation to the human body, aging, disabilities, and environments with a perspective of  human-centered methodology that includes data gathering, analysis, and usability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6102",
+      "courseId": "ID 6102",
+      "title": "Graduate Studio A",
+      "description": "Studio introduces the MID certificate in Design. The ID studio class stands at the heart of design education and professional practice. Industrial Design is considered from a strategic perspective. Assignments explore the business, technology and use experience components.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6103",
+      "courseId": "ID 6103",
+      "title": "Graduate Studio B",
+      "description": "This course is a project-based ID studio that gives students an overview of and practice with the insights-driven, iterative ID process.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6104",
+      "courseId": "ID 6104",
+      "title": "Rapid Design Vis",
+      "description": "This course trains students in the basics of sketching and free hand drawing needed in the Industrial Design studio environment.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6105",
+      "courseId": "ID 6105",
+      "title": "Brand and Visual Design",
+      "description": "This course introduces the principles of branding and visual identity. It emphasizes branded experiences in a service/product/mobile context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6106",
+      "courseId": "ID 6106",
+      "title": "3D Design Methods",
+      "description": "This course teaches students about the 3D digital  tools needed to develop products for human form.  By learning how to model, render and animate, students can better express their research, ideations and designs.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6107",
+      "courseId": "ID 6107",
+      "title": "Integrated Product Design",
+      "description": "Introduction to smart products teaches students to create IOT products. Students work with sensors and signals, U/I design, and multi-platform prototyping.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6108",
+      "courseId": "ID 6108",
+      "title": "Survey of Industrial Design History",
+      "description": "This course surveys the history of industrial design from the Industrial Revolution to contemporary times.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6109",
+      "courseId": "ID 6109",
+      "title": "Human Factors and Ergonomics",
+      "description": "This course teaches students about the human perspective in design, research, and interactions with physical and interface products. Students learn about tools and techniques used instructional design, human-computer interaction, product design, user-centered design, and usability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6200",
+      "courseId": "ID 6200",
+      "title": "Industrial Design Graduate Studio I",
+      "description": "Graduate application of the design process to advanced multidisciplinary design problems. Experience in solving real design problems for consumer products.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6201",
+      "courseId": "ID 6201",
+      "title": "Industrial Design Graduate Studio II",
+      "description": "Graduate-level application of the design process to advanced multidisciplinary problems.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6211",
+      "courseId": "ID 6211",
+      "title": "Graduate Studio One",
+      "description": "This course introduces the design program philosophy, human-centered design and evidence-driven research from a strategic perspective. Assignments explore the technology, business, and user experience components in the design process and validate the final design with advanced usability tools and methods.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6212",
+      "courseId": "ID 6212",
+      "title": "Grad Studio Two: Health and Wellness",
+      "description": "This course explores the application of systematic product design methods to projects that focus on the design of new and/or improved health products, interactions, and delivery of services.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6213",
+      "courseId": "ID 6213",
+      "title": "Grad Studio Two: Interactive Products",
+      "description": "This course explores the application of systematic product design methods to projects that focus on the design development of new/or improved interactive or smart products.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6214",
+      "courseId": "ID 6214",
+      "title": "Strategic Design Language",
+      "description": "Introduction to techniques to help designers clarify and support design ideas in a strategic business context by exploring methods to better leverage visual design skills.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6215",
+      "courseId": "ID 6215",
+      "title": "Service Design",
+      "description": "This course introduces best practices of service design and focuses on the alignment and design of multiple brand touch points to optimize customer experience.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6216",
+      "courseId": "ID 6216",
+      "title": "Service Design, Brand and Value Creation",
+      "description": "This course introduces students to how data gathering and analysis, perception, visual, product, interface, and service design align to optimize user experiences that drive business service and value creation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6271",
+      "courseId": "ID 6271",
+      "title": "Healthcare Design of the Future",
+      "description": "Introduction to research-based approaches to integrated healthcare design innovation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6400",
+      "courseId": "ID 6400",
+      "title": "Master's Project",
+      "description": "Under the guidance of a faculty member, students explore a design project that relates to advance theoritical  research through a human prespective with a design and/or technology  focus on a product.  The project may include areas  in instructional design, human-computer interaction, learning, neuroscience, perception, product design, user-centered design, and usability.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6401",
+      "courseId": "ID 6401",
+      "title": "Visualizing Interaction",
+      "description": "Introduction to techniques that empower designers to plan and create effective and clear visual communication depicting the interaction and relationships between people, products, and services.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6403",
+      "courseId": "ID 6403",
+      "title": "Intro to Thesis Studies",
+      "description": "This introduction to thesis course helps students understand the human-centered research methods, analytical tools, and design processes used in developing a thesis or project in graduate studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6420",
+      "courseId": "ID 6420",
+      "title": "Advanced Sketching",
+      "description": "This class will focus on developing advanced, traditional (non-digital) sketching, rendering, and presentation techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6506",
+      "courseId": "ID 6506",
+      "title": "Parametric Product Modeling",
+      "description": "This graduate course focuses on advanced digital methods in product modeling for visual analysis, flexible design approaches and digital fabrication methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6508",
+      "courseId": "ID 6508",
+      "title": "Shape Grammars",
+      "description": "Shape grammars are a powerful formal system for the generative description, interpretation and evaluation of designs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6509",
+      "courseId": "ID 6509",
+      "title": "Computation, Creativity and Design Cognition",
+      "description": "This course investigates computational methods, models, tools that support design creativity and cognition.  Credit not allowed for both ID 6509 and ARCH 6509.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6510",
+      "courseId": "ID 6510",
+      "title": "Design for Interaction: Working with New Technologies",
+      "description": "This course examines opportunities for designers to leverage visualization and prototyping methods to foster new applications of technology to enhance user experience in everyday life.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6515",
+      "courseId": "ID 6515",
+      "title": "Interface Prototyping: Exploring Tools & Theories",
+      "description": "This course focuses on interface prototypes, how these are used throughout the design process and the varity of ways they can be created with different technologies.  Through interface prototypes, students learn how to express their research, receive user feedback, explore user perceptions, and improve their designs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6520",
+      "courseId": "ID 6520",
+      "title": "Crafting Design Methods",
+      "description": "Traditional craftwork and how we can use material change, scale shifts, methods of manufacture, and algorithmic analysis to incorporate and revitalize these traditions into design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6620",
+      "courseId": "ID 6620",
+      "title": "Soft Goods Design",
+      "description": "This graduate course focuses on product opportunities highlighting user benefits from soft material integration.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6753",
+      "courseId": "ID 6753",
+      "title": "Human-Computer Interaction Professional Preparation and Practice",
+      "description": "Preparation for a professional career in HCI. Hands-on workshops in resume and portfolio building, interviewing, public speaking, team work. HCI career choices and trajectories.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6763",
+      "courseId": "ID 6763",
+      "title": "Design of Interactive Environments",
+      "description": "Investigate and design ambient, intelligent, interactive interfaces and computational applications in tangible and physical environment to support health, wellness and quality of life.  Credit not allowed for both ID 6763 and COA 6763 or CS 6763.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6800",
+      "courseId": "ID 6800",
+      "title": "Investigations of Universal Design in the Built Environment",
+      "description": "This course provides an advanced level to universal design focusing on the implications of ability on the usability of places, products, and systems for all individuals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6820",
+      "courseId": "ID 6820",
+      "title": "Web Design, Usability and Accessibility",
+      "description": "This course will teach students the fundamentals of web design and usability issues in online environments, with an emphasis on universal design principles and accessibility.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6830",
+      "courseId": "ID 6830",
+      "title": "Wearable Tech for Health",
+      "description": "This course explores the future of wearable technologies for health by adopting various human-centered design methodologies to meet users’ needs, abilities, and expectations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "6998",
+      "courseId": "ID 6998",
+      "title": "HCI Master's Project",
+      "description": "Final project for students completing a Human-Computer Interaction master's degree in the Digitial Media track. Repeatable for multi-semester projects.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "7000",
+      "courseId": "ID 7000",
+      "title": "Master's Thesis",
+      "description": "Under the guidance of a faculty member, students explore advance  theoretical  research through a human perspective in areas instructional design, human-computer interaction, learning, neuroscience, perception, product design, user-centered design, and/or usability.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "7655",
+      "courseId": "ID 7655",
+      "title": "Designing For Curiosity",
+      "description": "This course focuses on the development of research-through-design skills particular to their application in interaction design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "8802",
+      "courseId": "ID 8802",
+      "title": "Special Topics in ID",
+      "description": "Special Topics in Industrial Design.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "8803",
+      "courseId": "ID 8803",
+      "title": "Special Topics",
+      "description": "Special Topics in Industrial Design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "8804",
+      "courseId": "ID 8804",
+      "title": "Special Topics",
+      "description": "Special Topics in Industrial Design (lecture and supervised lab).",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "8900",
+      "courseId": "ID 8900",
+      "title": "Special Problems",
+      "description": "Special problems in industrial design.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "8903",
+      "courseId": "ID 8903",
+      "title": "Special Problems in Human-Computer Interaction",
+      "description": "Small-group of individual investigation of advanced topics in human-computer interaction. Guided study and research.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "8997",
+      "courseId": "ID 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "ID",
+      "courseNumber": "8998",
+      "courseId": "ID 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    }
+  ],
+  "totalCourses": 132,
+  "scrapedAt": "2025-08-16T02:00:40.265Z"
+}

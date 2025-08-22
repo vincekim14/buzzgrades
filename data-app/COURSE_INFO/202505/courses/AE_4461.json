@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "AE",
+  "courseNumber": "4461",
+  "courseId": "AE 4461",
+  "title": "Intro to Combustion",
+  "description": "Basics of combustion and combustion devices. Chemical thermodynamics, reaction rates, premixed/nonpremixed flames, ignition, stabilization, and pollutants.  Applications in turbine, rocket, and internal combustion engines.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 3450 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:13.445Z"
+}

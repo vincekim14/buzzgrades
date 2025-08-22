@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHIN",
+  "courseNumber": "3813",
+  "courseId": "CHIN 3813",
+  "title": "Chinese Food Culture",
+  "description": "Permits a group of students and a professor to pursue areas of the Chinese language not extensively treated in other courses in the department.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:46.009Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "KOR",
+  "courseNumber": "3691",
+  "courseId": "KOR 3691",
+  "title": "Business Korean",
+  "description": "This course aims to improve oral/written communication skills in business situations in Korea.  Taught in Korean; part of Korean intensive summer language program.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:17.610Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "2550",
+  "courseId": "MATH 2550",
+  "title": "Intro Multivariable Calc",
+  "description": "Vectors in three dimensions, curves in space, functions of several variables, partial derivatives, optimization, integration of functions of several variables. Vector Calculus not covered. Credit will not be awarded for both MATH 2550 and MATH 2605 or MATH 2401 or MATH 2551 or MATH 1555.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or ((MATH 1552 Undergraduate Semester Minimum Grade of D or MATH 15X2 Undergraduate Semester Minimum Grade of T or MATH 1X52 Undergraduate Semester Minimum Grade of T) and (MATH 1553 Undergraduate Semester Minimum Grade of D or MATH 1X54 Undergraduate Semester Minimum Grade of T or MATH 1554 Undergraduate Semester Minimum Grade of D or MATH 1564 Undergraduate Semester Minimum Grade of D or MATH 1522 Undergraduate Semester Minimum Grade of D or MATH 1X53 Undergraduate Semester Minimum Grade of T))",
+  "lastUpdated": "2025-08-20T02:42:26.128Z"
+}

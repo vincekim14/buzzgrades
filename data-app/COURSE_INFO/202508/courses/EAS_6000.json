@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "EAS",
+  "courseNumber": "6000",
+  "courseId": "EAS 6000",
+  "title": "Intro Research &amp; Ethics",
+  "description": "Identify and discuss ethical challenges that will be confronted in research, and give an overview of the research areas of the faculty in EAS.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:39:11.452Z"
+}

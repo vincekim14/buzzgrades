@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "6017",
+  "courseId": "PUBP 6017",
+  "title": "Public Management",
+  "description": "Using case studies and a field exercise, students will examine how public policies are executed and managed. Underlying the course is the assumption that public management, is the management of political authority and that strategic thinking can make for effective public management. Satisfies policy implementation, management and organization theory requirement.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:17.437Z"
+}

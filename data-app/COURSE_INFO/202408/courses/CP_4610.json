@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CP",
+  "courseNumber": "4610",
+  "courseId": "CP 4610",
+  "title": "Intro-Real Estate Invest",
+  "description": "Introduction to real estate analysis and utilization. Subjects include attributes of real property, value determinations, appraisal, investment analysis, market analysis, asset management, and public aspects.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:08.862Z"
+}

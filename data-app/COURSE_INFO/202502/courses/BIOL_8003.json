@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOL",
+  "courseNumber": "8003",
+  "courseId": "BIOL 8003",
+  "title": "Seminar",
+  "description": "Weekly seminars on current research presented by various scientists in the field of biology.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:50.943Z"
+}

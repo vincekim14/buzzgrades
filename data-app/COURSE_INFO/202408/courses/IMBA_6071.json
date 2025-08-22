@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "IMBA",
+  "courseNumber": "6071",
+  "courseId": "IMBA 6071",
+  "title": "Financial Management",
+  "description": "An introduction to finance. Topics include time value of money, capital budgeting, risk and return, capital structure, dividend policy, and working capital management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:15.728Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "INTA",
+  "courseNumber": "6450",
+  "courseId": "INTA 6450",
+  "title": "Data Analytics and Security",
+  "description": "Explores use of big data techniques to problems at the national and international levels.  Topics may include cybersecurity, surveillance, economic development, behavioral prediction and manipulation.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:37.579Z"
+}

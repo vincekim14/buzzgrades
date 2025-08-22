@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ARCH",
+  "courseNumber": "4510",
+  "courseId": "ARCH 4510",
+  "title": "Advanced Productions",
+  "description": "Advanced integration of digital design and production technologies through Mixed Reality (MR)  \n geared towards collaborative immersive spatial design and production systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ARCH 4507 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:27.669Z"
+}

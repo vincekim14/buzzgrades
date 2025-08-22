@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BC",
+  "courseNumber": "8100",
+  "courseId": "BC 8100",
+  "title": "Research Methodology",
+  "description": "Research design course that teaches the basics of creating credible scientific research plans with examples from construction related research.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:13.668Z"
+}

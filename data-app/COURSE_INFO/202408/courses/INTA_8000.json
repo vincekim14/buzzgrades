@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "INTA",
+  "courseNumber": "8000",
+  "courseId": "INTA 8000",
+  "title": "Sci,Tech&amp;Int&#39;l Affairs I",
+  "description": "Research course introducing engineers and scientists to issues in science and technology as related to international security policy and development.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:05.921Z"
+}

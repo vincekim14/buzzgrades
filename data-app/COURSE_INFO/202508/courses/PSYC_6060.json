@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "6060",
+  "courseId": "PSYC 6060",
+  "title": "Psyc of Aging",
+  "description": "A survey covering psychological aspects of aging, mind, and behavior (perception, cognition, emotion, mental health) and topics relevant to adulthood (e.g. caregiving and retirement).",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:39.987Z"
+}

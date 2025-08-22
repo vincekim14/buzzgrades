@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "SPAN",
+  "courseNumber": "4693",
+  "courseId": "SPAN 4693",
+  "title": "Sustainability in Span",
+  "description": "This course examines issues of economic and environmental sustainability as well as the relationship between the economy and the environment in Spain.  Conducted in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:37.087Z"
+}

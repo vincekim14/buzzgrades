@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ARCH",
+  "courseNumber": "3008",
+  "courseId": "ARCH 3008",
+  "title": "Art And Arch In Italy I",
+  "description": "Investigations of the painting, sculpture, and architecture of the Classical, Early Christian, Byzantine, and Medieval periods in Italy with special emphasis on Rome.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "Architecture 3007 and Architecture 3009 and Architecture 4921",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:19.722Z"
+}

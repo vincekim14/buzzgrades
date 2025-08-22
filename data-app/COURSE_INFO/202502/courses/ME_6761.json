@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "6761",
+  "courseId": "ME 6761",
+  "title": "Acoustics II",
+  "description": "Radiation and scattering of sound waves in fluids, duct acoustics, dissipation phenomena. Crosslisted with AE 6761.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 6760 Graduate Semester Minimum Grade of D or AE 6760 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:41.592Z"
+}

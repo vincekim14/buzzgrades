@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "6110",
+  "courseId": "MGT 6110",
+  "title": "Negotiation and Conflict",
+  "description": "This course covers the theory and process of negotiation and conflict resolution as it is practiced in different settings. Students develop understanding of other parties’ interests and perspectives, personality, and conflict management styles, and learn to build effective relationships.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6502 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:00.101Z"
+}

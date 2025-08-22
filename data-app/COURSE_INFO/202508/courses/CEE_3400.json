@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CEE",
+  "courseNumber": "3400",
+  "courseId": "CEE 3400",
+  "title": "Intro Geotech Eng",
+  "description": "Introduction to soil as an engineering material, with a focus on the mechanics of soil strength and compressibility, and fluid flow through soils.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 3001 Undergraduate Semester Minimum Grade of D and CEE 3040 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:52.549Z"
+}

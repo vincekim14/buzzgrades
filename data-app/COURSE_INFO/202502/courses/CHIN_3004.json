@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHIN",
+  "courseNumber": "3004",
+  "courseId": "CHIN 3004",
+  "title": "Advanced Chinese I",
+  "description": "Continued reinforcement of intermediate speaking, reading, and writing skills, and cultural knowledge to enhance students' communication ability in topics relating to contemporary life and Chinese society.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:45.376Z"
+}

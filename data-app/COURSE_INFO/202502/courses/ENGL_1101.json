@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ENGL",
+  "courseNumber": "1101",
+  "courseId": "ENGL 1101",
+  "title": "English Composition I",
+  "description": "A composition course focusing on skills required for effective writing in a variety of contexts, with emphasis on exposition, analysis, and argumentation, and also including introductory use of a variety of research skills.  Develops analytical reading and writing skills through the investigation of methods used in cultural and literary studies and the application of those methods to specific texts.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "Learning Support English 3 or ENGL 0999",
+  "lastUpdated": "2025-08-20T02:39:04.660Z"
+}

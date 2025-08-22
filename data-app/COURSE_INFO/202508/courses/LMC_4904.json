@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "LMC",
+  "courseNumber": "4904",
+  "courseId": "LMC 4904",
+  "title": "Internship",
+  "description": "Offers students a workplace-based learning experience that stresses application of principles and skills gained in other STAC classes.",
+  "creditHours": "1 to 6",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:07.056Z"
+}

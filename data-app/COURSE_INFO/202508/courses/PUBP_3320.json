@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PUBP",
+  "courseNumber": "3320",
+  "courseId": "PUBP 3320",
+  "title": "Climate Policy",
+  "description": "Examines relevant scientific theory and evidence, political history, policy options, alternative policy analysis frameworks, and the influence of science and scientific uncertainity on climate policy.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:49.899Z"
+}

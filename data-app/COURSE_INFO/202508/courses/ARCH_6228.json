@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ARCH",
+  "courseNumber": "6228",
+  "courseId": "ARCH 6228",
+  "title": "Analyt Invest Urb Design",
+  "description": "Measures of urban and spatial form.  Analysis of street connectivity.  Models of space use and spatial congnition.  Comparison and evaluation of design alternatives.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:22.234Z"
+}

@@ -1,0 +1,2689 @@
+{
+  "subject": "ME",
+  "subjectName": "Mechanical Engineering (ME)",
+  "url": "https://catalog.gatech.edu/coursesaz/me/",
+  "courses": [
+    {
+      "subjectCode": "ME",
+      "courseNumber": "1670",
+      "courseId": "ME 1670",
+      "title": "Introduction to Engineering Graphics and Design",
+      "description": "Introduction to engineering graphics and visualization including sketching, line drawing, and solid modeling.  Development and interpretation of drawings and specifications for product realization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "1801",
+      "courseId": "ME 1801",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "2016",
+      "courseId": "ME 2016",
+      "title": "Computer Applications",
+      "description": "An introduction to the use of computers and MATLAB programming for the solution of mechanical engineering problems. Topics include: sources of error in computing, the use of modular software design, basic numerical methods, and signal processing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "2110",
+      "courseId": "ME 2110",
+      "title": "Creative Decisions and Design",
+      "description": "To learn fundamental techniques for creating, analyzing, synthesizing, and implementing design solutions to open- ended problems with flexibility, adaptability, and creativity through team and individual efforts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "2202",
+      "courseId": "ME 2202",
+      "title": "Dynamics of Rigid Bodies",
+      "description": "Kinematics and dynamics of particles and rigid bodies in one, two, and three dimensions.  Work-energy and impulse-momentum concepts.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "2202R",
+      "courseId": "ME 2202R",
+      "title": "ME 2202 Recitation",
+      "description": "Recitation for ME 2022.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "2205",
+      "courseId": "ME 2205",
+      "title": "Three-dimensional rigid body dynamics",
+      "description": "Three-dimensional rigid body dynamics; Newton-Euler methods, inertia properties and principal axes; Euler equations, gyroscopic effects.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "2698",
+      "courseId": "ME 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "2699",
+      "courseId": "ME 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "2801",
+      "courseId": "ME 2801",
+      "title": "Special Topics",
+      "description": "Topics of current interest not offered in the regular course offerings.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "2803",
+      "courseId": "ME 2803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not offered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3017",
+      "courseId": "ME 3017",
+      "title": "System Dynamics",
+      "description": "Dynamic modeling and simulation of systems with mechanical, hydraulic, thermal and/or electrical elements.  Frequency response analysis, stability, and feedback control design of dynamic systems. Students cannot receive credit for ME 3017 and AE 3530.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3017R",
+      "courseId": "ME 3017R",
+      "title": "ME 3017 Recitation",
+      "description": "Recitation for ME 3017.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3057",
+      "courseId": "ME 3057",
+      "title": "Experimental Methodology and Technical Writing",
+      "description": "Introduction to basic instrumentation and experimental methodology used in mechanical engineering, including calibration, use, precision and accuracy. Consideration errors, precision and accuracy in experimental measurements and technical reports.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3058",
+      "courseId": "ME 3058",
+      "title": "ME Systems Laboratory",
+      "description": "Measurement and analysis of mechanical, acoustic, manufacturing, thermodynamic, fluid, and heat transfer phenomena. Emphasis\non data acquisition, reduction, analysis, and report preparation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3141",
+      "courseId": "ME 3141",
+      "title": "Cutting-Edge Eng Seminar",
+      "description": "Seminar course on advanced engineering technologies directed to a non-technical audience.  Distinguished guest speakers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3180",
+      "courseId": "ME 3180",
+      "title": "Machine Design",
+      "description": "The selection, analysis, and synthesis of springs, joining and fastening methods, bearings, shafts, gears, and other elements.  Design of assemblies. Computer-based methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3210",
+      "courseId": "ME 3210",
+      "title": "Design, Materials, and Manufacture",
+      "description": "Major manufacturing processes, capabilities, and costs.  Interaction between design, materials and manufacturing process selection.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3322",
+      "courseId": "ME 3322",
+      "title": "Thermodynamics",
+      "description": "Introduction to thermodynamics. Thermodynamic properties, energy and mass conservation, entropy and the second law. Second-law analysis of thermodynamic systems, gas cycles, vapor cycles.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3322R",
+      "courseId": "ME 3322R",
+      "title": "ME 3322 Recitation",
+      "description": "Recitation for ME 3322.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3340",
+      "courseId": "ME 3340",
+      "title": "Fluid Mechanics",
+      "description": "The fundamentals of fluid mechanics. Topics include fluid statics; control-volume analysis; the Navier-Stokes equations; similitude; viscous, inviscid and turbulent flows; boundary layers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3340R",
+      "courseId": "ME 3340R",
+      "title": "ME 3340 Recitation",
+      "description": "Recitation for ME 3340.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3345",
+      "courseId": "ME 3345",
+      "title": "Heat Transfer",
+      "description": "Introduction to the study of heat transfer, transport coefficients, steady state conduction, transient conduction, radiative heat transfer, and forced and natural convection.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3345R",
+      "courseId": "ME 3345R",
+      "title": "ME 3345 Recitation",
+      "description": "Recitation for ME 3345.",
+      "creditHours": "0"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3700",
+      "courseId": "ME 3700",
+      "title": "Introduction to Energy Systems Engineering",
+      "description": "Renewable, fossil, and nulcear energy and its conversion into various forms.  Electrical grid, energy storage, energy conservation, and mitigation of adverse conversion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3720",
+      "courseId": "ME 3720",
+      "title": "Introduction to Fluid and Thermal Engineering",
+      "description": "Theory and application, but no exhaustive treatment of fluid mechanics, thermodynamics, and heat transfer in analysis and design of fluid and thermal energy systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3743",
+      "courseId": "ME 3743",
+      "title": "Analysis of Emerging Technologies",
+      "description": "Analysis of emerging technologies and their impacts for firm practice, market practice, policy, and society.  Credit not allowed for both ME 3743 and MGT 3743 or CS 3743.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3744",
+      "courseId": "ME 3744",
+      "title": "Managing Product, Service & Technology Development",
+      "description": "Analysis of the managerial challenges of the product development process. Credit not allowed for both ME 3744 and MGT 3744.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3801",
+      "courseId": "ME 3801",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "3802",
+      "courseId": "ME 3802",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4011",
+      "courseId": "ME 4011",
+      "title": "Internal Combustion Engines",
+      "description": "Analysis and design of various types of engines used in transportation systems. Topics include advances in energy efficiency and emissions in automotive applicatons.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4012",
+      "courseId": "ME 4012",
+      "title": "Modeling and Control of Motion Systems",
+      "description": "Motion systems consisting of mechanical, fluid and electrical components are analyzed, modeled, and controlled. Alternatives are considered for system optimization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4013",
+      "courseId": "ME 4013",
+      "title": "Hybrid Vehicle Powertrains",
+      "description": "Course details fundamentals of hybrid vehicle powertrains, to include architectures (series, parallel, etc.), components, operation, control, modeling & simulation, and design fundamentals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4014",
+      "courseId": "ME 4014",
+      "title": "Introduction to Automotive Engineering",
+      "description": "Introduction to automotive engineering from a systems perspective. Major automotive systems and subsystems are described together with appropriate engineering models necessary for analysis and design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4042",
+      "courseId": "ME 4042",
+      "title": "Interactive Computer-Aided Design and Computer-Aided Engineering",
+      "description": "Principles of geometric modeling and finite-element method; interactive CAD and CAE software tools. CAD and CAE applications in thermal and mechanical design problems. Design projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4056",
+      "courseId": "ME 4056",
+      "title": "Mechanical Engineering Systems Laboratory",
+      "description": "Measurement and analysis of mechanical, acoustic, manufacturing, thermodynamic, fluid, and heat transfer phenomena.  Emphasis on data acquisition, reduction, analysis, and report preparation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4171",
+      "courseId": "ME 4171",
+      "title": "Environmentally Conscious Design and Manufacturing",
+      "description": "Including environmental considerations in engineering design; reducing environmental impact by design; recycling; material selection; de- and remanufacturing; life-cycle considerations, analyses, tradeoffs; ISO 14000.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4172",
+      "courseId": "ME 4172",
+      "title": "Designing Sustainable Engineering Systems",
+      "description": "Understanding sustainability in context of market forces, availability of resources, technology, society.  Methods for identifying, modeling, and selecting sustainable designs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4182",
+      "courseId": "ME 4182",
+      "title": "Mechanical Design Engineering",
+      "description": "Teams apply a systematic design process to real multidisciplinary problems. Problems selected from a broad spectrum of interest areas, including biomedical, ecological, environmental, mechanical, and thermal.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4189",
+      "courseId": "ME 4189",
+      "title": "Mechanical Vibrations",
+      "description": "Single and multi-degree-of-freedom systems as well as continuous systems are analyzed for their vibrational response characteristics using both exact and approximate methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4193",
+      "courseId": "ME 4193",
+      "title": "Design and Materials Selection for Tribological Applications",
+      "description": "Analysis of tribological aspects of machine components, including friction, lubrication, and wear.  Group design project to optimize system tribological performance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4214",
+      "courseId": "ME 4214",
+      "title": "Mechanical Behavior of Materials",
+      "description": "Problems involving resistance of materials to plastic deformation, fracture, fatigue, and creep; mechanical testing; computer-based methods; case studies of failure.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4215",
+      "courseId": "ME 4215",
+      "title": "Manufacturing Process Analysis",
+      "description": "First principles based modeling and analysis of manufacturing processes. Process design and optimization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4315",
+      "courseId": "ME 4315",
+      "title": "Energy Systems Analysis and Design",
+      "description": "Integrated concepts, laws, and methodologies from thermal sciences are used to analyze, model, and design energy systems and to predict system performance for fixed designs.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4321",
+      "courseId": "ME 4321",
+      "title": "Refrigeration and Air Conditioning",
+      "description": "Application of thermodynamics principles to analysis and design of refrigeration and air conditioning systems, absorption and heat-driven systems, gas-vapor mixture psychrometrics, load estimates, delivery, and control.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4324",
+      "courseId": "ME 4324",
+      "title": "Power Generation Technology",
+      "description": "Technology review and application of engineering sciences and economics to the analysis and design of power generation systems. Fossil, nuclear, and renewable energy systems are considered.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4325",
+      "courseId": "ME 4325",
+      "title": "Introduction to Fuel Cell Systems",
+      "description": "Fuel cell systems are explained and analyzed, including single cells and stacks, and balance-of-plant fundamentals, with emphasis upon prevalent fuel cell types and their applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4330",
+      "courseId": "ME 4330",
+      "title": "Heat and Mass Exchangers",
+      "description": "Heat transfer, fluid flow, and thermodynamics principles applied to the analysis and design of heat and mass exchangers, periodic regenerators, and cooling towers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4332",
+      "courseId": "ME 4332",
+      "title": "Renewable Energy Systems",
+      "description": "Renewable and efficient energy systems are introduced. Various energy conversion and storage technologies are explained and analyzed, along with their respective advantages and limitations.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4340",
+      "courseId": "ME 4340",
+      "title": "Applied Fluid Mechanics",
+      "description": "Advanced study in three areas of fluid mechanics. Topics may be chosen from turbomachinery, flow measurement, compressible flow, applied aerodynamics, and others.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4342",
+      "courseId": "ME 4342",
+      "title": "Computational Fluid Dynamics",
+      "description": "An introduction to computational fluid dynamics (CFD) in mechanical engineering. The theory and numerical techniques of CFD. Modern CFD software including grid generation and flow visualization tools will be used. Projects with complex fluid-flow systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4405",
+      "courseId": "ME 4405",
+      "title": "Fundamentals of Mechatronics",
+      "description": "Focuses on fundamentals of microcontrollers, analog and digital electronics, sensors, actuators and their applications to modern mechatronics systems and intelligent manufacturing. Knowledge gained from lectures will be used to complete lab exercises. Credit will not be awarded for both ME 4405 and ME 6405 or ME 4405 and ME 4777.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4451",
+      "courseId": "ME 4451",
+      "title": "Robotics",
+      "description": "Mathematical modeling, simulation, and control of robotic systems with mechanical and sensory elements.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4452",
+      "courseId": "ME 4452",
+      "title": "Control of Dynamic Systems",
+      "description": "Modeling and simulation of dynamic systems in frequency and time domains.  Feedback control analysis and design methods including root-locus, frequency response, and pole-placement.  Introduction to digital control systems.  Credit not allowed for both ME 4452 and ME 3015. Credit not allowed for both ME 4452 and AE 3531.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4698",
+      "courseId": "ME 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4699",
+      "courseId": "ME 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4701",
+      "courseId": "ME 4701",
+      "title": "Wind Engineering",
+      "description": "An introductory course on wind energy and its potential; modeling and design of wind turbines; analysis of the economic benefits of wind turbine systems.  Credit not allowed for both ME 4701 and AE 4701.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4702",
+      "courseId": "ME 4702",
+      "title": "Electric Vehicles and the Grid",
+      "description": "Companies need engineers equipped with skills to drive electrification in their organizations. This course will teach the six\nE’s of Electrification: EV’s + Ecosystem + Engineering + Energy + Environment + Economics\n.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4710",
+      "courseId": "ME 4710",
+      "title": "Foundations in Machine Learning for Engineers",
+      "description": "Engineers are taught foundational data analytics principles to learn when, why, and how to use or not use machine learning in engineering problems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4720",
+      "courseId": "ME 4720",
+      "title": "Pulp and Paper Manufacturing",
+      "description": "The course provides comprehensive foundational knowledge of the industry enabling the student to understand the role of diverse manufacturing operations and to strategically plan improvements. Cross-listed with ChBE 4720.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4723",
+      "courseId": "ME 4723",
+      "title": "Interdisciplinary Capstone Design",
+      "description": "Seniors will work in teams to apply a systematic design process to real multi-disciplinary problems. Problems selected from a broad spectrum of interest areas, including biomedical, environmental, mechanical, industrial design, electrical and thermal/fluids. Projects must be based on the knowledge and skills acquired in earlier course work, and incorporate appropriate engineering standards and multiple realistic constraints. Emphasis is placed on the design process, the technical aspects of the design, and on reducing the proposed design to practice.  The course consists of faculty and guest lectures, prototyping in design studios, and a multi-disciplinary design project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4725",
+      "courseId": "ME 4725",
+      "title": "Probabilistic Risk Assessment",
+      "description": "Introduction to a wide range of probabilistic risk analysis and probabilistic design methods for mechanical systems.  Topics covered are probabilistic description, sampling methods, risk assessment, and reliability-based design.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4730",
+      "courseId": "ME 4730",
+      "title": "Emerging Technologies for Forest Bioproducts",
+      "description": "The course provides comprehensive knowledge of the manufacture of nontraditional products from forest biomaterials. It analyzes and assesses emerging manufacturing technologies, materials and products. Cross-listed with ChBE 4730.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4740",
+      "courseId": "ME 4740",
+      "title": "Biologically Inspired Design",
+      "description": "We examine evolutionary adaptation as a source for engineering design inspiration, utilizing principles of scaling, adaptability, and robust multifunctionality that characterize biological systems.  Credit not allowed for both ME 4740 and (BIOL 4740, or ISYE 4740 or PTFE 4740 or MSE 4740).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4741",
+      "courseId": "ME 4741",
+      "title": "Integrative Management Development - Project Preparation",
+      "description": "Individual and group-based experiential learning activities to develop integrated human system management skills that prepare students for more successful capstone collaboration and learning. Credit not allowed for both ME 4741 and CS 4741 or MGT 4741.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4742",
+      "courseId": "ME 4742",
+      "title": "Integrated Technology and Management Capstone Project",
+      "description": "Project-based course where students in the Technology and Management Program will work in inter-disciplinary teams on projects provided by corporate affiliates.  Credit not allowed for both ME 4742 and CS 4742 or MGT 4742.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4744",
+      "courseId": "ME 4744",
+      "title": "Global Development Capstone",
+      "description": "Teams develop solutions to multidisciplinary problems selected from globalization, food security, infrastructure, health, water, sanitation, hygiene, ecosystem resilience, services, capacity building, and urbanization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4745",
+      "courseId": "ME 4745",
+      "title": "Engineering Intrapreneurship",
+      "description": "This course teaches engineering-based Intrapreneurship skills and principles, benefiting students pursuing careers within engineering and innovation driven companies and how to create corporate start-ups.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4753",
+      "courseId": "ME 4753",
+      "title": "Topics in Engineering Practice",
+      "description": "Topics of current inportance offered in collaboration with an approved partner of Georgia Tech's Distance Learning Program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4754",
+      "courseId": "ME 4754",
+      "title": "Electronics Packaging Assembly, Reliability, Thermal Management, and Test",
+      "description": "The course provides hands-on instruction in electronics packaging, including assembly, reliability, thermal management, and test of next-generation microsystems.  Crosslisted with ECE and MSE 4754.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4757",
+      "courseId": "ME 4757",
+      "title": "Biofluid Mechanics",
+      "description": "Introduction to the study of blood flow in the cardiovascular system.  Emphasis on modeling and the potential of flow studies for clinical research application. Crosslisted with AE and CHE 4757.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4758",
+      "courseId": "ME 4758",
+      "title": "Biosolid Mechanics",
+      "description": "The mechanics of living tissue, e.g., arteries, skin, heart muscle, ligament, tendon, cartilage, and bone.  Constitutive equations and some simple mechanical models. Mechanics of cells. Applications. Crosslisted with AE and CHE 4758.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4759",
+      "courseId": "ME 4759",
+      "title": "Electrochemical Energy Storage and Conversion",
+      "description": "An elective class for senior-level students interested in electrochemical storage and conversion, including the fundamentals of electrochemistry and practical battery and fuel cells. Cross-listed with ChBE and MSE 4759.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4760",
+      "courseId": "ME 4760",
+      "title": "Engineering Acoustics and Noise Control",
+      "description": "Study of acoustics related to noise and its control; acoustic terminology, wave propagation, wave equation solutions, instrumentation, data processing, room acoustics, noise control, hearing, noise legislation. Crosslisted with AE 4760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4766",
+      "courseId": "ME 4766",
+      "title": "Fabrication and Properties of Nanoscale Devices",
+      "description": "Fundamental properties at the nanoscale for photonics and sensors.  Nanoscale fabrication methods including thin films, ion beam, lithography, electroplating, and example case studies in NEMS/MEMS and photonics.  Credit not allowed for both ME 4766 and MSE 4766.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4767",
+      "courseId": "ME 4767",
+      "title": "Pulp and Paper Lab",
+      "description": "The course offers the fundamentals of pulp and paper testing procedures. Cross-listed with ChBE 4767.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4775",
+      "courseId": "ME 4775",
+      "title": "Polymer Science and Engineering I: Formation and Properties",
+      "description": "An introduction to the chemistry, structure and formation of polymers, physical states and transitions, physical and mechanical properties of polymer fluids and solids. Crosslisted with CHEM, CHE, MSE, and PTFE 4775.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4776",
+      "courseId": "ME 4776",
+      "title": "Polymer Science and Engineering II: Analysis, Processing, and Laboratory",
+      "description": "Polymer fabrication processes and methods of characterization and identification of polymers are presented. Experiments in polymerization, processing, and property evaluation of polymers. Crosslisted with CHE, CHEM, MSE, and TFE 4776.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4777",
+      "courseId": "ME 4777",
+      "title": "Introduction to Polymer Science and Engineering",
+      "description": "An introduction to the structure and formation of polymers, physical states and transitions, physical and mechanical properties of polymer fluids and solids, and processing of polymers.  Crosslisted with MSE and PTFE 4777.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4781",
+      "courseId": "ME 4781",
+      "title": "Biomedical Instrumentation",
+      "description": "A study of medical instrumentation from a systems viewpoint. Pertinent physiological and electro-physiological concepts will be covered.  Credit not allowed for both ME 4781 and (CHE 4781 or CHBE 4781 or BMED 4781 or ECE 4781).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4782",
+      "courseId": "ME 4782",
+      "title": "Biosystems Analysis",
+      "description": "Analytical methods for modeling biological systems, including white-noise protocols for characterizing nonlinear systems. Crosslisted with BMED, CHE and ECE 4782.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4790",
+      "courseId": "ME 4790",
+      "title": "Materials Selection and Design",
+      "description": "Principles of selecting materials and processes for engineering applications.  Methodologies for designing new materials and conceiving hybrid solutions.  Credit not allowed for both ME 4790 and ME 4213 or ME 4790.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4791",
+      "courseId": "ME 4791",
+      "title": "Mechanical Behavior of Composites",
+      "description": "Stress-strain behavior of composites, properties of matrix and reinforcing materials, mechanics of fiber-reinforced composites, lamina and laminate analysis, and mechanical performance. Crosslisted with AE, CEE, CHE, MSE, and PTFE 4791.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4793",
+      "courseId": "ME 4793",
+      "title": "Composite Materials and Processes",
+      "description": "Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with AE, CEE, CHE, ME, MSE, and PTFE 4793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4795",
+      "courseId": "ME 4795",
+      "title": "Fundamental Elements of Nuclear Reactor Materials",
+      "description": "Introduction to fundamentals of nuclear reactor materials.  Topics covered are basics of radiation damage, defect creation and evolution, microstructure-property correlations in cladding and fuel of nuclear materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4801",
+      "courseId": "ME 4801",
+      "title": "Special Topics in Mechanical Engineering",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4802",
+      "courseId": "ME 4802",
+      "title": "Special Topics in Mechanical Engineering",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4803",
+      "courseId": "ME 4803",
+      "title": "Special Topics in Mechanical Engineering",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4804",
+      "courseId": "ME 4804",
+      "title": "Special Topics in Mechanical Engineering",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4805",
+      "courseId": "ME 4805",
+      "title": "Special Topics in Mechanical Engineering",
+      "description": "Special topic offerings of current interest not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4811",
+      "courseId": "ME 4811",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4812",
+      "courseId": "ME 4812",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4813",
+      "courseId": "ME 4813",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4814",
+      "courseId": "ME 4814",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4815",
+      "courseId": "ME 4815",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4821",
+      "courseId": "ME 4821",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4822",
+      "courseId": "ME 4822",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4823",
+      "courseId": "ME 4823",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4824",
+      "courseId": "ME 4824",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4825",
+      "courseId": "ME 4825",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4831",
+      "courseId": "ME 4831",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4832",
+      "courseId": "ME 4832",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4833",
+      "courseId": "ME 4833",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4834",
+      "courseId": "ME 4834",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4835",
+      "courseId": "ME 4835",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4843",
+      "courseId": "ME 4843",
+      "title": "Special Topics- ME Lab",
+      "description": "ME Special Topics with lab component.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4853",
+      "courseId": "ME 4853",
+      "title": "Special Topics",
+      "description": "ME Special Topics with lab component.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4863",
+      "courseId": "ME 4863",
+      "title": "Special Topics",
+      "description": "Special Topics in Mechanical Engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4873",
+      "courseId": "ME 4873",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4901",
+      "courseId": "ME 4901",
+      "title": "Special Problems in Mechanical Engineering",
+      "description": "Individual studies in certain specialized areas, and mathematical analyses and/or experimental investigations of problems of current interest in mechanical engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4902",
+      "courseId": "ME 4902",
+      "title": "Special Problems",
+      "description": "Individual studies in certain specialized areas, and mathematical analyses and/or experimental investigations of problems of current interest in mechanical engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "4903",
+      "courseId": "ME 4903",
+      "title": "Special Problems",
+      "description": "Individual studies in certain specialized areas, and mathematical analyses and/or experimental investigations of problems of current interest in mechanical engineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6007",
+      "courseId": "ME 6007",
+      "title": "Interfacial Fluid Mechanics",
+      "description": "The mechanics of fluid interfaces. Mathematical techniques of scaling and calculus of curved surfaces towards analysis of menisci, bubbles, jets, films, foams, and coatings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6101",
+      "courseId": "ME 6101",
+      "title": "Engineering Design",
+      "description": "Design concepts, processes, and methodologies, including quality and robustness. Group project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6102",
+      "courseId": "ME 6102",
+      "title": "Designing Open Engineering Systems",
+      "description": "Decision-based integrated product and process development, meta-design, and decision support problems; mathematical modeling of decisions involving ambiguity and uncertainty; critical thinking and analysis; verification and validation; research issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6103",
+      "courseId": "ME 6103",
+      "title": "Optimization in Engineering Design",
+      "description": "Use of single and multi-objective optimization in modeling and solving mechanical engineering design problems. Formulations, solution algorithms, validation and verification, computer implementation. Project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6104",
+      "courseId": "ME 6104",
+      "title": "Computer-Aided Design",
+      "description": "Fundamentals of CAD, including geometric and solid modeling, parametric representations, features, and human-machine interactions. Applications to design, analysis, and manufacturing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6105",
+      "courseId": "ME 6105",
+      "title": "Modeling and Simulation in Design",
+      "description": "Modeling and simutaltion concepts, algorithms, and methods; modeling of energy-based and discrete-event systems; modeling of design decisions; information modeling and knowledge representation; project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6124",
+      "courseId": "ME 6124",
+      "title": "Finite-Element Method: Theory and Practice",
+      "description": "Line, plane, solid, plate, and shell elements-theory: practical aspects of modeling; applications in mechanical engineering; final project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6201",
+      "courseId": "ME 6201",
+      "title": "Principles of Continuum Mechanics",
+      "description": "Introductory treatment of the fundamental, unifying concepts of the mechanics of continua.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6203",
+      "courseId": "ME 6203",
+      "title": "Inelastic Deformation of Solids",
+      "description": "Phenomenological aspects of nonlinear material behavior and deformation with emphasis on model development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6204",
+      "courseId": "ME 6204",
+      "title": "Micromechanics of Materials",
+      "description": "Fundamental concepts of micromechanics of solids with emphasis on application to composite materials.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6222",
+      "courseId": "ME 6222",
+      "title": "Manufacturing Processes and Systems",
+      "description": "Materials processing analysis and selection.  Manufacturing systems design.  Economic analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6223",
+      "courseId": "ME 6223",
+      "title": "Automated Manufacturing Process Planning",
+      "description": "Fundamentals of process planning.  Automated process planning approaches and algorithms.  Geometric modeling for process planning. Modeling and analysis of flexible fixturing systems. Mechanical assembly planning.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6224",
+      "courseId": "ME 6224",
+      "title": "Machine Tool Analysis and Control",
+      "description": "Mechanics and dynamics of machining, machine tool components and structures, sensors and control of machine tools, machine process planning and optimization.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6225",
+      "courseId": "ME 6225",
+      "title": "Metrology and Measurement Systems",
+      "description": "Metrology techniques and procedures.  Precision manufacturing system design and analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6229",
+      "courseId": "ME 6229",
+      "title": "Introduction to Micro-Electro-Mechanical Systems",
+      "description": "Principles of microfabrication for sensors and actuators.  Lumped parameter analysis and computer-aided design; materials properties; case studies include cantilever beam, pressure sensor, and accelerometer.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6242",
+      "courseId": "ME 6242",
+      "title": "Mechanics of Contact",
+      "description": "Mechanics of surface contact, with emphasis on tribological interactions as in rolling element bearings, slider bearings, mechanical seals, and materials processing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6243",
+      "courseId": "ME 6243",
+      "title": "Fluid Film Lubrication",
+      "description": "Analytical and numerical investigation of full film compressible and incompressible hydrodynamic lubrication problems for steady and unsteady conditions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6244",
+      "courseId": "ME 6244",
+      "title": "Rotordynamics",
+      "description": "Analysis and design of shafts for rotating machinery. Torsional vibration, synchronous and nonsynchronous whirl, stability, gyroscopic effects, hydrodynamic bearings, hysteresis, squeeze film dampers, and balancing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6281",
+      "courseId": "ME 6281",
+      "title": "Mechanics of Paper Forming and Coating",
+      "description": "Fundamentals of multiphase flow in paper forming and coating processes, and its impact on the physical properties of composite fiber structure and surface characteristics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6300",
+      "courseId": "ME 6300",
+      "title": "Intermediate Heat Transfer",
+      "description": "Intermediate topics including multidimensional transient conduction, diffusion, boundary layers, internal flows, radiation, phase change, heat exchangers, multimode transfer, and numerical methods with a project-oriented approach.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6301",
+      "courseId": "ME 6301",
+      "title": "Conduction Heat Transfer",
+      "description": "Steady and transient one- and multi-dimensional conduction. Emphasis on analytical methods, numerical techniques, and approximate solutions.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6302",
+      "courseId": "ME 6302",
+      "title": "Convection Heat Transfer",
+      "description": "Convection (forced and free) in laminar and turbulent, internal and external flows. Analogy between momentum and heat transfer. Scaling laws and modeling.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6303",
+      "courseId": "ME 6303",
+      "title": "Thermal Radiation Heat Transfer",
+      "description": "Fundamentals of thermal radiation, blackbody radiation, surface characteristics, exchange in enclosures, radiation through continua, and combined mode heat transfer.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6304",
+      "courseId": "ME 6304",
+      "title": "Principles of Thermodynamics",
+      "description": "Fundamentals of thermodynamics including energy, entropy, and energy analysis, property relations, equilibrium conditions, and evaluation of properties.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6305",
+      "courseId": "ME 6305",
+      "title": "Applications of Thermodynamics",
+      "description": "Applications of the first and second laws of thermodynamics to analysis and design optimization of power and refrigeration systems incorporating heat exchangers and combustion processes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6309",
+      "courseId": "ME 6309",
+      "title": "Nanoscale Heat Transfer",
+      "description": "Microscopic concepts and methodology in thermal science, including equilibrium statistics. Boltzmann transport equation, and nano-microscale heat conduction and radiation, with applications in contemporary technologies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6335",
+      "courseId": "ME 6335",
+      "title": "NUMERICAL HEAT TRANSFER",
+      "description": "This course will provide foundation to develop numerical solutions for steady state and transient thermal transport problems in complex geometries.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6401",
+      "courseId": "ME 6401",
+      "title": "Linear Control Systems",
+      "description": "Theory and applications of linear systems, state space, stability, feedback controls, observers, LQR, LQG, Kalman filters. Credit will not be awarded for both ME 6401 and AE 6530.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6402",
+      "courseId": "ME 6402",
+      "title": "Nonlinear Control Systems",
+      "description": "Analysis of nonlinear systems, geometric control, variable structure control, adaptive control, optimal control, applications.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6403",
+      "courseId": "ME 6403",
+      "title": "Digital Control Systems",
+      "description": "Comprehensive treatment of the representation, analysis, and design of discrete-time systems.  Techniques include Z- and W- transforms, direct method, control design, and digital tracking.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6404",
+      "courseId": "ME 6404",
+      "title": "Advanced Control System Design and Implementation",
+      "description": "Analysis, synthesis, and implementation techniques of continuous-time and real-time control systems using classical and state-space methods.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6405",
+      "courseId": "ME 6405",
+      "title": "Introduction to Mechatronics",
+      "description": "Modeling and control of actuators and electro-mechanical systems.  Performance and application of microprocessors and analog electronics to modern mechatronic systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6406",
+      "courseId": "ME 6406",
+      "title": "Machine Vision",
+      "description": "Design of algorithms for vision systems for manufacturing, farming, construction, and the service industries. Image processing, optics, illumination, feature representation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6407",
+      "courseId": "ME 6407",
+      "title": "Robotics",
+      "description": "Analysis and design of robotic systems including arms and vehicles. Kinematics and dynamics. Algorithms for describing, planning, commanding, and controlling motion force.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6408",
+      "courseId": "ME 6408",
+      "title": "Advanced Mechatronics",
+      "description": "Focusing on team projects, designing and building intelligent machines and products. Lectures - sensors and transducers, actuators, fluid power, power rectifiers, motion control and modeling of mechatronics systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6409",
+      "courseId": "ME 6409",
+      "title": "Biomechatronics of Wearable Robotic Devices",
+      "description": "An introduction to the emerging science of human-machine interaction with particular focus on wearable robotic devices for restoration or augmentation of human movement.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6441",
+      "courseId": "ME 6441",
+      "title": "Dynamics of Mechanical Systems",
+      "description": "Motion analysis and dynamics modeling of systems of particles and rigid bodies in three-dimensional motion.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6442",
+      "courseId": "ME 6442",
+      "title": "Vibration of Mechanical Systems",
+      "description": "Introduction to modeling and oscillatory response analysis for discrete continuous mechanical and structural systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6443",
+      "courseId": "ME 6443",
+      "title": "Variational Methods in Engineering",
+      "description": "Calculus of variations, Hamilton's principle and Lagrange's equations, Sturm-Liouville problems, approximation techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6444",
+      "courseId": "ME 6444",
+      "title": "Nonlinear Systems",
+      "description": "Investigation of nonlinear systems using analytical and numerical techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6449",
+      "courseId": "ME 6449",
+      "title": "Acoustic Transducers and Signal Analysis",
+      "description": "Acoustic instrumentation and methods of signal analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6452",
+      "courseId": "ME 6452",
+      "title": "Wave Propagation in Solids",
+      "description": "Wave motion in solids, wave equations, analytical and numerical solutions, ultrasonic NDE.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6460",
+      "courseId": "ME 6460",
+      "title": "Microelectromechanical Devices",
+      "description": "Introduces fundamental concepts and tools needed for the design, simulation and analysis of MEMS devices.  These include electrical, mechanical, radiant, thermal, magnetic and chemical domains.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6601",
+      "courseId": "ME 6601",
+      "title": "Introduction to Fluid Mechanics",
+      "description": "The fundamentals of fluid mechanics. Derivation of the governing equations of motion. An introduction to viscous, inviscid, turbulent, and boundary-layer flows.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6602",
+      "courseId": "ME 6602",
+      "title": "Viscous Flow",
+      "description": "The mechanics of Newtonian viscous fluids.  The use of modern analytical techniques to obtain solutions for flows with small and large Reynolds numbers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6607",
+      "courseId": "ME 6607",
+      "title": "Interfacial Fluid Mechanics",
+      "description": "The mechanics of fluid interfaces. Mathematical techniques of scaling and calculus of curved surfaces towards analysis of menisci,bubbles, jets, films, foams, and coatings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6622",
+      "courseId": "ME 6622",
+      "title": "Experimental Methods",
+      "description": "Experimental methods in mechanics. Includes measurement techniques, instrumentation, data acquisition, signal processing, and linear and digital electronics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6701",
+      "courseId": "ME 6701",
+      "title": "Wind Engineering",
+      "description": "An introductory course on wind energy and its potential; modeling and design of wind turbines; analysis of the economic benefits of wind turbine systems. Credit will not be awarded for both ME 6701 and AE 6701.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6705",
+      "courseId": "ME 6705",
+      "title": "Introduction to Mechatronics",
+      "description": "Modeling and control of actuators and electro-mechanical systems. Performance and application of microprocessors and analog electronics to modern mechatronic systems.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6720",
+      "courseId": "ME 6720",
+      "title": "Biotransport",
+      "description": "This graduate level course covers the analysis of fluid flow phenomena in the human body, cardiovasculature, respiratory system and other organ systems. Credit will not be awarded for both ME 6720 and BMED 6720.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6741",
+      "courseId": "ME 6741",
+      "title": "Pulp and Paper Manufacture I",
+      "description": "The fundamentals of pulp and paper technology are presented. Applications to the several unit operations used are explored and augmented by field trips and recent case studies. Crosslisted with CHE 6741, CHBE 6701 and MLDR 6701.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6743",
+      "courseId": "ME 6743",
+      "title": "Biosolid Mechanics",
+      "description": "Structure-function relationships and constitutive models for a variety of biological tissues, with an emphasis on understanding the mechanical behaviors of normal and pathological tissues. Credit not give for both ME/BMED 6783 and ME/BMED 6743. Crosslisted with BMED 6743.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6744",
+      "courseId": "ME 6744",
+      "title": "Topics in Engineering Practice",
+      "description": "Topics of current importance offered in collaboration with an approved partner of Georiga Tech's Distance Learning Program. Crosslisted with ECE 6744.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6745",
+      "courseId": "ME 6745",
+      "title": "Engineering Intrapreneurship",
+      "description": "This course teaches engineering-based Intrapreneurship skills and principles, benefiting students pursuing careers within engineering and innovation driven companies and how to create corporate start-ups.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6746",
+      "courseId": "ME 6746",
+      "title": "Rehabilitation Engineering",
+      "description": "Students will participate in rehabilitation engineering as practiced in the assistive technology industry.  Credit not allowed for both ME 6746 and APPH 6746.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6753",
+      "courseId": "ME 6753",
+      "title": "Principles of Management for Engineers",
+      "description": "The course will provide an introduction to selected topics needed to be successful in the technology industries. Cannot count toward major area requirements on M.S. or Ph.D. programs of study. Crosslisted with MGT 6753.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6760",
+      "courseId": "ME 6760",
+      "title": "Acoustics I and II",
+      "description": "Fundamental principles governing the generation, propagation, reflection, and transmission of sound waves in fluids. Crosslisted with AE 6760.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6761",
+      "courseId": "ME 6761",
+      "title": "Acoustics I and II",
+      "description": "Radiation and scattering of sound waves in fluids, duct acoustics, dissipation phenomena. Crosslisted with AE 6761.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6762",
+      "courseId": "ME 6762",
+      "title": "Applied Acoustics",
+      "description": "Mufflers, resonators, acoustic materials, barriers, industrial noise, room acoustics, active noise control. Crosslisted with AE 6762.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6765",
+      "courseId": "ME 6765",
+      "title": "Kinetics and Thermodynamics of Gases",
+      "description": "Thermodynamics of nonreacting and reacting gas mixtures. Introductory quantum theory, statistical thermodynamics, and gas kinetic theory. Crosslisted with AE 6765.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6766",
+      "courseId": "ME 6766",
+      "title": "Combustion I",
+      "description": "Introductory chemical kinetics, deformations and deflagrations, laminar flame propagation in premixed gases, ignition and quenching, laminar diffusion flames, droplet burning, and turbulent reacting flows. Crosslisted with AE 6766.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6768",
+      "courseId": "ME 6768",
+      "title": "Polymer Structure, Physical Properties, and Characterization",
+      "description": "Formulations and analysis of molecular and phenomenological models of elastic and viscoelastic behavior, development and description of structure, and fundamental aspects of structure-property relations.  Crosslisted with CHE, MSE, and PTFE 6768.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6769",
+      "courseId": "ME 6769",
+      "title": "Linear Elasticity",
+      "description": "Governing equations of linear elasticity, plane elasticity, boundary-value problems, airy stress function and complex variable methods, simple three-dimensional solutions. Crosslisted with AE 6769.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6770",
+      "courseId": "ME 6770",
+      "title": "Energy and Variational Methods in Elasticity and Plasticity",
+      "description": "Applications in energy and variational methods in engineering mechanics to elastic, plastic, and dynamical behavior of deformable media. Crosslisted with AE 6770.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6776",
+      "courseId": "ME 6776",
+      "title": "Integrated Low-cost Microelectronics Systems Packaging",
+      "description": "Broad overview of system-level, cross-disciplinary microelectronics packaging technologies, including design, test, thermal, reliability, optoelectronics, and RF integration.  Comparison of system-on-chip and system-on-package. Crosslisted with ECE and MSE 6776.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6777",
+      "courseId": "ME 6777",
+      "title": "Advanced Biomaterials",
+      "description": "Advanced topics of biomaterials performance and engineering, including biointerfaces, host reactions to materials, and bio-inspired/smart-materials strategies. Crosslisted with BMED, CHE, and MSE 6777.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6779",
+      "courseId": "ME 6779",
+      "title": "Thermal Engineering for Packaging of Micro and Nano Systems",
+      "description": "Passive, active, and hybrid thermal management techniques, and computational modeling of micro systems. Air cooling, single phase and phase change liquid cooling, heat pipes, and thermoelectrics. Crosslisted with ECE 6779.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6782",
+      "courseId": "ME 6782",
+      "title": "Cellular Engineering",
+      "description": "Engineering analysis of cellular systems. Crosslisted with BMED and CHE 6782.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6789",
+      "courseId": "ME 6789",
+      "title": "Technology Ventures",
+      "description": "Team discussion and case studies of issues in biomedical engineering technology transfer including licensing, financial capital, safety and efficacy studies, clinical trials, and strategic planning. Crosslisted with BMED, ECE, CHE, and MGT 6789.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6792",
+      "courseId": "ME 6792",
+      "title": "Computer Integrated Manufacturing Systems Seminar",
+      "description": "Guest speakers on a broad range of manufacturing-related topics:  research, applications, and technology. Required for Certificate in Manufacturing.  Crosslisted with ECE and ISYE 6792.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6793",
+      "courseId": "ME 6793",
+      "title": "Systems Pathophysiology",
+      "description": "Overview of human pathophysiology from a quantitative perspective.  Emphasis on systems of interest to bioengineering faculty.  Introduction to quantitative models for biological systems.  Crosslisted with BMED, CHE, and ECE 6793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6794",
+      "courseId": "ME 6794",
+      "title": "Tissue Engineering",
+      "description": "Biological, engineering, and medical issues in developing tissue-engineered constructs. Emphasis in the integration of these disciplines at a basic molecular and cell biology level. Crosslisted with BMED and CHE 6794.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6795",
+      "courseId": "ME 6795",
+      "title": "Mathematical, Statistical, and Computational Techniques in Materials Science",
+      "description": "Emphasizes the fundamental physical, analytical, and mathematical techniques commonly encountered in materials engineering including stress and strain, crystallographic and orientation transformations, X-ray, TEM, and solid-state concepts. Crosslisted with MSE and PTFE 6795.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6796",
+      "courseId": "ME 6796",
+      "title": "Structure-Property Relationships in Materials",
+      "description": "Introduction to the multi-scale structure effects on material properties.  For MSE students, this course will prepare students for future in-depth courses. For non-MSE students, the course will provide a background in materials and may serve as part of the program of study for a minor in materials.  Crosslisted with MSE and PTFE 6796.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6797",
+      "courseId": "ME 6797",
+      "title": "Thermodynamics and Kinetics of Microstructural Evolution",
+      "description": "The reduction of chemical-free energy, strain energy, and interfacial energy controls the kinetics of diffusional transformations.  These factors are explored from the point of view of processing and stability of the microstructure during service.  Crosslisted with MSE and PTFE 6797.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "6799",
+      "courseId": "ME 6799",
+      "title": "Legal Issues in Technology Transfer",
+      "description": "Study and analysis of U.S. law as it applies to the patenting and licensing processes.  Crosslisted with CHE, MGT, and BMED 6799.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7000",
+      "courseId": "ME 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7056",
+      "courseId": "ME 7056",
+      "title": "GT-STUTTGART",
+      "description": "Placeholder for GT-STUTTGART students.",
+      "creditHours": "12"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7057",
+      "courseId": "ME 7057",
+      "title": "GT-SEOUL",
+      "description": "Placeholder for GT-SEOUL students.",
+      "creditHours": "12"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7201",
+      "courseId": "ME 7201",
+      "title": "Computational Mechanics of Materials",
+      "description": "Computational treatments of material and geometric nonlinearity, with emphasis on rate-dependent elasto-plasticity and fracture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7203",
+      "courseId": "ME 7203",
+      "title": "Advanced Constitutive Relations for Solids",
+      "description": "Advanced treatment of constitutive laws for nonlinear behavior of solids. Coupled thermomechanical laws and underlying physical and thermodynamical bases. Behavior of media with underlying substructure.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7205",
+      "courseId": "ME 7205",
+      "title": "Mechanics and Applications of Nanostructured Materials and Devices",
+      "description": "Introduction to mechanics and transport processes of discrete atomistic and molecular systems, fabrication of nanodevices/structures and applications to nanoelectronics, tribology, actuation and sensors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7227",
+      "courseId": "ME 7227",
+      "title": "Additive Manufacturing and Rapid Prototyping",
+      "description": "Rapid prototyping technologies in engineering design. Physical principles, materials, materials processing. Laboratory demonstrations and project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7301",
+      "courseId": "ME 7301",
+      "title": "Transport Phenomena in Multiphase Flow",
+      "description": "Gas-liquid, two-phase flow patterns, basic and empirical models; conservation equations and closure relations; pool and convective boiling; aerosol transport; condensation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7442",
+      "courseId": "ME 7442",
+      "title": "Vibration of Continuous Systems",
+      "description": "Equations of motion and oscillatory response of dynamic systems modeled as continuous media.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7602",
+      "courseId": "ME 7602",
+      "title": "Hydrodynamic Stability",
+      "description": "Hydrodynamic stability of fluid flows using linear, energy, and nonlinear stability theories.  Taylor-Couette, buoyancy- driven, surface-tension-driven, shear, and thin-film flows.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7741",
+      "courseId": "ME 7741",
+      "title": "Robotics Professional Preparation",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Program introduction. Technical resume preparation. GT Robotics labs & resources.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7742",
+      "courseId": "ME 7742",
+      "title": "Robotics Professional Preparation 2",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Selecting and applying for Internship. Developing capstone project proposal. Public speaking practice and preparation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7743",
+      "courseId": "ME 7743",
+      "title": "Robotics Professional Preparation 3",
+      "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Interview preparation & career search. Technical report writing and presentation.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7751",
+      "courseId": "ME 7751",
+      "title": "Computational Fluid Mechanics",
+      "description": "Numerical methods for solving the time-dependent Navier-Stokes equations in complex geometrics, including theory, implementation, and applications. Crosslisted with CEE 7751.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7757",
+      "courseId": "ME 7757",
+      "title": "Teaching Practicum",
+      "description": "Supervised teaching for doctoral students.  Teaching techniques, course and curriculum design, student evaluation methods and criteria.  Students may, in some instances, prepare and present lectures.  Crosslisted with NRE, HP, and CHBE 7757.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7764",
+      "courseId": "ME 7764",
+      "title": "Acoustic Propagation",
+      "description": "Propagation of sound in inhomogeneous fluids; ray acoustics, ocean and atmospheric acoustics, nonlinear acoustics. Crosslisted with AE 7764.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7771",
+      "courseId": "ME 7771",
+      "title": "Mechanics of Polymer Solids and Fluids",
+      "description": "Continuum mechanics of solids and fluids; mechanics of deformation of anisotropic polymers; yield, breaking, and fatigue; non-Newtonian viscous and viscoelastic behavior of polymer fluids. Crosslisted with CHE, MSE, and PTFE 7771.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7772",
+      "courseId": "ME 7772",
+      "title": "Fundamentals of Fracture Mechanics",
+      "description": "Advanced study of failure of structural materials under load, mechanics of fracture, and microscopic and macroscopic aspects of the fracture of engineering materials. Crosslisted with AE, CEE, CHE, and MSE 7772.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7773",
+      "courseId": "ME 7773",
+      "title": "Advanced Fracture Mechanics",
+      "description": "Nonlinear fracture mechanics including elastic-plastic and time-dependent fracture, advanced test methods, J-integral theory, and extensions. Crosslisted with AE, CEE, CHE, and MSE 7773.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7774",
+      "courseId": "ME 7774",
+      "title": "Fatigue of Materials and Structures",
+      "description": "Mechanical and microstructural aspects of nucleation and growth of cracks under cyclic loading conditions, notch effects, cumulative damage, multiaxial loading, and fatigue crack propagation.  Crosslisted with AE, CEE, CHE, and MSE 7774.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7775",
+      "courseId": "ME 7775",
+      "title": "Topics in Fracture and Fatigue of Metallic and Composite Structures",
+      "description": "Brittle and ductile failure criteria. Failure prediction in composite structures. Free-edge and internal delamination. Anisotropic cracks. Fatigue behavior of composites and comparison with metal fatigue. Crosslisted with AE, CHE, and MSE 7775.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7785",
+      "courseId": "ME 7785",
+      "title": "Introduction to Robotics Research",
+      "description": "Familiarizes students with the core areas of robotics; mechanics, control, perception, AI, and autonomy.  Provides an introduction to the mathematical tools required in robotics research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "7793",
+      "courseId": "ME 7793",
+      "title": "Manufacturing of Composites",
+      "description": "Major manufacturing techniques of metal-ceramic and polymer-matrix composites. Modeling of processes with emphasis on fundamental mechanisms and effects.  Crosslisted with AE, CEE, CHE, MSE, and PTFE 7793.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8001",
+      "courseId": "ME 8001",
+      "title": "Master Seminar I",
+      "description": "Seminars for MSME students.  Credit not allowed for both ME 8001 and ECE 8001.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8002",
+      "courseId": "ME 8002",
+      "title": "Master Seminar II",
+      "description": "Seminars for MSME students.  Credit not allowed for both ME 8002 and ECE 8001.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8010",
+      "courseId": "ME 8010",
+      "title": "Seminars in Mechanical Engineering",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8011",
+      "courseId": "ME 8011",
+      "title": "Seminars in Mechanical Engineering",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8012",
+      "courseId": "ME 8012",
+      "title": "Seminars in Mechanical Engineering",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8014",
+      "courseId": "ME 8014",
+      "title": "Seminars in Mechanical Engineering",
+      "description": "Seminars involving current research projects presented by graduate students, faculty, and invited speakers.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8740",
+      "courseId": "ME 8740",
+      "title": "Robotics Internship",
+      "description": "Graduate Internship at a partner company, GTRI or a GT Robotics lab.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8741",
+      "courseId": "ME 8741",
+      "title": "Robotics Capstone Project",
+      "description": "Teams or individuals apply the knowledge and skills acquired throughout the MS program to a faculty supervised robotics project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8750",
+      "courseId": "ME 8750",
+      "title": "Robotics Research Foundation I",
+      "description": "Multidisciplinary research course supervised by two robotics faculty from different schools participating in the robotics Ph.D. program.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8751",
+      "courseId": "ME 8751",
+      "title": "Robotics Research Foundation II",
+      "description": "Continuation of ME 8751 (Robotics Research Foundation I).",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8801",
+      "courseId": "ME 8801",
+      "title": "Special Topics in Manufacturing",
+      "description": "Special topic offerings of current interest in manufacturing not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8802",
+      "courseId": "ME 8802",
+      "title": "Special Topics in Manufacturing",
+      "description": "Special topic offerings of current interest in manufacturing not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8803",
+      "courseId": "ME 8803",
+      "title": "Special Topics in Manufacturing",
+      "description": "Special topic offerings of current interest in manufacturing not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8804",
+      "courseId": "ME 8804",
+      "title": "Special Topics in Manufacturing",
+      "description": "Special topic offerings of current interest in manufacturing not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8805",
+      "courseId": "ME 8805",
+      "title": "Special Topics in Manufacturing",
+      "description": "Special topic offerings of current interest in manufacturing not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8806",
+      "courseId": "ME 8806",
+      "title": "Special Topics in Manufacturing",
+      "description": "Special topic offerings of current interest in manufacturing not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8807",
+      "courseId": "ME 8807",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8811",
+      "courseId": "ME 8811",
+      "title": "Special Topics in Computer-aided Engineering and Design",
+      "description": "Special topic offerings of current interest in computer-aided engineering not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8812",
+      "courseId": "ME 8812",
+      "title": "Special Topics in Computer-aided Engineering and Design",
+      "description": "Special topic offerings of current interest in computer-aided engineering not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8813",
+      "courseId": "ME 8813",
+      "title": "Special Topics in Computer-aided Engineering and Design",
+      "description": "Special topic offerings of current interest in computer-aided engineering not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8814",
+      "courseId": "ME 8814",
+      "title": "Special Topics in Computer-aided Engineering and Design",
+      "description": "Special topics offerings of current interest in computer-aided engineering not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8815",
+      "courseId": "ME 8815",
+      "title": "Special Topics in Computer-aided Engineering and Design",
+      "description": "Special topics offerings of current interest in computer-aided engineering not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8816",
+      "courseId": "ME 8816",
+      "title": "Special Topics in Computer-aided Engineering and Design",
+      "description": "Special topics offerings of current interest in computer-aided engineering not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8821",
+      "courseId": "ME 8821",
+      "title": "Special Topics in Tribology",
+      "description": "Special topic offerings of current interest in tribology not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8822",
+      "courseId": "ME 8822",
+      "title": "Special Topics in Tribology",
+      "description": "Special topic offerings of current interest in tribology not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8823",
+      "courseId": "ME 8823",
+      "title": "Special Topics in Tribology",
+      "description": "Special topics offerings of current interest in tribology not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8824",
+      "courseId": "ME 8824",
+      "title": "Special Topics in Tribology",
+      "description": "Special topics offerings of current interest in tribology not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8825",
+      "courseId": "ME 8825",
+      "title": "Special Topics in Tribology",
+      "description": "Special topic offerings of current interest in tribology not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8826",
+      "courseId": "ME 8826",
+      "title": "Special Topics in Tribology",
+      "description": "Special topic offerings of current interest in tribology not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8831",
+      "courseId": "ME 8831",
+      "title": "Special Topics in Thermal Sciences",
+      "description": "Special topics offerings of current interest in thermal sciences not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8832",
+      "courseId": "ME 8832",
+      "title": "Special Topics in Thermal Sciences",
+      "description": "Special topics offerings of current interest in thermal sciences not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8833",
+      "courseId": "ME 8833",
+      "title": "Special Topics in Thermal Sciences",
+      "description": "Special topic offerings of current interest in thermal sciences not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8834",
+      "courseId": "ME 8834",
+      "title": "Special Topics in Thermal Sciences",
+      "description": "Special topic offerings of current interest in thermal sciences not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8835",
+      "courseId": "ME 8835",
+      "title": "Special Topics in Thermal Sciences",
+      "description": "Special topic offerings of current interest in thermal sciences not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8836",
+      "courseId": "ME 8836",
+      "title": "Special Topics in Thermal Sciences",
+      "description": "Special topics offerings of current interest in thermal sciences not included in regular courses,",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8841",
+      "courseId": "ME 8841",
+      "title": "Special Topics in Automation and Mechatronics",
+      "description": "Special topic offerings of current interest in automation and mechatronics not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8842",
+      "courseId": "ME 8842",
+      "title": "Special Topics in Automation and Mechatronics",
+      "description": "Special topic offerings of current interest in automation and mechatronics not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8843",
+      "courseId": "ME 8843",
+      "title": "Special Topics in Automation and Mechatronics",
+      "description": "Special topic offerings of current interest in automation and mechatronics not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8844",
+      "courseId": "ME 8844",
+      "title": "Special Topics in Automation and Mechatronics",
+      "description": "Special topic offerings of current interest in automation and mechatronics not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8845",
+      "courseId": "ME 8845",
+      "title": "Special Topics in Automation and Mechatronics",
+      "description": "Special topic offerings of current interest in automation and mechatronics not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8846",
+      "courseId": "ME 8846",
+      "title": "Special Topics in Automation and Mechatronics",
+      "description": "Special topic offerings of current interest in automation and mechatronics not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8851",
+      "courseId": "ME 8851",
+      "title": "Special Topics in Acoustics and Dynamics",
+      "description": "Special topic offerings of current interest in acoustics and dynamics not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8852",
+      "courseId": "ME 8852",
+      "title": "Special Topics in Acoustics and Dynamics",
+      "description": "Special topic offerings of current interest in acoustics and dynamics not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8853",
+      "courseId": "ME 8853",
+      "title": "Special Topics in Acoustics and Dynamics",
+      "description": "Special topic offerings of current interest in acoustics and dynamics not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8854",
+      "courseId": "ME 8854",
+      "title": "Special Topics in Acoustics and Dynamics",
+      "description": "Special topic offerings of current interest in acoustics and dynamics not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8855",
+      "courseId": "ME 8855",
+      "title": "Special Topics in Acoustics and Dynamics",
+      "description": "Special topic offerings of current interest in acoustics and dynamics not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8856",
+      "courseId": "ME 8856",
+      "title": "Special Topics in Acoustics and Dynamics",
+      "description": "Special topic offerings of current interest in acoustics and dynamics not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8861",
+      "courseId": "ME 8861",
+      "title": "Special Topics in Fluid Mechanics",
+      "description": "Special topic offerings of current interest in fluid mechanics not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8862",
+      "courseId": "ME 8862",
+      "title": "Special Topics in Fluid Mechanics",
+      "description": "Special topic offerings of current interest in fluid mechanics not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8863",
+      "courseId": "ME 8863",
+      "title": "Special Topics in Fluid Mechanics",
+      "description": "Special topic offerings of current interest in fluid mechanics not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8864",
+      "courseId": "ME 8864",
+      "title": "Special Topics in Fluid Mechanics",
+      "description": "Special topic offerings of current interest in fluid mechanics not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8865",
+      "courseId": "ME 8865",
+      "title": "Special Topics in Fluid Mechanics",
+      "description": "Special topic offerings of current interest in fluid mechanics not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8866",
+      "courseId": "ME 8866",
+      "title": "Special Topics in Fluid Mechanics",
+      "description": "Special topic offerings of current interest in fluid mechanics not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8871",
+      "courseId": "ME 8871",
+      "title": "Special Topics in Bioengineering",
+      "description": "Special topic offerings of current interest in bioengineering not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8872",
+      "courseId": "ME 8872",
+      "title": "Special Topics in Bioengineering",
+      "description": "Special topic offerings of current interest in bioengineering not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8873",
+      "courseId": "ME 8873",
+      "title": "Special Topics in Bioengineering",
+      "description": "Special topic offerings of current interest in bioengineering not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8874",
+      "courseId": "ME 8874",
+      "title": "Special Topics in Bioengineering",
+      "description": "Special topic offerings of current interest in bioengineering not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8875",
+      "courseId": "ME 8875",
+      "title": "Special Topics in Bioengineering",
+      "description": "Special topic offerings of current interest in bioengineering not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8876",
+      "courseId": "ME 8876",
+      "title": "Special Topics in Bioengineering",
+      "description": "Special topic offerings of current interest in bioengineering not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8881",
+      "courseId": "ME 8881",
+      "title": "Special Topics in Mechanics of Materials",
+      "description": "Special topic offerings of current interest in mechanics of materials not included in regular courses.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8882",
+      "courseId": "ME 8882",
+      "title": "Special Topics in Mechanics of Materials",
+      "description": "Special topic offerings of current interest in mechanics of materials not included in regular courses.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8883",
+      "courseId": "ME 8883",
+      "title": "Special Topics in Mechanics of Materials",
+      "description": "Special topic offerings of current interest in mechanics of materials not included in regular courses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8884",
+      "courseId": "ME 8884",
+      "title": "Special Topics in Mechanics of Materials",
+      "description": "Special topic offerings of current interest in mechanics of materials not included in regular courses.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8885",
+      "courseId": "ME 8885",
+      "title": "Special Topics in Mechanics of Materials",
+      "description": "Special topic offerings of current interest in mechanics of materials not included in regular courses.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8886",
+      "courseId": "ME 8886",
+      "title": "Special Topics in Mechanics of Materials",
+      "description": "Special topic offerings of current interest in mechanics of materials not included in regular courses.",
+      "creditHours": "6"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8893",
+      "courseId": "ME 8893",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8894",
+      "courseId": "ME 8894",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8901",
+      "courseId": "ME 8901",
+      "title": "Special Problems in Manufacturing",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in manufacturing.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8902",
+      "courseId": "ME 8902",
+      "title": "Special Problem in Manufacturing",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in manufacturing.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8903",
+      "courseId": "ME 8903",
+      "title": "Special Problems in Manufacturing",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in manufacturing.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8904",
+      "courseId": "ME 8904",
+      "title": "Special Problems in Manufacturing",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in manufacturing.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8905",
+      "courseId": "ME 8905",
+      "title": "Special Problems in Manufacturing",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in manufacturing.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8906",
+      "courseId": "ME 8906",
+      "title": "Special Problems in Manufacturing",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in manufacturing.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8911",
+      "courseId": "ME 8911",
+      "title": "Special Problems in Computer-aided Engineering and Design",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in computer-aided engineering and design.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8912",
+      "courseId": "ME 8912",
+      "title": "Special Problems in Computer-aided Engineering and Design",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in computer-aided engineering and design.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8913",
+      "courseId": "ME 8913",
+      "title": "Special Problems in Computer-aided Engineering and Design",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in computer-aided engineering and design.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8914",
+      "courseId": "ME 8914",
+      "title": "Special Problems in Computer-aided Engineering and Design",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in computer-aided engineering and design.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8915",
+      "courseId": "ME 8915",
+      "title": "Special Problems in Computer-aided Engineering and Design",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in computer-aided engineering and design.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8916",
+      "courseId": "ME 8916",
+      "title": "Special Problems in Computer-aided Engineering and Design",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in computer-aided engineering and design.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8921",
+      "courseId": "ME 8921",
+      "title": "Special Problems in Tribology",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in tribology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8922",
+      "courseId": "ME 8922",
+      "title": "Special Problems in Tribology",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in tribology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8923",
+      "courseId": "ME 8923",
+      "title": "Special Problems in Tribology",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in tribology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8924",
+      "courseId": "ME 8924",
+      "title": "Special Problems in Tribology",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in tribology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8925",
+      "courseId": "ME 8925",
+      "title": "Special Problems in Tribology",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in tribology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8926",
+      "courseId": "ME 8926",
+      "title": "Special Problems in Tribology",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in tribology.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8931",
+      "courseId": "ME 8931",
+      "title": "Special Problems in Thermal Sciences",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in thermal sciences.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8932",
+      "courseId": "ME 8932",
+      "title": "Special Problems in Thermal Sciences",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in thermal sciences.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8933",
+      "courseId": "ME 8933",
+      "title": "Special Problems in Thermal Sciences",
+      "description": "Individual studies and/or experimental investigation of problems of current interest in thermal sciences.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8934",
+      "courseId": "ME 8934",
+      "title": "Special Problems in Thermal Sciences",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in thermal sciences.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8935",
+      "courseId": "ME 8935",
+      "title": "Special Problems in Thermal Sciences",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in thermal sciences.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8936",
+      "courseId": "ME 8936",
+      "title": "Special Problems in Thermal Sciences",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in thermal sciences.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8941",
+      "courseId": "ME 8941",
+      "title": "Special Problems in Automation and Mechatronics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in automation and mechatronics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8942",
+      "courseId": "ME 8942",
+      "title": "Special Problems in Automation and Mechatronics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in automation and mechatronics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8943",
+      "courseId": "ME 8943",
+      "title": "Special Problems in Automation and Mechatronics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in automation and mechatronics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8944",
+      "courseId": "ME 8944",
+      "title": "Special Problems in Automation and Mechatronics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in automation and mechatronics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8945",
+      "courseId": "ME 8945",
+      "title": "Special Problems in Automation and Mechatronics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in automation and mechatronics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8946",
+      "courseId": "ME 8946",
+      "title": "Special Problems in Automation and Mechatronics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in automation and mechatronics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8951",
+      "courseId": "ME 8951",
+      "title": "Special Problems in Acoustics and Dynamics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in acoustics and dynamics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8952",
+      "courseId": "ME 8952",
+      "title": "Special Problems in Acoustics and Dynamics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in acoustics and dynamics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8953",
+      "courseId": "ME 8953",
+      "title": "Special Problems in Acoustic and Dynamics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in acoustics and dynamics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8954",
+      "courseId": "ME 8954",
+      "title": "Special Problems in Acoustics and Dynamics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in acoustics and dynamics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8955",
+      "courseId": "ME 8955",
+      "title": "Special Problems in Acoustics and Dynamics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in acoustics and dynamics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8956",
+      "courseId": "ME 8956",
+      "title": "Special Problems in Acoustics and Dynamics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in acoustics and dynamics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8961",
+      "courseId": "ME 8961",
+      "title": "Special Problems in Fluid Mechanics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in fluid mechanics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8962",
+      "courseId": "ME 8962",
+      "title": "Special Problems in Fluid Mechanics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in fluid mechanics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8963",
+      "courseId": "ME 8963",
+      "title": "Special Problems in Fluid Mechanics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in fluid mechanics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8964",
+      "courseId": "ME 8964",
+      "title": "Special Problems in Fluid Mechanics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in fluid mechanics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8965",
+      "courseId": "ME 8965",
+      "title": "Special Problems in Fluid Mechanics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in fluid mechanics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8966",
+      "courseId": "ME 8966",
+      "title": "Special Problems in Fluid Mechanics",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in fluid mechanics.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8971",
+      "courseId": "ME 8971",
+      "title": "Special Problems in Bioengineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in bioengineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8972",
+      "courseId": "ME 8972",
+      "title": "Special Problems in Bioengineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in bioengineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8973",
+      "courseId": "ME 8973",
+      "title": "Special Problems in Bioengineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in bioengineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8974",
+      "courseId": "ME 8974",
+      "title": "Special Problems in Bioengineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in bioengineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8975",
+      "courseId": "ME 8975",
+      "title": "Special Problems in Bioengineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in bioengineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8976",
+      "courseId": "ME 8976",
+      "title": "Special Problems in Bioengineering",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in bioengineering.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8981",
+      "courseId": "ME 8981",
+      "title": "Special Problems in Mechanics of Materials",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in the mechanics of materials.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8982",
+      "courseId": "ME 8982",
+      "title": "Special Problems in Mechanics of Materials",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in mechanics of materials.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8983",
+      "courseId": "ME 8983",
+      "title": "Special Problems in Mechanics of Materials",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in mechanics of materials.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8984",
+      "courseId": "ME 8984",
+      "title": "Special Problems in Mechanics of Materials",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in the mechanics of materials.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8985",
+      "courseId": "ME 8985",
+      "title": "Special Problems in Mechanics of Materials",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in the mechanics of materials.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8986",
+      "courseId": "ME 8986",
+      "title": "Special Problems in Mechanics of Materials",
+      "description": "Individual studies and/or experimental investigations of problems of current interest in the mechanics of materials.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8997",
+      "courseId": "ME 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "8998",
+      "courseId": "ME 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantships.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "ME",
+      "courseNumber": "9000",
+      "courseId": "ME 9000",
+      "title": "Doctoral Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 335,
+  "scrapedAt": "2025-08-16T02:00:44.056Z"
+}

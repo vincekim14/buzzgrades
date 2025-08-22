@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "PSYC",
+  "courseNumber": "3009",
+  "courseId": "PSYC 3009",
+  "title": "Health Psychology",
+  "description": "This course is designed to provide a broad overview of the psychological influences on health and illness in our society.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PSYC 1101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:36.934Z"
+}

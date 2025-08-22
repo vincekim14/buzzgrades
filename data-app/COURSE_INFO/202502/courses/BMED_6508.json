@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "6508",
+  "courseId": "BMED 6508",
+  "title": "BioID Masters Project I",
+  "description": "Team project to address an unmet medical need and develop an innovative solution including the engineering design document package and proof-of-concept prototyhpe.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "BMED 6501 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:36:00.396Z"
+}

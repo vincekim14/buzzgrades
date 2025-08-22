@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4470",
+  "courseId": "ECE 4470",
+  "title": "Renewable Energy Devices",
+  "description": "Students study the engineering compromises, operational physics and environmental impact of a variety of devices from solar cells, batteries, thermoelectric devices and wind generators.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3040 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:45.734Z"
+}

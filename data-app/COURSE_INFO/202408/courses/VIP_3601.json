@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "VIP",
+  "courseNumber": "3601",
+  "courseId": "VIP 3601",
+  "title": "VIP Proj Team: JR I",
+  "description": "Multidisciplinary course supporting faculty research.  Can participate multiple semesters. Students will have foundations within discipline, pursue needed knowledge/skills, make meaningful contributions, and assume technical/leadership responsibilities.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:31.665Z"
+}

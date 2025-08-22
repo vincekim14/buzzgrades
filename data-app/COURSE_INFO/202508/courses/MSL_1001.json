@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "MSL",
+  "courseNumber": "1001",
+  "courseId": "MSL 1001",
+  "title": "Leadership&amp;Personal Dev",
+  "description": "Introduces cadets to the personal challenges and compentencies that are critical for effective leadership. Cadets learn how the personal development of life skills such as critical thinking, goal setting, time management, physical fitness, and stress management relate to leadership, officership, and the Army profession. The focus is on developing basic knowledge and comprehension of Army leadership dimensions while gaining a big picture understanding of the ROTC program, its purpose in the Army, and its advantages for the student.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:48.444Z"
+}

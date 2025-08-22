@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "4314",
+  "courseId": "MGT 4314",
+  "title": "Understndg Mkts Data Sci",
+  "description": "This course applies a data science approach using network and text analytics to model and analyze how individuals and various kinds of markets behave.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 2250 Undergraduate Semester Minimum Grade of D or BMED 2400 Undergraduate Semester Minimum Grade of D or ECON 2250 Undergraduate Semester Minimum Grade of D or ISYE 3030 Undergraduate Semester Minimum Grade of D or ISYE 3770 Undergraduate Semester Minimum Grade of D or MATH 3215 Undergraduate Semester Minimum Grade of D or MATH 3670 Undergraduate Semester Minimum Grade of D or PSYC 2020 Undergraduate Semester Minimum Grade of D or PUBP 3120 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:32.926Z"
+}

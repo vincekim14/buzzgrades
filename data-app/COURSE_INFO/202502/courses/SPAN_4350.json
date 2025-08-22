@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "SPAN",
+  "courseNumber": "4350",
+  "courseId": "SPAN 4350",
+  "title": "Iberoamerican Cities",
+  "description": "This course examines the representation and development of cities in the Hispanic World.  Students develop three urban projects based on their study.  Taught in Spanish.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:07.051Z"
+}

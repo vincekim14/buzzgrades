@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "6080",
+  "courseId": "AE 6080",
+  "title": "Dynamics of Turbulence",
+  "description": "Fundamental physics of turbulent flows.  Vorticity dynamics, Kolmogorov similarity hypotheses and nonlinear interactions. Mixing and dispersion. Direct and large-eddy simulations, Reynolds stress modeling.  Advanced topics.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 6012 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:29.249Z"
+}

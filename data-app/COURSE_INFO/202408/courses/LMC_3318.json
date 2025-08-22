@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "LMC",
+  "courseNumber": "3318",
+  "courseId": "LMC 3318",
+  "title": "Biomedicine &amp; Culture",
+  "description": "Discuss the history of biology and medicine; popular representations of health, disease, and the medical establishment; and the cultural implications of medical imaging technologies.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ENGL 1102 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:32.240Z"
+}

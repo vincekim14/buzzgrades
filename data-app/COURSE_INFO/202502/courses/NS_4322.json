@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "NS",
+  "courseNumber": "4322",
+  "courseId": "NS 4322",
+  "title": "Naval Leadership II",
+  "description": "Prepares future leaders by exploring and applying a wide range of leadership and ethics tools to enhance objective, sound, and timely decision-making in the most challenging environments.  The course integrates an intellectual exploration of Western moral traditions and ethical philosophy with military leadership, core values, professional ethics, and the Uniform Code of Military Justice",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:07.804Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "AE",
+  "courseNumber": "4531",
+  "courseId": "AE 4531",
+  "title": "Aircraft Flight Dynamics",
+  "description": "Three-dimensional rigid body dynamics, aircraft equations of motion, static and dynamic stability, flight control design, introduction to aeroelastic phenomena. Students cannot receive credit for both AE 4531 and AE 3521.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "AE 3030 Undergraduate Semester Minimum Grade of D and AE 3531 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:26.818Z"
+}

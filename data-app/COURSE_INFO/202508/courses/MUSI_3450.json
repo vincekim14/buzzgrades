@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "MUSI",
+  "courseNumber": "3450",
+  "courseId": "MUSI 3450",
+  "title": "Survey-Music Technology",
+  "description": "Creative practices and technical pursuits in the inherently interdisciplinary world of music technology. Hands-on projects which explore key concepts, essential tools, and creative techniques.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:53.233Z"
+}

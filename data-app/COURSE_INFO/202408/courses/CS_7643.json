@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "7643",
+  "courseId": "CS 7643",
+  "title": "Deep Learning",
+  "description": "This course will cover theory and practice of deep learning, including neural network and structured models, optimization algorithms, and applications to perception and Artificial Intelligence.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CSE 6740 Graduate Semester Minimum Grade of D or ISYE 6740 Graduate Semester Minimum Grade of D or CS 7641 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:19.357Z"
+}

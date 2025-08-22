@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4342",
+  "courseId": "ME 4342",
+  "title": "Computational Fluid Dyn",
+  "description": "An introduction to computational fluid dynamics (CFD) in mechanical engineering. The theory and numerical techniques of CFD. Modern CFD software including grid generation and flow visualization tools will be used. Projects with complex fluid-flow systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:42:31.578Z"
+}

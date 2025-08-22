@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOL",
+  "courseNumber": "8061",
+  "courseId": "BIOL 8061",
+  "title": "Curr Research In Qbios",
+  "description": "The overall objective of the course is to enable QBioS PhD students to attend seminars on advances across all areas of the life sciences, including those by 4th year QBioS students.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:51.180Z"
+}

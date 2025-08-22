@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ID",
+  "courseNumber": "6109",
+  "courseId": "ID 6109",
+  "title": "Human Factors&amp;Ergonomics",
+  "description": "This course teaches students about the human perspective in design, research, and interactions with physical and interface products. Students learn about tools and techniques used instructional design, human-computer interaction, product design, user-centered design, and usability.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:51.221Z"
+}

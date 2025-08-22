@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "7750",
+  "courseId": "ISYE 7750",
+  "title": "Math Fnd of Machine Lrn",
+  "description": "Provides the mathematical background for two of the pillars of modern data science: linear algebra and applied probability.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:09.253Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "2340",
+  "courseId": "CS 2340",
+  "title": "Objects and Design",
+  "description": "Object-oriented programming methods for dealing with large programs.  Focus on quality processes, effective debugging techniques, and testing to assure a quality product.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1331 Undergraduate Semester Minimum Grade of C or CS 1372 Undergraduate Semester Minimum Grade of C or CS 1316 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:49.355Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CX",
+  "courseNumber": "4220",
+  "courseId": "CX 4220",
+  "title": "Intro High Perf Comp",
+  "description": "Design of algorithms and software for high performance computing platforms used in computational science and engineering. Topics include parallelism, locality, machine architectures, and programming.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1331 Undergraduate Semester Minimum Grade of C or CS 1372 Undergraduate Semester Minimum Grade of C or CS 2316 Undergraduate Semester Minimum Grade of C or CX 4010 Undergraduate Semester Minimum Grade of C or ECE 2035 Undergraduate Semester Minimum Grade of C or ECE 2036 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:37:17.592Z"
+}

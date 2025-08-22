@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECE",
+  "courseNumber": "4723",
+  "courseId": "ECE 4723",
+  "title": "Inter Capstone Design",
+  "description": "Seniors will work in teams to apply a systematic design process to real multi-disciplinary problems. Problems selected from a broad spectrum of interest areas, including biomedical, environmental, mechanical, industrial design, electrical and thermal/fluids. Projects must be based on the knowledge and skills acquired in earlier course work, and incorporate appropriate engineering standards and multiple realistic constraints. Emphasis is placed on the design process, the technical aspects of the design, and on reducing the proposed design to practice.  The course consists of faculty and guest lectures, prototyping in design studios, and a multi-disciplinary design project.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3011 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:47.426Z"
+}

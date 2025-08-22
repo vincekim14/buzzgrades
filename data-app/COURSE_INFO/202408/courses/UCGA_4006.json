@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "UCGA",
+  "courseNumber": "4006",
+  "courseId": "UCGA 4006",
+  "title": "Cross Enroll-AU Spelman",
+  "description": "CROSS ENROLL-AU SPELMAN",
+  "creditHours": "1 to 21",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:31.297Z"
+}

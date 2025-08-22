@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "EAS",
+  "courseNumber": "4205",
+  "courseId": "EAS 4205",
+  "title": "Geomorphology",
+  "description": "Overview of the mechanical, chemical, and biological processes that shape topography.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "EAS 2600 Undergraduate Semester Minimum Grade of D and PHYS 2212 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:37.323Z"
+}

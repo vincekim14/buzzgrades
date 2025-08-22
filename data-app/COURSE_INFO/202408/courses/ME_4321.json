@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ME",
+  "courseNumber": "4321",
+  "courseId": "ME 4321",
+  "title": "Refrigeration &amp; Air Cond",
+  "description": "Application of thermodynamics principles to analysis and design of refrigeration and air conditioning systems, absorption and heat-driven systems, gas-vapor mixture psychrometrics, load estimates, delivery, and control.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ME 3322 Undergraduate Semester Minimum Grade of D and ME 3345 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:49.364Z"
+}

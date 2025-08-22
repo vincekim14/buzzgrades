@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "BIOS",
+  "courseNumber": "2301",
+  "courseId": "BIOS 2301",
+  "title": "Ecology Lab",
+  "description": "The companion laboratory for BIOS 2300 (Ecology). This course stresses understanding ecological concepts through a combination of lab and field experiments, and computer simulations.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "BIOS 2300",
+  "prerequisites": "(BIOS 1107 Undergraduate Semester Minimum Grade of D and BIOS 1107L Undergraduate Semester Minimum Grade of D) or (BIOS 1207 Undergraduate Semester Minimum Grade of D and BIOS 1207L Undergraduate Semester Minimum Grade of D) or BIOL 1510 Undergraduate Semester Minimum Grade of D or BIOL 1511 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:40.873Z"
+}

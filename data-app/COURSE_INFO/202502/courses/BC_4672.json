@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BC",
+  "courseNumber": "4672",
+  "courseId": "BC 4672",
+  "title": "MEP Systems",
+  "description": "This course covers the fundamentals of mechanical, electrical, and plumbing contracting, including terminology, components, and basic design features of HVAC systems; plumbing systems; and electrical circuits and service equipment. It also encompasses the presentation of current mechanical, electrical, and plumbing drawings, specifications, and building codes.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:10.449Z"
+}

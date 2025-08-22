@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CHEM",
+  "courseNumber": "6288",
+  "courseId": "CHEM 6288",
+  "title": "Analytical Separations",
+  "description": "In-depth understanding of separation processes and the mechanisms underlying the design and development of modern separation techniques.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:39.296Z"
+}

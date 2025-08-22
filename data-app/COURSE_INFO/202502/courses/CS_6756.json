@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "6756",
+  "courseId": "CS 6756",
+  "title": "HCI Applications",
+  "description": "This course supports MS-HCI students in a semester-long team project that is research-focused and results in portfolio-ready artifacts.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:52.147Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ECE",
+  "courseNumber": "4446",
+  "courseId": "ECE 4446",
+  "title": "Audio Engineering Lab",
+  "description": "A companion laboratory to ECE 4445. Design, analysis, construction, modeling, and testing of circuits and systems pertaining to audio engineering.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3043 Undergraduate Semester Minimum Grade of C and ECE 4445 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:38.963Z"
+}

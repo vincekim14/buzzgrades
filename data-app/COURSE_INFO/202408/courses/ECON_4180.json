@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ECON",
+  "courseNumber": "4180",
+  "courseId": "ECON 4180",
+  "title": "Game Theory I",
+  "description": "Course covers static games of complete information, dynamic games of complete information, static games of incomplete information and dynamic games of incomplete information.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2106 Undergraduate Semester Minimum Grade of D or ECON 2100 Undergraduate Semester Minimum Grade of D or ECON 2101 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:50.277Z"
+}

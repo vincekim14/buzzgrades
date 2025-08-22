@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "INTA",
+  "courseNumber": "2100",
+  "courseId": "INTA 2100",
+  "title": "Great Power Relations",
+  "description": "Juxtaposes competing explanations for the patterns of conflict and cooperation among nations, illustrated by relations among the great powers of Europe and Asia during the past two centuries.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:30.653Z"
+}

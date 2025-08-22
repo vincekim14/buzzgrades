@@ -1,0 +1,881 @@
+{
+  "subject": "BC",
+  "subjectName": "Building Construction (BC)",
+  "url": "https://catalog.gatech.edu/coursesaz/bc/",
+  "courses": [
+    {
+      "subjectCode": "BC",
+      "courseNumber": "2610",
+      "courseId": "BC 2610",
+      "title": "Construction Technology I",
+      "description": "An introduction to the planning and physical development process for the construction of projects of residential and light construction scale.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "2620",
+      "courseId": "BC 2620",
+      "title": "Construction Technology II",
+      "description": "A continuation of Construction Technology I with an emphasis on large- scale and high-rise building, i.e., commercial building construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "2631",
+      "courseId": "BC 2631",
+      "title": "Introduction to Construction Management",
+      "description": "Provides an introduction to the construction industry with emphasis on exploring career opportunities in construction.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "2632",
+      "courseId": "BC 2632",
+      "title": "Construction Materials and Methods",
+      "description": "The course will cover the planning and physical development process for the construction of residential, commercial and heavy/industrial projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "2634",
+      "courseId": "BC 2634",
+      "title": "Construction Plans and Estimates",
+      "description": "Course focuses on reading and accessing project drawing information, and estimating quantities for pricing of materials, labor, subcontracts and equipment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "2636",
+      "courseId": "BC 2636",
+      "title": "Construction Safety",
+      "description": "This course introduces the core elements of an effective safety and health management system in a construction project, and describes the application of OSHA standards.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "2698",
+      "courseId": "BC 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "2699",
+      "courseId": "BC 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "3600",
+      "courseId": "BC 3600",
+      "title": "Construction Cost Management",
+      "description": "Introduction to cost principles and cost analysis of construction projects, including classification of work, quantity survey techniques, construction operation costs, and bid proposals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "3610",
+      "courseId": "BC 3610",
+      "title": "Construction Law",
+      "description": "Legal aspects of construction contracts, bonds, insurance, and bidding. Owner, architect, contractor, and subcontractor relationships.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "3620",
+      "courseId": "BC 3620",
+      "title": "Real Estate and Construction Finance and Accounting",
+      "description": "General introduction to the financing of construction and real estate development projects. Emphasis on financing requirements, activities, sources, and uses.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "3630",
+      "courseId": "BC 3630",
+      "title": "Project Management I",
+      "description": "This course will offer construction planning and management techniques for project design and construction with a focus on different scheduling methods and their use.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "3640",
+      "courseId": "BC 3640",
+      "title": "Construction Mechanics",
+      "description": "An introductory course to the evaluation of behavior of buildings, the properties of structural materials, and the behavior of load-resisting members.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4010",
+      "courseId": "BC 4010",
+      "title": "History of Construction Industry",
+      "description": "Addresses how today's construction industry is organized and its particular characteristics, how it evolved from early times and where it may be heading in the future.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4050",
+      "courseId": "BC 4050",
+      "title": "Building Information Modeling for Multi-disciplinary Integration",
+      "description": "This course introduces students to BIM and the changes it has been causing to the traditional design, planning, management, construction, facility management, and contracting practices.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4110",
+      "courseId": "BC 4110",
+      "title": "Trends & Pol For Res Dev",
+      "description": "An overview of development in the United States, current trends in residential development, and the impact of external factors on residential development.  This course is designed to help Building Construction students understand how their development impacts the social environment and quality of life of the community.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4120",
+      "courseId": "BC 4120",
+      "title": "Community Dsgn & Constr",
+      "description": "An overview of the principles of smart growth, livable communities and new urbanism and how these principles are implemented in the process from design to construction and marketing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4130",
+      "courseId": "BC 4130",
+      "title": "Intg Design Constr & Dev",
+      "description": "A study of contemporary examples of an integrated approach to design, construction and development.  Course involves real-world project analysis from multiple points of view.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4140",
+      "courseId": "BC 4140",
+      "title": "Construction Management Project",
+      "description": "This class is the application of course materials covered throughout the Certificate in Construction Management to an actual construction project with a simulated business construct.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4270",
+      "courseId": "BC 4270",
+      "title": "Sustainable Community Design and Construction",
+      "description": "An overview of the principles of smart growth, livable communities, and new urbanism and how these principles are implemented in the process from design to construction and marketing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4600",
+      "courseId": "BC 4600",
+      "title": "Project Management II",
+      "description": "This course covers practical project management, technology, and tools for this approach and the  required management skills for successful execution of projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4610",
+      "courseId": "BC 4610",
+      "title": "Value Engineering and Building Economics",
+      "description": "First part is an introduction to principles and methodology.  Second part is an introduction to economic principles and theories and how to apply the concepts and methods of building economics.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4620",
+      "courseId": "BC 4620",
+      "title": "Building Structural Analysis",
+      "description": "Emphasis being placed on the practical design and construction of structural elements.  The course includes basic design principles with a heavy emphasis on constructability and buildability.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4630",
+      "courseId": "BC 4630",
+      "title": "Senior Capstone Project",
+      "description": "A senior construction project that  includes redevelopment analysis and feasibility study, project development, and construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4640",
+      "courseId": "BC 4640",
+      "title": "Construction Marketing",
+      "description": "Methods of construction marketing and business development. Innovative computer applications, verbal skills development, professional strategies, market segmentation, and buyer behavior.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4650",
+      "courseId": "BC 4650",
+      "title": "Laboratory for Sustainable Design and Construction",
+      "description": "The goal of the laboratory is to teach students a comprehensive sustainable design and construction information system and a program of real-world, hands-on projects.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4660",
+      "courseId": "BC 4660",
+      "title": "Entrepreneurship in Construction",
+      "description": "Basics of construction business risk assessment, looking for construction opportunities, capital investment, computerized construction business, and business failures.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4672",
+      "courseId": "BC 4672",
+      "title": "Mechanical, Electrical and Plumbing Systems for Construction Managers",
+      "description": "This course covers the fundamentals of mechanical, electrical, and plumbing contracting, including terminology, components, and basic design features of HVAC systems; plumbing systems; and electrical circuits and service equipment. It also encompasses the presentation of current mechanical, electrical, and plumbing drawings, specifications, and building codes.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4680",
+      "courseId": "BC 4680",
+      "title": "Professional Internship",
+      "description": "Students work for a professional architecture/engineering/ construction company in which they learn, first-hand, about the construction industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4698",
+      "courseId": "BC 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4699",
+      "courseId": "BC 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4700",
+      "courseId": "BC 4700",
+      "title": "Construction Management",
+      "description": "An accelerated-pace course designed to provide a basic understanding of fundamental topics including planning, budgeting, estimation, scheduling, and project close out.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4710",
+      "courseId": "BC 4710",
+      "title": "Green Construction",
+      "description": "This course focuses on the means, methods, strategies, and technologies to improve the energy efficiency and performance of buildings, and to reduce the environmental impact of buildings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4720",
+      "courseId": "BC 4720",
+      "title": "Residential Construction and Property Management",
+      "description": "A course designed to orient students to the basics of apartment management and includes the business functions of marketing, leasing, and financing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4730",
+      "courseId": "BC 4730",
+      "title": "Best Practices in Multi-Family Property",
+      "description": "A course designed to provide students with a broad range of the best practices related to the management of all types of multi-family residential property.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4735",
+      "courseId": "BC 4735",
+      "title": "Real Estate Development and Construction",
+      "description": "Provides an overview of the real estate development process as it pertains to construction development including trends and current issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4801",
+      "courseId": "BC 4801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4802",
+      "courseId": "BC 4802",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4803",
+      "courseId": "BC 4803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4823",
+      "courseId": "BC 4823",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4833",
+      "courseId": "BC 4833",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4843",
+      "courseId": "BC 4843",
+      "title": "Special Topics",
+      "description": "Topics of current interest in building construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "4900",
+      "courseId": "BC 4900",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6002",
+      "courseId": "BC 6002",
+      "title": "Issues in Sustainable Construction Technology",
+      "description": "Course designed to help students achieve a basic understanding of the materials used in the commercial segments in the construction industry and how these relate to sustainable construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6004",
+      "courseId": "BC 6004",
+      "title": "Sustainable Energy in Architecture, Engineering and Construction",
+      "description": "An introductory course on sustainale energy in architecture, engineering and construction.  The goal of the course is to introduce students to fundamental concepts of sustainable sources of energy to power buildings and address the impact of these sources to applicable green building rating systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6005",
+      "courseId": "BC 6005",
+      "title": "Technology Applications in the Construction Industry",
+      "description": "Hands-on exploration of various present and Future technologies that can be applied in all stages of a facilities' lifecycle.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6006",
+      "courseId": "BC 6006",
+      "title": "Advanced Cost Management",
+      "description": "Cost management and control from early project inception to completion and applications throughout the life of a facility.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6010",
+      "courseId": "BC 6010",
+      "title": "History of Construction Industry",
+      "description": "Addresses how today's construction industry is organized and its particular characteristics, how it evolved from early times and where it may be heading in the future.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6025",
+      "courseId": "BC 6025",
+      "title": "Construction Management",
+      "description": "An accelerated paced course providing graduate students a basic understanding of fundamental topics including planning, budgeting, estimating, scheduling and project closeout.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6050",
+      "courseId": "BC 6050",
+      "title": "Building Information Modeling for Multi-disciplinary Integration",
+      "description": "This course introduces students to BIM and the changes it has been causing to the traditional design, planning, management, construction, facility management, and contracting practices. Credit will not be awarded for both BC 4050 and BC 6050.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6070",
+      "courseId": "BC 6070",
+      "title": "Construction X",
+      "description": "Course introduces the Construction 4.0 framework. It presents concepts related to cyber-physical systems and various component technologies as an innovation platform for the built environment.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6080",
+      "courseId": "BC 6080",
+      "title": "Digital Twins for the Built Environment",
+      "description": "Course introduces Digital Twin in built environment applications. Digital Twin integrate various technologies to create a living digital representation of a facility through its lifecycle.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6100",
+      "courseId": "BC 6100",
+      "title": "Professional Trends in Facility Management",
+      "description": "An introductory course covering the organizational, managerial, ethical, and legal principles for the delivery of facility management services.  Includes contracts and risk management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6125",
+      "courseId": "BC 6125",
+      "title": "Professional Internship",
+      "description": "A course in which students work for a professional architecture/engineering/construction company in which they learn, first-hand, about the construction industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6150",
+      "courseId": "BC 6150",
+      "title": "Design-Build Organization and Management",
+      "description": "Introduction to Design-Build (DB) as a project delivery system.  Provides information about the organization, the process, and the effects of DB on the industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6175",
+      "courseId": "BC 6175",
+      "title": "Real Estate Development and Construction",
+      "description": "Provides an overview of the real estate development process as it pertains to construction development including trends and current issues.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6185",
+      "courseId": "BC 6185",
+      "title": "Introduction to Construction Program Management",
+      "description": "Survey of the construction program management profession, focusing on the comprehensive management of single and multiple building programs including pre-design, design, construction and post-construction activities.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6200",
+      "courseId": "BC 6200",
+      "title": "Maintenance Management of Built Assets",
+      "description": "This course covers the processes by which a facility and its systems are serviced and maintained during the facility's life cycle.  Includes acquisition, installation, operation, maintenance, and disposal of built assets.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6250",
+      "courseId": "BC 6250",
+      "title": "Value Management for Integrated Facility Design and Construction",
+      "description": "Principles and methodology of value management analysis concepts and an examination of future values and worth criteria affecting building design, construction, furnishings, and operations performance.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6270",
+      "courseId": "BC 6270",
+      "title": "Community Design and Development",
+      "description": "An overview of the principles of smart growth, livable communities and new urbanism and how these principles are implemented in the process from design to construction and marketing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6275",
+      "courseId": "BC 6275",
+      "title": "Community Dsgn & Constr",
+      "description": "An overview of the principles of smart growth, livable communities and new urbanism and how these principles are implemented in the process from design to construction and marketing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6285",
+      "courseId": "BC 6285",
+      "title": "Management of Pre-design Phase as Owner",
+      "description": "Examination of the Program Manager's role and responsibilities as owner during the pre-design phase including feasibility, organization, financing, legal, entitlement, planning, budgeting, scheduling, and team selection.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6300",
+      "courseId": "BC 6300",
+      "title": "Safety and Environmental Issues",
+      "description": "This course covers the environmental issues related to the performance of buildings and the health and risk factors for new and existing buildings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6350",
+      "courseId": "BC 6350",
+      "title": "Design and Construction Law",
+      "description": "Overview of construction law and legal issues encountered by the construction manager including U.S. laws, general concepts and definitions, contractor relationships, and relevant case studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6370",
+      "courseId": "BC 6370",
+      "title": "Real Estate Policy, Trends, Ethics",
+      "description": "The application of market, community, and policy factors to create new development while professionally managing potential conflicts between these factors.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6375",
+      "courseId": "BC 6375",
+      "title": "Trends & Pol For Res Dev",
+      "description": "An overview of development in the United States, current trends in residential development, and the impact of governmental regulations on residential development. This course is designed to help Building Construction students understand how their development impacts the social environment and quality of life of the community.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6385",
+      "courseId": "BC 6385",
+      "title": "Management of Design Phase as Owner",
+      "description": "Examination of the Program Manager's role and responsibilities as Owner during the design phase.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6400",
+      "courseId": "BC 6400",
+      "title": "Facility Planning, Project Management, and Benchmarking",
+      "description": "This course introduces the techniques of planning project management, benchmarking, and their applications to facility management.  Includes space forecasting, scheduling and control of projects, and benchmarking studies.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6475",
+      "courseId": "BC 6475",
+      "title": "Real Estate Development Law",
+      "description": "Comprehensive overview of legal, property, and entitlement issues associated with the real estate development process.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6485",
+      "courseId": "BC 6485",
+      "title": "Management of Preconstruction Phase as Owner",
+      "description": "This course covers the management and oversight activities of the owner and program manager conducted during the pre-design and design phases of a construction project.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6500",
+      "courseId": "BC 6500",
+      "title": "Real Estate Asset and Income Property Management",
+      "description": "This course covers real estate financial management and performance topics from a decision making and strategic planning orientation for facilities management professionals.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6550",
+      "courseId": "BC 6550",
+      "title": "Design and Construction Processes for Integrated Services",
+      "description": "Offers a framework for use and application of design, contract, and performance documents for successful execution of various forms of integrated project delivery systems.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6570",
+      "courseId": "BC 6570",
+      "title": "Real Estate Development Basic Finance",
+      "description": "Comprehensive overview of the business model and financing methodology to analyze and produce new real estate development.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6575",
+      "courseId": "BC 6575",
+      "title": "Real Estate Production Finance",
+      "description": "Business model and financing process required to produce new real estate developments through an investigation of land acquisition, development and construction financial management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6585",
+      "courseId": "BC 6585",
+      "title": "Management of Construction as Owner",
+      "description": "Survey of construction management from the owner's perspective.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6600",
+      "courseId": "BC 6600",
+      "title": "Facilities Management Financial Analysis",
+      "description": "This course covers real property concepts, issues, and topics pertinent to the facility management professional.  The topics include site selection, property market analysis, legal documents, and land use control.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6650",
+      "courseId": "BC 6650",
+      "title": "Advanced Project Management",
+      "description": "A four-phased coverage of project management including organization, planning and scheduling, control, budgeting, and ending with project testing, evaluation, and termination.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6675",
+      "courseId": "BC 6675",
+      "title": "Residential Design and Construction",
+      "description": "Course will examine the application of market, community, and regulatory factors to single family housing design and construction; construction management process required for efficient delivery.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6685",
+      "courseId": "BC 6685",
+      "title": "Leadership and Communications in Design and Construction",
+      "description": "Framework and guidelines for effective leadership and communications during design and construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6700",
+      "courseId": "BC 6700",
+      "title": "Advanced Facility Management Practices",
+      "description": "Students apply specific methods and procedures from core courses to actual business situations in the facility and property management industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6731",
+      "courseId": "BC 6731",
+      "title": "Zero Energy Housing",
+      "description": "Design, analysis, operation, construction, and cost feasibility of so-called \"zero energy\" houses.  Credit not allowed for both BC 6731 and ARCH 6731.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6800",
+      "courseId": "BC 6800",
+      "title": "Facility and Property Management Capstone",
+      "description": "Designed to integrate the learning from basic topics through the use of actual case studies and situations found within the facility and property management industry.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6850",
+      "courseId": "BC 6850",
+      "title": "Building Construction and Facility Management Capstone",
+      "description": "Application of coursework covered in the Master of Science in Building Construction and Facility Management curriculum with a stimulated business construct from different perspectives: construction manager, program manager, or facility manager.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6875",
+      "courseId": "BC 6875",
+      "title": "Real Estate Development Capstone Project",
+      "description": "Formulation and exploration of a real estate development project. Topics include business plan, market analysis, site selection, regulations, finance, project delivery, design and engineering.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6910",
+      "courseId": "BC 6910",
+      "title": "Best Practices in Multi-Family Property",
+      "description": "A course designed to provide students with a broad range of the best practices related to the management of all types of multi-family residential property.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6920",
+      "courseId": "BC 6920",
+      "title": "Introduction to Residential Property Management",
+      "description": "A course designed to orient students to the basics of apartment management and includes the business functions of marketing, leasing, and financing.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6930",
+      "courseId": "BC 6930",
+      "title": "Intg Design Constr & Dev",
+      "description": "This course will focus on contemporary integrated approach to design, construction and development.  Course involves real-world project analysis from multiple points aof view. Examples to be selected from the Atlanta region.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "6975",
+      "courseId": "BC 6975",
+      "title": "The Evolution of a Deal",
+      "description": "Presentations and site visits conducted by developers to expose students to design program implementation, financial structure, and project management.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "7000",
+      "courseId": "BC 7000",
+      "title": "Master's Thesis",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "7100",
+      "courseId": "BC 7100",
+      "title": "Quantitative Methods for Construction Research",
+      "description": "Introductory course in graduate research in the building construction industry.  Covers types of research, sampling methods, and basic analysis and evaluation techniques.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "7200",
+      "courseId": "BC 7200",
+      "title": "Advanced Readings in BC in Preparation for the PhD Comprehensive Examination",
+      "description": "This course is designed around advanced readings in research and practice for PhD students working in the building construction area.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8000",
+      "courseId": "BC 8000",
+      "title": "PhD Seminar for Students with Building Construction Emphasis",
+      "description": "This is an introduction to PhD-level research in Building Construction.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8100",
+      "courseId": "BC 8100",
+      "title": "Research Methodology",
+      "description": "Research design course that teaches the basics of creating credible scientific research plans with examples from construction related research.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8803",
+      "courseId": "BC 8803",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8811",
+      "courseId": "BC 8811",
+      "title": "Special Topics",
+      "description": "Topics of current interest in building construction.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8812",
+      "courseId": "BC 8812",
+      "title": "Special Topics",
+      "description": "Topics of current interest in building construction.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8813",
+      "courseId": "BC 8813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in building construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8814",
+      "courseId": "BC 8814",
+      "title": "Special Topics",
+      "description": "Topics of current interest in building construction.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8815",
+      "courseId": "BC 8815",
+      "title": "Special Topics",
+      "description": "Topics of current interest in building construction.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8823",
+      "courseId": "BC 8823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in building construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8833",
+      "courseId": "BC 8833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in building construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8843",
+      "courseId": "BC 8843",
+      "title": "Special Topics",
+      "description": "Topics of current interest in building construction.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8901",
+      "courseId": "BC 8901",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8902",
+      "courseId": "BC 8902",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8903",
+      "courseId": "BC 8903",
+      "title": "Special Problems",
+      "description": "",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8997",
+      "courseId": "BC 8997",
+      "title": "Teaching Assistantship",
+      "description": "For graduate students holding graduate teaching assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8998",
+      "courseId": "BC 8998",
+      "title": "Research Assistantship",
+      "description": "For graduate students holding graduate research assistantship.",
+      "creditHours": "1-9"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "8999",
+      "courseId": "BC 8999",
+      "title": "Doctoral Thesis Preparation",
+      "description": "This course is designed to synthesize the knowledge and skills developed in previous research courses and apply them to the doctoral dissertation process for students in Building Construction.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "BC",
+      "courseNumber": "9000",
+      "courseId": "BC 9000",
+      "title": "Doctoral Thesis",
+      "description": "Preparation of doctoral thesis for Ph.D. in Building Construction.",
+      "creditHours": "1-12"
+    }
+  ],
+  "totalCourses": 109,
+  "scrapedAt": "2025-08-16T02:00:31.637Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "NRE",
+  "courseNumber": "4404",
+  "courseId": "NRE 4404",
+  "title": "Rad Assessment&amp;Waste Mgt",
+  "description": "Mathematical models for movement in the environment. Scenario development for release, environmental transport, and exposure. Radioactive waste disposal facilities and waste disposal technology.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "NRE 3316 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:32.948Z"
+}

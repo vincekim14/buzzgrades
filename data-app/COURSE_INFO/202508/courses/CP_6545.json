@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "CP",
+  "courseNumber": "6545",
+  "courseId": "CP 6545",
+  "title": "Climate Change Analytics",
+  "description": "This course addresses the  global problem of climate change using powerful, recently-developed tools from the fields of data science and geospatial analytics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:44.068Z"
+}

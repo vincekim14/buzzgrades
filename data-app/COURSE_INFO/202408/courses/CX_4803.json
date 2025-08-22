@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CX",
+  "courseNumber": "4803",
+  "courseId": "CX 4803",
+  "title": "Comput Found of Machine Learn",
+  "description": "Course topics will vary. This course number will be used to prototype new courses and/or offer courses on topics of timely interest. The final digit in the course number indicates the number of units offered awarded for the course.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:40.009Z"
+}

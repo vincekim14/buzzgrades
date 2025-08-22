@@ -1,0 +1,561 @@
+{
+  "subject": "CHIN",
+  "subjectName": "Chinese (CHIN)",
+  "url": "https://catalog.gatech.edu/coursesaz/chin/",
+  "courses": [
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "1001",
+      "courseId": "CHIN 1001",
+      "title": "Elementary Chinese I",
+      "description": "Introduction to listening, speaking, reading, and writing in Chinese (Mandarin) and to the culture of Chinese-speaking regions.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "1002",
+      "courseId": "CHIN 1002",
+      "title": "Elementary Chinese II",
+      "description": "Continued listening, speaking, reading, and writing in Chinese (Mandarin) with further study of the culture of Chinese-speaking regions.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "1011",
+      "courseId": "CHIN 1011",
+      "title": "Accelerated Elementary Chinese I",
+      "description": "This is the first of two courses in the basic Chinese sequence geared for heritage learners at the elementary level. The pace is approximately 30% faster than the non-accelerated course.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "1501",
+      "courseId": "CHIN 1501",
+      "title": "Chinese for Heritage Learners I",
+      "description": "For heritage students in the U.S. who have never studied Chinese formally, but who speak some Chinese without being able to read or write it. Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "1813",
+      "courseId": "CHIN 1813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "1814",
+      "courseId": "CHIN 1814",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Chinese.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "2001",
+      "courseId": "CHIN 2001",
+      "title": "Intermediate Chinese I",
+      "description": "A rapid review of grammar with continued use of listening, speaking, reading, and writing skills in Chinese (Mandarin), all with a cultural emphasis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "2002",
+      "courseId": "CHIN 2002",
+      "title": "Intermediate Chinese II",
+      "description": "This course focuses on listening, speaking, reading, and writing skills in Chinese (Mandarin) in an introduction to literature and within a cultural context.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "2011",
+      "courseId": "CHIN 2011",
+      "title": "Accelerated Intermediate Chinese I",
+      "description": "This is the first of two courses at the intermediate level in the Chinese sequence geared for heritage learners. The pace is approximately 30% faster than the non-accelerated course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "2501",
+      "courseId": "CHIN 2501",
+      "title": "Chinese For Heritage Learners II",
+      "description": "For intermediate-level heritage students in the U.S. who can communicate some in Chinese, but cannot read or write it for academic purposes. Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "2694",
+      "courseId": "CHIN 2694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Language.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "2695",
+      "courseId": "CHIN 2695",
+      "title": "Undergraduate Internship",
+      "description": "Modern Language Undergraduate Internship for credit for freshmen and sophomores, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "2698",
+      "courseId": "CHIN 2698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "2699",
+      "courseId": "CHIN 2699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "2813",
+      "courseId": "CHIN 2813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3003",
+      "courseId": "CHIN 3003",
+      "title": "Intermediate Chinese III",
+      "description": "Continued reinforcement of basic speaking, reading, and writing skills, and cultural knowledge to enhance students' communication ability in topics relating to contemporary life and Chinese society.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3004",
+      "courseId": "CHIN 3004",
+      "title": "Advanced Chinese I",
+      "description": "Continued reinforcement of intermediate speaking, reading, and writing skills, and cultural knowledge to enhance students' communication ability in topics relating to contemporary life and Chinese society.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3021",
+      "courseId": "CHIN 3021",
+      "title": "Chinese Society and Culture I",
+      "description": "Comprehension and discussion of issues in contemporary Chinese culture.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3022",
+      "courseId": "CHIN 3022",
+      "title": "Chinese Society and Culture II",
+      "description": "Comprehension and discussion of Chinese news, economic reports, political events, feature stories, and sports on television and in newspapers.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3400",
+      "courseId": "CHIN 3400",
+      "title": "China: A Cultural Odyssey",
+      "description": "Key aspects of culture and highlights of Chinese civilization: philosophy, arts and architecture, belief systems, family relationships, historical periods, social changes, technological innovation. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3401",
+      "courseId": "CHIN 3401",
+      "title": "A Kaleidoscope of Chinese Language",
+      "description": "Explores the Chinese language from multiple perspectives, examining its multifaceted and intriguing interactions with society, culture, gender, music, politics, and media. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3691",
+      "courseId": "CHIN 3691",
+      "title": "Chinese for Current Events",
+      "description": "Reading, discussion and analysis of intermediate/advanced current events texts and authentic media. Part of the intensive summer Chinese language program (LBAT). Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3692",
+      "courseId": "CHIN 3692",
+      "title": "Business Chinese",
+      "description": "Acquisition of business technology, protocols, decorum strategies and improvement of oral communication skills. Reading and writing of notes, correspondence, and reports. Part of the summer language program (LBAT). Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3693",
+      "courseId": "CHIN 3693",
+      "title": "Conversation Practicum (LBAT)",
+      "description": "Language practicum in the local community with written and oral classroom presentations.  Part of the intensive summer Chinese language program (LBAT).  Admission by application only.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3696",
+      "courseId": "CHIN 3696",
+      "title": "Economic Development and Sustainability in China",
+      "description": "Examines the world's most populous nation's assault on its environment and resources in the pursuit of rapid economic growth.  Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3813",
+      "courseId": "CHIN 3813",
+      "title": "Special Topics",
+      "description": "Permits a group of students and a professor to pursue areas of the Chinese language not extensively treated in other courses in the department.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3821",
+      "courseId": "CHIN 3821",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Chinese.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3822",
+      "courseId": "CHIN 3822",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Chinese.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3823",
+      "courseId": "CHIN 3823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "3833",
+      "courseId": "CHIN 3833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4003",
+      "courseId": "CHIN 4003",
+      "title": "Advanced Chinese II: Contemporary China",
+      "description": "Development of advanced communication abilities. Materials deal with the economic, cultural, social, and political changes in contemporary China.  Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4004",
+      "courseId": "CHIN 4004",
+      "title": "Advanced Chinese III: Contemporary China",
+      "description": "Further development of advanced communication abilities. Materials deal with the economic, cultural, social, and political changes in contemporary China.  Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4005",
+      "courseId": "CHIN 4005",
+      "title": "Advanced Chinese Grammar",
+      "description": "This course will build on students' command of Chinese grammatical structures to enhance their spoken and written performances in academic setting. Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4021",
+      "courseId": "CHIN 4021",
+      "title": "Advanced Language, Popular Music and Culture",
+      "description": "Utilizing popular songs/videos as cultural texts, this advanced language and culture course develops the students' listening, reading, writing, presentation, and web-based research in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4022",
+      "courseId": "CHIN 4022",
+      "title": "Kungfu Fiction/Pop Cul",
+      "description": "Utilizing authentic kungfu fiction texts, this advanced language and culture course develops students' listening, reading, writing, presentation, and web-based research, all in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4023",
+      "courseId": "CHIN 4023",
+      "title": "Chinese Strategy & The Art of War",
+      "description": "Using classical texts and their modern Chinese translations, this advanced language course analyzes Chinese strategic language and thought, with Western cultural comparison. Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4031",
+      "courseId": "CHIN 4031",
+      "title": "Chinese-Language Cinema: Technological, Cultural, and Urban Transformation in China",
+      "description": "Utilizing selected Chinese films as texts, this advanced Chinese course analyzes and discusses the technological, cultural, and urban transformation in China.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4032",
+      "courseId": "CHIN 4032",
+      "title": "Kungfu and Wuxia Film and Pop Culture",
+      "description": "Utilizing authentic film texts, this advanced language/culture course develops the students; listening, reading, writing, presentation, and web-based research abilities and skills in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4035",
+      "courseId": "CHIN 4035",
+      "title": "A Documentary Survey of Sino-American Interactions",
+      "description": "This course seeks to foster students' understanding of how Sino-U.S. interactions over history have shaped the perspectives of the other culture. Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4500",
+      "courseId": "CHIN 4500",
+      "title": "Advanced Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues in the Chinese-speaking world.  Intended for students who have had some study-abroad experience in China.  Conducted in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4694",
+      "courseId": "CHIN 4694",
+      "title": "Internship Assistantship",
+      "description": "Modern Language Undergraduate Internship for pay for junior and seniors, by permit only. The internship experience must be at a unit or agency approved by the School of Modern Languages.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4695",
+      "courseId": "CHIN 4695",
+      "title": "Chinese Internship",
+      "description": "Professional experience with a business/organization in which students enhance their language skills and cultural knowledge in Chinese in relation to the practical goals/objectives of the entity.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4698",
+      "courseId": "CHIN 4698",
+      "title": "Undergraduate Research Assistantship",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4699",
+      "courseId": "CHIN 4699",
+      "title": "Undergraduate Research",
+      "description": "Independent research conducted under the guidance of a faculty member.",
+      "creditHours": "1-12"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4813",
+      "courseId": "CHIN 4813",
+      "title": "Special Topics",
+      "description": "Topics of interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4823",
+      "courseId": "CHIN 4823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4833",
+      "courseId": "CHIN 4833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4901",
+      "courseId": "CHIN 4901",
+      "title": "Special Problems in Chinese",
+      "description": "Provides special instruction according to special needs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "4902",
+      "courseId": "CHIN 4902",
+      "title": "Special Problems in Chinese",
+      "description": "Provides special instruction according to special needs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6003",
+      "courseId": "CHIN 6003",
+      "title": "Contemporary China I",
+      "description": "Development of advanced communication abilities. Materials deal with the economic, cultural, social, and political changes in contemporary China. Taught in Chinese. The first in the sequence.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6021",
+      "courseId": "CHIN 6021",
+      "title": "Chinese Popular Culture",
+      "description": "Utilizing popular songs/videos as cultural texts, this advanced language and culture course develops the students' listening, reading, writing, presentation, and web-based research in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6022",
+      "courseId": "CHIN 6022",
+      "title": "Martial Arts Fiction",
+      "description": "Utilizing authentic martial arts fiction texts, this advanced language and culture course develops the students' listening, reading, writing, presentation, and web-based research in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6023",
+      "courseId": "CHIN 6023",
+      "title": "Art of War and Thirty-Six Stratagems",
+      "description": "This advanced Chinese language and culture course analyzes traditional & modern Chinese culture via Sunzi Art of War and The Thirty-Six Stratagems. Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6031",
+      "courseId": "CHIN 6031",
+      "title": "Chinese Cinema and Media",
+      "description": "Chinese films and media serve as authentic texts to enhance students' language-learning skills and knowledge in Chinese culture, philosophy, history, and society. Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6032",
+      "courseId": "CHIN 6032",
+      "title": "Kungfu and Wuxia Film and Pop Culture",
+      "description": "Utilizing authentic film texts, this advanced language/culture course develops the students’ listening, reading, writing, presentation, and web-based research abilities and skills in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6252",
+      "courseId": "CHIN 6252",
+      "title": "Chinese Domestic Internship",
+      "description": "Students complete domestic internships.  Conducted in Chinese.  Online course.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6500",
+      "courseId": "CHIN 6500",
+      "title": "Intercultural Seminar",
+      "description": "Integrates cross-cultural research and reflection into discussion of current issues in China. Taught in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6503",
+      "courseId": "CHIN 6503",
+      "title": "Professional Portfolio Development",
+      "description": "Preparation of a professional portfolio connecting experiences and coursework in the MS program towards career preparation. Conducted in Chinese.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6510",
+      "courseId": "CHIN 6510",
+      "title": "Applied Language Practicum",
+      "description": "Students will serve as researchers, student aides and apprentice instructors for any 3/4000-level undergraduate course approved by their adviser and the course.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6511",
+      "courseId": "CHIN 6511",
+      "title": "Applied Language Practicum Abroad",
+      "description": "Students serve as researchers and apprentice instructors in the LBAT or other faculty-led overseas language immersion program of the School of Modern Languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6695",
+      "courseId": "CHIN 6695",
+      "title": "Chinese Internship Abroad",
+      "description": "Students complete internships abroad in China. Conducted in Chinese. Online course.",
+      "creditHours": "1-3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6696",
+      "courseId": "CHIN 6696",
+      "title": "Chinese Internship Abroad",
+      "description": "Students complete internships abroad in a Spanish-speaking country. Conducted in Spanish. Online course. 6 credits.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "6998",
+      "courseId": "CHIN 6998",
+      "title": "Master’s Project",
+      "description": "Optional project course taught in Chinese.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "7000",
+      "courseId": "CHIN 7000",
+      "title": "Master's Thesis",
+      "description": "Optional thesis course.",
+      "creditHours": "1-6"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "8803",
+      "courseId": "CHIN 8803",
+      "title": "Special Topics",
+      "description": "Topics of current interest not covered in the regular course offerings.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "8804",
+      "courseId": "CHIN 8804",
+      "title": "Special Topics",
+      "description": "Special Topics in Chinese.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "8901",
+      "courseId": "CHIN 8901",
+      "title": "Special Problems in Chinese",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "8902",
+      "courseId": "CHIN 8902",
+      "title": "Special Problems in Chinese",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    },
+    {
+      "subjectCode": "CHIN",
+      "courseNumber": "8903",
+      "courseId": "CHIN 8903",
+      "title": "Special Problems in Chinese",
+      "description": "Provides the special instruction required under special programs.",
+      "creditHours": "1-21"
+    }
+  ],
+  "totalCourses": 69,
+  "scrapedAt": "2025-08-16T02:00:34.110Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MSE",
+  "courseNumber": "3015",
+  "courseId": "MSE 3015",
+  "title": "Elec,Optical&amp;Magnet Prop",
+  "description": "Introduction to quantum mechanics and the band theory of solids to describe semiconducting, superconducting, dielectric, optical, and magnetic properties of nano- and micro-structured materials.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2001 Undergraduate Semester Minimum Grade of D and PHYS 2212 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:56.192Z"
+}

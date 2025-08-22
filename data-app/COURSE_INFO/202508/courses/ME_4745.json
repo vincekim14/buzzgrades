@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ME",
+  "courseNumber": "4745",
+  "courseId": "ME 4745",
+  "title": "Enginee Intrapreneurship",
+  "description": "This course teaches engineering-based Intrapreneurship skills and principles, benefiting students pursuing careers within engineering and innovation driven companies and how to create corporate start-ups.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "COE 2001 Undergraduate Semester Minimum Grade of D or CHBE 2100 Undergraduate Semester Minimum Grade of D or ECE 2031 Undergraduate Semester Minimum Grade of D or ISYE 2027 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:23.729Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "MATH",
+  "courseNumber": "6701",
+  "courseId": "MATH 6701",
+  "title": "Math Meth-Appli Sci I",
+  "description": "Review of linear algebra and ordinary differential equations, brief introduction to functions of a complex variable.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MATH 2403 Undergraduate Semester Minimum Grade of D and (MATH 2406 Undergraduate Semester Minimum Grade of D or MATH 4305 Undergraduate Semester Minimum Grade of D)",
+  "lastUpdated": "2025-08-20T02:42:38.143Z"
+}

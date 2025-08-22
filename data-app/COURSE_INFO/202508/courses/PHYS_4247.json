@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "PHYS",
+  "courseNumber": "4247",
+  "courseId": "PHYS 4247",
+  "title": "Cosmology and Galaxies",
+  "description": "Modern cosmology of the universe, with the emphasis on the origin and evolution of galaxies and clusters of galaxies, inflation, the cosmic microwave background, dark matter and dark energy.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 3201 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:44:21.294Z"
+}

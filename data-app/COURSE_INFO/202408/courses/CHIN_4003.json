@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CHIN",
+  "courseNumber": "4003",
+  "courseId": "CHIN 4003",
+  "title": "Advanced Chinese II",
+  "description": "Development of advanced communication abilities. Materials deal with the economic, cultural, social, and political changes in contemporary China.  Taught in Chinese.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:06.453Z"
+}

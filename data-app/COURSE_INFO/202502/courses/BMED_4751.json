@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "BMED",
+  "courseNumber": "4751",
+  "courseId": "BMED 4751",
+  "title": "Intro to Biomaterials",
+  "description": "Introduction to different classes of biomaterials (polymers, metals, ceramics) and physiological responses to biomaterial implantation. Topics include material properties, host response, and biomaterial characterization techniques. Crosslisted with MSE 4751.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MSE 2001 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:35:57.577Z"
+}

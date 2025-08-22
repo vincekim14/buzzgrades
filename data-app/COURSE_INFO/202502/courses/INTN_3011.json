@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "INTN",
+  "courseNumber": "3011",
+  "courseId": "INTN 3011",
+  "title": "Intl Intern Exp",
+  "description": "Undergradute interns working outside the United States.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:48.566Z"
+}

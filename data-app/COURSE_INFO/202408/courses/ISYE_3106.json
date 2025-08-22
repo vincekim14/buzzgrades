@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ISYE",
+  "courseNumber": "3106",
+  "courseId": "ISYE 3106",
+  "title": "Cornerstone Design",
+  "description": "Structure a complex problem through information gathering, data analysis, industrial engineering and design principles application, project management, while working in and leading diverse teams.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ISYE 3030 Undergraduate Semester Minimum Grade of D or ISYE 3133 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:39:54.960Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "GRMN",
+  "courseNumber": "4001",
+  "courseId": "GRMN 4001",
+  "title": "Advanced German Grammar",
+  "description": "Study and practice of advanced grammatical structures for complex communicative settings. Taught in German.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:09.934Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CS",
+  "courseNumber": "6452",
+  "courseId": "CS 6452",
+  "title": "Prototyping Interact Sys",
+  "description": "Introduction to design, prototyping and implementation of systems for human-centered computing. Focuses on core concepts in computer science and implications for interactive systems.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 4452 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:38:09.711Z"
+}

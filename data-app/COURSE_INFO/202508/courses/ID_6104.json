@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "ID",
+  "courseNumber": "6104",
+  "courseId": "ID 6104",
+  "title": "Rapid Design Vis",
+  "description": "This course trains students in the basics of sketching and free hand drawing needed in the Industrial Design studio environment.",
+  "creditHours": "2",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "ID 6102 and ID 6105",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:24.394Z"
+}

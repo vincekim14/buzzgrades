@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "MGT",
+  "courseNumber": "6086",
+  "courseId": "MGT 6086",
+  "title": "Entrep Financ&amp;Pvt Equity",
+  "description": "This course provides an introduction to financial theories and tools an entrepreneur needs to start, build, and harvest a successful venture. Cases and lecture will cover business evaluation and valuation, including the venture capital and the real option approach, forecasting models, quantitative and qualitative risk measurement methodologies, financing, venture capital funds, compensation structure and exit strategies. Credit not allowed for both MGT 6086 and MGT 4072.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "MGT 6504 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:41:34.201Z"
+}

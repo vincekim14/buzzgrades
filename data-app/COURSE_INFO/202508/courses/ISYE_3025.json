@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "ISYE",
+  "courseNumber": "3025",
+  "courseId": "ISYE 3025",
+  "title": "Engineering Economy",
+  "description": "Introduction to engineering economic decision making, economic decision criteria, discounted cash flow, replacement and timing decisions, risk, depreciation, and income tax.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:53.685Z"
+}

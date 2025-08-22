@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "4300",
+  "courseId": "CEE 4300",
+  "title": "Environmental Engr Sys",
+  "description": "Environmental engineering issues associated with water, air, and land pollution, including risk assessment, groundwater contamination, global climate change, and sustainable technologies.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "(CHEM 1310 Undergraduate Semester Minimum Grade of D or CHEM 1211K Undergraduate Semester Minimum Grade of D or CHEM 12X1 Undergraduate Semester Minimum Grade of T) and (PHYS 2211 Undergraduate Semester Minimum Grade of D or PHYS 2231 Undergraduate Semester Minimum Grade of D) and (MATH 1502 Undergraduate Semester Minimum Grade of D or MATH 1512 Undergraduate Semester Minimum Grade of D or MATH 15X2 Undergraduate Semester Minimum Grade of T or MATH 1552 Undergraduate Semester Minimum Grade of D or MATH 1X52 Undergraduate Semester Minimum Grade of T)",
+  "lastUpdated": "2025-08-20T02:37:01.771Z"
+}

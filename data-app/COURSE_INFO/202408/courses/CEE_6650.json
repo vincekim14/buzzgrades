@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "6650",
+  "courseId": "CEE 6650",
+  "title": "Discrete Choice Modeling",
+  "description": "Theory and application of probabilistic models of selection among discrete alternatives, including multinomial and nested logit and probit. Population heterogeneity. Sampling and aggregation issues.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3770 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:33.041Z"
+}

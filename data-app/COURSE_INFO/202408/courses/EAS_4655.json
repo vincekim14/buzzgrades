@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "EAS",
+  "courseNumber": "4655",
+  "courseId": "EAS 4655",
+  "title": "Atmospheric Dynamics",
+  "description": "An introduction to the atmospheric physical and dynamic processes that control weather and climate.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PHYS 2212 Undergraduate Semester Minimum Grade of D and (MATH 2401 Undergraduate Semester Minimum Grade of D or MATH 2411 Undergraduate Semester Minimum Grade of D or MATH 24X1 Undergraduate Semester Minimum Grade of T or MATH 2551 Undergraduate Semester Minimum Grade of D or MATH 2561 Undergraduate Semester Minimum Grade of D or MATH 2X51 Undergraduate Semester Minimum Grade of T) and (MATH 2403 Undergraduate Semester Minimum Grade of D or MATH 2413 Undergraduate Semester Minimum Grade of D or MATH 24X3 Undergraduate Semester Minimum Grade of T or MATH 2552 Undergraduate Semester Minimum Grade of D or MATH 2562 Undergraduate Semester Minimum Grade of D or MATH 2X52 Undergraduate Semester Minimum Grade of T)",
+  "lastUpdated": "2025-08-20T02:38:40.035Z"
+}

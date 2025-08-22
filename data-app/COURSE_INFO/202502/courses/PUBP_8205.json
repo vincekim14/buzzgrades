@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "8205",
+  "courseId": "PUBP 8205",
+  "title": "Adv Research Methods II",
+  "description": "Building on Advanced Research Methods I, the course will cover advanced policy analysis and modeling methods, for example, panel data and nonparametric regression. Other policy research methods may be explored as time permits.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "PUBP 8200 Graduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:43:59.355Z"
+}

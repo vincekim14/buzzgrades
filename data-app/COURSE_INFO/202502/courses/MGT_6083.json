@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "MGT",
+  "courseNumber": "6083",
+  "courseId": "MGT 6083",
+  "title": "Real Estate Practicum",
+  "description": "Designed for graduate students with an interest in real estate. It consists of a one semester case study for a specific company or competitive program.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:40.210Z"
+}

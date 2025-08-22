@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "ECON",
+  "courseNumber": "4352",
+  "courseId": "ECON 4352",
+  "title": "Intl Trade Theory &amp; Pol",
+  "description": "This course will develop a theoretical framework to understand international trade. Students will examine the possibility of gains from trade, the nature of comparative advantage, the determination of the pattern of trade, the role of scale economies, imperfect competition, and factor movements. Students will examine trade policy, in particular the effects of protection (tariffs and non-tariff barriers) on prices and domestic consumer and producer economic welfare. Students will not receive credit for ECON 4350 and ECON 4352.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECON 2106 Undergraduate Semester Minimum Grade of C or ECON 3110 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:25.842Z"
+}

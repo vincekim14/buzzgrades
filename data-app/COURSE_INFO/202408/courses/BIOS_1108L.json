@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "BIOS",
+  "courseNumber": "1108L",
+  "courseId": "BIOS 1108L",
+  "title": "Organismal Biology Lab",
+  "description": "Laboratory exercises supplement the lecture material of BIOL 1108. A laboratory-based introduction to organ and organismal biology, emphasizing physiological processes, growth/development, and biodiversity from an evolutionary perspective for STEM majors and prehealth students.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "BIOS 1108",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:56.644Z"
+}

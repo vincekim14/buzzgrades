@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "KOR",
+  "courseNumber": "1001",
+  "courseId": "KOR 1001",
+  "title": "Elementary Korean I",
+  "description": "Students will be able to speak, comprehend, read and write basic Korean sentences, and they will learn fundamentals in inter-personal relationships in Korean culture.  Humanities credit awarded upon successful completion of KOR 1002 or KOR 2001.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:21.482Z"
+}

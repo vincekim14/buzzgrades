@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "CEE",
+  "courseNumber": "4610",
+  "courseId": "CEE 4610",
+  "title": "Multimodal Transport",
+  "description": "Planning, design, and operation of systems of air, rail, water, and highway facilities, including those for bicycles and pedestrians.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CEE 3000 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:37:24.977Z"
+}

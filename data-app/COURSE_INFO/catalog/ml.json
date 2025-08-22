@@ -1,0 +1,217 @@
+{
+  "subject": "ML",
+  "subjectName": "Modern Languages (ML)",
+  "url": "https://catalog.gatech.edu/coursesaz/ml/",
+  "courses": [
+    {
+      "subjectCode": "ML",
+      "courseNumber": "1803",
+      "courseId": "ML 1803",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Modern Languages, including Korean and Arabic.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "1804",
+      "courseId": "ML 1804",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Modern Languages, including Korean and Arabic.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "1813",
+      "courseId": "ML 1813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in modern languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "1814",
+      "courseId": "ML 1814",
+      "title": "Special Topics",
+      "description": "Topics of current interest in modern languages.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "1815",
+      "courseId": "ML 1815",
+      "title": "Special Topics",
+      "description": "Topics of current interest in modern languages.",
+      "creditHours": "5"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "1823",
+      "courseId": "ML 1823",
+      "title": "Special Topics",
+      "description": "Topics of current interest in modern languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "1824",
+      "courseId": "ML 1824",
+      "title": "Special Topics",
+      "description": "Topics of current interest in modern languages.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "1833",
+      "courseId": "ML 1833",
+      "title": "Special Topics",
+      "description": "Topics of current interest in modern languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "1834",
+      "courseId": "ML 1834",
+      "title": "Special Topics",
+      "description": "Topics of current interest in modern languages.",
+      "creditHours": "4"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "2500",
+      "courseId": "ML 2500",
+      "title": "Think Globally, Act Locally: An Introduction to Cross-Cultural Studies",
+      "description": "This course introduces students to literature and film from around the globe and teaches comparative literary and cultural studies analysis.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "2811",
+      "courseId": "ML 2811",
+      "title": "Special Topics",
+      "description": "Special Topics in Modern Languages.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "2813",
+      "courseId": "ML 2813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Modern Languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "3500",
+      "courseId": "ML 3500",
+      "title": "The Theory and Practice of Intercultural Communication",
+      "description": "The class introduces students to intercultural communication as a field of academic inquiry, theories of culture and communication, and the analytical dimensions of cross-cultural comparison.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "3811",
+      "courseId": "ML 3811",
+      "title": "Special Topics",
+      "description": "Special Topics in Modern Languages.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "3812",
+      "courseId": "ML 3812",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Modern Languages.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "3813",
+      "courseId": "ML 3813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Modern Languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "4505",
+      "courseId": "ML 4505",
+      "title": "Foreign Language Teaching: Theory and Practice",
+      "description": "ML 4505 introduces second-language acquisition theory and foreign language teaching methodologies. The theoretical portion is in English; the practical application is in the foreign language concentration.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "4811",
+      "courseId": "ML 4811",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "4812",
+      "courseId": "ML 4812",
+      "title": "Special Topics",
+      "description": "Special Topics.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "4813",
+      "courseId": "ML 4813",
+      "title": "Special Topics",
+      "description": "Topics of current interest in Modern Languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "6501",
+      "courseId": "ML 6501",
+      "title": "Theory and Foundations Seminar",
+      "description": "Survey of theories in Social and Intercultural Studies; Literary, Media Studies, and Critical Theory; and Linguistics, Language Application, and Technology. Taught in English.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "6503",
+      "courseId": "ML 6503",
+      "title": "Professional Portfolio Development",
+      "description": "Preparation of a professional portfolio connecting experiences and coursework in the MS program towards career preparation.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "8801",
+      "courseId": "ML 8801",
+      "title": "Special Topics",
+      "description": "",
+      "creditHours": "1"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "8802",
+      "courseId": "ML 8802",
+      "title": "Special Topics",
+      "description": "Special Topics in Modern Languages.",
+      "creditHours": "2"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "8803",
+      "courseId": "ML 8803",
+      "title": "Special Topics",
+      "description": "Special Topics in Modern languages.",
+      "creditHours": "3"
+    },
+    {
+      "subjectCode": "ML",
+      "courseNumber": "8804",
+      "courseId": "ML 8804",
+      "title": "Special Topics",
+      "description": "Special Topics in Modern languages and literature.",
+      "creditHours": "4"
+    }
+  ],
+  "totalCourses": 26,
+  "scrapedAt": "2025-08-16T02:00:45.073Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "MGT",
+  "courseNumber": "3662",
+  "courseId": "MGT 3662",
+  "title": "Mgt in Healthcare Sector",
+  "description": "An exploration of the healthcare sector in  its most comprehensive sense, analyzing the healthcare \"system\" and resulting management issues.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:47.812Z"
+}

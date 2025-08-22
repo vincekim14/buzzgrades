@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "ME",
+  "courseNumber": "4754",
+  "courseId": "ME 4754",
+  "title": "Elec Packaging Assembly",
+  "description": "The course provides hands-on instruction in electronics packaging, including assembly, reliability, thermal management, and test of next-generation microsystems.  Crosslisted with ECE and MSE 4754.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "ECE 3040 Undergraduate Semester Minimum Grade of C or ECE 3710 Undergraduate Semester Minimum Grade of D",
+  "lastUpdated": "2025-08-20T02:42:34.775Z"
+}

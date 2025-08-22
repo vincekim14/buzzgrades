@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "BMED",
+  "courseNumber": "7741",
+  "courseId": "BMED 7741",
+  "title": "Robotics Pro Prep 1",
+  "description": "Preparation for a professional career in Robotics. Local & visiting speakers. Program introduction. Technical resume preparation. GT Robotics labs & resources.",
+  "creditHours": "1",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:58.198Z"
+}

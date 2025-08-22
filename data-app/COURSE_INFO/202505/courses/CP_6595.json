@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "CP",
+  "courseNumber": "6595",
+  "courseId": "CP 6595",
+  "title": "GIS System Design &amp; Mgmt",
+  "description": "This course equips students to address a range of issues related to GIS data acquisition, database design, system configuration, and project management.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:56.087Z"
+}

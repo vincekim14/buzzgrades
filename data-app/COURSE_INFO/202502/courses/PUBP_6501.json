@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "PUBP",
+  "courseNumber": "6501",
+  "courseId": "PUBP 6501",
+  "title": "Information Policy &amp; Mgt",
+  "description": "An introduction to the role of information and knowledge in modern private and public organizations. It covers theoretical and practical aspects of information seeking, gathering and use in organizations as well as knowledge creation and its role in private and public management.  Credit not awarded for both PUBP 6501 and PUBP 4501.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:43:57.339Z"
+}

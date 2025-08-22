@@ -1,0 +1,18 @@
+{
+  "term": "202505",
+  "subjectCode": "ME",
+  "courseNumber": "1670",
+  "courseId": "ME 1670",
+  "title": "Intro to Engr Graphics",
+  "description": "Introduction to engineering graphics and visualization including sketching, line drawing, and solid modeling.  Development and interpretation of drawings and specifications for product realization.",
+  "creditHours": "0 to 3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:52.213Z"
+}

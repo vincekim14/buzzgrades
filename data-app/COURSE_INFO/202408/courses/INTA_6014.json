@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "INTA",
+  "courseNumber": "6014",
+  "courseId": "INTA 6014",
+  "title": "Scenario and Path Gaming",
+  "description": "Introduces students to the construction and presentation of formalized scenerios for international planning, and into the formulation, implementation and assessment of path games.  Credit not allowed for both INTA 6014 and INTA 4014.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:41:04.401Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CEE",
+  "courseNumber": "6443",
+  "courseId": "CEE 6443",
+  "title": "Foundation Systems",
+  "description": "Evaluation and design of foundations for civil engineering structures, including the settlement and bearing capacity of shallow spread footings, mats, and deep foundations. Footings, driven piles, bored piles, and drilled shafts analyzed using elastic continuum theory, limit plasticity, and cavity expansion solutions, supplemented with numerous case studies. Ancillary topics include axial load transfer, pile group interaction, lateral and moment loading, and pile dynamics.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:08.796Z"
+}

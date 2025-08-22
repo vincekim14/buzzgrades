@@ -1,0 +1,18 @@
+{
+  "term": "202408",
+  "subjectCode": "ID",
+  "courseNumber": "6211",
+  "courseId": "ID 6211",
+  "title": "Graduate Studio One",
+  "description": "This course introduces the design program philosophy, human-centered design and evidence-driven research from a strategic perspective. Assignments explore the technology, business, and user experience components in the design process and validate the final design with advanced usability tools and methods.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:40:51.458Z"
+}

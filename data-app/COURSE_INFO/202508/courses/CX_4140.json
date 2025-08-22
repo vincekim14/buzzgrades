@@ -1,0 +1,16 @@
+{
+  "term": "202508",
+  "subjectCode": "CX",
+  "courseNumber": "4140",
+  "courseId": "CX 4140",
+  "title": "Comp Model Algorithms",
+  "description": "Design, analysis and implementation of algorithms for modeling natural and engineered systems; algorithm experimentation, and optimization.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": "CS 1331 Undergraduate Semester Minimum Grade of C or CS 1372 Undergraduate Semester Minimum Grade of C or CS 2316 Undergraduate Semester Minimum Grade of C or CX 4010 Undergraduate Semester Minimum Grade of C or ECE 2035 Undergraduate Semester Minimum Grade of C or ECE 2036 Undergraduate Semester Minimum Grade of C",
+  "lastUpdated": "2025-08-20T02:38:09.167Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "4660",
+  "courseId": "CS 4660",
+  "title": "Educational Technology",
+  "description": "Introduction to the theory and practice of educational technology. Covers learning theory applicable to educational technology, explains major research findings. Credit not awarded for both CS 4660 and CS 6460.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:39.462Z"
+}

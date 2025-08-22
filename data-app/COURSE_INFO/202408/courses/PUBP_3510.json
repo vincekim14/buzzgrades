@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "PUBP",
+  "courseNumber": "3510",
+  "courseId": "PUBP 3510",
+  "title": "Politics and Policy",
+  "description": "Application of political science and other social science concepts and theories to current issues. Investigates several current topics in detail.",
+  "creditHours": "0",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:09.982Z"
+}

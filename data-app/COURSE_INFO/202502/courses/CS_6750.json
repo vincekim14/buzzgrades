@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "CS",
+  "courseNumber": "6750",
+  "courseId": "CS 6750",
+  "title": "Human-Computer Interact",
+  "description": "Describes the characteristics of interaction between humans and computers and demonstrates techniques for the evaluation of user-centered systems. Crosslisted with PSYC 6750.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:37:51.933Z"
+}

@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "PSYC",
+  "courseNumber": "6022",
+  "courseId": "PSYC 6022",
+  "title": "Psyc Stat for HCI",
+  "description": "Introduction to statistical methods as applied to psychological data within the HCI domain.  Credit not allowed for both PSYC 6022 and PSYC 2020.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Semester (US)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:38.775Z"
+}

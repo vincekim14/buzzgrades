@@ -1,0 +1,18 @@
+{
+  "term": "202508",
+  "subjectCode": "AE",
+  "courseNumber": "6513",
+  "courseId": "AE 6513",
+  "title": "Math Princip. Autonomy",
+  "description": "The course will introduce the students to the mathematical tools and the theory \nfor formulating and solving problems that involve high-level decision-making for controlling and planning of autonomous systems with an emphasis on aerospace applications.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Undergraduate Quarter (UG)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": "AE 6530",
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:36:03.849Z"
+}

@@ -1,0 +1,16 @@
+{
+  "term": "202408",
+  "subjectCode": "ARCH",
+  "courseNumber": "3000",
+  "courseId": "ARCH 3000",
+  "title": "REVIT",
+  "description": "Visualizing a form enhances a designer’s ability to communicate ideas.  Course will demonstrate how REVIT can facilitate the Conception of a design from various points of genesis.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:35:44.564Z"
+}

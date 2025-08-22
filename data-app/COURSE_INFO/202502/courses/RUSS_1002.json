@@ -1,0 +1,18 @@
+{
+  "term": "202502",
+  "subjectCode": "RUSS",
+  "courseNumber": "1002",
+  "courseId": "RUSS 1002",
+  "title": "Elementary Russian II",
+  "description": "Continued listening, speaking, reading, and writing in Russian with further study of the culture of Russian-speaking regions.",
+  "creditHours": "4",
+  "restrictions": [
+    "__HEADER_0__Cannot be enrolled in one of the following Levels:",
+    "__DETAIL_0__Graduate Semester (GS)",
+    "__HEADER_1__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_1__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:44:02.780Z"
+}

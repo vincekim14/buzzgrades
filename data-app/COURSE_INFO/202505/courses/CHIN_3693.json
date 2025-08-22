@@ -1,0 +1,16 @@
+{
+  "term": "202505",
+  "subjectCode": "CHIN",
+  "courseNumber": "3693",
+  "courseId": "CHIN 3693",
+  "title": "Conversation Practicum",
+  "description": "Language practicum in the local community with written and oral classroom presentations.  Part of the intensive summer Chinese language program (LBAT).  Admission by application only.",
+  "creditHours": "3",
+  "restrictions": [
+    "__HEADER_0__Must be enrolled in one of the following Campuses:",
+    "__DETAIL_0__Georgia Tech-Atlanta * (A)"
+  ],
+  "corequisites": [],
+  "prerequisites": [],
+  "lastUpdated": "2025-08-20T02:38:53.523Z"
+}
