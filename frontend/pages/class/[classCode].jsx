@@ -186,7 +186,7 @@ export default function Class({ classData, query }) {
           {(prerequisites ||
             (corequisites && corequisites.length > 0) ||
             (restrictions && restrictions.length > 0)) && (
-            <Box mb={4} position={"relative"} ml={-1}>
+            <Box mb={4} mt={2} position={"relative"} ml={-1}>
               <HStack spacing={0}>
                 <IconButton
                   pos={"relative"}
