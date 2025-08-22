@@ -26,6 +26,7 @@ const parseCourseCodesInText = (text) => {
 
 const CourseChip = ({ match }) => {
   const [courseTitle, setCourseTitle] = useState(null);
+  const [courseExists, setCourseExists] = useState(true);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
@@ -37,9 +38,13 @@ const CourseChip = ({ match }) => {
           const data = await response.json();
           const title = data.data?.oscarTitle || data.data?.class_desc;
           setCourseTitle(title?.trim());
+          setCourseExists(true);
+        } else if (response.status === 404) {
+          setCourseExists(false);
         }
       } catch (error) {
         console.error("Failed to fetch course info:", error);
+        setCourseExists(false);
       } finally {
         setLoading(false);
       }
@@ -52,6 +57,25 @@ const CourseChip = ({ match }) => {
     ? `${match.fullMatch} — ${courseTitle}`
     : match.fullMatch;
 
+  const tagContent = (
+    <Tag
+      size="sm"
+      cursor="pointer"
+      px={1.5}
+      py={0}
+      border="1px solid"
+      borderColor="#003057"
+      color="#003057"
+      bg="transparent"
+      _hover={{
+        bg: "#003057",
+        color: "white"
+      }}
+    >
+      {match.fullMatch}
+    </Tag>
+  );
+
   return (
     <Tooltip
       label={tooltipLabel}
@@ -62,33 +86,24 @@ const CourseChip = ({ match }) => {
       textAlign="center"
       whiteSpace="normal"
     >
-      <ChakraLink
-        as={NextLink}
-        href={`/class/${match.classCode}`}
-        textDecoration="none"
-        _hover={{
-          textDecoration: "none"
-        }}
-        display="inline-block"
-        mx={0.5}
-      >
-        <Tag
-          size="sm"
-          cursor="pointer"
-          px={1.5}
-          py={0}
-          border="1px solid"
-          borderColor="#003057"
-          color="#003057"
-          bg="transparent"
+      {courseExists ? (
+        <ChakraLink
+          as={NextLink}
+          href={`/class/${match.classCode}`}
+          textDecoration="none"
           _hover={{
-            bg: "#003057",
-            color: "white"
+            textDecoration: "none"
           }}
+          display="inline-block"
+          mx={0.5}
         >
-          {match.fullMatch}
-        </Tag>
-      </ChakraLink>
+          {tagContent}
+        </ChakraLink>
+      ) : (
+        <span style={{ display: "inline-block", margin: "0 2px" }}>
+          {tagContent}
+        </span>
+      )}
     </Tooltip>
   );
 };
