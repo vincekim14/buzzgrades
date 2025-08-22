@@ -11,9 +11,9 @@ export function useMDXComponents(components) {
   const chakraComponents = {
     h1: (params) => (
       <Heading
-        fontSize={["50px", "55px", "90px"]}
-        pt={20}
-        pb={10}
+        fontSize={["3xl", "4xl", "5xl"]}
+        pt={10}
+        pb={5}
         textAlign={["center", "left", "left"]}
         {...params}
       />
