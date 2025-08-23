@@ -21,6 +21,7 @@
     "@next/mdx": "^14.0.4",
     "@types/sqlite3": "^3.1.8",
     "@vercel/og": "^0.0.20",
+    "better-sqlite3": "^12.2.0",
     "discord-webhook-node": "^1.1.8",
     "framer-motion": "^6",
     "lodash": "^4.17.21",

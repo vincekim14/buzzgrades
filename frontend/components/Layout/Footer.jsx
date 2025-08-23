@@ -33,7 +33,7 @@ const ContributorGroup = () => {
     <VStack spacing={0} mb={-4} mt={5}>
       <Wrap spacing={10} overflow={"visible"} justify={"center"} mb={4}>
         {contributors.map((c) => (
-            <WrapItem>
+            <WrapItem key={c.login}>
               <VStack
                 boxShadow={"0px 0px 8px rgba(0, 48, 87, 0.1)"}
                 backgroundColor={"rgba(255,255,255,0.4)"}
