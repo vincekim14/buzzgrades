@@ -21,7 +21,7 @@ const ContributorGroup = () => {
     {
       login: "vincekim14",
       name: "Donghyun (Vince) Kim",
-      // role: "Website Lead",
+      role: "Website Lead",
       avatar_url: "/images/vincekimpicture.png",
       linkedin: "https://www.linkedin.com/in/vince-kim-profile/",
       // website: "https://google.com",
