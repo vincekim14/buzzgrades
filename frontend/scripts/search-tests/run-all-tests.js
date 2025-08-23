@@ -16,7 +16,8 @@ console.log("🧪 Running Enhanced Search System Test Suite\n");
 
 const testFiles = [
   "test-db-queries.js",
-  "test-fts5-comprehensive.js", 
+  "test-fts5-comprehensive.js",
+  "test-fts5-usage-comprehensive.js", // NEW: Validates FTS5 optimization (73%+ usage)
   "test-bm25-ranking.js",
   "test-caching.js",
   "test-fuzzy-reranking.js",
