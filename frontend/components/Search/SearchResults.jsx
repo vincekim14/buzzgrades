@@ -30,9 +30,35 @@ const isLikelyDepartment = (term, searchResults) => {
     'ENGL', 'HIST', 'ISYE', 'PSYC', 'MUSI', 'ECE', 'CS', 'ME', 'AE', 'CEE', 
     'MSE', 'NRE', 'CHBE', 'POL', 'PUBP', 'INTA', 'LMC', 'MGT'
   ];
+
+  // Common GT department names
+  const commonDeptNames = [
+    'Mathematics',
+    'Chemistry',
+    'Physics',
+    'Biology',
+    'Biomedical Engineering',
+    'Accounting',
+    'Architecture',
+    'Economics',
+    'English',
+    'History',
+    'Industrial and Systems Engineering',
+    'Psychology',
+    'Music',
+    'Electrical and Computer Engineering',
+    'Computer Science',
+    'Mechanical Engineering',
+    'Aerospace Engineering',
+    'Civil Engineering',
+    'Materials Science and Engineering',
+    'Neuroscience',
+    'Chemical and Biomolecular Engineering',
+  ];
   
   // Direct department match
   if (commonDepts.includes(cleaned)) return true;
+  if (commonDeptNames.includes(cleaned)) return true;
   
   // Partial match that could be department (2-6 chars, letters only)
   if (cleaned.match(/^[A-Z]{2,6}$/)) {
