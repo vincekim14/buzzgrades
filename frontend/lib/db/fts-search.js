@@ -59,11 +59,11 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
       
       // Use FTS5 MATCH for better performance with new structure
       const hasLetterSuffix = courseNum && /[0-9]+[A-Z]$/i.test(courseNum);
-      const isPureDeptSearch = !courseNum; // Empty courseNum = pure department search
+      const isDeptOnlySearch = !courseNum; // Empty courseNum = pure department search
       
       const whereClause = hasLetterSuffix 
         ? `courses_fts MATCH '"${effectiveDept + courseNum}"'`
-        : isPureDeptSearch
+        : isDeptOnlySearch
           ? `courses_fts MATCH '${effectiveDept}*' AND cf.department = '${effectiveDept}'`
           : `courses_fts MATCH '${effectiveDept + courseNum}*'`;
       
@@ -80,22 +80,42 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
       
       // Context-aware instructor search: specific course vs department search
       const isSpecificCourse = courseNum && courseNum.length >= 3; // "1331" vs "13" or ""
-      const instructorWhereClause = isSpecificCourse 
-        ? `c.dept_abbr = '${effectiveDept}' AND c.course_num = '${courseNum}' AND p.name IS NOT NULL AND p.name != ''`
-        : `c.dept_abbr = '${effectiveDept}' AND p.name IS NOT NULL AND p.name != ''`;
+      const isPureDeptSearch = !courseNum; // Empty courseNum = pure department search
       
-      const instructorSQL = `
-        SELECT DISTINCT
-          p.id as instructor_id, p.name as instructor_name, p.RMP_score, 500 as relevance_score
-        FROM professor p
-        JOIN distribution d ON p.id = d.instructor_id
-        JOIN classdistribution c ON d.class_id = c.id
-        WHERE ${instructorWhereClause}
-        LIMIT 7
-      `;
+      let instructorSQL;
+      if (isPureDeptSearch) {
+        // For pure department searches like "chem", limit to top instructors
+        instructorSQL = `
+          SELECT DISTINCT
+            p.id as instructor_id, p.name as instructor_name, p.RMP_score, 400 as relevance_score,
+            COUNT(DISTINCT c.id) as course_count
+          FROM professor p
+          JOIN distribution d ON p.id = d.instructor_id
+          JOIN classdistribution c ON d.class_id = c.id
+          WHERE c.dept_abbr = '${effectiveDept}' AND p.name IS NOT NULL AND p.name != ''
+          GROUP BY p.id
+          ORDER BY course_count DESC, p.RMP_score DESC
+          LIMIT 4
+        `;
+      } else {
+        // For specific courses, show all relevant instructors
+        const instructorWhereClause = isSpecificCourse 
+          ? `c.dept_abbr = '${effectiveDept}' AND c.course_num = '${courseNum}' AND p.name IS NOT NULL AND p.name != ''`
+          : `c.dept_abbr = '${effectiveDept}' AND p.name IS NOT NULL AND p.name != ''`;
+        
+        instructorSQL = `
+          SELECT DISTINCT
+            p.id as instructor_id, p.name as instructor_name, p.RMP_score, 500 as relevance_score
+          FROM professor p
+          JOIN distribution d ON p.id = d.instructor_id
+          JOIN classdistribution c ON d.class_id = c.id
+          WHERE ${instructorWhereClause}
+          LIMIT 7
+        `;
+      }
       
       const deptSQL = `
-        SELECT DISTINCT dept_name, dept_abbr, 800 as relevance_score
+        SELECT DISTINCT dept_name, dept_abbr, 1200 as relevance_score
         FROM departments_fts WHERE departments_fts MATCH '${effectiveDept}*'
         LIMIT 7
       `;

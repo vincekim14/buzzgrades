@@ -7,9 +7,9 @@ export const getDistribution = async (classCode) => {
              students,
              term,
              grades,
-             instructor_id,
-             name      as professor_name,
-             RMP_score as professor_RMP_score
+             d.instructor_id as professor_id,
+             name            as professor_name,
+             RMP_score       as professor_RMP_score
       FROM classdistribution
                LEFT JOIN distribution d on classdistribution.id = d.class_id
                LEFT JOIN termdistribution t on d.id = t.dist_id
@@ -23,7 +23,7 @@ export const getDistribution = async (classCode) => {
 
   const rows = await promisedQuery(sql, params);
 
-  return summarizeTerms(groupBy(rows.map(row => parseJSONFromRow(row, tryJSONParse)), "instructor_id"));
+  return summarizeTerms(groupBy(rows.map(row => parseJSONFromRow(row, tryJSONParse)), "professor_id"));
 };
 
 export const getClassInfo = async (classCode) => {

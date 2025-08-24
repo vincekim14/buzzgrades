@@ -1,4 +1,4 @@
-import { getInstructorClasses, getInstructorInfo } from "../../../lib/db";
+import { getInstructorClasses, getInstructorInfo } from "../../../lib/db/index.js";
 
 export default async function handler(req, res) {
   if (!req.query.profCode) {

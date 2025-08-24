@@ -18,7 +18,7 @@ import { ChevronDownIcon, ChevronRightIcon } from "@chakra-ui/icons";
 import NextLink from "next/link";
 import PageLayout from "../../components/Layout/PageLayout";
 import SearchBar from "../../components/Search/SearchBar";
-import { getClassInfo, getDistribution } from "../../lib/db";
+import { getClassInfo, getDistribution } from "../../lib/db/index.js";
 import { distributionsToCards } from "../../components/distributionsToCards";
 import { useSearch } from "../../components/Search/useSearch";
 import SearchResults from "../../components/Search/SearchResults";

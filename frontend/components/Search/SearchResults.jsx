@@ -16,6 +16,35 @@ const parseCourseCode = (className) => {
   return { subject: className, number: 0 };
 };
 
+// Helper function to detect if search term is likely a department query
+const isLikelyDepartment = (term, searchResults) => {
+  const cleaned = term?.trim().toUpperCase();
+  if (!cleaned) return false;
+  
+  // Must have department results to be dept search
+  if (!searchResults?.data?.departments?.length) return false;
+  
+  // Common GT department abbreviations
+  const commonDepts = [
+    'MATH', 'CHEM', 'PHYS', 'BIOL', 'BIOS', 'BMED', 'ACCT', 'ARCH', 'ECON', 
+    'ENGL', 'HIST', 'ISYE', 'PSYC', 'MUSI', 'ECE', 'CS', 'ME', 'AE', 'CEE', 
+    'MSE', 'NRE', 'CHBE', 'POL', 'PUBP', 'INTA', 'LMC', 'MGT'
+  ];
+  
+  // Direct department match
+  if (commonDepts.includes(cleaned)) return true;
+  
+  // Partial match that could be department (2-6 chars, letters only)
+  if (cleaned.match(/^[A-Z]{2,6}$/)) {
+    // Check if any department starts with this pattern
+    return searchResults.data.departments.some(dept => 
+      dept.dept_abbr?.toUpperCase().startsWith(cleaned)
+    );
+  }
+  
+  return false;
+};
+
 // Helper function to detect if search term is likely a person's name
 const isLikelyName = (term, searchResults) => {
   const cleaned = term?.trim().toLowerCase();
@@ -27,17 +56,25 @@ const isLikelyName = (term, searchResults) => {
   // Pattern: 2-15 chars, letters/spaces only
   if (!cleaned.match(/^[a-z\s]{2,15}$/i)) return false;
   
-  // Exclude obvious academic terms
+  // Exclude obvious academic terms and department codes
   const academicTerms = ['algorithms', 'calculus', 'physics', 'chemistry', 
                         'biology', 'programming', 'mathematics', 'statistics',
                         'linear', 'discrete', 'organic', 'general'];
   if (academicTerms.includes(cleaned)) return false;
+  
+  // Exclude if it looks like a department code
+  if (isLikelyDepartment(term, searchResults)) return false;
   
   return true;
 };
 
 // Helper function to determine optimal component ordering based on search context
 const getComponentOrder = (searchResults, searchTerm) => {
+  // Department search: Show departments first
+  if (isLikelyDepartment(searchTerm, searchResults)) {
+    return [Departments, Classes, Professors];
+  }
+  
   // Name search: Show professors first
   if (isLikelyName(searchTerm, searchResults)) {
     return [Professors, Classes, Departments];
