@@ -1,15 +1,17 @@
-import sqlite3 from "sqlite3";
-const { Database, OPEN_READONLY } = sqlite3;
+import Database from "better-sqlite3";
 import path from "path";
 import fs from "fs";
-// get the database from the root of the repo
+
+// Get the database from the root of the repo
 const dbPath = path.resolve(process.cwd(), "../data-app/ProcessedData.db");
 const cumulativeJsonPath = path.resolve(
   process.cwd(),
   "../data-app/COURSE_INFO/cumulative.json"
 );
 
-const db = new Database(dbPath, OPEN_READONLY);
+// Initialize database with better-sqlite3
+const db = new Database(dbPath, { readonly: true, fileMustExist: true });
+//change true to false readonly when updating the database
 
 let cumulativeCourseData = null;
 let cumulativeDataLoadTime = null;
@@ -94,6 +96,80 @@ const tryJSONParse = (str, err) => {
   }
 };
 
+// GPA mapping for GT letter grades (no plus/minus at GT)
+const GPA_MAP = {
+  A: 4.0,
+  B: 3.0,
+  C: 2.0,
+  D: 1.0,
+  F: 0.0,
+};
+
+// Reusable function to calculate aggregate statistics from grades
+const calculateAggregateStats = (allGrades) => {
+  if (!allGrades || !Array.isArray(allGrades)) {
+    return { averageGPA: 0, mostStudents: "", mostStudentsPercent: 0 };
+  }
+
+  const combinedGrades = {};
+  let totalStudents = 0;
+
+  // Process each grade distribution
+  allGrades.forEach((gradeData) => {
+    if (gradeData && typeof gradeData === "object") {
+      Object.entries(gradeData).forEach(([grade, count]) => {
+        if (typeof count === "number") {
+          combinedGrades[grade] = (combinedGrades[grade] || 0) + count;
+          totalStudents += count;
+        }
+      });
+    }
+  });
+
+  if (totalStudents === 0) {
+    return { averageGPA: 0, mostStudents: "", mostStudentsPercent: 0 };
+  }
+
+  // Calculate average GPA
+  const impactingGrades = Object.entries(combinedGrades).filter(([grade]) =>
+    Object.keys(GPA_MAP).includes(grade)
+  );
+
+  const totalImpactingStudents = impactingGrades.reduce(
+    (acc, [, count]) => acc + count,
+    0
+  );
+
+  let averageGPA = 0;
+  if (totalImpactingStudents > 0) {
+    averageGPA = parseFloat(
+      (
+        impactingGrades.reduce(
+          (acc, [grade, count]) => acc + GPA_MAP[grade] * count,
+          0
+        ) / totalImpactingStudents
+      ).toFixed(2)
+    );
+  }
+
+  // Find most common grade
+  const mostCommonEntry = Object.entries(combinedGrades).reduce(
+    (acc, [grade, count]) => (count > acc[1] ? [grade, count] : acc),
+    ["", 0]
+  );
+
+  const mostStudents = mostCommonEntry[0];
+  const mostStudentsPercent = parseFloat(
+    ((100 * mostCommonEntry[1]) / totalStudents).toFixed(1)
+  );
+
+  return {
+    averageGPA,
+    mostStudents,
+    mostStudentsPercent,
+  };
+};
+
 const parseJSONFromRow = (row) => {
   const newRow = { ...row };
   if (row.grades) newRow.grades = tryJSONParse(row.grades);
@@ -140,16 +216,19 @@ const summarizeTerms = (groupedDistributions) => {
   });
 };
 
-const promisedQuery = (query, params) => {
-  return new Promise((resolve, reject) => {
-    db.all(query, params, (err, rows) => {
-      if (err) {
-        reject(err);
-      } else {
-        resolve(rows);
-      }
-    });
-  });
+// Better-sqlite3 is synchronous, but we'll wrap in Promise for API compatibility
+const promisedQuery = (query, params = {}) => {
+  try {
+    const stmt = db.prepare(query);
+    // Handle both array and object parameters for better-sqlite3
+    if (Array.isArray(params)) {
+      return Promise.resolve(stmt.all(...params));
+    } else {
+      return Promise.resolve(stmt.all(params));
+    }
+  } catch (error) {
+    return Promise.reject(error);
+  }
 };
 
 export const getDistribution = async (classCode) => {
@@ -164,12 +243,12 @@ export const getDistribution = async (classCode) => {
       FROM classdistribution
                LEFT JOIN distribution d on classdistribution.id = d.class_id
                LEFT JOIN termdistribution t on d.id = t.dist_id
-               LEFT JOIN professor p on d.professor_id = p.id
+               LEFT JOIN professor p on d.instructor_id = p.id
       WHERE 
-        classdistribution.dept_abbr || course_num = REPLACE($class_name, ' ', '')`;
+        classdistribution.dept_abbr || course_num = REPLACE(@class_name, ' ', '')`;
 
   const params = {
-    $class_name: classCode,
+    class_name: classCode,
   };
 
   const rows = await promisedQuery(sql, params);
@@ -188,10 +267,10 @@ export const getClassInfo = async (classCode) => {
                                    LEFT JOIN libEd l ON lat.left_id = l.id
                           GROUP BY right_id) libEds on classdistribution.id = libEds.right_id
       WHERE 
-      classdistribution.dept_abbr || course_num = REPLACE($class_name, ' ', '')`;
+      classdistribution.dept_abbr || course_num = REPLACE(@class_name, ' ', '')`;
 
   const params = {
-    $class_name: classCode,
+    class_name: classCode,
   };
 
   const rows = await promisedQuery(sql, params);
@@ -265,11 +344,11 @@ export const getDeptInfo = async (deptCode) => {
   const sql = `
       SELECT *
       FROM departmentdistribution
-      WHERE dept_abbr = $dept_code
+      WHERE dept_abbr = @dept_code
       `;
 
   const params = {
-    $dept_code: deptCode.toUpperCase(),
+    dept_code: deptCode.toUpperCase(),
   };
 
   const rows = await promisedQuery(sql, params);
@@ -284,12 +363,12 @@ export const getClassDistribtionsInDept = async (deptCode) => {
         LEFT JOIN classdistribution on classdistribution.dept_abbr = departmentdistribution.dept_abbr AND
         classdistribution.campus = departmentdistribution.campus
       WHERE
-        classdistribution.dept_abbr = $dept_code
+        classdistribution.dept_abbr = @dept_code
       ORDER BY course_num ASC
   `;
 
   const params = {
-    $dept_code: deptCode.toUpperCase(),
+    dept_code: deptCode.toUpperCase(),
   };
 
   const rows = await promisedQuery(sql, params);
@@ -317,10 +396,10 @@ export const getInstructorInfo = async (instructorId) => {
   const sql = `
       SELECT *
       FROM professor
-      WHERE id = $instructor_id`;
+      WHERE id = @instructor_id`;
 
   const params = {
-    $instructor_id: instructorId,
+    instructor_id: instructorId,
   };
 
   const rows = await promisedQuery(sql, params);
@@ -332,15 +411,15 @@ export const getInstructorClasses = async (instructorId) => {
   const sql = `
       SELECT *
       FROM professor
-               LEFT JOIN distribution d on professor.id = d.professor_id
+               LEFT JOIN distribution d on professor.id = d.instructor_id
                LEFT JOIN termdistribution t on d.id = t.dist_id
                LEFT JOIN classdistribution c on d.class_id = c.id
-      WHERE professor.id = $instructor_id
+      WHERE professor.id = @instructor_id
 
       `;
 
   const params = {
-    $instructor_id: instructorId,
+    instructor_id: instructorId,
   };
 
   const rows = await promisedQuery(sql, params);
@@ -370,8 +449,8 @@ export const getSearch = async (search) => {
       FROM classdistribution
       WHERE 
         (
-          dept_abbr || course_num LIKE $search
-          OR REPLACE(class_desc, ' ', '') LIKE $search
+          dept_abbr || course_num LIKE @search
+          OR REPLACE(class_desc, ' ', '') LIKE @search
         )
       ORDER BY total_students DESC
       LIMIT 10`;
@@ -380,14 +459,14 @@ export const getSearch = async (search) => {
       SELECT p.*, 
         json_group_array(CASE WHEN td.grades IS NOT NULL THEN td.grades END) as all_grades
       FROM professor p
-      LEFT JOIN distribution d ON p.id = d.professor_id
+      LEFT JOIN distribution d ON p.id = d.instructor_id
       LEFT JOIN termdistribution td ON d.id = td.dist_id
       WHERE 
-        REPLACE(p.name, ' ', '') LIKE $search AND
+        REPLACE(p.name, ' ', '') LIKE @search AND
         EXISTS (
           SELECT 1
           FROM distribution d2, classdistribution c
-          WHERE d2.professor_id = p.id AND d2.class_id = c.id
+          WHERE d2.instructor_id = p.id AND d2.class_id = c.id
         )
       GROUP BY p.id
       ORDER BY p.RMP_score DESC
@@ -399,87 +478,14 @@ export const getSearch = async (search) => {
       FROM departmentdistribution dd
       LEFT JOIN classdistribution cd ON dd.dept_abbr = cd.dept_abbr AND dd.campus = cd.campus
       WHERE 
-        (dd.dept_name LIKE $search OR dd.dept_abbr LIKE $search)
+        (dd.dept_name LIKE @search OR dd.dept_abbr LIKE @search)
       GROUP BY dd.campus, dd.dept_abbr
       LIMIT 10`;
 
   const params = {
-    $search: `%${search.replace(/ /g, "")}%`,
+    search: `%${search.replace(/ /g, "")}%`,
   };
 
-  // Helper function to calculate aggregate statistics from grades
-  const calculateAggregateStats = (allGrades) => {
-    if (!allGrades || !Array.isArray(allGrades)) {
-      return { averageGPA: 0, mostStudents: "", mostStudentsPercent: 0 };
-    }
-
-    const combinedGrades = {};
-    let totalStudents = 0;
-
-    // Process each grade distribution
-    allGrades.forEach((gradeData) => {
-      if (gradeData && typeof gradeData === "object") {
-        Object.entries(gradeData).forEach(([grade, count]) => {
-          if (typeof count === "number") {
-            combinedGrades[grade] = (combinedGrades[grade] || 0) + count;
-            totalStudents += count;
-          }
-        });
-      }
-    });
-
-    if (totalStudents === 0) {
-      return { averageGPA: 0, mostStudents: "", mostStudentsPercent: 0 };
-    }
-
-    // GPA mapping for GT letter grades (no plus/minus at GT)
-    const GPA_MAP = {
-      A: 4.0,
-      B: 3.0,
-      C: 2.0,
-      D: 1.0,
-      F: 0.0,
-    };
-
-    // Calculate average GPA
-    const impactingGrades = Object.entries(combinedGrades).filter(([grade]) =>
-      Object.keys(GPA_MAP).includes(grade)
-    );
-
-    const totalImpactingStudents = impactingGrades.reduce(
-      (acc, [, count]) => acc + count,
-      0
-    );
-
-    let averageGPA = 0;
-    if (totalImpactingStudents > 0) {
-      averageGPA = parseFloat(
-        (
-          impactingGrades.reduce(
-            (acc, [grade, count]) => acc + GPA_MAP[grade] * count,
-            0
-          ) / totalImpactingStudents
-        ).toFixed(2)
-      );
-    }
-
-    // Find most common grade
-    const mostCommonEntry = Object.entries(combinedGrades).reduce(
-      (acc, [grade, count]) => (count > acc[1] ? [grade, count] : acc),
-      ["", 0]
-    );
-
-    const mostStudents = mostCommonEntry[0];
-    const mostStudentsPercent = parseFloat(
-      ((100 * mostCommonEntry[1]) / totalStudents).toFixed(1)
-    );
-
-    return {
-      averageGPA,
-      mostStudents,
-      mostStudentsPercent,
-    };
-  };
 
   const departments = await promisedQuery(deptSQL, params);
   const classes = await promisedQuery(classDistSQL, params);
@@ -564,53 +570,10 @@ export const getSearch = async (search) => {
         }
       });
 
-      let stats = { averageGPA: 0, mostStudents: "", mostStudentsPercent: 0 };
-      if (totalStudents > 0) {
-        // GPA mapping for GT letter grades (no plus/minus at GT)
-        const GPA_MAP = {
-          A: 4.0,
-          B: 3.0,
-          C: 2.0,
-          D: 1.0,
-          F: 0.0,
-        };
-
-        // Calculate average GPA
-        const impactingGrades = Object.entries(combinedGrades).filter(
-          ([grade]) => Object.keys(GPA_MAP).includes(grade)
-        );
-
-        const totalImpactingStudents = impactingGrades.reduce(
-          (acc, [, count]) => acc + count,
-          0
-        );
-
-        let averageGPA = 0;
-        if (totalImpactingStudents > 0) {
-          averageGPA = parseFloat(
-            (
-              impactingGrades.reduce(
-                (acc, [grade, count]) => acc + GPA_MAP[grade] * count,
-                0
-              ) / totalImpactingStudents
-            ).toFixed(2)
-          );
-        }
-
-        // Find most common grade
-        const mostCommonEntry = Object.entries(combinedGrades).reduce(
-          (acc, [grade, count]) => (count > acc[1] ? [grade, count] : acc),
-          ["", 0]
-        );
-
-        stats = {
-          averageGPA,
-          mostStudents: mostCommonEntry[0],
-          mostStudentsPercent: parseFloat(
-            ((100 * mostCommonEntry[1]) / totalStudents).toFixed(1)
-          ),
-        };
-      }
+      // Calculate stats using reusable function
+      const stats = totalStudents > 0 
+        ? calculateAggregateStats([combinedGrades])
+        : { averageGPA: 0, mostStudents: "", mostStudentsPercent: 0 };
 
       // Calculate relevance score for sorting
       const courseTitle = courseInfo?.title || classItem.class_desc;
@@ -704,4 +667,291 @@ export const getSearch = async (search) => {
     classes: enhancedClasses,
     professors: enhancedProfessors,
   };
+};
+
+// FTS5-powered search function for improved performance and relevance
+export const getSearchFTS5 = async (search, deptFilter = null) => {
+  const searchTerm = search.trim();
+  if (searchTerm.length < 1) {
+    return { departments: [], classes: [], professors: [] };
+  }
+
+  try {
+    // Build inclusive FTS5 query - try multiple approaches to be as inclusive as possible
+    const searchTerms = searchTerm.toLowerCase().split(/\s+/).filter(term => term.length > 0);
+    
+    // Create multiple query variations for maximum inclusivity
+    const queryVariations = [
+      // 1. Exact phrase with prefix matching (most specific)
+      `"${searchTerm.replace(/"/g, '""')}"*`,
+      // 2. All terms as prefixes (less specific)
+      searchTerms.map(term => `"${term.replace(/"/g, '""')}"*`).join(' '),
+      // 3. Any terms as prefixes (most inclusive)
+      searchTerms.map(term => `"${term.replace(/"/g, '""')}"*`).join(' OR '),
+      // 4. Partial matching without quotes (fallback)
+      searchTerms.join(' OR ')
+    ];
+
+    // Try multiple query variations in order of decreasing specificity
+    let ftsClasses = [];
+    let ftsInstructors = [];  
+    let ftsDepartments = [];
+
+    for (let i = 0; i < queryVariations.length && ftsClasses.length < 15; i++) {
+      const searchParams = deptFilter 
+        ? { search_term: queryVariations[i], dept_abbr: deptFilter.toUpperCase() }
+        : { search_term: queryVariations[i] };
+
+      try {
+        // FTS5 search for courses with BM25 ranking - very inclusive limits
+        const whereClause = deptFilter 
+          ? 'WHERE courses_fts MATCH @search_term AND dept_abbr = @dept_abbr'
+          : 'WHERE courses_fts MATCH @search_term';
+          
+        const ftsCoursesSQL = `
+          SELECT DISTINCT 
+            class_id,
+            dept_name,
+            dept_abbr,
+            course_num,
+            course_title,
+            course_description,
+            total_students,
+            bm25(courses_fts) as relevance_score
+          FROM courses_fts
+          ${whereClause}
+          ORDER BY bm25(courses_fts) ASC
+          LIMIT 50
+        `;
+
+        const newClasses = await promisedQuery(ftsCoursesSQL, searchParams);
+        
+        // Add new results, avoiding duplicates
+        const existingIds = new Set(ftsClasses.map(c => c.class_id));
+        const uniqueNewClasses = newClasses.filter(c => !existingIds.has(c.class_id));
+        ftsClasses.push(...uniqueNewClasses);
+
+        // Stop if we have enough results from a more specific query
+        if (i === 0 && newClasses.length >= 20) break;
+        
+      } catch (error) {
+        console.warn(`FTS5 query variation ${i} failed:`, error);
+        continue;
+      }
+    }
+
+    // Similar inclusive approach for instructors and departments
+    for (let i = 0; i < queryVariations.length && ftsInstructors.length < 10; i++) {
+      const searchParams = deptFilter 
+        ? { search_term: queryVariations[i], dept_abbr: deptFilter.toUpperCase() }
+        : { search_term: queryVariations[i] };
+
+      try {
+        const whereClause = deptFilter 
+          ? 'WHERE courses_fts MATCH @search_term AND dept_abbr = @dept_abbr AND instructor_id IS NOT NULL AND instructor_name != \'\''
+          : 'WHERE courses_fts MATCH @search_term AND instructor_id IS NOT NULL AND instructor_name != \'\'';
+          
+        const ftsInstructorsSQL = `
+          SELECT 
+            instructor_id,
+            instructor_name,
+            total_students,
+            bm25(courses_fts) as relevance_score
+          FROM courses_fts
+          ${whereClause}
+          ORDER BY bm25(courses_fts) ASC
+          LIMIT 25
+        `;
+
+        const newInstructors = await promisedQuery(ftsInstructorsSQL, searchParams);
+        const existingIds = new Set(ftsInstructors.map(i => i.instructor_id));
+        const uniqueNewInstructors = newInstructors.filter(i => !existingIds.has(i.instructor_id));
+        ftsInstructors.push(...uniqueNewInstructors);
+
+        if (i === 0 && newInstructors.length >= 15) break;
+      } catch (error) {
+        console.warn(`FTS5 instructor query variation ${i} failed:`, error);
+        continue;
+      }
+    }
+
+    for (let i = 0; i < queryVariations.length && ftsDepartments.length < 10; i++) {
+      const searchParams = deptFilter 
+        ? { search_term: queryVariations[i], dept_abbr: deptFilter.toUpperCase() }
+        : { search_term: queryVariations[i] };
+
+      try {
+        const whereClause = deptFilter 
+          ? 'WHERE courses_fts MATCH @search_term AND dept_abbr = @dept_abbr'
+          : 'WHERE courses_fts MATCH @search_term';
+          
+        const ftsDepartmentsSQL = `
+          SELECT 
+            dept_name,
+            dept_abbr,
+            total_students,
+            bm25(courses_fts) as relevance_score
+          FROM courses_fts
+          ${whereClause}
+          ORDER BY bm25(courses_fts) ASC
+          LIMIT 20
+        `;
+
+        const newDepartments = await promisedQuery(ftsDepartmentsSQL, searchParams);
+        const existingAbbrs = new Set(ftsDepartments.map(d => d.dept_abbr));
+        const uniqueNewDepartments = newDepartments.filter(d => !existingAbbrs.has(d.dept_abbr));
+        ftsDepartments.push(...uniqueNewDepartments);
+
+        if (i === 0 && newDepartments.length >= 10) break;
+      } catch (error) {
+        console.warn(`FTS5 department query variation ${i} failed:`, error);
+        continue;
+      }
+    }
+
+    // Trim to final limits but keep generous
+    ftsClasses = ftsClasses.slice(0, 30);
+    ftsInstructors = ftsInstructors.slice(0, 15);
+    ftsDepartments = ftsDepartments.slice(0, 12);
+
+    // Enhance classes with grade statistics from original tables
+    const enhancedClasses = await Promise.all(
+      ftsClasses.map(async (classItem) => {
+        try {
+          // Get grade statistics from original classdistribution table
+          const gradeSQL = `
+            SELECT total_grades, total_students 
+            FROM classdistribution 
+            WHERE id = @class_id
+          `;
+          const gradeData = await promisedQuery(gradeSQL, { class_id: classItem.class_id });
+          
+          let stats = { averageGPA: 0, mostStudents: "", mostStudentsPercent: 0 };
+          if (gradeData.length > 0 && gradeData[0].total_grades) {
+            const grades = tryJSONParse(gradeData[0].total_grades);
+            stats = calculateAggregateStats([grades]);
+          }
+
+          return {
+            id: classItem.class_id,
+            dept_abbr: classItem.dept_abbr,
+            course_num: classItem.course_num,
+            class_name: `${classItem.dept_abbr} ${classItem.course_num}`,
+            class_desc: classItem.course_title || `${classItem.dept_abbr} ${classItem.course_num}`,
+            oscarTitle: classItem.course_title,
+            total_students: classItem.total_students,
+            relevanceScore: -classItem.relevance_score, // Convert to positive for consistency
+            ...stats
+          };
+        } catch (error) {
+          console.error('Error enhancing FTS5 class result:', error);
+          return {
+            id: classItem.class_id,
+            dept_abbr: classItem.dept_abbr,
+            course_num: classItem.course_num,
+            class_name: `${classItem.dept_abbr} ${classItem.course_num}`,
+            class_desc: classItem.course_title || `${classItem.dept_abbr} ${classItem.course_num}`,
+            total_students: classItem.total_students,
+            relevanceScore: -classItem.relevance_score,
+            averageGPA: 0,
+            mostStudents: "",
+            mostStudentsPercent: 0
+          };
+        }
+      })
+    );
+
+    // Enhance instructors with RMP scores and grade statistics
+    const enhancedInstructors = await Promise.all(
+      ftsInstructors.map(async (instructor) => {
+        try {
+          // Get professor details including RMP score
+          const profSQL = `SELECT name, RMP_score FROM professor WHERE id = @instructor_id`;
+          const profData = await promisedQuery(profSQL, { instructor_id: instructor.instructor_id });
+          
+          // Get grade statistics for this instructor
+          const gradesSQL = `
+            SELECT td.grades 
+            FROM distribution d 
+            JOIN termdistribution td ON d.id = td.dist_id 
+            WHERE d.instructor_id = @instructor_id
+          `;
+          const grades = await promisedQuery(gradesSQL, { instructor_id: instructor.instructor_id });
+          const gradeArray = grades.map(g => tryJSONParse(g.grades)).filter(g => g);
+          const stats = calculateAggregateStats(gradeArray);
+
+          return {
+            id: instructor.instructor_id,
+            name: profData.length > 0 ? profData[0].name : instructor.instructor_name,
+            RMP_score: profData.length > 0 ? profData[0].RMP_score : null,
+            total_students: instructor.total_students,
+            relevanceScore: -instructor.relevance_score,
+            ...stats
+          };
+        } catch (error) {
+          console.error('Error enhancing FTS5 instructor result:', error);
+          return {
+            id: instructor.instructor_id,
+            name: instructor.instructor_name,
+            RMP_score: null,
+            relevanceScore: -instructor.relevance_score,
+            averageGPA: 0,
+            mostStudents: "",
+            mostStudentsPercent: 0
+          };
+        }
+      })
+    );
+
+    // Enhance departments with grade statistics  
+    const enhancedDepartments = await Promise.all(
+      ftsDepartments.map(async (dept) => {
+        try {
+          // Get campus info
+          const campusSQL = `SELECT campus FROM departmentdistribution WHERE dept_abbr = @dept_abbr LIMIT 1`;
+          const campusData = await promisedQuery(campusSQL, { dept_abbr: dept.dept_abbr });
+          
+          // Get aggregate grade statistics for department
+          const deptGradesSQL = `
+            SELECT cd.total_grades 
+            FROM classdistribution cd 
+            WHERE cd.dept_abbr = @dept_abbr AND cd.total_grades IS NOT NULL
+          `;
+          const grades = await promisedQuery(deptGradesSQL, { dept_abbr: dept.dept_abbr });
+          const gradeArray = grades.map(g => tryJSONParse(g.total_grades)).filter(g => g);
+          const stats = calculateAggregateStats(gradeArray);
+
+          return {
+            dept_abbr: dept.dept_abbr,
+            dept_name: dept.dept_name,
+            campus: campusData.length > 0 ? campusData[0].campus : 'Atlanta',
+            total_students: dept.total_students,
+            relevanceScore: -dept.relevance_score,
+            ...stats
+          };
+        } catch (error) {
+          console.error('Error enhancing FTS5 department result:', error);
+          return {
+            dept_abbr: dept.dept_abbr,
+            dept_name: dept.dept_name,
+            relevanceScore: -dept.relevance_score,
+            averageGPA: 0,
+            mostStudents: "",
+            mostStudentsPercent: 0
+          };
+        }
+      })
+    );
+
+    return {
+      departments: enhancedDepartments,
+      classes: enhancedClasses,
+      professors: enhancedInstructors,
+    };
+
+  } catch (error) {
+    console.error('FTS5 search error:', error);
+    // Fallback to original search if FTS5 fails
+    return getSearch(search);
+  }
 };
