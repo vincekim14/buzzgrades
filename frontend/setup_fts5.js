@@ -63,18 +63,14 @@ try {
     // Ignore error if tables don't exist
   }
   
-  // Create courses FTS5 virtual table
+  // Create courses FTS5 virtual table (OPTIMIZED: No duplicates, no descriptions)
   const createCoursesFtsTable = `
     CREATE VIRTUAL TABLE courses_fts USING fts5(
-      class_id,
-      dept_name,
-      dept_abbr,
-      course_num,
+      course_code,
+      course_code_space,
       course_title,
-      course_description,
-      instructor_id,
-      instructor_name,
-      total_students,
+      department,
+      class_id,
       tokenize = 'porter ascii'
     )
   `;
@@ -101,53 +97,42 @@ try {
   db.prepare(createDepartmentsFtsTable).run();
   console.log('✅ FTS5 virtual tables created (courses, professors, departments)');
   
-  console.log('📝 Populating FTS5 table with denormalized data...');
+  console.log('📝 Populating courses FTS5 table (DEDUPLICATED)...');
   
-  // Get all unique courses with their instructors
+  // Get unique courses only - NO instructor duplicates
   const getCoursesQuery = `
     SELECT DISTINCT
       c.id as class_id,
-      dd.dept_name,
       c.dept_abbr,
       c.course_num,
-      c.class_desc,
-      c.total_students,
-      p.id as instructor_id,
-      p.name as instructor_name
+      c.class_desc as course_title
     FROM classdistribution c
-    LEFT JOIN departmentdistribution dd ON c.dept_abbr = dd.dept_abbr
-    LEFT JOIN distribution d ON c.id = d.class_id
-    LEFT JOIN professor p ON d.instructor_id = p.id
     WHERE c.total_students > 0
   `;
   
   const courses = db.prepare(getCoursesQuery).all();
-  console.log(`📊 Found ${courses.length} course-instructor combinations to index`);
+  console.log(`📊 Found ${courses.length} unique courses to index`);
   
-  // Prepare insert statement for FTS5 table
+  // Prepare insert statement for FTS5 table (SIMPLIFIED)
   const insertFts = db.prepare(`
     INSERT INTO courses_fts (
-      class_id, dept_name, dept_abbr, course_num, course_title, course_description,
-      instructor_id, instructor_name, total_students
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+      course_code, course_code_space, course_title, department, class_id
+    ) VALUES (?, ?, ?, ?, ?)
   `);
   
   // Start transaction for better performance
   const insertMany = db.transaction((courses) => {
     for (const course of courses) {
-      const courseKey = `${course.dept_abbr}${course.course_num}`;
-      const courseInfo = courseMap.get(courseKey);
+      const courseCode = `${course.dept_abbr}${course.course_num}`;
+      const courseCodeSpace = `${course.dept_abbr} ${course.course_num}`;
+      const courseInfo = courseMap.get(courseCode);
       
       insertFts.run([
-        course.class_id,
-        course.dept_name || '',
-        course.dept_abbr,
-        course.course_num,
-        courseInfo?.title || course.class_desc || '',
-        courseInfo?.description || '',
-        course.instructor_id || null,
-        course.instructor_name || '',
-        course.total_students
+        courseCode,                                    // course_code: "CS1301"
+        courseCodeSpace,                              // course_code_space: "CS 1301"  
+        courseInfo?.title || course.course_title || '', // course_title: Enhanced or original
+        course.dept_abbr,                             // department: "CS"
+        course.class_id                               // class_id: reference
       ]);
     }
   });
@@ -181,7 +166,7 @@ try {
   insertProfessors(professors);
   console.log('✅ Professors FTS5 table populated successfully');
   
-  // Populate departments FTS5 table
+  // Populate departments FTS5 table (DEDUPLICATED)
   console.log('📝 Populating departments FTS5 table...');
   const getDepartmentsQuery = `
     SELECT DISTINCT dept_abbr, dept_name

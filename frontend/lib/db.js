@@ -237,7 +237,7 @@ export const getDistribution = async (classCode) => {
              students,
              term,
              grades,
-             professor_id,
+             d.instructor_id as professor_id,
              name      as professor_name,
              RMP_score as professor_RMP_score
       FROM classdistribution

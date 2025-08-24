@@ -16,6 +16,37 @@ const parseCourseCode = (className) => {
   return { subject: className, number: 0 };
 };
 
+// Helper function to detect if search term is likely a person's name
+const isLikelyName = (term, searchResults) => {
+  const cleaned = term?.trim().toLowerCase();
+  if (!cleaned) return false;
+  
+  // Must have professor results to be name search
+  if (!searchResults?.data?.professors?.length) return false;
+  
+  // Pattern: 2-15 chars, letters/spaces only
+  if (!cleaned.match(/^[a-z\s]{2,15}$/i)) return false;
+  
+  // Exclude obvious academic terms
+  const academicTerms = ['algorithms', 'calculus', 'physics', 'chemistry', 
+                        'biology', 'programming', 'mathematics', 'statistics',
+                        'linear', 'discrete', 'organic', 'general'];
+  if (academicTerms.includes(cleaned)) return false;
+  
+  return true;
+};
+
+// Helper function to determine optimal component ordering based on search context
+const getComponentOrder = (searchResults, searchTerm) => {
+  // Name search: Show professors first
+  if (isLikelyName(searchTerm, searchResults)) {
+    return [Professors, Classes, Departments];
+  }
+  
+  // Default: Current ordering for course/content searches
+  return [Classes, Professors, Departments];
+};
+
 // Sort courses by relevance score first, then maintain numerical ordering
 const sortCourses = (courses) => {
   return courses.sort((a, b) => {
@@ -163,6 +194,7 @@ const Professors = ({ searchResults, onClick }) => {
 export default function SearchResults({
   searchResults,
   pageShown: [showPage, setShowPage],
+  search,
 }) {
   const clickHandler = () => {
     setShowPage(true);
@@ -208,9 +240,13 @@ export default function SearchResults({
             Loading...
           </Heading>
         )}
-        <Classes searchResults={searchResults} onClick={clickHandler} />
-        <Professors searchResults={searchResults} onClick={clickHandler} />
-        <Departments searchResults={searchResults} onClick={clickHandler} />
+        {getComponentOrder(searchResults, search).map((Component, index) => (
+          <Component 
+            key={Component.name || index}
+            searchResults={searchResults} 
+            onClick={clickHandler} 
+          />
+        ))}
       </VStack>
     </Collapse>
   );

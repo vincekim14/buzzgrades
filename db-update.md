@@ -139,3 +139,15 @@
 
   The next developer has everything they need to finish the
   remaining 5% of optimization work!
+
+
+
+Interesting! So the raw SQLite queries are very fast:
+FTS5 query: 18ms 
+LIKE query: 30ms
+But the application is still slow. The issue is likely in the application layer - multiple queries, data enhancement, JSON parsing, etc. Let me check what our application is actually doing by looking at the complex queries it runs.
+
+
+🚨 MAJOR PERFORMANCE ISSUE FOUND!
+The query returned massive duplicates! I can see CS 4540 appears 8+ times and CS 4641 appears 10+ times with identical data. This is killing performance!
+Let me check the extent of the duplication problem:
