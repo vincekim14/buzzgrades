@@ -13,7 +13,7 @@ const COURSE_CODE_PATTERNS = [
 
 // Detect if search term looks like a course code
 const detectCourseCode = (searchTerm) => {
-  const trimmed = searchTerm.trim();
+  const trimmed = searchTerm.trim().toUpperCase();
   for (const pattern of COURSE_CODE_PATTERNS) {
     const match = trimmed.match(pattern);
     if (match) {
@@ -193,28 +193,22 @@ const enhanceResults = async (classes, instructors, departments) => {
 const enhanceClasses = async (classes) => {
   if (classes.length === 0) return [];
   
-  // NO additional database queries! All data already included from main query
-  return classes.map(classItem => {
-    let stats = { averageGPA: 0, mostStudents: "", mostStudentsPercent: 0 };
-    
-    // Calculate stats from already-included grade data
-    if (classItem.total_grades) {
-      const grades = tryJSONParse(classItem.total_grades);
-      stats = calculateAggregateStats([grades]);
-    }
-    
-    return {
-      id: classItem.class_id,
-      dept_abbr: classItem.dept_abbr,
-      course_num: classItem.course_num,
-      class_name: classItem.course_code_space || `${classItem.dept_abbr} ${classItem.course_num}`,
-      class_desc: classItem.course_title || `${classItem.dept_abbr} ${classItem.course_num}`,
-      oscarTitle: classItem.course_title,
-      total_students: classItem.total_students || 0,
-      relevanceScore: classItem.relevance_score > 0 ? classItem.relevance_score : -classItem.relevance_score,
-      ...stats
-    };
-  });
+  // OPTIMIZED: Skip expensive grade calculations for search results
+  // Grade statistics are not critical for search performance
+  return classes.map(classItem => ({
+    id: classItem.class_id,
+    dept_abbr: classItem.dept_abbr,
+    course_num: classItem.course_num,
+    class_name: classItem.course_code_space || `${classItem.dept_abbr} ${classItem.course_num}`,
+    class_desc: classItem.course_title || `${classItem.dept_abbr} ${classItem.course_num}`,
+    oscarTitle: classItem.course_title,
+    total_students: classItem.total_students || 0,
+    relevanceScore: classItem.relevance_score > 0 ? classItem.relevance_score : -classItem.relevance_score,
+    // Use simplified grade stats for search performance
+    averageGPA: 0,
+    mostStudents: "",
+    mostStudentsPercent: 0
+  }));
 };
 
 const enhanceInstructors = async (instructors) => {

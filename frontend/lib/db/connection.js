@@ -78,7 +78,8 @@ const promisedQuery = (query, params = {}) => {
 
 const tryJSONParse = (str, err) => {
   try {
-    if (JSON.parse(str)) return JSON.parse(str);
+    const parsed = JSON.parse(str);
+    if (parsed) return parsed;
     return err;
   } catch (e) {
     if (err) return err;
