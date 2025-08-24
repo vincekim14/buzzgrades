@@ -3,7 +3,7 @@ import {
   getEveryClassCode,
   getEveryDepartmentCode,
   getEveryProfessorCode,
-} from "../lib/db";
+} from "../lib/db/index.js";
 
 type StringLike = string | { toString: () => string };
 

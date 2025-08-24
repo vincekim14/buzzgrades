@@ -76,3 +76,5 @@ frontend/.vercel
 
 # pyenv
 .python-version
+.claude/
+.claude-cache/

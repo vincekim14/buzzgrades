@@ -1,4 +1,4 @@
-import { getClassDistribtionsInDept, getDeptInfo } from "../../../lib/db";
+import { getClassDistribtionsInDept, getDeptInfo } from "../../../lib/db/index.js";
 
 export default async function handler(req, res) {
   if (!req.query.deptCode) {

@@ -1,4 +1,4 @@
-import { getSearch } from "../../lib/db";
+import { getSearchFTS5 } from "../../lib/db/index.js";
 
 export default async function handler(req, res) {
   if (!req.query.q) {
@@ -10,5 +10,5 @@ export default async function handler(req, res) {
 
   const { q } = req.query;
 
-  res.json({ success: true, data: await getSearch(q) });
+  res.json({ success: true, data: await getSearchFTS5(q) });
 }

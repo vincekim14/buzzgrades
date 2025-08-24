@@ -9,7 +9,7 @@ import {
 } from "@chakra-ui/react";
 import PageLayout from "../../components/Layout/PageLayout";
 import SearchBar from "../../components/Search/SearchBar";
-import { getClassDistribtionsInDept, getDeptInfo } from "../../lib/db";
+import { getClassDistribtionsInDept, getDeptInfo } from "../../lib/db/index.js";
 import { distributionsToCards } from "../../components/distributionsToCards";
 import { useSearch } from "../../components/Search/useSearch";
 import SearchResults from "../../components/Search/SearchResults";

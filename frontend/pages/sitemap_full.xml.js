@@ -2,7 +2,7 @@ import {
   getEveryClassCode,
   getEveryDepartmentCode,
   getEveryProfessorCode,
-} from "../lib/db";
+} from "../lib/db/index.js";
 
 const cleanPrimaryID = (id) => {
   return id.toString().replaceAll(" ", "");

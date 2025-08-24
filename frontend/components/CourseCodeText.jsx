@@ -1,37 +1,14 @@
 import React, { useState, useEffect } from "react";
 import { Link as ChakraLink, Text, Tag, Tooltip } from "@chakra-ui/react";
 import NextLink from "next/link";
-
-const parseCourseCodesInText = (text) => {
-  if (!text) return [];
-  
-  // Regex to match course codes like "ACCT 2101" or "MATH 1501"
-  const courseCodeRegex = /([A-Z]{2,4})\s+(\d{4}[A-Z]?)/g;
-  const matches = [];
-  let match;
-  
-  while ((match = courseCodeRegex.exec(text)) !== null) {
-    matches.push({
-      fullMatch: match[0],
-      deptCode: match[1],
-      courseNumber: match[2],
-      classCode: `${match[1]}${match[2]}`, // For URL
-      startIndex: match.index,
-      endIndex: match.index + match[0].length
-    });
-  }
-  
-  return matches;
-};
+import { parseCourseCodesInText } from "../lib/db/utils.js";
 
 const CourseChip = ({ match, onCourseCodeClick }) => {
   const [courseTitle, setCourseTitle] = useState(null);
   const [courseExists, setCourseExists] = useState(true);
-  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
     const fetchCourseInfo = async () => {
-      setLoading(true);
       try {
         const response = await fetch(`/api/class/${match.classCode}`);
         if (response.ok) {
@@ -45,8 +22,6 @@ const CourseChip = ({ match, onCourseCodeClick }) => {
       } catch (error) {
         console.error("Failed to fetch course info:", error);
         setCourseExists(false);
-      } finally {
-        setLoading(false);
       }
     };
 
