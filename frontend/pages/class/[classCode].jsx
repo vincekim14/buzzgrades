@@ -19,6 +19,8 @@ import NextLink from "next/link";
 import PageLayout from "../../components/Layout/PageLayout";
 import SearchBar from "../../components/Search/SearchBar";
 import { getClassInfo, getDistribution } from "../../lib/db/index.js";
+import { getCourseInfo } from "../../lib/db/connection.js";
+import { parseCourseCodesInText } from "../../lib/db/utils.js";
 import { distributionsToCards } from "../../components/distributionsToCards";
 import { useSearch } from "../../components/Search/useSearch";
 import SearchResults from "../../components/Search/SearchResults";
@@ -42,7 +44,7 @@ const DepartmentButton = ({ deptAbbr }) => (
   </ChakraLink>
 );
 
-export default function Class({ classData, query }) {
+export default function Class({ classData, query, resolvedCourses = {} }) {
   const {
     class_desc: classDesc,
     oscarTitle,
@@ -233,7 +235,7 @@ export default function Class({ classData, query }) {
                       <Text fontSize={"sm"} fontWeight={"bold"} mb={1}>
                         Prerequisites:
                       </Text>
-                      <CourseCodeText fontSize={"sm"} onCourseCodeClick={closeRequisites}>
+                      <CourseCodeText fontSize={"sm"} onCourseCodeClick={closeRequisites} resolvedCourses={resolvedCourses}>
                         {Array.isArray(prerequisites)
                           ? prerequisites.join(", ")
                           : prerequisites}
@@ -246,7 +248,7 @@ export default function Class({ classData, query }) {
                       <Text fontSize={"sm"} fontWeight={"bold"} mb={1}>
                         Corequisites:
                       </Text>
-                      <CourseCodeText fontSize={"sm"} onCourseCodeClick={closeRequisites}>
+                      <CourseCodeText fontSize={"sm"} onCourseCodeClick={closeRequisites} resolvedCourses={resolvedCourses}>
                         {Array.isArray(corequisites)
                           ? corequisites.join(", ")
                           : corequisites}
@@ -261,7 +263,7 @@ export default function Class({ classData, query }) {
                       </Text>
                       <VStack align={"start"} spacing={0}>
                         {restrictions.map((restriction) => (
-                          <CourseCodeText key={restriction} fontSize={"sm"} onCourseCodeClick={closeRequisites}>
+                          <CourseCodeText key={restriction} fontSize={"sm"} onCourseCodeClick={closeRequisites} resolvedCourses={resolvedCourses}>
                             {restriction}
                           </CourseCodeText>
                         ))}
@@ -337,6 +339,62 @@ export async function getServerSideProps({ res, params, query }) {
     }
   }
 
+  // SSR enrichment: collect and resolve course codes from prerequisites, corequisites, and restrictions
+  const classInfo = info[0];
+  const allTexts = [];
+  
+  // Collect text from prerequisites
+  if (classInfo.prerequisites) {
+    if (Array.isArray(classInfo.prerequisites)) {
+      allTexts.push(...classInfo.prerequisites);
+    } else {
+      allTexts.push(classInfo.prerequisites);
+    }
+  }
+  
+  // Collect text from corequisites
+  if (classInfo.corequisites) {
+    if (Array.isArray(classInfo.corequisites)) {
+      allTexts.push(...classInfo.corequisites);
+    } else {
+      allTexts.push(classInfo.corequisites);
+    }
+  }
+  
+  // Collect text from restrictions
+  if (classInfo.restrictions && Array.isArray(classInfo.restrictions)) {
+    allTexts.push(...classInfo.restrictions);
+  }
+  
+  // Parse course codes from all collected text
+  const allCourseMatches = [];
+  for (const text of allTexts) {
+    if (typeof text === 'string') {
+      const matches = parseCourseCodesInText(text);
+      allCourseMatches.push(...matches);
+    }
+  }
+  
+  // Extract unique course codes
+  const uniqueCodes = [...new Set(allCourseMatches.map(match => match.classCode))];
+  
+  // Resolve course metadata using getCourseInfo (in-memory lookup)
+  const resolvedCourses = {};
+  for (const code of uniqueCodes) {
+    const courseInfo = getCourseInfo(code);
+    if (courseInfo) {
+      resolvedCourses[code] = {
+        exists: true,
+        title: courseInfo.title || null
+      };
+    } else {
+      resolvedCourses[code] = {
+        exists: false,
+        title: null
+      };
+    }
+  }
+
   return {
     props: {
       classData: {
@@ -344,6 +402,7 @@ export async function getServerSideProps({ res, params, query }) {
         distributions,
       },
       query,
+      resolvedCourses,
     },
   };
 }

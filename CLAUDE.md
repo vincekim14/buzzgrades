@@ -442,38 +442,55 @@ Rollback
 
 ---
 
-## Card spinner/navigation consistency – implementation plan
+## Prereq/Coreq chips (CourseCodeText) – latency optimization plan
 
 Problem
-- In `frontend/components/Card.jsx`, `clicked` is set on any click. If a user opens a link in a new tab (Cmd/Ctrl‑click or middle click), the current page doesn’t navigate, so Next.js `routeChange*` events don’t fire, leaving the spinner visible indefinitely.
+- Each detected course code in `frontend/components/CourseCodeText.jsx` triggers a per-chip fetch to `/api/class/:code`, which returns full class details and distributions. On lines with several codes (prereqs/coreqs/restrictions), this causes N concurrent heavy requests (often 200/304), adding latency and load before tooltips render.
 
-Goals
-- Same‑tab navigation: show spinner from click until `routeChangeComplete`/`routeChangeError` fires, then hide.
-- New‑tab/external navigation: don’t show spinner on the current tab at all.
+What to optimize (highest impact first)
+1) Add a tiny batch metadata endpoint
+   - Endpoint: `GET /api/class/meta?codes=CS1331,MATH1554,...`
+   - Implementation: use `getCourseInfo(code)` (already backed by cached `cumulative.json` via `frontend/lib/db/connection.js`) to return only minimal fields:
+     - `{ [code]: { exists: boolean, title: string | null } }`
+   - No DB queries; single in-memory map lookup per code → sub‑millisecond when warm.
+   - Send strong cache headers: `Cache-Control: public, max-age=86400, s-maxage=604800, stale-while-revalidate=2592000`.
 
-Plan
-1) Click/new‑tab detection
-   - Update the button `onClick` signature to receive the event and detect new‑tab intent. Only set `clicked` for same‑tab navigations.
-   - Conditions to treat as new‑tab/external: `e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1 || isExternal === true`.
-   - Also handle `onAuxClick` to catch middle‑clicks consistently.
+2) Refactor `CourseCodeText.jsx` to batch resolve once
+   - Parse and dedupe codes with `parseCourseCodesInText`.
+   - Fetch `/api/class/meta` once for all unique codes; store the mapping in local state.
+   - Pass resolved meta to chips; remove the per-chip `useEffect` fetch.
+   - Add a small module-level LRU (Map with TTL ~1h, bounded size) to memoize code→meta across renders/routes.
+   - Set `prefetch={false}` on `NextLink` for these chips to avoid expensive automatic page prefetches.
 
-2) Router event lifecycle
-   - Subscribe to `router.events` in a `useEffect`:
-     - `routeChangeStart`: if a recent same‑tab click occurred, `setClicked(true)`.
-     - `routeChangeComplete` and `routeChangeError`: `setClicked(false)`.
-   - Keep a short fallback timeout (e.g., 2–3s) to clear the spinner if no route event arrives (defensive).
+3) Best UX on class page: SSR enrichment
+   - In `pages/class/[classCode].jsx` `getServerSideProps`, collect unique codes from `prerequisites`, `corequisites`, and `restrictions`.
+   - For each code, call `getCourseInfo(code)` (in-memory JSON map) and build `{ code → { exists, title } }`.
+   - Pass this mapping via props and let `CourseCodeText` accept an optional `resolvedCourses` prop to render tooltips immediately (zero client requests on first paint).
 
-3) Page visibility safeguard
-   - Optionally listen to `visibilitychange`; if the page becomes hidden without a route event (user opened new tab/window), clear the spinner.
+4) Do we need a new schema/table?
+   - No. The existing `cumulative.json` map and the lightweight meta endpoint are sufficient. If a DB-only path is required later, a tiny `course_meta(code TEXT PRIMARY KEY, title TEXT)` table could mirror the JSON with identical semantics.
 
-4) External targets
-   - When `isExternal` is passed (Link target="_blank"), never set `clicked` in the current tab; spinner should not render.
+5) Acceptance criteria
+   - Rendering 1–2 chips shows tooltips instantly (SSR path has zero client calls; client-only path ≤50 ms warm).
+   - Rendering 5–10 chips performs at most one `/api/class/meta` request; p95 ≤100 ms in production.
+   - `CourseCodeText` never calls `/api/class/:code` per chip; heavy endpoint reserved for full class pages only.
 
-5) Optional global solution
-   - Create a lightweight `NavigationSpinnerContext` that manages spinner state from a single `router.events` hook (in `_app.jsx`). Cards would call `start()` on same‑tab clicks; context hides spinner on `routeChangeComplete`/`routeChangeError`. This centralizes logic and prevents duplication.
+6) Rollout steps
+   - Implement `/api/class/meta` to read from `getCourseInfo` and return `{exists,title}`.
+   - Refactor `CourseCodeText.jsx` to batch fetch and add a module-level LRU cache; keep backward compatibility.
+   - Optionally add SSR enrichment on `pages/class/[classCode].jsx` to eliminate client fetches entirely on detail pages.
 
-Testing
-- Same‑tab click → spinner appears, disappears after route change.
-- Cmd/Ctrl‑click or middle‑click → spinner never appears on the current tab.
-- External link (`isExternal`) → spinner never appears on the current tab.
-- Timeout/visibilitychange safeguard clears any stuck spinner.
+Example response (conceptual)
+```json
+{
+  "success": true,
+  "data": {
+    "CS1331": { "exists": true, "title": "Introduction to Object-Oriented Programming" },
+    "MATH1554": { "exists": true, "title": "Linear Algebra" },
+    "NONEXIST1234": { "exists": false, "title": null }
+  }
+}
+```
+
+Expected impact
+- Replaces N+1 heavy calls with a single ultra-light metadata call (or zero with SSR), making tooltips available near-instantly and reducing server QPS and DB load on pages with many referenced courses.
