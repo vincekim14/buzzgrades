@@ -19,6 +19,27 @@ Therefore, processing the most recent 4-8 terms into json files for COURSE_INFO 
 ### Full Data Processing (CSV + RMP)
 ```bash
 python3 main.py --process-all
+## Publishing updated data to the frontend
+
+After processing, ensure the frontend can read the latest artifacts:
+
+1) Verify artifacts
+- `ProcessedData.db` exists at `data-app/ProcessedData.db`.
+- `COURSE_INFO/cumulative.json` exists and contains course title/prereq metadata.
+
+2) Finalize SQLite journal mode for distribution
+- If you processed with WAL mode, checkpoint and switch to DELETE before copying the DB to production:
+  ```sql
+  -- inside sqlite3 shell connected to data-app/ProcessedData.db
+  PRAGMA wal_checkpoint(TRUNCATE);
+  PRAGMA journal_mode=DELETE;
+  ```
+- This eliminates `ProcessedData.db-wal` and `ProcessedData.db-shm` so the frontend only needs the single `.db` file.
+
+3) Restart and warm
+- Restart the frontend server to pick up changes.
+- Warm routes to prime caches: `cd frontend && WARMUP_ORIGIN=http://localhost:3000 yarn warmup`.
+
 ```
 
 ### RMP Processing Only

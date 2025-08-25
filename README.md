@@ -140,3 +140,40 @@ BENCH_ORIGIN=http://localhost:3000 node test_search_benchmark.js | cat
 Notes:
 - First request in dev can be slower due to on-demand compilation; evaluate production with `yarn build && yarn start`.
 - For hot department queries, `Cache-Control: s-maxage=30, stale-while-revalidate=300` may appear.
+
+## Updating data (ProcessedData.db and COURSE_INFO)
+
+When you update the underlying data, follow this to keep the app consistent and fast.
+
+1) Generate updated data
+- From `data-app/`, regenerate the database and COURSE_INFO as needed. See `data-app/README.md` for full commands.
+- Ensure the following paths exist after generation:
+  - `data-app/ProcessedData.db`
+  - `data-app/COURSE_INFO/cumulative.json` (required for titles/prereq tooltips)
+
+2) Place files and keep relative paths
+- The frontend expects the DB at `../data-app/ProcessedData.db` relative to `frontend/`.
+- The COURSE_INFO cumulative file is read from `../data-app/COURSE_INFO/cumulative.json`.
+
+3) Restart servers and warm caches
+- Dev: stop and restart `yarn dev` in `frontend/`.
+- Prod: redeploy/start the server, then run:
+  ```bash
+  cd frontend
+  WARMUP_ORIGIN=https://your-domain yarn warmup
+  ```
+
+4) CDN cache behavior (prod)
+- API and pages use long `s-maxage` with `stale-while-revalidate`. New data will appear automatically as caches revalidate.
+- If you need immediate refresh across the CDN, trigger a purge/flush on your hosting provider.
+
+5) SQLite `-wal` and `-shm` files
+- If your DB was opened in WAL mode during generation, you may see `ProcessedData.db-wal` and `ProcessedData.db-shm` alongside the main file.
+- For shipping a read-only DB to the frontend, checkpoint and disable WAL before copying:
+  ```sql
+  -- inside sqlite3 shell against ProcessedData.db
+  PRAGMA wal_checkpoint(TRUNCATE);
+  PRAGMA journal_mode=DELETE;
+  ```
+- After checkpoint (and with no writer running), it is safe to delete `*.db-wal` and `*.db-shm`.
+- Do NOT delete them while a writer is active or before checkpointing; you may lose uncheckpointed writes or see inconsistent reads.
