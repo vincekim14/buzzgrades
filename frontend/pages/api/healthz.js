@@ -6,7 +6,7 @@ import { db } from "../../lib/db/connection.js";
  * Performs a light SELECT 1 query to verify database connectivity
  * and reports readiness status to avoid sending traffic before warmup completes.
  * 
- * As specified in CLAUDE.md cold start mitigation plan.
+ * Cold start mitigation plan.
  */
 export default async function handler(req, res) {
   const startTime = Date.now();

@@ -79,7 +79,7 @@ const preWarmDatabase = () => {
 // Pre-warm on module load
 preWarmDatabase();
 
-// Boot logging for first 3 requests with timing breakdown (CLAUDE.md cold start mitigation)
+// Boot logging for first 3 requests with timing breakdown (cold start mitigation)
 let bootRequestCount = 0;
 const BOOT_LOG_LIMIT = 3;
 const bootStartTime = Date.now();

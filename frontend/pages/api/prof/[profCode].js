@@ -28,11 +28,11 @@ export default async function handler(req, res) {
 
   const totalDuration = Date.now() - startTime;
   
-  // Add performance headers for end-to-end timing as specified in CLAUDE.md
+  // Add performance headers for end-to-end timing
   res.setHeader('X-DB-Duration', `${dbDuration}ms`);
   res.setHeader('X-Total-Duration', `${totalDuration}ms`);
 
-  // Boot logging as specified in CLAUDE.md
+  // Boot logging
   logBootRequest(`/api/prof/${profCode}`, totalDuration, dbDuration);
 
   res.status(200).json({

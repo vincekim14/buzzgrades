@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import { getSearchFTS5 } from "./lib/db/index.js";
 
-// Test cases based on CLAUDE.md recommendations
+// Test cases based on recommendations
 const TEST_CASES = [
   // Department searches
   { query: 'chem', type: 'department', expectedFast: true },
@@ -17,7 +17,7 @@ const TEST_CASES = [
   { query: 'linear algebra', type: 'content', expectedFast: false },
 ];
 
-// Performance thresholds from CLAUDE.md
+// Performance thresholds
 const PERFORMANCE_TARGETS = {
   warm_max: 30, // ms
   cold_max: 100, // ms

@@ -16,7 +16,7 @@ const http = require('http');
 // Get origin from environment or default to localhost:3000
 const ORIGIN = process.env.BENCH_ORIGIN || process.env.WARMUP_ORIGIN || 'http://localhost:3000';
 
-// Hot queries as specified in CLAUDE.md cold start mitigation plan
+// Hot queries; cold start mitigation plan
 const HOT_QUERIES = [
   'CS',          // Dept search
   'MATH',        // Dept search  
@@ -106,7 +106,7 @@ const warmup = async () => {
   }
 };
 
-// Add User-Agent for analytics filtering as mentioned in CLAUDE.md
+// Add User-Agent for analytics filtering
 const originalGet = http.get;
 const originalHttpsGet = https.get;
 

@@ -37,7 +37,7 @@ export default async function handler(req, res) {
     console.log(`🐌 Slow search: "${q}" took ${totalDuration}ms (search: ${searchDuration}ms)`);
   }
 
-  // Boot logging as specified in CLAUDE.md
+  // Boot logging as specified
   logBootRequest(`/api/search?q=${q}`, totalDuration, searchDuration);
 
   res.json({ success: true, data });
