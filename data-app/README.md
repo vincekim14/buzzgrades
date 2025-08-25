@@ -74,6 +74,53 @@ cd data-app
 rm -f ProcessedData.db-wal ProcessedData.db-shm
 ```
 
+About -wal and -shm files
+- `ProcessedData.db-wal`: Write-Ahead Log with recent changes not yet merged into the main .db.
+- `ProcessedData.db-shm`: Shared-memory index used by WAL readers/writers to coordinate and map WAL frames to pages.
+- After `PRAGMA wal_checkpoint(TRUNCATE);` and `PRAGMA journal_mode=DELETE;`, and with no writers, both files are safe to delete. They will reappear automatically if you re-enable WAL and perform writes again.
+
+## Re-enabling WAL mode for further processing/writes
+
+If you previously switched to `DELETE` journal mode for distribution and need to resume writing, you can switch the database back to WAL mode. Only do this on a writable/local filesystem, and from a writer connection.
+
+Interactive method
+```bash
+cd data-app
+sqlite3 ProcessedData.db
+sqlite> PRAGMA journal_mode=WAL;     -- enable WAL
+sqlite> PRAGMA synchronous=NORMAL;   -- recommended with WAL
+sqlite> .quit
+```
+
+One-liner (non-interactive)
+```bash
+cd data-app
+sqlite3 ProcessedData.db "PRAGMA journal_mode=WAL; PRAGMA synchronous=NORMAL;"
+```
+
+Programmatic (Python)
+```python
+import sqlite3
+conn = sqlite3.connect("data-app/ProcessedData.db")
+conn.execute("PRAGMA journal_mode=WAL;")
+conn.execute("PRAGMA synchronous=NORMAL;")
+# proceed with writes...
+```
+
+Programmatic (Node.js, better-sqlite3)
+```javascript
+import Database from 'better-sqlite3';
+const db = new Database('data-app/ProcessedData.db');
+db.pragma('journal_mode = WAL');
+db.pragma('synchronous = NORMAL');
+// proceed with writes...
+```
+
+Notes
+- A read-only connection cannot change journal mode; run the PRAGMAs from a writable handle.
+- After enabling WAL and performing writes, `ProcessedData.db-wal` and `ProcessedData.db-shm` will reappear; this is expected.
+- Before shipping to production (read-only), repeat the checkpoint/DELETE steps above and remove `-wal`/`-shm`.
+
 
 ```
 

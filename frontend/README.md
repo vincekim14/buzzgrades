@@ -37,4 +37,10 @@ PRAGMA journal_mode=DELETE;
 ```
 Then you can safely omit `-wal`/`-shm` files. Do not delete them during writes.
 
+Command to remove sidecars after checkpointing
+```bash
+cd data-app
+rm -f ProcessedData.db-wal ProcessedData.db-shm
+```
+
 
