@@ -1,7 +1,7 @@
 import Database from 'better-sqlite3';
 import path from 'path';
 
-const dbPath = path.resolve(process.cwd(), '../data-app/ProcessedData.db');
+const dbPath = path.resolve(process.cwd(), '../../data-app/ProcessedData.db');
 const db = new Database(dbPath, { readonly: true, fileMustExist: true });
 
 // Test direct SQL LIKE performance

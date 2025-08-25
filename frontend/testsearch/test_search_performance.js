@@ -1,7 +1,7 @@
 const Database = require('better-sqlite3');
 const path = require('path');
 
-const dbPath = path.resolve(__dirname, '../data-app/ProcessedData.db');
+const dbPath = path.resolve(__dirname, '../../data-app/ProcessedData.db');
 const db = Database(dbPath, { readonly: true, fileMustExist: true });
 
 // Test search performance for different query types
