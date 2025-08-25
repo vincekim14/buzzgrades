@@ -78,3 +78,5 @@ frontend/.vercel
 .python-version
 .claude/
 .claude-cache/
+
+CLAUDE.md
