@@ -494,3 +494,53 @@ Example response (conceptual)
 
 Expected impact
 - Replaces N+1 heavy calls with a single ultra-light metadata call (or zero with SSR), making tooltips available near-instantly and reducing server QPS and DB load on pages with many referenced courses.
+
+## Search → detail navigation (class/dept/instructor) – end‑to‑end optimization plan
+
+Context
+- Search results link to SSR pages (`/class/[code]`, `/dept/[abbr]`, `/inst/[id]`). Each page calls its API (or DB functions) to render heavy distributions. We already parallelize DB reads and pre‑warm prepared statements. Next gains come from caching, prefetching, and deferring heavy sections.
+
+Goals
+- Perceived navigation latency p50 ≤ 200 ms and p95 ≤ 500 ms on warm traffic.
+- No duplicate work when rapidly navigating between results.
+
+Plan (highest impact first)
+1) Strong server caching on detail APIs
+   - Add `Cache-Control` to `/api/class/[classCode].js`, `/api/dept/[deptCode].js`, `/api/prof/[profCode].js`:
+     - `public, s-maxage=604800, stale-while-revalidate=2592000` (7 days + 30 days SWR).
+   - Rationale: underlying data changes rarely; this lets CDNs serve warm JSON instantly and keeps origin load low.
+
+2) Keep SSR page caching headers (already present) and align TTLs
+   - `getServerSideProps` in pages already sets `s-maxage` and `stale-while-revalidate`. Align these with API TTLs above so page HTML and JSON are consistently cached.
+   - Benefit: When users click popular results, HTML is served from edge cache fast; origin DB work happens in background.
+
+3) Prefetch code and warm data selectively from SearchResults
+   - For the top N visible results (e.g., 6–10), on intersection or hover:
+     - Prefetch the page code via `<NextLink prefetch>` to avoid JS cold loads.
+     - Fire a low-priority fetch to the corresponding detail API (`/api/class|dept|prof/...`) to warm CDN/origin caches. Use `?prefetch=1` to tag in logs; server returns full payload with the same cache headers (no special logic required).
+   - Throttle concurrency (e.g., 2–3 inflight) and abort on unmount.
+   - Result: When the user clicks, data/HTML are already cached; navigation is immediate.
+
+4) Defer below‑the‑fold heavy sections on detail pages
+   - Keep SEO-critical header content SSR (title, summary tags). Load heavy sections (full distributions) after mount via client fetch from the already‑cached API.
+   - Visual strategy: render placeholders/skeletons for distributions while the deferred fetch resolves. This reduces TTFB and improves first paint, especially on cold origins.
+
+5) Optional: Incremental Static Regeneration (ISR) for detail pages
+   - If hosting supports ISR and data churn is low, switch class/dept/inst pages to `getStaticProps` with `revalidate` (e.g., 7 days) and `fallback: 'blocking'`.
+   - First visit builds the page; subsequent visits are served statically from edge. Keep `/api/*` for JSON clients.
+   - Tradeoff: initial miss is slower, but overall p50 becomes near‑instant. Use only if the number of pages is tractable for on‑demand builds.
+
+6) Client LRU for recent detail responses
+   - Add a small in‑memory LRU (size ~50, TTL ~1h) keyed by detail route to avoid refetching when bouncing between results.
+   - Read‑through from cache on navigation; fall back to network if missing.
+
+Acceptance criteria
+- Navigation from Search to a warmed result shows content within ~200 ms p50.
+- Detail API responses are cache‑hit for repeat visits and top results.
+- No visible layout shift: placeholders fill below‑the‑fold until data arrives.
+
+Implementation checklist
+- `/api/*` (class, dept, prof): add `Cache-Control: public, s-maxage=604800, stale-while-revalidate=2592000`.
+- SearchResults: add intersection/hover prefetch for page code and low‑priority warming fetch to the detail API, with concurrency control and AbortController.
+- Detail pages: keep SSR headers; optionally defer distributions to client fetch behind skeletons.
+- Optional: migrate detail pages to ISR with suitable `revalidate` if platform and traffic fit.

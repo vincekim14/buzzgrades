@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { getSearchFTS5 } from "./lib/db/index.js";
+import { getSearchFTS5 } from "../lib/db/index.js";
 
 // Test cases based on recommendations
 const TEST_CASES = [

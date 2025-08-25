@@ -145,7 +145,7 @@ const Classes = ({ searchResults, onClick }) => {
       <Heading size={"md"} pt={4}>
         Classes
       </Heading>
-      {sortCourses(searchResults.data.classes).map((row) => {
+      {sortCourses(searchResults.data.classes).map((row, index) => {
         const classCode = row.class_name.replace(/ /g, "");
         return (
           <Card
@@ -153,6 +153,7 @@ const Classes = ({ searchResults, onClick }) => {
             href={`/class/${classCode}`}
             onClick={onClick}
             spinnerTop={"34.5px"}
+            enablePrefetch={index < 8} // Only prefetch first 8 results
             rightContent={[
               row.averageGPA > 0 && (
                 <AverageGradeTag key={"avg"} gpa={row.averageGPA.toFixed(2)} />
@@ -188,12 +189,13 @@ const Departments = ({ searchResults, onClick }) => {
       <Heading size={"md"} pt={4}>
         Departments
       </Heading>
-      {searchResults.data.departments.map((row) => (
+      {searchResults.data.departments.map((row, index) => (
         <Card
           key={`${row.campus}_${row.dept_abbr}`}
           href={`/dept/${row.dept_abbr}`}
           onClick={onClick}
           spinnerTop={"34.5px"}
+          enablePrefetch={index < 6} // Only prefetch first 6 results
           rightContent={[
             row.averageGPA > 0 && (
               <AverageGradeTag key={"avg"} gpa={row.averageGPA.toFixed(2)} />
@@ -228,12 +230,13 @@ const Professors = ({ searchResults, onClick }) => {
       <Heading size={"md"} pt={4}>
         Instructors
       </Heading>
-      {searchResults.data.professors.map((row) => (
+      {searchResults.data.professors.map((row, index) => (
         <Card
           key={row.id}
           href={`/inst/${row.id}`}
           onClick={onClick}
           spinnerTop={"34.5px"}
+          enablePrefetch={index < 6} // Only prefetch first 6 results
           rightContent={[
             row.averageGPA > 0 && (
               <AverageGradeTag key={"avg"} gpa={row.averageGPA.toFixed(2)} />

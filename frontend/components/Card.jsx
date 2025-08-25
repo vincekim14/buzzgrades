@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/router";
 import { disabledPages } from "../lib/config";
+import { usePrefetch } from "../hooks/usePrefetch";
 
 export default function Card({
   children,
@@ -14,6 +15,7 @@ export default function Card({
   onClick = () => {},
   isStatic = false,
   spinnerTop = 4,
+  enablePrefetch = true,
   ...props
 }) {
   // eslint-disable-next-line no-param-reassign
@@ -21,7 +23,37 @@ export default function Card({
   const router = useRouter();
   const [clicked, setClicked] = useState(false);
   const timeoutRef = useRef(null);
+  const cardRef = useRef(null);
   const extraStyles = style || {};
+  
+  const { prefetchDetail, cleanup } = usePrefetch();
+
+  // Intersection observer for prefetching visible cards
+  useEffect(() => {
+    if (!enablePrefetch || !href || isStatic || isExternal || !cardRef.current) {
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            prefetchDetail(href);
+          }
+        });
+      },
+      {
+        rootMargin: '100px', // Start prefetching when card is 100px from viewport
+        threshold: 0.1,
+      }
+    );
+
+    observer.observe(cardRef.current);
+
+    return () => {
+      observer.disconnect();
+    };
+  }, [enablePrefetch, href, isStatic, isExternal, prefetchDetail]);
 
   // Router event handling for spinner state
   useEffect(() => {
@@ -68,8 +100,9 @@ export default function Card({
       if (timeoutRef.current) {
         clearTimeout(timeoutRef.current);
       }
+      cleanup();
     };
-  }, [router.events]);
+  }, [router.events, cleanup]);
 
   // Detect new-tab/external navigation intent
   const isNewTabClick = (e) => {
@@ -103,6 +136,12 @@ export default function Card({
       onClick(e);
     }
   };
+
+  const handleMouseEnter = () => {
+    if (enablePrefetch && href && !isStatic && !isExternal) {
+      prefetchDetail(href);
+    }
+  };
   const hoverStyles = href
     ? {
         cursor: "pointer",
@@ -128,6 +167,7 @@ export default function Card({
     : {};
   const card = (
     <Box
+      ref={cardRef}
       background={"rgba(255,255,255,0.35)"}
       boxShadow={"0px 0px 4px rgba(0, 48, 87, 0.1)"}
       as={href ? "button" : "div"}
@@ -144,6 +184,7 @@ export default function Card({
       _hover={hoverStyles}
       onClick={handleClick}
       onAuxClick={handleAuxClick}
+      onMouseEnter={handleMouseEnter}
       {...props}
     >
       {rightContent ? (
@@ -175,6 +216,7 @@ export default function Card({
     return (
       <Link
         href={href}
+        prefetch={false} // We handle prefetching manually
         style={{
           width: "100%",
         }}

@@ -32,7 +32,7 @@ function p(nums, pct) {
 async function benchDirectDB(query) {
   const times = [];
   // Dynamically import ESM module from CJS context
-  const { getSearchFTS5 } = await import('./lib/db/fts-search.js');
+  const { getSearchFTS5 } = await import('../lib/db/fts-search.js');
   for (let i = 0; i < RUN_REPS; i++) {
     const t0 = Date.now();
     await getSearchFTS5(query);

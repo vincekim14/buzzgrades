@@ -28,6 +28,9 @@ export default async function handler(req, res) {
 
   const totalDuration = Date.now() - startTime;
   
+  // Add strong cache headers: 7 days + 30 days SWR
+  res.setHeader('Cache-Control', 'public, s-maxage=604800, stale-while-revalidate=2592000');
+  
   // Add performance headers for end-to-end timing
   res.setHeader('X-DB-Duration', `${dbDuration}ms`);
   res.setHeader('X-Total-Duration', `${totalDuration}ms`);

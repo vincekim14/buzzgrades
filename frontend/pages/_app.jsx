@@ -1,10 +1,13 @@
 import { ChakraProvider } from "@chakra-ui/react";
 import theme from "../theme";
+import { CachedNavigationProvider } from "../components/CachedNavigation";
 
 function MyApp({ Component, pageProps }) {
   return (
     <ChakraProvider theme={theme}>
-      <Component {...pageProps} />
+      <CachedNavigationProvider>
+        <Component {...pageProps} />
+      </CachedNavigationProvider>
     </ChakraProvider>
   );
 }

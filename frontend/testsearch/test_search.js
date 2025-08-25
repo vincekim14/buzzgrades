@@ -1,4 +1,4 @@
-import { getSearchFTS5 } from './lib/db/fts-search.js';
+import { getSearchFTS5 } from '../lib/db/fts-search.js';
 
 async function comprehensiveTest() {
   console.log('🧪 Comprehensive Search Testing');

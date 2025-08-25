@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { getSearchFTS5 } from "./lib/db/index.js";
+import { getSearchFTS5 } from "../lib/db/index.js";
 
 async function testChemSearch() {
   console.log('🧪 Testing Department Search: "chem"');
