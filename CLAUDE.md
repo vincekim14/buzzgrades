@@ -259,7 +259,6 @@ Additional observations
 - Build warns about multiple lockfiles and workspace root inference; consider setting `outputFileTracingRoot` in `next.config.js`.
 - Node printed an ESM warning when dynamically importing during the benchmark; optional: add `"type": "module"` to `frontend/package.json` if fully ESM‑compatible.
 
-
 ---
 
 ## Cold start mitigation plan (low‑risk, production‑ready)
@@ -393,3 +392,50 @@ All changes are additive and backwards compatible:
 **Status:** Production-ready, low-risk implementation complete ✅
 
 
+## SearchResults grade tags – precomputed summaries plan (overrides prior plan)
+
+Rationale
+- Yes, it is performance-optimal to precompute summaries for departments, courses (classes), and instructors. This eliminates per-request aggregation and lets FTS results join tiny summary tables to return 2–3 numbers with negligible overhead.
+- Calculations MUST match the main pages. Use the same GPA mapping and the same aggregate function logic (equivalent to `calculateAggregateStats` used in detail pages) so numbers remain consistent everywhere.
+
+Data schema (SQLite)
+- `department_summary(dept_abbr TEXT PRIMARY KEY, average_gpa REAL, most_grade TEXT, most_percent REAL)`
+- `class_summary(class_id INTEGER PRIMARY KEY, average_gpa REAL, most_grade TEXT, most_percent REAL)`
+- `instructor_summary(instructor_id INTEGER PRIMARY KEY, average_gpa REAL, most_grade TEXT, most_percent REAL)`
+
+Generation (data-app)
+1) During CSV import/processing, create/refresh the three summary tables. Options:
+   - Compute in Python using the same grade aggregation as detail pages (preferred for certainty), then write rows via SQLAlchemy.
+   - Or compute in SQLite (JSON1) by summing per-letter counts and applying the same GPA_MAP; Python is clearer and already available.
+2) Algorithm parity
+   - Average GPA: weighted average over GT letter grades only (A,B,C,D,F), same rounding as detail pages.
+   - Most common grade: max-count letter over combined distributions; percent = 100 * maxCount / totalStudents, same precision as detail pages.
+3) Indexes
+   - PRIMARY KEYs above are sufficient. Ensure `class_summary.class_id` matches `classdistribution.id`, `instructor_summary.instructor_id` matches `professor.id`.
+
+Search integration (frontend/lib/db/fts-search.js)
+1) Classes
+   - Both dept/code and content queries: LEFT JOIN `class_summary cs ON cs.class_id = cf.class_id`.
+   - SELECT: `cs.average_gpa AS averageGPA, cs.most_grade AS mostStudents, cs.most_percent AS mostStudentsPercent`.
+2) Departments
+   - For dept queries: LEFT JOIN `department_summary ds ON ds.dept_abbr = dept_abbr` (from `departments_fts`).
+   - SELECT mapped fields as above.
+3) Professors
+   - For instructor queries: LEFT JOIN `instructor_summary is ON is.instructor_id = p.id`.
+   - SELECT mapped fields as above alongside `RMP_score`.
+4) Keep LIMITs and bm25 ordering; do not select or transmit large JSON blobs. Only the three summary columns are added.
+
+UI/compatibility
+- `frontend/components/Search/SearchResults.jsx` already renders tags when `averageGPA`, `mostStudents`, and `mostStudentsPercent` exist. No UI changes needed beyond ensuring property names match.
+- If a summary is missing (should not happen), the tag conditions will naturally not render.
+
+Performance expectations
+- Search p50 remains ≤ 20 ms; the JOINs are against tiny, indexed tables returning scalar columns.
+- No additional API calls from the client for tags; immediate rendering with FTS results.
+
+Acceptance tests
+- Spot-check a sample of class/prof/dept results: numbers must match those on their respective detail pages exactly (same rounding and percent formatting).
+- Run `test_search_benchmark.js` to confirm latency unchanged after JOINs.
+
+Rollback
+- The change is additive and low-risk. If any regression appears, remove the LEFT JOINs and fall back to lazy summary endpoints or tagless results while keeping the summary tables for future use.

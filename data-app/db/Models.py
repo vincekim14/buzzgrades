@@ -51,7 +51,7 @@ class Distribution(Base):
     __tablename__ = "distribution"
     id = Column(Integer,primary_key=True)
     class_id = Column(Integer,ForeignKey('classdistribution.id',ondelete='CASCADE'),nullable=False)
-    professor_id = Column(Integer,ForeignKey('professor.id',ondelete='CASCADE'),nullable=True)
+    instructor_id = Column(Integer,ForeignKey('professor.id',ondelete='CASCADE'),nullable=True)
     # There are ocassionally classes that do not have a professor listed, hence why this is nullable
     # It will be displayed as unlisted professor in class distributions.
     term_dists = relationship('TermDistribution',backref="dist")
@@ -124,6 +124,39 @@ class DepartmentDistribution(Base):
         for dist in self.class_dists:
             retVal += f"{str(dist)}\n"
         return retVal
+
+
+class DepartmentSummary(Base):
+    __tablename__ = "department_summary"
+    dept_abbr = Column(VARCHAR(4), primary_key=True, nullable=False)
+    average_gpa = Column(Float, nullable=True)
+    most_grade = Column(VARCHAR(2), nullable=True)
+    most_percent = Column(Float, nullable=True)
+
+    def __repr__(self) -> str:
+        return f"DepartmentSummary(dept_abbr={self.dept_abbr}, avg_gpa={self.average_gpa}, most_grade={self.most_grade}, most_percent={self.most_percent})"
+
+
+class ClassSummary(Base):
+    __tablename__ = "class_summary"
+    class_id = Column(Integer, primary_key=True, nullable=False)
+    average_gpa = Column(Float, nullable=True)
+    most_grade = Column(VARCHAR(2), nullable=True)
+    most_percent = Column(Float, nullable=True)
+
+    def __repr__(self) -> str:
+        return f"ClassSummary(class_id={self.class_id}, avg_gpa={self.average_gpa}, most_grade={self.most_grade}, most_percent={self.most_percent})"
+
+
+class InstructorSummary(Base):
+    __tablename__ = "instructor_summary"
+    instructor_id = Column(Integer, primary_key=True, nullable=False)
+    average_gpa = Column(Float, nullable=True)
+    most_grade = Column(VARCHAR(2), nullable=True)
+    most_percent = Column(Float, nullable=True)
+
+    def __repr__(self) -> str:
+        return f"InstructorSummary(instructor_id={self.instructor_id}, avg_gpa={self.average_gpa}, most_grade={self.most_grade}, most_percent={self.most_percent})"
 
 
 engine = create_engine("sqlite:///./ProcessedData.db",echo=False,future=True)

@@ -11,10 +11,14 @@ const withMDX = require("@next/mdx")({
   },
 });
 
+const path = require('path');
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   pageExtensions: ["js", "jsx", "ts", "tsx", "md", "mdx"],
   reactStrictMode: true,
+  // Silence workspace root warning by explicitly setting the tracing root
+  outputFileTracingRoot: path.join(__dirname, '..'),
   eslint: {
     // Allow production builds to successfully complete even if
     // there are ESLint errors. We'll fix formatting in a later pass.

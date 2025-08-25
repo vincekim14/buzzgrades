@@ -151,3 +151,51 @@ But the application is still slow. The issue is likely in the application layer 
 🚨 MAJOR PERFORMANCE ISSUE FOUND!
 The query returned massive duplicates! I can see CS 4540 appears 8+ times and CS 4641 appears 10+ times with identical data. This is killing performance!
 Let me check the extent of the duplication problem:
+
+
+---
+
+## SearchResults grade tags – restoration plan (phased, performance-safe)
+
+Recommendation
+- Keep the base FTS search response minimal for speed.
+- Restore grade tags via lightweight, lazy “summary” endpoints and client-side gating to avoid regressions.
+
+Phase A – Lazy summary endpoints (no heavy joins, no schema changes)
+1) Endpoints (server)
+   - `GET /api/summary/class?id=<class_id>` or `classCode=<CS1332>` → `{ averageGPA, mostStudents, mostStudentsPercent }`
+   - `GET /api/summary/prof?id=<prof_id>` → same fields (computed from professor distributions)
+   - `GET /api/summary/dept?dept=<MATH>` → same fields (computed from dept classes)
+   - Implementation details:
+     - Use minimal SQL to fetch only needed JSON blobs (e.g., `total_grades` for class, aggregated grades for prof/dept).
+     - Compute stats server-side using the same `calculateAggregateStats` logic (duplicate helper into API scope if needed).
+     - Add in-memory LRU (TTL 10–30 min, size ~200) per summary endpoint.
+     - Add headers: `X-Summary-Duration` and `Cache-Control: s-maxage=60, stale-while-revalidate=300` (safe for summaries).
+
+2) Client rendering (SearchResults)
+   - Introduce a `LazyTags` component used for classes, departments, and professors:
+     - Uses IntersectionObserver to fetch when the row is visible.
+     - Debounce 150–250ms; abort previous requests if scrolled away.
+     - Stores results in a small in-memory Map cache keyed by `{type}:{idOrKey}` to prevent refetch.
+     - On success, renders `<AverageGradeTag />` and `<MostCommonGradeTag />` with returned fields.
+   - For classes, use `row.id` (class_id) if present; fallback to `class_name`/code.
+   - Ensure no fetch on initial render for off-screen rows.
+
+3) Acceptance criteria
+   - Base `/api/search` latency unchanged (p50 ≤ 20 ms) and payload minimal.
+   - Per-row summary fetch p50 ≤ 15 ms (warm), ≤ 50 ms (cold) in prod.
+   - No more than one summary request per row per session (cache verified).
+
+Phase B – Precomputed department summaries (optional enhancement)
+1) Data-app change
+   - Create a small `department_summary` table during generation with pre-aggregated totals → `{ dept_abbr, averageGPA, mostStudents, mostStudentsPercent }`.
+2) Search join (departments only)
+   - At query time, `departments_fts` LEFT JOIN `department_summary` by `dept_abbr` to return the 2–3 small numbers inline (no heavy JSON), keeping department tags immediate without any extra fetches.
+
+Observability & testing
+- Extend `frontend/test_search_benchmark.js` to optionally hit 5 visible “summary” rows per type and report `X-Summary-Duration` distributions.
+- Track cache hit rate in logs (per summary endpoint) and include counts in first boot logs.
+
+Risks & mitigations
+- Extra requests for summaries: limited by IO gating (intersection + debounce) and client cache.
+- Server cost: minimized via LRU caches and tiny payloads; phase B can remove dept requests entirely.

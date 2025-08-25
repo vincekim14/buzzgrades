@@ -1,5 +1,4 @@
-import { promisedQuery, tryJSONParse } from './connection.js';
-import { calculateAggregateStats } from './utils.js';
+import { promisedQuery } from './connection.js';
 import { getSearch } from './search.js';
 
 // Search result cache for performance
@@ -105,8 +104,10 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
       const classSQL = `
         SELECT DISTINCT
           cf.class_id, cf.course_code, cf.course_code_space, cf.course_title, cf.department,
-          1000 as relevance_score
+          1000 as relevance_score,
+          cs.average_gpa AS averageGPA, cs.most_grade AS mostStudents, cs.most_percent AS mostStudentsPercent
         FROM courses_fts cf
+        LEFT JOIN class_summary cs ON cs.class_id = cf.class_id
         WHERE ${whereClause} ORDER BY cf.course_code ASC LIMIT 7
       `;
       
@@ -133,10 +134,12 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
         instructorSQL = `
           SELECT DISTINCT
             p.id as instructor_id, p.name as instructor_name, p.RMP_score, 400 as relevance_score,
-            COUNT(DISTINCT c.id) as course_count
+            COUNT(DISTINCT c.id) as course_count,
+            ins.average_gpa AS averageGPA, ins.most_grade AS mostStudents, ins.most_percent AS mostStudentsPercent
           FROM professor p
           JOIN distribution d ON p.id = d.instructor_id
           JOIN classdistribution c ON d.class_id = c.id
+          LEFT JOIN instructor_summary ins ON ins.instructor_id = p.id
           WHERE c.dept_abbr = @dept_abbr AND p.name IS NOT NULL AND p.name != ''
           GROUP BY p.id
           ORDER BY course_count DESC, p.RMP_score DESC
@@ -151,10 +154,12 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
         
         instructorSQL = `
           SELECT DISTINCT
-            p.id as instructor_id, p.name as instructor_name, p.RMP_score, 500 as relevance_score
+            p.id as instructor_id, p.name as instructor_name, p.RMP_score, 500 as relevance_score,
+            ins.average_gpa AS averageGPA, ins.most_grade AS mostStudents, ins.most_percent AS mostStudentsPercent
           FROM professor p
           JOIN distribution d ON p.id = d.instructor_id
           JOIN classdistribution c ON d.class_id = c.id
+          LEFT JOIN instructor_summary ins ON ins.instructor_id = p.id
           WHERE ${instructorWhereClause}
           LIMIT 7
         `;
@@ -166,8 +171,11 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
       }
       
       const deptSQL = `
-        SELECT DISTINCT dept_name, dept_abbr, 1200 as relevance_score
-        FROM departments_fts WHERE departments_fts MATCH @dept_pattern
+        SELECT DISTINCT df.dept_name, df.dept_abbr, 1200 as relevance_score,
+               ds.average_gpa AS averageGPA, ds.most_grade AS mostStudents, ds.most_percent AS mostStudentsPercent
+        FROM departments_fts df
+        LEFT JOIN department_summary ds ON ds.dept_abbr = df.dept_abbr
+        WHERE departments_fts MATCH @dept_pattern
         LIMIT 7
       `;
       const deptParams = { dept_pattern: effectiveDept + '*' };
@@ -207,25 +215,31 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
       
       const classSQL = `
         SELECT cf.class_id, cf.course_code, cf.course_code_space, cf.course_title, cf.department,
-               (ABS(bm25(courses_fts)) * 2.0) as relevance_score
+               (ABS(bm25(courses_fts)) * 2.0) as relevance_score,
+               cs.average_gpa AS averageGPA, cs.most_grade AS mostStudents, cs.most_percent AS mostStudentsPercent
         FROM courses_fts cf
+        LEFT JOIN class_summary cs ON cs.class_id = cf.class_id
         ${whereClause} ORDER BY relevance_score DESC LIMIT 7
       `;
       // console.log(`🔍 CONTENT SEARCH SQL: ${classSQL}`);
       
       const instructorSQL = `
         SELECT p.id as instructor_id, p.name as instructor_name, p.RMP_score, 
-               (ABS(bm25(professors_fts)) * 10.0) as relevance_score
+               (ABS(bm25(professors_fts)) * 10.0) as relevance_score,
+               ins.average_gpa AS averageGPA, ins.most_grade AS mostStudents, ins.most_percent AS mostStudentsPercent
         FROM professors_fts pf
         JOIN professor p ON pf.rowid = p.id
+        LEFT JOIN instructor_summary ins ON ins.instructor_id = p.id
         WHERE professors_fts MATCH @search_term
         ORDER BY relevance_score DESC LIMIT 7
       `;
       
       const deptSQL = `
-        SELECT dept_name, dept_abbr, 
-               (ABS(bm25(departments_fts)) * 5.0) as relevance_score
-        FROM departments_fts
+        SELECT df.dept_name, df.dept_abbr, 
+               (ABS(bm25(departments_fts)) * 5.0) as relevance_score,
+               ds.average_gpa AS averageGPA, ds.most_grade AS mostStudents, ds.most_percent AS mostStudentsPercent
+        FROM departments_fts df
+        LEFT JOIN department_summary ds ON ds.dept_abbr = df.dept_abbr
         WHERE departments_fts MATCH @search_term
         ORDER BY relevance_score DESC LIMIT 7
       `;
@@ -291,6 +305,11 @@ const enhanceClasses = async (classes) => {
     // Only include non-null values
     if (classItem.course_title) result.oscarTitle = classItem.course_title;
     
+    // Add summary data if available
+    if (classItem.averageGPA) result.averageGPA = classItem.averageGPA;
+    if (classItem.mostStudents) result.mostStudents = classItem.mostStudents;
+    if (classItem.mostStudentsPercent) result.mostStudentsPercent = classItem.mostStudentsPercent;
+    
     return result;
   });
 };
@@ -310,6 +329,11 @@ const enhanceInstructors = async (instructors) => {
     // Only include non-null values
     if (instructor.RMP_score) result.RMP_score = instructor.RMP_score;
     
+    // Add summary data if available
+    if (instructor.averageGPA) result.averageGPA = instructor.averageGPA;
+    if (instructor.mostStudents) result.mostStudents = instructor.mostStudents;
+    if (instructor.mostStudentsPercent) result.mostStudentsPercent = instructor.mostStudentsPercent;
+    
     return result;
   });
 };
@@ -317,12 +341,20 @@ const enhanceInstructors = async (instructors) => {
 const enhanceDepartments = async (departments) => {
   if (departments.length === 0) return [];
   
-  // SIMPLIFIED: Return basic department info without complex aggregation for speed
-  // Remove zero/null fields for smaller JSON payload
-  return departments.map(dept => ({
-    dept_abbr: dept.dept_abbr,
-    dept_name: dept.dept_name,
-    campus: 'Atlanta', // Default campus for performance
-    relevanceScore: dept.relevance_score > 0 ? dept.relevance_score : -dept.relevance_score
-  }));
+  // Use precomputed summaries from LEFT JOIN - no more heavy aggregation!
+  return departments.map(dept => {
+    const result = {
+      dept_abbr: dept.dept_abbr,
+      dept_name: dept.dept_name,
+      campus: 'Atlanta', // Default campus for performance
+      relevanceScore: dept.relevance_score > 0 ? dept.relevance_score : -dept.relevance_score
+    };
+    
+    // Add precomputed summary data if available
+    if (dept.averageGPA) result.averageGPA = dept.averageGPA;
+    if (dept.mostStudents) result.mostStudents = dept.mostStudents;
+    if (dept.mostStudentsPercent) result.mostStudentsPercent = dept.mostStudentsPercent;
+    
+    return result;
+  });
 };
