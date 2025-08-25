@@ -1,6 +1,6 @@
 import { Box, HStack, Spinner } from "@chakra-ui/react";
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/router";
 import { disabledPages } from "../lib/config";
 
@@ -20,7 +20,89 @@ export default function Card({
   if (disabledPages.includes(href)) href = "";
   const router = useRouter();
   const [clicked, setClicked] = useState(false);
+  const timeoutRef = useRef(null);
   const extraStyles = style || {};
+
+  // Router event handling for spinner state
+  useEffect(() => {
+    const handleRouteChangeStart = () => {
+      // Spinner is already managed by click handlers
+    };
+
+    const handleRouteChangeComplete = () => {
+      setClicked(false);
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+        timeoutRef.current = null;
+      }
+    };
+
+    const handleRouteChangeError = () => {
+      setClicked(false);
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+        timeoutRef.current = null;
+      }
+    };
+
+    const handleVisibilityChange = () => {
+      if (document.hidden) {
+        setClicked(false);
+        if (timeoutRef.current) {
+          clearTimeout(timeoutRef.current);
+          timeoutRef.current = null;
+        }
+      }
+    };
+
+    router.events.on('routeChangeStart', handleRouteChangeStart);
+    router.events.on('routeChangeComplete', handleRouteChangeComplete);
+    router.events.on('routeChangeError', handleRouteChangeError);
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+
+    return () => {
+      router.events.off('routeChangeStart', handleRouteChangeStart);
+      router.events.off('routeChangeComplete', handleRouteChangeComplete);
+      router.events.off('routeChangeError', handleRouteChangeError);
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, [router.events]);
+
+  // Detect new-tab/external navigation intent
+  const isNewTabClick = (e) => {
+    return e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1;
+  };
+
+  const handleClick = (e) => {
+    if (href && !isStatic && !isExternal) {
+      // Only show spinner for same-tab navigation
+      if (!isNewTabClick(e)) {
+        setClicked(true);
+        // Fallback timeout to clear spinner if no route event arrives
+        timeoutRef.current = setTimeout(() => {
+          setClicked(false);
+        }, 3000);
+      }
+    } else if (isStatic) {
+      const path = router.asPath.split("?")[0];
+      window.parent.postMessage(
+        { url: `https://buzzgrades.org${path}?ref=ext` },
+        "*"
+      );
+    }
+    onClick(e);
+  };
+
+  const handleAuxClick = (e) => {
+    // Handle middle-click (button === 1)
+    if (e.button === 1 && href && !isStatic && !isExternal) {
+      // Don't show spinner for middle-click (opens in new tab)
+      onClick(e);
+    }
+  };
   const hoverStyles = href
     ? {
         cursor: "pointer",
@@ -60,18 +142,8 @@ export default function Card({
         ...staticStyles,
       }}
       _hover={hoverStyles}
-      onClick={() => {
-        if (href && !isStatic) setClicked(true);
-        else if (isStatic) {
-          const path = router.asPath.split("?")[0];
-          window.parent.postMessage(
-            { url: `https://buzzgrades.org${path}?ref=ext` },
-            "*"
-          );
-          onClick();
-        }
-        onClick();
-      }}
+      onClick={handleClick}
+      onAuxClick={handleAuxClick}
       {...props}
     >
       {rightContent ? (

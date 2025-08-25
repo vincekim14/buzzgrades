@@ -439,3 +439,41 @@ Acceptance tests
 
 Rollback
 - The change is additive and low-risk. If any regression appears, remove the LEFT JOINs and fall back to lazy summary endpoints or tagless results while keeping the summary tables for future use.
+
+---
+
+## Card spinner/navigation consistency – implementation plan
+
+Problem
+- In `frontend/components/Card.jsx`, `clicked` is set on any click. If a user opens a link in a new tab (Cmd/Ctrl‑click or middle click), the current page doesn’t navigate, so Next.js `routeChange*` events don’t fire, leaving the spinner visible indefinitely.
+
+Goals
+- Same‑tab navigation: show spinner from click until `routeChangeComplete`/`routeChangeError` fires, then hide.
+- New‑tab/external navigation: don’t show spinner on the current tab at all.
+
+Plan
+1) Click/new‑tab detection
+   - Update the button `onClick` signature to receive the event and detect new‑tab intent. Only set `clicked` for same‑tab navigations.
+   - Conditions to treat as new‑tab/external: `e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1 || isExternal === true`.
+   - Also handle `onAuxClick` to catch middle‑clicks consistently.
+
+2) Router event lifecycle
+   - Subscribe to `router.events` in a `useEffect`:
+     - `routeChangeStart`: if a recent same‑tab click occurred, `setClicked(true)`.
+     - `routeChangeComplete` and `routeChangeError`: `setClicked(false)`.
+   - Keep a short fallback timeout (e.g., 2–3s) to clear the spinner if no route event arrives (defensive).
+
+3) Page visibility safeguard
+   - Optionally listen to `visibilitychange`; if the page becomes hidden without a route event (user opened new tab/window), clear the spinner.
+
+4) External targets
+   - When `isExternal` is passed (Link target="_blank"), never set `clicked` in the current tab; spinner should not render.
+
+5) Optional global solution
+   - Create a lightweight `NavigationSpinnerContext` that manages spinner state from a single `router.events` hook (in `_app.jsx`). Cards would call `start()` on same‑tab clicks; context hides spinner on `routeChangeComplete`/`routeChangeError`. This centralizes logic and prevents duplication.
+
+Testing
+- Same‑tab click → spinner appears, disappears after route change.
+- Cmd/Ctrl‑click or middle‑click → spinner never appears on the current tab.
+- External link (`isExternal`) → spinner never appears on the current tab.
+- Timeout/visibilitychange safeguard clears any stuck spinner.
