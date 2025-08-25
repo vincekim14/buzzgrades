@@ -40,6 +40,41 @@ After processing, ensure the frontend can read the latest artifacts:
 - Restart the frontend server to pick up changes.
 - Warm routes to prime caches: `cd frontend && WARMUP_ORIGIN=http://localhost:3000 yarn warmup`.
 
+## SQLite checkpoint and cleanup (safe removal of -wal/-shm)
+
+When the DB has been opened in WAL mode during processing, two sidecar files may exist: `ProcessedData.db-wal` and `ProcessedData.db-shm`. Before shipping the DB to production (read-only), checkpoint the WAL into the main DB and switch to `DELETE` journal mode, then remove the sidecars.
+
+Preconditions
+- No writer process is using the DB. Ideally run this right after processing completes.
+
+Interactive method
+```bash
+cd data-app
+sqlite3 ProcessedData.db
+sqlite> PRAGMA wal_checkpoint(TRUNCATE);
+sqlite> PRAGMA journal_mode=DELETE;
+sqlite> .quit
+```
+
+One-liner (non-interactive)
+```bash
+cd data-app
+sqlite3 ProcessedData.db "PRAGMA wal_checkpoint(TRUNCATE); PRAGMA journal_mode=DELETE;"
+```
+
+Verify journal mode
+```bash
+cd data-app
+sqlite3 ProcessedData.db "PRAGMA journal_mode;"   # expect: delete
+```
+
+Remove sidecar files (only after checkpoint + DELETE journal mode)
+```bash
+cd data-app
+rm -f ProcessedData.db-wal ProcessedData.db-shm
+```
+
+
 ```
 
 ### RMP Processing Only
