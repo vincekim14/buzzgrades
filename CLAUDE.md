@@ -544,3 +544,76 @@ Implementation checklist
 - SearchResults: add intersection/hover prefetch for page code and low‑priority warming fetch to the detail API, with concurrency control and AbortController.
 - Detail pages: keep SSR headers; optionally defer distributions to client fetch behind skeletons.
 - Optional: migrate detail pages to ISR with suitable `revalidate` if platform and traffic fit.
+
+## Instructor/Course/Department cards – end‑to‑end optimization plan
+
+Context
+- On course pages we show many instructor cards (who taught the course). On instructor pages we show many course cards (they taught). On department pages we show many course cards (often hundreds). Clicking any card navigates to a detail page with heavier data (distributions). We want fast perceived navigation without overloading client or origin.
+
+Goals
+- Card hover/scroll feels instant; click navigations p50 ≤ 200 ms (warmed), p95 ≤ 500 ms.
+- Avoid N+1 calls and prefetch storms, especially on department pages with large lists.
+
+Plan (shared for all three pages)
+1) Strong API caching (confirm for all endpoints)
+   - Ensure `/api/class/[classCode]`, `/api/prof/[profCode]`, `/api/dept/[deptCode]` send: `Cache-Control: public, s-maxage=604800, stale-while-revalidate=2592000`.
+   - Rationale: Data changes slowly; CDN cache eliminates most latency on warmed paths.
+
+2) Selective prefetch/warm with concurrency limits
+   - Use IntersectionObserver to identify the first visible 6–10 cards.
+   - For those items:
+     - Prefetch page code via `router.prefetch` or `<Link prefetch>`.
+     - Optionally warm the detail API in the background (low‑priority fetch) with concurrency = 2–3; AbortController on unmount/scroll.
+   - On hover intent (100–150 ms), also warm the target API if not already.
+   - Do not prefetch offscreen items beyond the small queue; avoid network saturation and main‑thread contention.
+
+3) Network‑aware behavior
+   - Skip/limit prefetch on `navigator.connection.saveData === true` or `effectiveType` in { '2g', 'slow-3g', '3g' }.
+   - Pause warming while a real navigation is in flight.
+
+4) Client LRU for warmed detail responses
+   - Keep a small in‑memory LRU (size ~50, TTL ~1h) keyed by detail route (`/class/CS1331`, `/inst/123`, `/dept/CS`).
+   - On navigation, serve from LRU immediately; fall back to network if missing.
+
+5) Defer heavy sections below‑the‑fold on destination pages
+   - Keep header/summary SSR for instant paint; fetch full distributions after mount (from warmed API), rendering skeletons meanwhile.
+   - Reduces TTFB and improves interactivity on cold origins.
+
+Department page specifics (very large lists)
+1) Virtualize the course list/grid
+   - Render only visible rows (e.g., react‑window/react‑virtualized) to keep DOM and reconciliation cheap.
+   - Skeleton placeholders within the viewport maintain visual stability.
+
+2) Avoid mass prefetching
+   - Disable automatic `<Link prefetch>` on department item links by default.
+   - Only prefetch on hover intent or for the top 6–10 items in view, with concurrency = 2–3 and abort on scroll.
+
+3) Ship minimal, precomputed data in the list payload
+   - Ensure the department list query returns only minimal fields for cards (dept_abbr, course_num, title/oscarTitle, and small precomputed summaries if available: `averageGPA`, `mostStudents`, `mostStudentsPercent`).
+   - This aligns with the precomputed summaries plan above; no per‑card fetches needed to render tags.
+
+Course page specifics (instructor cards)
+1) Minimal card data
+   - Include just instructor id, name, optional RMP score in SSR payload; avoid large aggregates per card.
+
+2) Prefetch policy
+   - Apply the same small prefetch queue; warm only visible or hovered targets with concurrency = 2–3.
+
+Instructor page specifics (course cards)
+1) Minimal card data
+   - Include course code, title, and optional tiny summary fields; reuse cumulative JSON for titles.
+
+2) Prefetch policy
+   - Same as course page; small, network‑aware queue. Avoid prefetching more than 6–10 at once.
+
+Implementation checklist
+- API: Verify/standardize `Cache-Control` across class/dept/prof handlers.
+- Cards: Add IntersectionObserver + hover‑intent prefetch with concurrency 2–3 and AbortController.
+- Client cache: Add a small LRU for warmed detail responses and reuse on navigation.
+- Destination pages: Defer heavy distributions to client fetch (from warmed cache) and show skeletons.
+- Department page: Add list virtualization; keep payload minimal and use precomputed summaries to avoid per‑card fetches.
+
+Acceptance criteria
+- Navigating from any card is near‑instant after a short hover/visibility exposure.
+- No noticeable jank or bandwidth spikes on department pages with many items.
+- Repeat visits and popular items are cache‑hits at the CDN and client LRU levels.

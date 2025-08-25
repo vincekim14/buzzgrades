@@ -2,11 +2,25 @@ import { useRouter } from 'next/router';
 import { useCallback, useRef } from 'react';
 import { useLRUCache } from './useLRUCache';
 
+// Check if user is on a slow connection or has data saving enabled
+function isSlowConnection() {
+  if (typeof navigator === 'undefined') return false;
+  
+  const connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+  if (!connection) return false;
+  
+  return (
+    connection.saveData === true ||
+    ['2g', 'slow-3g', '3g'].includes(connection.effectiveType)
+  );
+}
+
 // Global prefetch state to manage concurrency across all instances
 const prefetchState = {
   inflight: new Set(),
   maxConcurrent: 3,
   abortControllers: new Map(),
+  isNavigating: false,
 };
 
 export const usePrefetch = () => {
@@ -16,6 +30,7 @@ export const usePrefetch = () => {
 
   const prefetchRoute = useCallback((href) => {
     if (!href || prefetchedRoutes.current.has(href)) return;
+    if (isSlowConnection() || prefetchState.isNavigating) return;
     
     prefetchedRoutes.current.add(href);
     
@@ -28,6 +43,7 @@ export const usePrefetch = () => {
 
   const warmAPI = useCallback(async (apiPath, detailRoute) => {
     if (!apiPath) return;
+    if (isSlowConnection() || prefetchState.isNavigating) return;
     
     // Check if we already have this in the LRU cache
     if (hasCachedDetail(detailRoute)) return;
@@ -103,4 +119,9 @@ export const usePrefetch = () => {
     getCachedDetail,
     cleanup,
   };
+};
+
+// Utility to control navigation state globally
+export const setNavigating = (navigating) => {
+  prefetchState.isNavigating = navigating;
 };

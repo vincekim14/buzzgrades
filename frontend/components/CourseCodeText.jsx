@@ -3,47 +3,9 @@ import { Link as ChakraLink, Text, Tag, Tooltip } from "@chakra-ui/react";
 import NextLink from "next/link";
 import { parseCourseCodesInText } from "../lib/db/utils.js";
 
-// Module-level LRU cache for course metadata
-class SimpleLRU {
-  constructor(maxSize = 100, ttl = 3600000) { // 1 hour TTL
-    this.cache = new Map();
-    this.maxSize = maxSize;
-    this.ttl = ttl;
-  }
-  
-  get(key) {
-    const entry = this.cache.get(key);
-    if (!entry) return null;
-    
-    // Check TTL
-    if (Date.now() - entry.timestamp > this.ttl) {
-      this.cache.delete(key);
-      return null;
-    }
-    
-    // Move to end (LRU)
-    this.cache.delete(key);
-    this.cache.set(key, entry);
-    return entry.value;
-  }
-  
-  set(key, value) {
-    // Remove if exists
-    if (this.cache.has(key)) {
-      this.cache.delete(key);
-    }
-    
-    // Evict oldest if at capacity
-    if (this.cache.size >= this.maxSize) {
-      const firstKey = this.cache.keys().next().value;
-      this.cache.delete(firstKey);
-    }
-    
-    this.cache.set(key, { value, timestamp: Date.now() });
-  }
-}
-
-const metadataCache = new SimpleLRU();
+// Module-level LRU cache for course metadata (shared util)
+import { LRUCache } from "../utils/LRUCache";
+const metadataCache = new LRUCache(100, 60 * 60 * 1000); // 100 items, 1 hour TTL
 
 const CourseChip = ({ match, onCourseCodeClick, resolvedMeta }) => {
   // Use resolved metadata if available (from batch fetch or SSR)
@@ -132,6 +94,10 @@ const CourseCodeText = ({ children, fontSize = "sm", onCourseCodeClick, resolved
     const fetchBatchMetadata = async () => {
       // Seed with SSR-provided results if any
       const seededResults = { ...(resolvedCourses || {}) };
+      // Populate module-level cache with SSR results to benefit other instances
+      for (const [code, meta] of Object.entries(seededResults)) {
+        metadataCache.set(code, meta);
+      }
 
       const cachedResults = { ...seededResults };
       const codesNeedingFetch = [];
@@ -158,7 +124,8 @@ const CourseCodeText = ({ children, fontSize = "sm", onCourseCodeClick, resolved
 
       try {
         // Fetch missing codes in batch
-        const response = await fetch(`/api/class/meta?codes=${codesNeedingFetch.join(',')}`);
+        const query = codesNeedingFetch.map((c) => encodeURIComponent(c)).join(',');
+        const response = await fetch(`/api/class/meta?codes=${query}`);
         
         if (response.ok) {
           const data = await response.json();

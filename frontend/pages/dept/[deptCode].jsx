@@ -11,6 +11,7 @@ import PageLayout from "../../components/Layout/PageLayout";
 import SearchBar from "../../components/Search/SearchBar";
 import { getClassDistribtionsInDept, getDeptInfo } from "../../lib/db/index.js";
 import { distributionsToCards } from "../../components/distributionsToCards";
+import VirtualizedCourseList from "../../components/VirtualizedCourseList";
 import { useSearch } from "../../components/Search/useSearch";
 import SearchResults from "../../components/Search/SearchResults";
 
@@ -63,11 +64,8 @@ export default function Dept({ deptData }) {
     isMobile
   );
 
-  const renderedDistributions = distributionsToCards(
-    formattedDistributions,
-    isMobile,
-    "NONE"
-  );
+  // Use virtualized list for large course lists (department-specific optimization)
+  const shouldVirtualize = formattedDistributions.length > 20;
 
   return (
     <PageLayout
@@ -109,7 +107,15 @@ export default function Dept({ deptData }) {
                 opacity: 0.15,
               }}
             />
-            {renderedDistributions}
+            {shouldVirtualize ? (
+              <VirtualizedCourseList
+                distributions={formattedDistributions}
+                isMobile={isMobile}
+                sortingFunc="NONE"
+              />
+            ) : (
+              distributionsToCards(formattedDistributions, isMobile, "NONE")
+            )}
           </VStack>
         </Collapse>
       </Box>
