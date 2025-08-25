@@ -33,7 +33,7 @@ const VirtualizedCourseList = ({
   useIntersectionPrefetch(
     formattedDistributions,
     (item) => item.href,
-    8 // Prefetch up to 8 visible items
+    4 // Prefetch up to 4 visible items
   );
 
   // Render individual row

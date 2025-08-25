@@ -3,7 +3,7 @@ import Link from "next/link";
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/router";
 import { disabledPages } from "../lib/config";
-import { usePrefetch } from "../hooks/usePrefetch";
+import { usePrefetch, setNavigating } from "../hooks/usePrefetch";
 
 export default function Card({
   children,
@@ -27,6 +27,22 @@ export default function Card({
   const extraStyles = style || {};
   
   const { prefetchDetail, cleanup } = usePrefetch();
+
+  // Immediate prefetch for initially visible cards (fixes cases where IO fires only after scroll)
+  useEffect(() => {
+    if (!enablePrefetch || !href || isStatic || isExternal || !cardRef.current) return;
+    const el = cardRef.current;
+    const margin = 100; // match IO rootMargin
+    const rect = el.getBoundingClientRect();
+    const inView =
+      rect.top < (window.innerHeight + margin) &&
+      rect.bottom > -margin &&
+      rect.left < (window.innerWidth + margin) &&
+      rect.right > -margin;
+    if (inView) {
+      prefetchDetail(href);
+    }
+  }, [enablePrefetch, href, isStatic, isExternal, prefetchDetail]);
 
   // Intersection observer for prefetching visible cards
   useEffect(() => {
@@ -58,10 +74,12 @@ export default function Card({
   // Router event handling for spinner state
   useEffect(() => {
     const handleRouteChangeStart = () => {
+      setNavigating(true);
       // Spinner is already managed by click handlers
     };
 
     const handleRouteChangeComplete = () => {
+      setNavigating(false);
       setClicked(false);
       if (timeoutRef.current) {
         clearTimeout(timeoutRef.current);
@@ -70,6 +88,7 @@ export default function Card({
     };
 
     const handleRouteChangeError = () => {
+      setNavigating(false);
       setClicked(false);
       if (timeoutRef.current) {
         clearTimeout(timeoutRef.current);

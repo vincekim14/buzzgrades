@@ -16,8 +16,7 @@ const PageBackground = () => {
         // NOTE: background-xs.png is referenced but doesn't exist in /public/images/
         // This should be replaced with an appropriate background image for extra-small screens
         // Dimensions: Optimized for very small mobile screens (phones in portrait)
-        background:
-          "url(/images/background-xs.png) no-repeat center center fixed",
+        background: "trasnsparent",
         backgroundSize: "cover",
       }}
     >
