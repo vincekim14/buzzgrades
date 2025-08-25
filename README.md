@@ -108,3 +108,35 @@ If issue with ./58.js or an error of similar name (e.g. ./109.js), then
 ```bash
 cd frontend && rm -rf .next && rm -rf node_modules/.cache
 ```
+
+
+For performance
+'cd frontend && BENCH_ORIGIN=http://localhost:3000 node test_search_benchmark.js | cat'
+
+---
+
+## Performance and headers quick guide
+
+Check search API timings (requires dev or prod server running):
+
+```bash
+# Hit search and show headers (X-Search-Duration, X-Total-Duration)
+curl -s -D - "http://localhost:3000/api/search?q=CS" -o /dev/null | grep -E "^X-(Search|Total)-Duration|^Cache-Control"
+
+# Health endpoint timing (X-Health-Duration)
+curl -s -D - "http://localhost:3000/api/healthz" -o /dev/null | grep -E "^X-Health-Duration|^HTTP"
+```
+
+Run warmup (primes routes/statements) then benchmark:
+
+```bash
+cd frontend
+# Warmup against local server (set port accordingly)
+WARMUP_ORIGIN=http://localhost:3000 yarn warmup
+# Comprehensive benchmark (adjust origin if needed)
+BENCH_ORIGIN=http://localhost:3000 node test_search_benchmark.js | cat
+```
+
+Notes:
+- First request in dev can be slower due to on-demand compilation; evaluate production with `yarn build && yarn start`.
+- For hot department queries, `Cache-Control: s-maxage=30, stale-while-revalidate=300` may appear.

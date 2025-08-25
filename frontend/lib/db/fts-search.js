@@ -2,6 +2,34 @@ import { promisedQuery, tryJSONParse } from './connection.js';
 import { calculateAggregateStats } from './utils.js';
 import { getSearch } from './search.js';
 
+// Search result cache for performance
+const searchCache = new Map();
+const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+
+// Common department searches to cache aggressively
+const COMMON_DEPT_SEARCHES = ['math', 'chem', 'cs', 'phys', 'biol', 'econ', 'me', 'ece', 'isye'];
+
+const getCachedResult = (searchKey) => {
+  const cached = searchCache.get(searchKey);
+  if (cached && Date.now() - cached.timestamp < CACHE_TTL) {
+    return cached.data;
+  }
+  return null;
+};
+
+const setCachedResult = (searchKey, data) => {
+  searchCache.set(searchKey, {
+    data,
+    timestamp: Date.now()
+  });
+  
+  // Limit cache size
+  if (searchCache.size > 50) {
+    const firstKey = searchCache.keys().next().value;
+    searchCache.delete(firstKey);
+  }
+};
+
 // Comprehensive course code detection patterns
 const COURSE_CODE_PATTERNS = [
   // Course codes: "CS1332", "CS 1332", "CHEM1211K", "CHEM 1211K" 
@@ -48,6 +76,13 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
     return { departments: [], classes: [], professors: [] };
   }
 
+  // Check cache first for common searches
+  const searchKey = `${searchTerm.toLowerCase()}:${deptFilter || 'all'}`;
+  const cached = getCachedResult(searchKey);
+  if (cached) {
+    return cached;
+  }
+
   try {
     const courseCodeInfo = detectCourseCode(searchTerm);
     // console.log(`🔍 SEARCH DEBUG: "${searchTerm}" -> isDeptCode: ${courseCodeInfo.isDeptCode}, dept: ${courseCodeInfo.dept}, courseNum: ${courseCodeInfo.courseNum}`);
@@ -62,20 +97,29 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
       const isDeptOnlySearch = !courseNum; // Empty courseNum = pure department search
       
       const whereClause = hasLetterSuffix 
-        ? `courses_fts MATCH '"${effectiveDept + courseNum}"'`
+        ? 'courses_fts MATCH @exact_course_pattern'
         : isDeptOnlySearch
-          ? `courses_fts MATCH '${effectiveDept}*' AND cf.department = '${effectiveDept}'`
-          : `courses_fts MATCH '${effectiveDept + courseNum}*'`;
+          ? 'courses_fts MATCH @dept_pattern AND cf.department = @dept_abbr'
+          : 'courses_fts MATCH @course_pattern';
       
       const classSQL = `
         SELECT DISTINCT
           cf.class_id, cf.course_code, cf.course_code_space, cf.course_title, cf.department,
-          c.dept_abbr, c.course_num, c.total_students, c.total_grades,
           1000 as relevance_score
         FROM courses_fts cf
-        JOIN classdistribution c ON cf.class_id = c.id
         WHERE ${whereClause} ORDER BY cf.course_code ASC LIMIT 7
       `;
+      
+      // Prepare parameters based on search type
+      let classParams = {};
+      if (hasLetterSuffix) {
+        classParams.exact_course_pattern = `"${effectiveDept + courseNum}"`;
+      } else if (isDeptOnlySearch) {
+        classParams.dept_pattern = effectiveDept + '*';
+        classParams.dept_abbr = effectiveDept;
+      } else {
+        classParams.course_pattern = effectiveDept + courseNum + '*';
+      }
       // console.log(`🔍 DEPT/COURSE SEARCH SQL: ${classSQL}`);
       
       // Context-aware instructor search: specific course vs department search
@@ -83,6 +127,7 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
       const isPureDeptSearch = !courseNum; // Empty courseNum = pure department search
       
       let instructorSQL;
+      let instructorParams;
       if (isPureDeptSearch) {
         // For pure department searches like "chem", limit to top instructors
         instructorSQL = `
@@ -92,16 +137,17 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
           FROM professor p
           JOIN distribution d ON p.id = d.instructor_id
           JOIN classdistribution c ON d.class_id = c.id
-          WHERE c.dept_abbr = '${effectiveDept}' AND p.name IS NOT NULL AND p.name != ''
+          WHERE c.dept_abbr = @dept_abbr AND p.name IS NOT NULL AND p.name != ''
           GROUP BY p.id
           ORDER BY course_count DESC, p.RMP_score DESC
           LIMIT 4
         `;
+        instructorParams = { dept_abbr: effectiveDept };
       } else {
         // For specific courses, show all relevant instructors
         const instructorWhereClause = isSpecificCourse 
-          ? `c.dept_abbr = '${effectiveDept}' AND c.course_num = '${courseNum}' AND p.name IS NOT NULL AND p.name != ''`
-          : `c.dept_abbr = '${effectiveDept}' AND p.name IS NOT NULL AND p.name != ''`;
+          ? "c.dept_abbr = @dept_abbr AND c.course_num = @course_num AND p.name IS NOT NULL AND p.name != ''"
+          : "c.dept_abbr = @dept_abbr AND p.name IS NOT NULL AND p.name != ''";
         
         instructorSQL = `
           SELECT DISTINCT
@@ -112,22 +158,35 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
           WHERE ${instructorWhereClause}
           LIMIT 7
         `;
+        
+        instructorParams = { dept_abbr: effectiveDept };
+        if (isSpecificCourse) {
+          instructorParams.course_num = courseNum;
+        }
       }
       
       const deptSQL = `
         SELECT DISTINCT dept_name, dept_abbr, 1200 as relevance_score
-        FROM departments_fts WHERE departments_fts MATCH '${effectiveDept}*'
+        FROM departments_fts WHERE departments_fts MATCH @dept_pattern
         LIMIT 7
       `;
+      const deptParams = { dept_pattern: effectiveDept + '*' };
       
       // Execute in parallel
       const [classes, instructors, departments] = await Promise.all([
-        promisedQuery(classSQL),
-        promisedQuery(instructorSQL), 
-        promisedQuery(deptSQL)
+        promisedQuery(classSQL, classParams),
+        promisedQuery(instructorSQL, instructorParams), 
+        promisedQuery(deptSQL, deptParams)
       ]);
       
-      return await enhanceResults(classes, instructors, departments);
+      const result = await enhanceResults(classes, instructors, departments);
+      
+      // Cache department searches and other common queries
+      if (COMMON_DEPT_SEARCHES.includes(searchTerm.toLowerCase()) || courseCodeInfo.isDeptCode) {
+        setCachedResult(searchKey, result);
+      }
+      
+      return result;
       
     } else {
       // Content search: Use FTS5 for relevance with flexible patterns
@@ -148,10 +207,8 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
       
       const classSQL = `
         SELECT cf.class_id, cf.course_code, cf.course_code_space, cf.course_title, cf.department,
-               c.dept_abbr, c.course_num, c.total_students, c.total_grades,
                (ABS(bm25(courses_fts)) * 2.0) as relevance_score
         FROM courses_fts cf
-        JOIN classdistribution c ON cf.class_id = c.id
         ${whereClause} ORDER BY relevance_score DESC LIMIT 7
       `;
       // console.log(`🔍 CONTENT SEARCH SQL: ${classSQL}`);
@@ -181,11 +238,19 @@ export const getSearchFTS5 = async (search, deptFilter = null) => {
       ]);
       
       // No deduplication needed - FTS5 tables are already unique!
-      return await enhanceResults(classes, instructors, departments);
+      const result = await enhanceResults(classes, instructors, departments);
+      
+      // Cache content searches if they're common terms
+      if (COMMON_DEPT_SEARCHES.some(term => searchTerm.toLowerCase().includes(term))) {
+        setCachedResult(searchKey, result);
+      }
+      
+      return result;
     }
 
   } catch (error) {
     console.error('FTS5 search error:', error);
+    console.warn(`🚨 FALLBACK: FTS5 search failed for "${search}", using legacy search. Error:`, error.message);
     return getSearch(search);
   }
 };
@@ -213,53 +278,51 @@ const enhanceResults = async (classes, instructors, departments) => {
 const enhanceClasses = async (classes) => {
   if (classes.length === 0) return [];
   
-  // OPTIMIZED: Skip expensive grade calculations for search results
-  // Grade statistics are not critical for search performance
-  return classes.map(classItem => ({
-    id: classItem.class_id,
-    dept_abbr: classItem.dept_abbr,
-    course_num: classItem.course_num,
-    class_name: classItem.course_code_space || `${classItem.dept_abbr} ${classItem.course_num}`,
-    class_desc: classItem.course_title || `${classItem.dept_abbr} ${classItem.course_num}`,
-    oscarTitle: classItem.course_title,
-    total_students: classItem.total_students || 0,
-    relevanceScore: classItem.relevance_score > 0 ? classItem.relevance_score : -classItem.relevance_score,
-    // Use simplified grade stats for search performance
-    averageGPA: 0,
-    mostStudents: "",
-    mostStudentsPercent: 0
-  }));
+  // OPTIMIZED: Build class info directly from courses_fts fields
+  // Remove zero/null fields for smaller JSON payload
+  return classes.map(classItem => {
+    const result = {
+      id: classItem.class_id,
+      class_name: classItem.course_code_space || classItem.course_code,
+      class_desc: classItem.course_title || classItem.course_code_space || classItem.course_code,
+      relevanceScore: classItem.relevance_score > 0 ? classItem.relevance_score : -classItem.relevance_score
+    };
+    
+    // Only include non-null values
+    if (classItem.course_title) result.oscarTitle = classItem.course_title;
+    
+    return result;
+  });
 };
 
 const enhanceInstructors = async (instructors) => {
   if (instructors.length === 0) return [];
   
   // SIMPLIFIED: Skip grade calculation for professors to improve performance
-  // (Grade stats for professors require complex aggregation - skip for speed)
-  return instructors.map(instructor => ({
-    id: instructor.instructor_id,
-    name: instructor.instructor_name,
-    RMP_score: instructor.RMP_score || null,
-    relevanceScore: instructor.relevance_score > 0 ? instructor.relevance_score : -instructor.relevance_score,
-    // Skip grade stats for performance - focus on search speed
-    averageGPA: 0,
-    mostStudents: "",
-    mostStudentsPercent: 0
-  }));
+  // Remove zero/null fields for smaller JSON payload
+  return instructors.map(instructor => {
+    const result = {
+      id: instructor.instructor_id,
+      name: instructor.instructor_name,
+      relevanceScore: instructor.relevance_score > 0 ? instructor.relevance_score : -instructor.relevance_score
+    };
+    
+    // Only include non-null values
+    if (instructor.RMP_score) result.RMP_score = instructor.RMP_score;
+    
+    return result;
+  });
 };
 
 const enhanceDepartments = async (departments) => {
   if (departments.length === 0) return [];
   
   // SIMPLIFIED: Return basic department info without complex aggregation for speed
+  // Remove zero/null fields for smaller JSON payload
   return departments.map(dept => ({
     dept_abbr: dept.dept_abbr,
     dept_name: dept.dept_name,
     campus: 'Atlanta', // Default campus for performance
-    relevanceScore: dept.relevance_score > 0 ? dept.relevance_score : -dept.relevance_score,
-    // Skip complex grade aggregation for performance
-    averageGPA: 0,
-    mostStudents: "",
-    mostStudentsPercent: 0
+    relevanceScore: dept.relevance_score > 0 ? dept.relevance_score : -dept.relevance_score
   }));
 };
